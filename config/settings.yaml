@@ -1,0 +1,103 @@
+# Scope settings. Edit, commit, and the next scan uses them.
+
+# Work terms you want. A posting counts when its title, link, list entry or description
+# names one of these (month ranges work too: "May - Dec 2027" is Summer 2027, 8 months).
+terms: [Summer 2027, Fall 2027]
+
+# Many postings never state a term. Keep those if they were posted in the last N days
+# (they show up as "term not stated" so you can check the posting yourself).
+include_unknown_term: true
+unknown_term_max_age_days: 60
+
+countries: [US, CA]
+include_unknown_location: true       # "Remote", "Multiple locations", ...
+
+# hardware, software, ai_data, quant, product, finance (and "other" for non-tech roles)
+categories: [hardware, software, ai_data, quant, product, finance]
+
+# Titles matching any of these are dropped (regular expressions, case-insensitive).
+exclude_title:
+  - '\bph\.?d\b'
+  - '\bdoctoral\b'
+  - '\bpost-?doc'
+  - '\bmba\b'
+  - 'summer associate'
+  - '(?:^|[\s(\-–|,])(?:ms|msc|masters?|master''s)(?:[\s)\-–|,]|$)'
+  - '\bnew grad'
+  - '\bsenior\b'
+  - '\bsr\.?\s'
+  - '\bstaff\b'
+  - '\bprincipal\b'
+  - '\bdirector\b'
+  - 'graduate student'
+  - 'vice president'
+  - '\bavp\b'
+
+# Priority roles are pinned to the top of the dashboard and @mention you on Discord.
+priority:
+  companies: [NVIDIA, AMD, Intel, Qualcomm, Apple, Tenstorrent, Marvell, Broadcom, Arm, Synopsys, Cadence,
+              Micron, Analog Devices, Texas Instruments, NXP, Microchip, Altera, SiFive, Etched, d-Matrix,
+              Lightmatter, Astera Labs, Keysight, Ciena, Cerebras, Groq, Google]
+  keywords: [asic, fpga, rtl, verilog, systemverilog, silicon, soc, embedded, firmware, hardware, rf,
+             pcb, design verification, dft, physical design, analog, mixed-signal, computer architecture,
+             post-silicon, validation]
+
+# Community lists on GitHub. They cover the big companies with their own career systems.
+lists:
+  - repo: SimplifyJobs/Summer2027-Internships      # structured data, includes off-season (Fall) roles
+  - repo: vanshb03/Summer2027-Internships
+  - repo: negarprh/Canadian-Tech-Internships-2027
+  - repo: speedyapply/2027-SWE-College-Jobs
+    files: [README.md, INTERN_INTL.md]
+  - repo: speedyapply/2027-AI-College-Jobs
+    files: [README.md, INTERN_INTL.md]
+  - repo: northwesternfintech/2027QuantInternships
+    terms: [Summer 2027]                           # this list is summer-only
+  - repo: zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships
+  - repo: sndsh404/summer-2027-internships
+  - repo: resumax/tech-internships
+  - repo: zapplyjobs/Internships-2027
+    strict: true                                   # links are redirects; also mixes in non-intern roles
+  - repo: zapplyjobs/Canada-Internships-2027
+    strict: true
+  - repo: zapplyjobs/awesome-ml-internships-2027
+    strict: true
+  - repo: michelleokolie/canada-tech-internships-summer-2027
+    strict: true
+
+# Every company a list links to gets its whole job board read directly (not just the roles the list
+# picked), a third of them per scan. Priority companies are read every scan.
+discover:
+  enabled: true
+  max_boards: 300
+
+# Your expected graduation (YYYY-MM). Postings that name a graduation window you fall outside,
+# like "graduating between Dec 2027 and Jun 2028", get flagged. Leave empty to skip the check.
+graduation: ""
+
+timezone: America/Edmonton                         # for follow-up dates and quiet hours
+
+discord:
+  mention_user_id: ""          # your Discord user ID (Settings > Advanced > Developer Mode, then right-click yourself)
+  max_roles_per_run: 80
+  quiet_hours: [22, 8]         # follow-up reminders wait until morning
+
+dashboard_url: ""              # e.g. https://YOUR-USERNAME.github.io/intern-scope/  (linked from Discord)
+
+# Days before each follow-up reminder
+followups:
+  applied_days: 14     # no reply since applying
+  second_days: 14      # no reply since your follow-up
+  ghost_days: 45       # suggest marking it ghosted
+  saved_days: 5        # saved but not applied
+  oa_days: 5           # online assessment not done
+  interview_days: 7    # no news after an interview
+
+# Weekly Discord check-in (python -m scope digest), posted Monday morning by the workflow.
+goals:
+  weekly_applications: 5
+
+max_details_per_run: 250       # job descriptions fetched per scan (new roles first)
+workers: 8
+keep_closed_days: 21           # closed roles stay visible (greyed out) this long
+forget_after_days: 120
