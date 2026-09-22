@@ -1,0 +1,109 @@
+Job Description : Core Engineering – Product Sustainability Intern
+
+Position Overview
+
+Vertiv Core Engineering, Westerville OH is looking for and Engineering Sustainability Intern to support our PRODUCT related initiatives.
+
+As a Core Engineering Intern in- Sustainability , you will support the organization's sustainability initiatives by assisting in various sustainability initiatives being run by Core Engineering. This primarily involves technical PRODUCT related initiatives globally, which can impact reductions from products as opposed to CORPORATE Sustainability emissions reporting, worker justice, or community programs primarily related to our office and factory buildings. So you will need technical skills.
+
+You MAY be involved in one or a variety of the following depending on the need at the time:
+
+• Stakeholder Engagement :
+
+• Identify and collaborate with suppliers, vendors, and other unrelated internal Vertiv teams to find and promote sustainable materials, procurement supply-chains, and documenting manufacturing processes. You may also be working on projects to develop systems that archive and analyze that data to document the reports we publish about our products, (which are audited by 3 rd parties) Some of that data is also in turn documented via other custom reports back to our customers.
+
+• Possibly helping to develop new AI tools to speed the reporting on our products.
+
+• Participate in training sessions that help Vertiv product designers and material procurement teams globally to understand and implement sustainability.
+
+• Data Collection and Reporting : You can’t change what you can’t measure first.
+
+• Collect, analyze, and validate PRODUCT sustainability-related data (e.g., Bill of Materials, energy usage, waste, and emissions documentation from parts, packaging, or electronic component suppliers).
+
+• Understanding our Customers’ Requirements for sustainable materials and practices and the timing of our reporting requirements.
+
+• Understanding documentation required by standards such as ISO 14040/14044 and Environmental Product Declarations (EPDs) in compliance with ISO 14025.
+
+• Understanding the reporting requirements of the EU’s new Digital Product Passport Standard and it’s use to digitally publish Product Carbon Footprints, absence of Toxins and PFAS. You may also be involved in the archiving, analysis, and digital publishing of that data via QR codes affixed to each product and/or packaging at the factory.
+
+• Sustainability Assessment and Analysis :
+
+• Assist in calculating carbon footprints and identifying carbon emissions reduction strategies.
+
+• Conduct Life Cycle Assessments (LCA) for products and processes.
+
+• Support environmental impact assessments for projects.
+
+Skills and Competencies
+
+• Strong analytical and problem-solving skills.
+
+• Basic knowledge of sustainability principles, frameworks, and standards.
+
+• Excellent communication and presentation skills.
+
+• Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word, Power BI).
+
+• Quick Learner and Result-oriented by providing quality detailed deliverables.
+
+• Understanding the difference between Product Operating Emissions and Product Embodied Emissions
+
+• Ability to rapidly switch from one project to another as priorities change.
+
+• Familiarity with Life Cycle Carbon Assessment is a plus.
+
+Qualifications
+
+• Experience in Environmental Engineering, Sustainability related Engineering, either Mechanical or Electrical, Carbon Accounting, or a related field.
+
+• The ability to balance a passion for Sustainability while at the same time having the technical skills and an understanding of how corporations and imperfect human networks operate so you can work with those mechanisms (or innovate new mechanisms) to make progress towards Emissions Reductions.
+
+• Preferred knowledge of sustainability reporting standards (e.g., ISO 14040, 14044 & 14025) utilized for Environmental Product Declarations.
+
+#LI-RB1
+
+The successful candidate will embrace Vertiv’s Core Principles & Behaviors to help execute our Strategic Priorities.
+
+OUR CORE PRINCIPLES: Safety. Integrity. Respect. Teamwork. Inclusion.
+
+OUR STRATEGIC PRIORITIES
+
+• High-Performance Culture
+
+• Customer Focus
+
+• Operational Excellence
+
+• Innovation
+
+• Financial Strength
+
+VERTIV BEHAVIORS
+
+• Own it
+
+• Act with urgency
+
+• Foster a customer-first mindset
+
+• Think big and execute
+
+• Lead by example
+
+• Drive continuous improvement
+
+• Learn and seek out development
+
+• Promote transparent & open communication
+
+About Vertiv
+
+Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.
+
+Work Authorization
+
+No calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+Equal Opportunity Employer
+
+Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to help.join@vertiv.com

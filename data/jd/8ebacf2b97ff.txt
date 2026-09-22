@@ -1,0 +1,63 @@
+About NISC
+
+NISC develops and implements enterprise-level and customer-facing software solutions for over 1,200+ energy cooperatives and communication organizations across North America. Our mission is to deliver technology solutions and services that are Member-focused, quality-driven and valued-priced. We exist to serve our Members and help them serve their communities through our innovative software products, services and outstanding customer support. We are an AI-forward company committed to being a technology leader in our industry. NISC has been ranked in ComputerWorld’s Best Places to Work for 23 years, and we are looking for qualified individuals to join our team.
+
+**Current applications submitted will be under consideration for Summer 2027 (May-August)**
+
+Position Overview
+
+The Information Security internship position is a role that requires a combination of technical expertise, critical thinking, and business-oriented project management. You will primarily work on advancing NISC’s information security initiatives by managing various information security technologies, maintaining a set of critical security controls, supporting several information security audits, and supporting NISC’s information security policies and procedures.
+
+Essential Functions
+
+• Monitor external security vulnerabilities on company systems and route issues to system owners for remediation
+
+• Assist with information security audits, including annual SOC compliance activities
+
+• Serve as a resource to other employees regarding information security questions, policies, and best practices
+
+• Support the administration of information security and physical security programs
+
+• Conduct research, analyze security-related issues, and contribute to projects that strengthen the organization's security posture
+
+• Commitment to NISC's Statement of Shared Values
+
+Knowledge, Skills, & Abilities Preferred
+
+•
+
+Basic understanding of cybersecurity concepts, threats, vulnerabilities, and security best practices.
+
+•
+
+Familiarity with vulnerability management concepts and industry resources such as CVE, CVSS, and NVD.
+
+•
+
+Working knowledge of operating systems, including Windows, Linux, and macOS, and a foundational understanding of networking concepts such as firewalls, network segmentation, and access controls.
+
+•
+
+Strong analytical, research, problem-solving, and critical-thinking skills with the ability to learn and adapt in a rapidly changing security environment.
+
+•
+
+Effective verbal, written, presentation, and interpersonal communication skills.
+
+•
+
+Ability to manage multiple priorities, work independently and collaboratively, maintain confidentiality, and demonstrate professionalism and ethical judgment.
+
+Desired Education
+
+• ​​High School diploma or equivalency required
+
+• Pursuing a bachelor’s degree in information security, cyber security, information technology or a related field
+
+Minimum Physical Requirements
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the essential functions of this position, employees must be able to see and communicate. Employees are regularly required to maintain a stationary position, move, and operate computer keyboards or office equipment.
+
+Disclaimer
+
+Management may modify this job description by assigning or reassigning duties and responsibilities at any time.

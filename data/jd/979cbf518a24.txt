@@ -1,0 +1,56 @@
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.
+
+
+About The Role: 
+As an Avionics Electrical Engineering Intern you will help shape the future of commercial supersonic and hypersonic flight. Our team is responsible for the design, testing, and integration of GNC systems, electrical hardware, control software, power distribution, and RF communications.
+ 
+Spring: Around 16 weeks (January - April)
+Summer: Around 12 weeks (May - August)
+
+
+Responsibilities:
+• Conduct physical testing of subsystems and validate performance against requirements
+
+• Develop and maintain detailed wire diagrams for subsystem integration
+
+• Set up and configure hardware in lab environments for testing and validation
+
+• Perform end-to-end subsystem testing, ensuring full integration of electrical, hardware, and software components
+
+• Collaborate with cross-functional teams (software, electrical, and mechanical engineering) to troubleshoot and resolve integration issues
+
+• Document test results, integration procedures, and system configurations
+
+• You'll take charge of designing and testing custom electrical systems for both ground test and flight applications.
+
+• You will ensure the seamless integration and compatibility of your designs at the sub-system and integrated system level.
+
+Requirements:
+• Pursuing a degree in Computer Engineering, Electrical Engineering, or a related technical field.
+
+• Entry level experience of C++, C, or other embedded programming languages.
+
+• Experience with working with hardware integrations and embedded computers (Raspberry PIs, arduinos, STM32s).
+
+• Strong understanding of engineering first principles
+
+• Demonstrated ability to work within cross-functional teams
+
+• Enthusiasm for aviation and Hermeus' mission
+
+• Excellent written and verbal communication skills
+
+• GPA of 3.0 or above
+
+The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.
+Benefits:
+Time Off: Interns are eligible for 5 days of sick leave and unpaid time off.
+Office Perks: Weekly paid office lunches and fully stocked breakrooms.
+ 
+U.S. EXPORT CONTROL COMPLIANCE STATUS 
+The person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. 
+ 
+EQUAL OPPORTUNITY
+Hermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.
+
+#LI-JC3

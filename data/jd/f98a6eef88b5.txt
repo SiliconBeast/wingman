@@ -1,0 +1,46 @@
+Overview
+ 
+Looking to gain real-world experience in IT systems administration, network management, and cybersecurity while also serving a powerful mission? Join us for a summer where you'll learn how Dynamic Catholic's IT team keeps our staff, ministries, and technology running smoothly. You'll work alongside our IT Systems Administrator, gaining hands-on exposure to helpdesk support, infrastructure, and security practices in a real business environment. Don't just make a few bucks this summer, serve a powerful mission and gain invaluable experience for your future career in IT.
+ 
+Who we are
+ 
+At Dynamic Catholic our Mission is simple: to re-energize the Catholic Church in America. Catholics are leaving the Church at an alarming rate, and disengagement among those who remain is staggeringly high. This is where you come in. We are looking for driven, talented, and dynamic individuals who will work tirelessly to use their talents to inspire people to rediscover the genius of Catholicism.
+
+
+What you'll leave with
+• Hands-on experience supporting a helpdesk ticketing system and resolving real end-user issues
+
+• Exposure to identity and access management tools, including Google Accounts, Okta SSO, and AzureAD
+
+• Experience with collaboration platforms such as Microsoft Office, Slack, Zoom, and Egnyte
+
+• Introductory experience with Microsoft Azure and server administration fundamentals
+
+• Exposure to endpoint management and MDM tools, including PDQ, Intune, and Mosyle
+
+• Familiarity with IT asset management practices using Snipe-IT
+
+• An inside look at network management, firewall basics, and cybersecurity best practices
+
+• Mentorship from an experienced IT Systems Administrator and exposure to real IT project work
+
+• Increased knowledge and experience in technology operations to carry with you for the rest of your career
+
+What you already have
+• A love for learning and problem-solving
+
+• Interest in IT, computer science, or a related field of study
+
+• Passionate about serving others in a unique and world-class way
+
+• Comfortable jumping in to help, even when a problem is unfamiliar
+
+• Flexible and adaptable - jack of all trades ready to jump into whatever project is needed
+
+• Strong attention to detail and a respect for keeping systems and information secure
+
+Location
+This role is located in the Greater Cincinnati area. This is why we offer paid housing for our interns! 
+ 
+Sponsorhsip
+Applicants must not require employer sponsorship for work authorization now or in the future. We are unable to sponsor visas for this position.

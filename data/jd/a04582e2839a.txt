@@ -1,0 +1,61 @@
+WHO WE’RE LOOKING FOR
+
+Megazone Cloud is looking for a Software Engineer Co-op who is a "builder" at heart and eager to kickstart their career in a high-growth, global environment. You are passionate about deep-diving into software development, cloud architecture, and solving ambiguous, high-stakes technical problems.
+
+As a Co-op, you won't just be watching from the sidelines. You will be a key part of our internal and client-facing teams, contributing to technical discovery, designing full-stack solutions, and collaborating with our senior experts to execute a clear vision. You are a fast learner with a thirst for knowledge and a desire to see your code make a real-world impact.
+
+
+WHAT YOU’LL DO
+
+ - Collaborate and Build: Work directly with senior engineers and our U.S. tech team to translate complex business requirements into functional software features and services.
+
+ - Own the Full Stack: Design, develop, test, and deploy software solutions, gaining hands-on experience with Python, Java, JavaScript, or Go.
+
+ - Be a Client-Facing Contributor: Participate in technical discussions and client meetings, effectively communicating progress on tickets, improvements, and deliverables.
+
+ - Solve the Unsolvable: Assist in troubleshooting and resolving complex issues related to cloud infrastructure, applications, and services.
+
+ - Drive Modern Practices: Help implement monitoring solutions and lean into DevOps best practices, including CI/CD and Infrastructure as Code.
+
+ - Learn and Multiply: Actively participate in design reviews and knowledge-sharing sessions, leveraging our "force multiplier" culture to level up your skills and the team’s output.
+
+
+WHAT YOU BRING (REQUIREMENTS)
+
+ - Educational Foundation: Currently pursuing a degree in Computer Science, Software Engineering, or a related technical field.
+
+ - Technical Curiosity: Proficiency in at least one programming language (e.g., Python, Java, JavaScript, Go) and a strong grasp of programming/scripting fundamentals.
+
+ - Cloud Ambition: Exposure to or a deep interest in major cloud platforms (e.g., AWS, Azure) and modern data ecosystems.
+
+ - DevOps Mindset: Foundational knowledge of DevOps practices, including version control, CI/CD pipelines, and automation.
+
+ - Communication Excellence: Ability to translate technical concepts for different audiences and a desire to engage in a professional services/consulting environment.
+
+ - Startup Mentality: A strategic "builder" mindset, a sense of ownership, and the agility to manage multiple workstreams in a fast-paced environment.
+
+
+BONUS POINTS (NICE-TO-HAVES)
+
+ - Previous internship or project experience in a Professional Services or consulting environment.
+
+ - Experience with GenAI, MLOps, or specialized data tools (e.g., Databricks, Snowflake).
+
+ - Relevant AWS or cloud-provider certifications (e.g., AWS Certified Cloud Practitioner).
+
+NOTE: We are unable to provide sponsorship for this position.
+
+
+WHY YOU'LL LOVE IT HERE
+
+ - Our Product is Our People: We live by this. We invest in people who invest in themselves. Your growth is our growth.
+
+ - True Servant Leadership: Our CTO leads with a "force multiplier" philosophy. Management is here to empower you and clear roadblocks, not to micromanage. We won't ask you to do anything we're not willing to do ourselves.
+
+ - Flat Organization, Real Impact: Your voice and designs will directly shape our technical roadmap and our clients' success. You'll work on the latest tech to solve real problems.
+
+ - A "Learn-from-it" Culture: We're moving fast and building new things. We believe mistakes are learning opportunities, not failures.
+
+We seek diverse talent who are ready to make an immediate impact. We believe that innovation thrives when teams are built with a variety of backgrounds, experiences, and perspectives. If you are excited by this mission, we encourage you to apply, even if your experience doesn't perfectly match every qualification listed.
+
+Megazone Cloud is an Equal Opportunity Employer and participates in E-Verify to confirm the employment eligibility of all new hires. 

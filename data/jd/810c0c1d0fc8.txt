@@ -1,0 +1,39 @@
+Who are we, and what do we do?  
+
+Grow what’s next. Grow your future. Are you excited to contribute to innovative research that advances food security and sustainability? Corteva Agriscience is seeking students for full-time internships within our Research and Development organization. Interns will work closely with experienced scientists, engineers, data professionals, and technical experts in an industrial R&D setting, with opportunities to build skills, contribute to meaningful projects, and network across the company. 
+
+What You’ll Do:  
+
+Interns will participate in R&D Digital projects supporting data, automation, analytics, and digital tool development across Corteva’s Research and Development organization. 
+
+• Partner with R&D stakeholders to understand business needs, gather requirements, and translate use cases into digital solutions. 
+
+• Build, enhance, or automate data workflows, models, dashboards, applications, and/or internal tools that improve efficiency and decision-making. 
+
+• Apply data engineering, software engineering, analytics, automation, machine learning, and/or AI capabilities to solve R&D problems. 
+
+• Work in a safe manner and embody Corteva’s safety culture. 
+
+• Present project reviews throughout the summer and a final poster before colleagues and peers. 
+
+ 
+
+What Skills You Need:  
+
+• Currently pursuing a Bachelors, Masters, or Doctorate degree in Computer Science, Data Science, Data Engineering, Software Engineering, Automation Engineering, Information Science, Statistics, Business Analytics, or a related field 
+
+• Interest in data, automation, analytics, software development, digital tools, machine learning, and/or AI-enabled solutions 
+
+• Strong technical aptitude, problem-solving mindset, curiosity, and willingness to engage with stakeholders to understand business n
+
+• Minimum 3.0 GPA 
+
+• Must be able to relocate to Indianapolis, IN for the duration of the internship. 
+
+• Must be able to work full-time (40 hours per week) for at least 10 weeks during the timeframe of May to August. 
+
+• Experience with Python, SQL, Power BI, Microsoft Azure, C#, R, data visualization, automation tools, software development, machine learning, or cloud-based data platforms a plus but not required   eeds 
+
+Are you a good match? Apply today! We seek applicants from all backgrounds to ensure we get the best, most creative talent on our team.
+
+Corteva Agriscience is an equal opportunity employer. We are committed to embracing our differences to enrich lives, advance innovation, and boost company performance. Qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, military or veteran status, pregnancy related conditions (including pregnancy, childbirth, or related medical conditions), disability or any other protected status in accordance with federal, state, or local laws.

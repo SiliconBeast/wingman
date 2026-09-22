@@ -1,0 +1,108 @@
+Date Posted:
+2026-09-22&#xa;&#xa;
+Country:
+United States of America&#xa;&#xa;
+Location:
+US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1&#xa;&#xa;
+Position Role Type:
+Onsite&#xa;&#xa;
+U.S. Citizen, U.S. Person, or Immigration Status Requirements:
+U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.&#xa;&#xa;
+Security Clearance Type:
+None/Not Required&#xa;&#xa;
+Security Clearance Status:
+Not Required
+
+Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in the industry? At RTX, our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and create a safer, more connected world. Discover opportunities to make a difference at RTX.
+
+What You Will Do:
+
+You are the kind of engineering student who can’t help pulling things apart to see exactly how they work. You're probably involved in cybersecurity and coding clubs, understand the term “white hat” does not refer to "black-tie events", and you definitely have a pile of dismantled electronic devices in the corner dedicated to personal projects. If that sounds like you, welcome to Secure System Engineering; the intersection of Systems, Software, and Safety Engineering.
+
+The Embedded Product Cybersecurity Engineering team is seeking a Secure System Engineer Intern for Summer 2027. Our shared services team supports product development across the company wherever a customer has a security requirement, or when a system will be exposed to cyber threats through connectivity or operational use over public networks. Members of our team help develop cyber-resilient systems by supporting design and implementation teams to ensure a Secure System Development Lifecycle (SSDLC). We also develop tools and testing techniques for integration and verification, helping identify residual defects in design or implementation that could negatively impact the confidentiality, availability, or integrity of a system.
+
+This is an onsite position. Located in WINDSOR LOCKS.
+
+• Must be a U.S. Person/Permanent Resident
+
+• Assist with developing and executing fuzzing and penetration tests to evaluate attack surface robustness.
+
+• Develop threat models and data flow diagrams to ensure data is properly isolated in transit and at rest.
+
+• Implement mandatory access controls (MAC) through the development of SELinux policies.
+
+• Participate in code reviews to identify weaknesses in the implementation of security functions.
+
+• Conduct vulnerability assessments on proposed and in-service systems.
+
+• Develop and improve tools and scripts that enhance the overall efficacy of the Embedded Product Cybersecurity team.
+
+What You Will Learn:
+
+• The stages and practical application of the Collins Aerospace Secure Systems Development Lifecycle.
+
+• The day-to-day operations and responsibilities of a cybersecurity engineer.
+
+• Practical experience in security testing methodologies, emphasizing fuzzing techniques.
+
+• Advanced skills in developing Python scripts and tools to automate and enhance cybersecurity workflows.
+
+• The end-to-end process of developing threat models and securing data through strict isolation and access controls.
+
+Qualifications You Must Have:
+
+• Must be pursuing a Bachelor’s or Advanced degree in an applicable discipline and actively ++enrolled through completion of the internship / co-op session.
+
+• Must have a minimum of 60 hours of credit by the start of the internship / co-op session.
+
+• Solid understanding of fundamental cybersecurity principles.
+
+• High proficiency in Python programming.
+
+• Familiarity with Linux operating systems.
+
+• Basic knowledge of network protocols and secure architectures.
+
+Qualifications We Prefer:
+
+• Strong problem-solving and analytical skills with a demonstrated passion for the field.
+
+• Completed coursework or personal projects focusing on embedded systems security.
+
+• Experience with embedded system integration and testing.
+
+• Understanding of IP networking architectures and concepts.
+
+• Knowledge of version control systems (e.g., Git).
+
+• Proficiency in the Microsoft Office Tool Suite.
+
+What We Offer:
+
+• Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+
+• Relocation Eligible
+
+Learn More & Apply Now!
+
+Please consider the following role type definition as you apply for this role.
+
+• Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.
+
+As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.
+
+The salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.
+
+Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+
+This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+
+RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.
+
+Privacy Policy and Terms:
+
+Click on this link to read the Policy and Terms

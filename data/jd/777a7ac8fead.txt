@@ -1,0 +1,62 @@
+Hermeus is a venture-backed defense aviation company reclaiming the lost art of rapid iterative prototyping to build the fastest aircraft in the world today. By prioritizing relentless hardware iteration, we deliver high-speed systems at the pace of the modern battlefield. We work with the Department of War to provide the high-speed capabilities our nation and its allies need to maintain a durable, asymmetric advantage.
+
+
+About The Role: 
+Join our team developing cutting-edge software for the Quarterhorse supersonic unmanned aircraft. You'll work with C++ and web technologies (TypeScript/JavaScript) to build control systems for both remotely piloted (HOTAS) and autonomous flight modes. This role includes designing and implementing intuitive user interfaces, ranging from hands-on control to point-and-click autonomy management.
+
+
+Responsibilities:
+• Software development on the human-machine interaction (HMI) program used by flight crew to control the aircraft and run simulations
+
+• Software development on the communications software (RF, Satcom, networking) running on the ground and the vehicle
+
+• Collaborate with flight crew to develop and assess usability of the cockpit software and hardware
+
+• Collaborate with engineers to display and control hardware systems
+
+• Participate in all stages of the software development lifecycle including planning, design, implementation, review, testing, documentation, and user evaluation
+
+Requirements:
+• Must be currently enrolled in an accredited college or university (Undergraduate student (at least a rising senior) or enrolled in a Master's or Ph.D. program)
+
+• Pursuing Computer Science, Aerospace Engineering, or related degrees
+
+• C/C++ Experience
+
+• Web Applications Experience (JavaScript, TypeScript, React, Angular, Electron, etc.)
+
+• Computer Networking knowledge
+
+• Aviation/simulation experience
+
+• Strong understanding of engineering first principles
+
+• Demonstrated ability to work within cross-functional teams
+
+• Enthusiasm for aviation and Hermeus' mission
+
+• Excellent written and verbal communication skills
+
+• GPA of 3.0 or above
+
+Preferred Skills and Experience: 
+• Demonstrated knowledge or interest in aerospace industry (aviation or rocketry clubs, pilot license, DCS Ace, etc.)
+
+• Experience working on 2D or 3D games or simulations (especially Unreal, Unity, Cesium)
+
+• Networking protocol knowledge (TCP/UDP), IP routing, Etc,
+
+• User Interface (UI) or Human-Computer Interaction (HCI) classes
+
+The hourly rate listed for this internship is intended as a general guideline. Final compensation will be determined based on degree level.
+Benefits:
+Time Off: Interns are eligible for 5 days of sick leave and unpaid time off.
+Office Perks: Weekly paid office lunches and fully stocked breakrooms.
+ 
+U.S. EXPORT CONTROL COMPLIANCE STATUS 
+The person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. 
+ 
+EQUAL OPPORTUNITY
+Hermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.
+
+#LI-JC3

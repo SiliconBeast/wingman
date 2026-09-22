@@ -1,0 +1,101 @@
+Company Overview:  
+
+For more than 50 years, NISC has developed and implemented enterprise-level and customer-facing software solutions for over 1200+ utilities and broadbands across North America. Our mission is to deliver technology solutions and services that are Member-focused, quality driven and valued priced. We exist to serve our Members and help them serve their communities through our innovative software products, services and outstanding customer support. NISC has been ranked in ComputerWorld’s Best Places to Work for twenty-two years, and we are looking for qualified individuals to join our team. 
+
+Our Members have over 18 million end customers (residential and businesses who receive power, internet, television and/or telephone services) that our enterprise software solution enables our Members to compete effectively in the industry, while excelling in customer service.    
+
+Position Overview:
+
+This position reports to an AI Development Team Lead and will collaborate with software developers, business teams, and technical stakeholders across the organization. This position is responsible for assisting with the research, development, testing, and implementation of AI-driven solutions that support NISC's software development lifecycle and business operations. Interns will gain hands-on experience exploring emerging AI technologies, analyzing business processes, prototyping innovative solutions, and evaluating opportunities to improve efficiency through intelligent automation.
+
+Based on intern interest and business needs, opportunities may exist to contribute to projects involving generative AI, machine learning, natural language processing, intelligent automation, software development, and data analysis. Adaptability, curiosity, and a passion for learning new technologies are essential.
+
+To Learn more about NISC's internships, click HERE .
+
+**Current applications submitted will be under consideration for Summer 2027 (May - August)**
+
+Work Schedule: 
+
+• Hybrid from one of our office locations:
+
+• Cedar Rapids, IA
+
+• Lake Saint Louis, MO
+
+• Requirement: Minimum of working 3 days per week out of an office location and ability to work up to all 5 days a week from an office location.
+
+Essential Functions:
+
+• Assists with researching and evaluating emerging AI technologies, tools, and frameworks.
+
+• Supports the development, testing, and documentation of AI-driven solutions and proof-of-concepts.
+
+• Assists in analyzing business processes and workflows to identify opportunities for automation and efficiency improvements.
+
+• Collaborates with cross-functional teams to gather requirements and explore AI-enabled use cases.
+
+• Performs testing and validation of AI solutions and related software enhancements.
+
+• Assists with data analysis, preparation, and organization in support of AI and machine learning initiatives.
+
+• Documents findings, processes, and project updates within Confluence and other internal tools.
+
+• Maintains regular communication and collaboration with team members and stakeholders.
+
+Desired Job Experience:
+
+• Strong customer orientation.
+
+• Familiarity with AI concepts such as machine learning, generative AI, natural language processing, and intelligent automation.
+
+• Familiarity with programming languages such as Python, Java, or similar object-oriented languages.
+
+• Familiarity with data analysis concepts, data structures, and databases.
+
+• Familiarity with software development methodologies and the software development lifecycle.
+
+• Familiarity with AI-assisted development tools, AI platforms, or cloud-based AI services.Interest in researching, evaluating, and experimenting with emerging technologies.
+
+• Strong analytical thinking, problem-solving skills, and attention to detail.
+
+• Strong verbal, written, interpersonal, and communication skills.
+
+• Ability to work independently, as well as in a team environment.
+
+• Ability to effectively adapt to change and learn new technologies quickly.
+
+• Ability to interact in a positive manner with internal and external contacts.
+
+• Ability to maintain the highest level of professionalism, ethical behavior, and confidentiality.
+
+• Commitment to NISC's Statement of Shared Values.
+
+NISC’s Shared Values & Competencies:
+
+We’re a cooperative, which means we’re owned by the Members we serve. It also means that our focus is on taking care of our Members and our employees, rather than having a big bottom line. Quality service and innovative technology starts with happy and dedicated employees. Join our team and learn for yourself what sets NISC apart.
+
+• Integrity – We are committed to doing the right thing – always.
+
+• Relationships – We are committed to building and preserving lasting relationships.
+
+• Innovation – We promote the spirit of creativity and champion new ideas.
+
+• Teamwork – We exemplify the cooperative spirit by working together.
+
+• Empowerment – We believe individuals have the power to make a difference.
+
+• Personal Development – We believe the free exchange of knowledge and information is absolutely necessary to the success of each individual and the organization.
+
+Desired Education and/or Certification(s):
+
+• ​​High School diploma or equivalency required
+
+• Pursuing Bachelor’s Degree in a Computer Science. Data Science, Software Engineering, Artificial Intelligence, Computer Engineering, Information Systems or a related field
+
+Minimum Physical Requirements:
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the essential functions of this position, employees must be able to see and communicate. Employees are regularly required to maintain a stationary position, move, and operate computer keyboards or office equipment.
+
+Disclaimer:
+
+Management may modify this job description by assigning or reassigning duties and responsibilities at any time.

@@ -1,0 +1,117 @@
+IT Quality Assurance Intern (Summer 2027)
+
+Position Summary
+
+The IT QA Intern will support the testing team by executing scripted test cases, maintaining test documentation, and preparing test environments during active release cycles. This role provides hands-on exposure to enterprise software testing in a manufacturing IT environment while delivering measurable value to a lean, high-performing QA team.
+
+Key Responsibilities
+
+Test Execution & Documentation
+
+Execute scripted test cases during release cycles and document pass/fail results with clear evidence
+
+Flag defects or unexpected behaviors to senior QA analysts for triage
+
+Test Case Maintenance
+
+Review and update outdated test case steps to reflect current system behavior
+
+Identify and flag orphaned test cases for review
+
+Fill formatting gaps and standardize documentation across the test case library
+
+Test Case Development Support
+
+Map untested scenarios into draft test cases following team templates
+
+Submit drafts to senior analysts for review and approval before use
+
+Environment & Data Readiness
+
+Set up test data per documented instructions to support upcoming test cycles
+
+Reset and prepare test environments, reducing setup time
+
+Verify environment readiness prior to release testing windows
+
+Required Qualifications
+
+Currently pursuing a Bachelor's degree in Computer Science, Information Technology, Information Systems, or related field
+
+Coursework or demonstrated interest in software testing, QA, or software development lifecycle
+
+Strong attention to detail and ability to follow documented procedures precisely
+
+Clear written communication skills (test results must be unambiguous)
+
+Ability to work independently on assigned tasks after initial training
+
+Preferred Qualifications
+
+Familiarity with test management tools (e.g., Jira, Azure DevOps, TestRail, or similar)
+
+Exposure to cloud platforms (Salesforce, AWS, or Oracle)
+
+Basic understanding of QA methodologies (test plans, test cases, defect lifecycle)
+
+Interest in test automation concepts (Selenium, Playwright)
+
+Experience with enterprise or ERP applications is a plus
+
+What You'll Gain
+
+Hands-on experience executing and documenting tests for enterprise-scale applications
+
+Exposure to Oracle CPQ, cloud platforms, and manufacturing IT systems
+
+Mentorship from senior QA analysts on testing best practices
+
+Understanding of how QA integrates into release management and SDLC
+
+Portfolio-ready work samples demonstrating real-world QA contributions
+
+The successful candidate will embrace Vertiv’s Core Principles & Behaviors to help execute our Strategic Priorities.
+
+OUR CORE PRINCIPLES: Safety. Integrity. Respect. Teamwork. Inclusion.
+
+OUR STRATEGIC PRIORITIES
+
+• High-Performance Culture
+
+• Customer Focus
+
+• Operational Excellence
+
+• Innovation
+
+• Financial Strength
+
+VERTIV BEHAVIORS
+
+• Own it
+
+• Act with urgency
+
+• Foster a customer-first mindset
+
+• Think big and execute
+
+• Lead by example
+
+• Drive continuous improvement
+
+• Learn and seek out development
+
+• Promote transparent & open communication
+
+About Vertiv
+
+Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.
+
+Work Authorization
+
+No calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+Equal Opportunity Employer
+
+Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to help.join@vertiv.com
