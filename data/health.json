@@ -1,13 +1,13 @@
 {
  "AMD": {
   "ok": true,
-  "n": 112,
+  "n": 113,
   "m": 54,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 2.4
+  "secs": 1.9
  },
  "ASML": {
   "ok": true,
@@ -44,10 +44,10 @@
   "n": 184,
   "m": 3,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 7.3
+  "secs": 6.3
  },
  "Amazon": {
   "ok": true,
@@ -71,13 +71,13 @@
  },
  "Analog Devices": {
   "ok": true,
-  "n": 595,
+  "n": 596,
   "m": 21,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 33.7
+  "secs": 29.7
  },
  "Anduril": {
   "ok": true,
@@ -134,10 +134,10 @@
   "n": 5,
   "m": 3,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.0
  },
  "Astranis": {
   "ok": true,
@@ -224,10 +224,10 @@
   "n": 19,
   "m": 4,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 1.8
+  "secs": 1.6
  },
  "Capital One": {
   "ok": true,
@@ -244,10 +244,10 @@
   "n": 144,
   "m": 8,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 14.4
+  "secs": 10.6
  },
  "Cisco": {
   "ok": true,
@@ -364,10 +364,10 @@
   "n": 107,
   "m": 16,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 0.1
  },
  "Faire": {
   "ok": true,
@@ -481,13 +481,13 @@
  },
  "Intel": {
   "ok": true,
-  "n": 507,
+  "n": 508,
   "m": 21,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 42.4
+  "secs": 38.2
  },
  "JPMorgan Chase": {
   "ok": true,
@@ -534,20 +534,20 @@
   "n": 44,
   "m": 19,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 1.0
+  "secs": 0.5
  },
  "Lightmatter": {
   "ok": true,
   "n": 61,
   "m": 0,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.0
  },
  "Lyft": {
   "ok": true,
@@ -584,10 +584,10 @@
   "n": 41,
   "m": 16,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 3.8
+  "secs": 2.6
  },
  "Mastercard": {
   "ok": true,
@@ -601,23 +601,23 @@
  },
  "Microchip": {
   "ok": true,
-  "n": 466,
+  "n": 463,
   "m": 10,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 29.1
+  "secs": 27.8
  },
  "Micron": {
   "ok": true,
-  "n": 432,
+  "n": 433,
   "m": 38,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 28.4
+  "secs": 23.0
  },
  "Microsoft": {
   "ok": false,
@@ -637,23 +637,23 @@
  },
  "NVIDIA": {
   "ok": true,
-  "n": 712,
+  "n": 711,
   "m": 31,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 48.0
+  "secs": 45.7
  },
  "NXP": {
   "ok": true,
   "n": 565,
   "m": 70,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 42.2
+  "secs": 41.8
  },
  "Netflix": {
   "ok": false,
@@ -774,8 +774,8 @@
  "Qualcomm": {
   "ok": false,
   "err": "HTTPError: 403 Client Error: FORBIDDEN for url: https://qualcomm.eightfold.ai/api/apply/v2/jobs?domain=qualcomm.com&query=intern&start=0&num=50&sort_by=timestamp",
-  "at": "2026-09-22T05:09:21Z",
-  "fails": 2
+  "at": "2026-09-22T06:38:21Z",
+  "fails": 3
  },
  "RBC": {
   "ok": true,
@@ -902,10 +902,10 @@
   "n": 124,
   "m": 2,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 7.0
+  "secs": 5.9
  },
  "Skydio": {
   "ok": true,
@@ -1002,20 +1002,20 @@
   "n": 7,
   "m": 3,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
   "secs": 0.2
  },
  "Texas Instruments": {
   "ok": true,
-  "n": 378,
+  "n": 377,
   "m": 59,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 8.2
+  "secs": 8.4
  },
  "Thales": {
   "ok": true,
@@ -1117,15 +1117,45 @@
   "fails": 0,
   "secs": 1.0
  },
+ "auto:Cadence Design Systems": {
+  "ok": true,
+  "n": 449,
+  "m": 9,
+  "err": null,
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
+  "fails": 0,
+  "secs": 21.4
+ },
+ "auto:Marvell": {
+  "ok": true,
+  "n": 207,
+  "m": 19,
+  "err": null,
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
+  "fails": 0,
+  "secs": 15.1
+ },
+ "auto:Texas Instruments": {
+  "ok": true,
+  "n": 91,
+  "m": 23,
+  "err": null,
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
+  "fails": 0,
+  "secs": 2.8
+ },
  "d-Matrix": {
   "ok": true,
   "n": 35,
   "m": 0,
   "err": null,
-  "at": "2026-09-22T05:09:21Z",
-  "last_ok": "2026-09-22T05:09:21Z",
+  "at": "2026-09-22T06:38:21Z",
+  "last_ok": "2026-09-22T06:38:21Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.0
  },
  "list:SimplifyJobs/Summer2027-Internships": {
   "ok": true,

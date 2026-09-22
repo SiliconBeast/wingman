@@ -1,0 +1,54 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+The CnM team is responsible for the Control and management Subsystem in Marvell Switching SoCs. The CnM is the switch internal management system, incorporating the CPU subsystem, DDR, Host DMA, PCIe, USB, and Security.
+The team hires some of the biggest problem solvers in Silicon and has a huge impact on the work done at Marvell. The customers served by this team are often other chip companies and big tech companies, familiar names to all candidates.
+
+What You Can Expect
+
+Be part of the CnM team, working on CnM IPs for the Switching projects:
+
+• You'll be responsible for the design and verification of cutting-edge IP development
+
+• Involve with next-generation CnM development
+
+• Collaborate with engineers from other teams, including system, architecture, design, verification, and software.
+
+• You will implement and perform verification different design IPs and for multidisciplinary systems (that combine hardware, firmware and software), write test documents, define testing processes and validate system requirements.
+
+What We're Looking For
+
+• Student for Bachelor’s or Master's degree in computer science, Electrical Engineering, or related fields, 2nd year and above
+
+• Overall top-down system view
+
+• Well-organized documentation and research process
+
+• Clear and concise communication and presentation skills
+
+• Excellent interpersonal skills and works well in teams
+
+• Self-learning skills and highly motivated to achieve project goals
+
+• Skills in scripting Perl/Python - Advantage
+
+&#xa;&#xa;
+Additional Compensation and Benefit Elements
+
+With competitive compensation and great benefits, you will enjoy our workstyle within an environment of shared collaboration, transparency, and inclusivity. We’re dedicated to giving our people the tools and resources they need to succeed in doing work that matters, and to grow and develop with us. For additional information on what it’s like to work at Marvell, visit our Careers page.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-NR1

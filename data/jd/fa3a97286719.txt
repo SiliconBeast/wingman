@@ -1,0 +1,76 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+
+The Test Operations Group supports the Test, Product Engineering and Production groups activities. Our primary function is to maintains various types of test equipment used on the test floor to develop, debug and process devices ranging from Carrier, Automotive, Enterprise and Data Center product lines. Interfacing with vendors from various manufactures including Advantest, Teradyne, Cohu, HonPrec, Seiko-Epson, Delta, Chroma, TEL, Semics.
+
+What You Can Expect
+
+Duties & Responsibilities:
+
+• Responsible for helping to maintain Advantest 93K and Teradyne Uflex testers and related hardware (Boards Sockets device kits).
+
+• Provide tester, handler and prober and hardware support to Test, Product Engineering and Production Teams.
+
+• Work with the Field Service Engineers from the various manufactures to diagnose, troubleshoot and repair the handlers and prober systems.
+
+• Perform hardware and software upgrades as needed.
+
+• Help to input and track request for new hardware request from the Product, Test and Production teams as well as to provide a solution to the current process.
+
+• Work with vendors to obtain quotes for replace and spare parts.
+
+• Work with other team members to resolve test equipment issues.
+
+• Assist in performing calibration and Preventive Maintenance as needed
+
+• Work to help drive future improvements to Marvell’s Test floor environment.
+
+• Must be willing to work in a multi-tasking, fast pace, team oriented working environment.
+
+• This is a full-time onsite position.
+
+What We're Looking For
+
+• Working towards Bachelor’s degree in Electrical, Mechanical Engineering or related fields.
+
+• Basic understanding of hardware products, printed circuit boards, electronic manufacturing.
+
+• Ability to organize technical information, summarize data and communicate clearly
+
+• Comfortable working in a team environment and learning from team members across multiple disciplines.
+
+• Basic PC skills with Microsoft office suite.
+
+• Coursework or project experience related to the design and repair of electronics, circuits, electromechanical systems, manufacturing is preferred.
+
+• Knowledge of Microsoft Windows, Linux operating and networking skills and inventory control systems is a plus.
+
+• Internships in the semiconductor field is a plus
+
+Expected Base Pay Range (USD)
+22 - 44, $ per hour.
+
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.
+
+&#xa;&#xa;
+Additional Compensation and Benefit Elements
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com .
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-RM1

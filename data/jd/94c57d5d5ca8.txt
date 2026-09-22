@@ -1,0 +1,70 @@
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities which are hard to tackle, that only we can pursue, and that matter to the world. This is our life’s work, to amplify human inventiveness and intelligence.
+
+We are now looking for a motivated Physical Design and Timing Engineer – Intern to join our dynamic and growing team. If you want to challenge yourself and be a part of something great, join us today!
+
+What you'll be doing:
+
+•
+Drive physical design, power, and timing closure for high-frequency and low-power designs.
+
+•
+Help drive frontend and backend implementation in select areas, from RTL to GDSII.
+
+•
+Run physical design experiments and help develop flows and methodologies.
+
+What we need to see:
+
+•
+Pursuing an MS or Ph.D. in Electrical or Computer Engineering.
+
+•
+Familiarity with applying AI/ML techniques to physical design workflows to accelerate design, analysis, or automation tasks.
+
+•
+Knowledge of or experience with Static Timing Analysis (STA), power analysis, and power reduction.
+
+•
+Some experience in logic synthesis and equivalence checking.
+
+•
+Experience with physical optimization, e.g., placement, routing, clock tree, etc.
+
+•
+Some background in industry-standard EDA tools (e.g., Cadence, Synopsys, Siemens, etc.).
+
+•
+Proficiency in programming and scripting languages such as Perl, Tcl, Make, Python, etc.
+
+Ways to stand out from the crowd:
+
+•
+Hands-on experience applying AI/ML models or LLM-based tools to solve EDA, design automation, or physical design problems.
+
+•
+Previous work experience in physical design.
+
+•
+Experience in methodology and/or flow development/automation.
+
+Please note – The interview process for this internship will include submitting a solution to a technical problem in the form of a short PowerPoint slide deck. This is applicable for candidates who are invited to a 2nd phone interview.
+
+•
+More information about the Business Challenge will be sent after being invited to a 2nd interview.
+
+•
+Final decision will be made based on Business Challenge submission and interviews.
+
+NVIDIA is widely considered one of the technology world’s most desirable employers. We employ some of the most forward-thinking and talented people in the world. Are you passionate about joining our life work to amplify human creativity and intelligence? If you are creative, collaborative, and have a real passion for design methodology and automation, we want to hear from you.
+
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.&#xa;
+
+You will also be eligible for Intern benefits . ​
+
+Applications for this job will be accepted at least until September 19, 2026.
+
+This posting is for an existing vacancy.
+
+NVIDIA uses AI tools in its recruiting processes.
+
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
