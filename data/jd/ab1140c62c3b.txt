@@ -1,0 +1,39 @@
+Within the Power Solutions division based in Farmington Hills MI, Bosch is building-up a next-generation Plug-in Hybrid Electric Vehicle (PHEV) demonstration pick-up truck that addresses both customer demands and regulatory requirements to reduce CO2 emissions. As a vehicle thermal systems engineering intern, you will be supporting the integration and testing of cutting-edge Bosch components into a hybrid pick-up truck.
+
+Key responsibilities include:
+
+• Support the integration of the Bosch high voltage cooling fan into the engine bay of the hybrid pick-up truck
+
+• Be an active part of the project team supporting the design, analysis and manufacturing of the shroud and mounting interfaces of the HV fan to be integrated into the hybrid pick-up truck.
+
+• Support the HW and SW integration of a V2L-capable CharCon on our demo truck and identify possibilities to demonstrate the V2L capabilities to customers.
+
+• Create reports with thorough documentation of system design changes and share updates with the project teams on a regular basis.
+
+• Currently pursuing a Bachelor’s or Master’s in Mechatronics, Mechanical Engineering or Electrical Engineering.
+
+• Must have professional working experience or previous internships in the automotive industry, working on electrification projects.
+
+• Must be willing to work in a vehicle lab onsite to support vehicle integration and testing activities.
+
+Equal Opportunity Employer, including disability / veterans
+
+*Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date.
+
+We Are Bosch.
+
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry.
+
+Let’s grow together, enjoy more, and inspire each other. Work #LikeABosch
+
+• Reinvent yourself: At Bosch, you will evolve.
+
+• Discover new directions : At Bosch, you will find your place.
+
+• Balance your life: At Bosch, your job matches your lifestyle.
+
+• Celebrate success: At Bosch, we celebrate you.
+
+• Be yourself: At Bosch, we value values.
+
+• Shape tomorrow: At Bosch, you change lives.

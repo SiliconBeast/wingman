@@ -1,0 +1,61 @@
+Our vision is to transform how the world uses information to enrich life for all .
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+The Design Technology Co-Optimization (DTCO) team works at the intersection of process technology, standard cell architecture, and design implementation to optimize power, performance, and area (PPA) for advanced memory products. The team collaborates closely with standard cell library, RTL, and physical design engineers to evaluate design tradeoffs and develop methodologies that improve silicon outcomes.
+
+As a DTCO Intern, you will gain hands-on experience assessing and optimizing PPA at the standard cell and logic block level. You will use industry-standard place-and-route tools and AI-enabled automation techniques to implement, benchmark, and optimize logic blocks while developing practical skills in physical design, timing closure, and design analysis.
+
+Responsibilities
+
+• Implement standard cell logic blocks using industry-standard physical design tools, including floorplanning, placement, clock tree synthesis (CTS), routing, and optimization activities focused on PPA assessment.
+
+• Analyze and benchmark power, performance, and area across standard cell libraries and logic block configurations, identifying opportunities for improvement.
+
+• Perform static timing analysis (STA), investigate setup and hold timing violations, and support timing closure activities.
+
+• Execute physical verification checks, including DRC, LVS, and IR-drop analysis, and assist with resolving design issues.
+
+• Leverage Generative AI, AI Assistants, and Agentic AI solutions to automate data collection, reporting, comparison, and workflow optimization for PPA analysis.
+
+Minimum Qualifications
+
+• Currently pursuing a B.S. or M.S. degree in Electrical Engineering, Computer Engineering, or a related technical field.
+
+• Demonstrated understanding of VLSI design concepts, CMOS circuits, digital logic, and the ASIC physical design flow.
+
+• Experience through coursework, research, or projects using scripting languages such as Python, Perl, or TCL.
+
+• Strong analytical, problem-solving, and debugging skills with attention to technical detail.
+
+• Expected graduation date of Fall 2025 or later.
+
+Preferred Qualifications
+
+• Hands-on academic, research, or project experience with place-and-route tools such as Synopsys ICC2, Cadence Innovus, or equivalent tools.
+
+• Exposure to static timing analysis tools such as PrimeTime, Tempus, or similar timing verification platforms.
+
+• Working knowledge of design constraints (SDC), LEF/DEF formats, and physical implementation methodologies.
+
+• Understanding of low-power design techniques and power intent standards such as UPF or CPF.
+
+• Experience applying AI, Generative AI, Large Language Models (LLMs), or AI-Assisted coding and automation tools to improve engineering workflows and productivity.
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits .
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert : Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.

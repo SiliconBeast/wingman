@@ -1,0 +1,103 @@
+Acron Aviation is seeking motivated and innovative Electrical Engineering interns to join our engineering teams in Phoenix, Arizona.
+
+This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.
+
+Depending on the assigned location, team, and product line, interns may gain experience across electrical engineering disciplines such as analog, digital, power, radio frequency, high-speed circuitry, embedded systems, firmware, programmable logic, circuit card assemblies, and supporting cables or interfaces.
+
+You will work alongside experienced engineers and collaborate with cross-functional teams while developing your technical, analytical, and professional skills.
+
+
+What you will do
+• Work under the guidance of experienced electrical, hardware, firmware, and RF engineers.
+
+• Support the development, analysis, and review of electrical and electronic designs for aerospace and avionics applications.
+
+• Assist with circuit card design activities, including requirements development, schematic capture, simulation, design review, and hardware integration.
+
+• Support analog, digital, power, RF, microwave, and multifunction circuit designs based on project needs.
+
+• Contribute to programmable logic and FPGA development activities, which may include firmware requirements, RTL coding using VHDL or Verilog, simulation, synthesis, timing analysis, and implementation.
+
+• Assist with the development of simulation testbenches, verification procedures, board-level test procedures, and test scripts.
+
+• Execute engineering tests using laboratory equipment such as oscilloscopes, logic analyzers, spectrum analyzers, vector network analyzers, signal generators, power meters, and power supplies.
+
+• Collect, analyze, and summarize measurement data, test results, anomalies, and supporting technical evidence.
+
+• Support hardware and FPGA bring-up, integration, troubleshooting, debugging, regression testing, and failure-reproduction activities.
+
+• Participate in hardware, firmware, and software integration testing under engineering guidance.
+
+• Support testing and analysis of RF performance characteristics that may include gain, noise figure, sensitivity, impedance matching, VSWR, spurious emissions, and harmonic emissions.
+
+• Participate in design reviews, code reviews, peer reviews, technical discussions, defect investigations, and project status updates.
+
+• Develop, modify, and maintain engineering documentation, including requirements, specifications, procedures, test results, and design records.
+
+• Identify opportunities to improve simulation, verification, test efficiency, repeatability, automation, and documentation quality.
+
+• Apply sound engineering judgment, attention to detail, and disciplined configuration control while working in a regulated aerospace environment.
+
+Required Qualifications
+• Currently pursuing a bachelor’s degree in Electrical Engineering, Computer Engineering, Aerospace Engineering, or a related engineering discipline.
+
+• Foundational knowledge in one or more of the following areas:
+
+• Analog or digital circuit design
+
+• Electronic hardware development
+
+• Digital logic or programmable logic
+
+• RF, microwave, electromagnetics, or communication systems
+
+• Embedded systems or computer architecture
+
+• Basic understanding of the engineering development lifecycle, including requirements, design, implementation, integration, testing, verification, and documentation.
+
+• Ability to follow detailed technical procedures and work safely with laboratory equipment.
+
+• Strong analytical, troubleshooting, and problem-solving skills.
+
+• Ability to document technical work and test results accurately.
+
+• Effective written and verbal communication skills.
+
+• Ability to work collaboratively in a team environment while completing assigned work with appropriate independence.
+
+• Strong organizational skills, attention to detail, and willingness to ask questions and seek guidance when needed.
+
+• This position may require access to information, technology, software, or hardware that is subject to U.S. export control laws and regulations. To comply with these requirements, applicants must qualify as a U.S. Person
+
+Preferred Qualifications
+• Student entering junior or senior year, graduate student, or recent graduate preparing for an entry-level electrical engineering role.
+
+• Coursework, academic projects, student organization experience, prior internship experience, or personal projects involving electrical hardware, firmware, FPGA, or RF engineering.
+
+• Experience developing or reviewing electrical schematics and working with circuit cards or electronic assemblies.
+
+• Coursework or project experience using VHDL or Verilog, including state machines, synchronous design, and timing fundamentals.
+
+• Exposure to FPGA development tools such as Xilinx Vivado or ISE, Intel Quartus, or similar tools.
+
+• Experience with simulation tools such as ModelSim, QuestaSim, ADS, AWR, HFSS, or equivalent engineering applications.
+
+• Familiarity with scripting languages such as Python or Tcl for test, build, or engineering automation.
+
+• Familiarity with common digital interfaces and protocols such as SPI, I2C, UART, AXI, Ethernet, or DDR.
+
+• Exposure to embedded processors, microcontrollers, or system-on-chip FPGA technologies.
+
+• Experience using electronic or RF laboratory test equipment.
+
+• Familiarity with RF concepts such as transmission lines, S-parameters, impedance matching, gain, noise figure, modulation, RF link budgets, or spectrum requirements.
+
+• Familiarity with avionics products or technologies such as TCAS, transponders, TAWS, ADS-B Out, or ADS-B In.
+
+• Demonstrated initiative, intellectual curiosity, and eagerness to learn in a collaborative engineering environment.
+
+Equal Opportunity Statement
+Acron Aviation is proud to be an Affirmative Action and Equal Opportunity Employer. We are committed to treating all employees and applicants with respect and dignity and to maintaining a workplace free from unlawful discrimination. All applicants will be considered for employment regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or any other legally protected characteristic.
+ 
+Additional Information:
+Acron Aviation maintains a drug-free workplace and conducts pre-employment substance abuse testing and background checks, where allowed by law. Acron Aviation is an E-Verify employer

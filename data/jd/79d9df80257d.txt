@@ -1,0 +1,76 @@
+JOIN THE TEAM BRINGING ADVANCED AUTONOMY TO THE BUILT WORLD
+
+At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition, and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job sites and accelerating schedules on critical infrastructure projects.
+
+We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous excavator deployments in construction.
+
+This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.
+
+
+
+
+ABOUT THE ROLE & TEAM
+
+As a Sensor Hardware Test intern, you'll work alongside our test engineering team to characterize and validate the sensors - cameras, lidar, and supporting hardware - that power Bedrock's autonomous excavators. You'll help build test fixtures, run structured lab test campaigns, and turn raw sensor data into clear conclusions that guide how we select and integrate hardware. You'll also get out to our field site to see how bench results hold up on a live construction machine. You’ll own a hands-on project involving sensor hardware testing end-to-end, and your results will directly shape what hardware ends up on the next generation of machines.
+
+
+
+
+WHAT YOU'LL DO
+
+ - Build and iterate on test fixtures and benchtop setups - mechanical mounts, wiring harnesses, DAQ integration - used to characterize camera, lidar, and other sensor hardware
+
+ - Run structured sensor test campaigns in the lab, following defined test procedures and capturing repeatable, well-documented data
+
+ - Help safely deploy test setups and instrumentation out at our field site, and support live field test campaigns on active construction equipment
+
+ - Develop tools to automate data collection, process raw sensor logs, and summarize results against pass/fail criteria
+
+ - Help scope and select test equipment (light meters, targets, DAQ hardware, valves and actuators for environmental or fluid test rigs) for new test setups
+
+ - Support electrical and mechanical debugging of test hardware, including wiring, sensor interfacing, and basic CAD work for fixture design
+
+ - Document test methods, results, and findings, and present conclusions to the test engineering team to inform sensor selection and system design decisions
+
+
+
+
+WHAT WE'RE LOOKING FOR
+
+
+REQUIRED
+
+ - Currently pursuing a Bachelor's degree in Electrical Engineering, Mechanical Engineering, Physics, Optics, Mechatronics, or a related field
+
+ - Hands-on experience building or testing hardware through coursework, personal projects, or a prior internship
+
+ - Working proficiency in Python for data processing, scripting, or automation
+
+ - Comfortable with basic lab equipment and electrical debugging (multimeters, oscilloscopes, DAQ systems)
+
+ - Comfortable working outdoors and around active construction equipment, and willing to spend time on-site at our field test location for deployment and field testing
+
+ - Strong written and verbal communication skills, with the ability to document technical work clearly for a team
+
+
+
+
+PREFERRED
+
+ - Exposure to cameras, lidar, radar, or other sensing hardware through coursework, internship experience, or personal projects
+
+ - Experience with CAD tools for mechanical fixture design
+
+ - Familiarity with Git and working within a shared codebase
+
+ - Prior coursework, internship, or project experience in robotics, autonomous systems, or controls
+
+
+
+Bedrock Robotics is an Equal Opportunity Employer
+
+We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.
+
+Reasonable Accommodations
+
+We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your recruiter know so we can support you.

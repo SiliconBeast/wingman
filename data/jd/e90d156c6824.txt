@@ -1,0 +1,81 @@
+RF Test Engineering Intern (Summer 2027)
+
+Department: Internship
+
+Employment Type: Internship
+
+Location: Redondo Beach
+
+Compensation: $32.00 / hour
+
+Description
+
+As an RF Test Engineering Intern , you will support the development, automation, and execution of RF test systems used to validate spacecraft communication hardware and integrated RF subsystems. This role is heavily focused on test automation, lab bring-up, and data-driven validation of RF hardware in fast-paced development environments.
+
+You will work closely with RF, avionics, software, and manufacturing engineers to develop automated test infrastructure, improve test efficiency, and support RF system integration and characterization from prototype through production.
+
+This is an ideal opportunity for someone interested in combining RF engineering fundamentals with software and automation tools to enable scalable hardware testing.
+
+*This internship is 12 weeks long from May/June through August/September 2027*
+
+Responsibilities
+
+• Develop and maintain automated RF test scripts and validation tools using Python or similar scripting languages
+
+• Support RF hardware bring-up, integration, characterization, and troubleshooting in laboratory environments
+
+• Assist with development of automated test stations for RF components and subsystems including amplifiers, filters, LNAs, mixers, and transceivers
+
+• Interface with RF test equipment such as spectrum analyzers, vector network analyzers (VNAs), signal generators, power meters, and oscilloscopes
+
+• Execute RF validation and performance testing, collect data, and analyze results against system requirements
+
+• Support design verification efforts through test procedure development and documentation
+
+• Collaborate cross-functionally with RF, avionics, software, and manufacturing teams to improve test workflows and system reliability
+
+• Assist with RF schematic review, hardware debug, and manufacturing support activities as needed
+
+Minimum Qualifications
+
+• Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, Physics, or a related technical discipline
+
+• Hands-on experience working in an electronics or RF lab environment
+
+• Understanding of RF and microwave fundamentals including transmission lines, impedance matching, S-parameters, gain, noise figure, and filtering
+
+• Familiarity with common RF test equipment such as VNAs, spectrum analyzers, and signal generators
+
+• Experience troubleshooting PCBs or embedded hardware at the board or system level
+
+• Basic programming or scripting experience in Python, MATLAB, or similar languages
+
+Preferred Skills and Experience
+
+• Experience developing automated hardware test scripts or lab automation tools
+
+• Familiarity with SCPI, PyVISA, or automated instrument control frameworks
+
+• Experience with RF simulation tools such as ADS, CST, or HFSS
+
+• Experience testing RF components such as PAs, LNAs, filters, or antennas
+
+• Familiarity with data analysis and visualization tools
+
+• Experience working on multidisciplinary engineering teams with both hardware and software engineers
+
+• Familiarity with Altium Designer or PCB design workflows
+
+Additional Requirements:
+
+• Willing and able to work on-site in Redondo Beach, CA for the duration of the internship
+
+• This role may require overtime hours; interns are eligible for overtime pay.
+
+Additional Information:
+
+Compensation bands are determined by role, level, location, and alignment with market data. Individual level and base pay is determined on a case-by-case basis and may vary based on job-related skills, education, experience, technical capabilities and internal equity. In addition to base salary, for full-time hires, you may also be eligible for long-term incentives, in the form of stock options , and access to medical, vision & dental coverage as well as access to a 401(k) retirement plan .
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here .
+
+Impulse Space is an Equal Opportunity Employer; employment with Impulse Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.

@@ -1,0 +1,99 @@
+Acron Aviation is seeking an Avionics Certification Engineering Intern to support the development, certification, and regulatory approval of avionics systems and equipment for commercial, business, and military aircraft applications at our Phoenix, Arizona site.
+
+This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. Interns will contribute to the design, development, testing, integration, and support of aviation products and technologies.
+
+This internship provides hands-on experience with aviation regulatory compliance activities, including Supplemental Type Certificates (STCs), Technical Standard Orders (TSOs), FAA certification processes, and aircraft integration projects. The intern will collaborate with experienced certification engineers, systems engineers, ODA Unit Members, FAA representatives, and cross-functional project teams to help ensure avionics products and aircraft modifications meet applicable regulatory requirements and industry standards. 
+
+
+
+What you will do
+• Assist with the preparation and review of certification documentation supporting STC and TSO programs.
+
+• Support regulatory compliance activities for avionics systems, equipment, and aircraft modifications.
+
+• Assist in developing certification plans, compliance checklists, and requirements traceability matrices.
+
+• Research applicable FAA regulations, advisory circulars, policy documents, and industry standards.
+
+• Support the evaluation of avionics designs against applicable certification requirements.
+
+• Assist with the preparation and maintenance of engineering data packages, technical reports, and certification records.
+
+• Participate in design reviews, technical meetings, and certification status reviews.
+
+• Support test planning, test witnessing, and analysis of test results.
+
+• Assist with aircraft integration and verification activities for avionics installations.
+
+• Collaborate with engineering teams to help resolve certification-related findings and technical issues.
+
+• Maintain accurate project documentation within company configuration management systems.
+
+• Complete other engineering and project-related assignments as needed.
+
+Learning Opportunities
+• During the internship, the successful candidate may gain exposure to:
+
+• FAA certification processes and regulatory frameworks.
+
+• Supplemental Type Certificate development and approval.
+
+• Technical Standard Order authorization processes.
+
+• Aircraft system integration and modification programs.
+
+• Avionics architectures and aircraft communication, navigation, surveillance, recorder, and display systems.
+
+• Industry standards such as RTCA DO-160, DO-178C, DO-254, ARP4754A, and ARP4761.
+
+• Certification engineering best practices and compliance demonstration methods.
+
+• Collaboration across engineering, program management, quality, and regulatory disciplines.
+
+Required Qualifications
+• Currently pursuing a bachelor’s or master’s degree in one of the following areas:
+
+• Aerospace Engineering
+
+• Electrical Engineering
+
+• Mechanical Engineering
+
+• Systems Engineering
+
+• Another related technical discipline
+
+• Strong interest in aviation, aerospace systems, avionics, and regulatory certification.
+
+• Basic understanding of electrical, electronic, aircraft, or systems engineering concepts.
+
+• Strong analytical, organizational, and problem-solving skills.
+
+• Effective written and verbal communication skills.
+
+• Ability to work effectively in a collaborative engineering environment.
+
+• Proficiency with Microsoft Office applications, including Excel, Word, and PowerPoint.
+
+• Ability to work full-time and onsite for the duration of the internship program.
+
+• This position may require access to information, technology, software, or hardware that is subject to U.S. export control laws and regulations. To comply with these requirements, applicants must qualify as a US Person.
+
+Preferred Qualifications
+• Coursework related to avionics, aerospace systems, electronics, certification, or systems engineering.
+
+• Familiarity with FAA regulations, including 14 CFR Parts 21, 23, 25, 27, or 29.
+
+• Knowledge of avionics systems such as communication, navigation, surveillance, flight management, or cockpit display systems.
+
+• Familiarity with requirements management or systems engineering tools.
+
+• Previous internship, academic project, laboratory, aviation, or aerospace experience.
+
+• Familiarity with artificial intelligence tools or applications, such as Microsoft Copilot or Cursor
+
+Equal Opportunity Statement
+Acron Aviation is proud to be an Affirmative Action and Equal Opportunity Employer. We are committed to treating all employees and applicants with respect and dignity and to maintaining a workplace free from unlawful discrimination. All applicants will be considered for employment regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or any other legally protected characteristic.
+ 
+Additional Information:
+Acron Aviation maintains a drug-free workplace and conducts pre-employment substance abuse testing and background checks, where allowed by law. Acron Aviation is an E-Verify employer

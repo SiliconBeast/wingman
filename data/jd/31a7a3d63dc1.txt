@@ -1,0 +1,71 @@
+Overview
+
+Hexagon Autonomous Solutions is seeking a highly motivated Digital Hardware Engineering Intern to join our GNSS Positioning Digital Team for a one-year term from May 3, 2027, to May 2, 2028. This role emphasizes digital hardware design, test development, and hands-on hardware verification work to support innovation in precision positioning and anti-jamming technologies.
+
+You will gain practical experience with a wide range of digital systems and test equipment, including spectrum analyzers, signal generators, GNSS constellation simulators, oscilloscopes, power meters, and programmable power supplies while developing automation solutions in Python and contributing to design verification, prototype testing, and product development.
+
+Location: Hexagon is a global company with locations around the world. This position is based onsite in Calgary, AB.
+
+Responsibilities
+
+As a Digital Hardware Engineering Intern , your contributions will include:
+
+• Automating test setups using Python to control power supplies, thermal chambers, oscilloscopes, and signal generators.
+
+• Designing, executing, and documenting product performance tests and test procedures.
+
+• Performing signal analysis using oscilloscopes and logic analyzers.
+
+• Configuring and operating equipment for GNSS and anti-jam system testing.
+
+• Collecting and analyzing test data to evaluate system performance and identify issues.
+
+• Troubleshooting test failures and performing root-cause analysis.
+
+• Supporting design verification activities and participating in reviews of digital hardware and subsystems.
+
+• Hand-building and debugging test prototypes and performing component-level qualification testing.
+
+• Developing test plans and scripts to accelerate hardware testing.
+
+• Compiling high-quality written reports using standard templates.
+
+• Contributing to process improvements in digital hardware test automation and laboratory workflows.
+
+Qualifications
+
+Must-Have:
+
+• Registered in an Engineering Internship/Co-op Program (Electrical, Electronic, or Computer Engineering) and completed at least the second or third year of studies by the start of the work term.
+
+• Strong academic credentials.
+
+• Proficiency in Python programming.
+
+• Strong oral and written communication skills.
+
+• Available for a 12-month, full-time (37.5 hours/week) internship in Calgary, Alberta.
+
+Key Success Factors:
+
+• Confident self-starter with strong attention to detail and a “first-time-right” mindset.
+
+• Comfortable working both independently and in a collaborative team environment.
+
+• Motivated by challenging technical work with a focus on quality and precision.
+
+• Able to follow complex instructions while knowing when to ask for help.
+
+Nice-to-Have:
+
+• Coursework, specialization, or interest in digital hardware design, GNSS, or wireless communications.
+
+• Familiarity with hardware test equipment (oscilloscopes, signal generators, power supplies, spectrum analyzers).
+
+• Understanding of digital design principles, GNSS signal characteristics, or interference/jamming concepts.
+
+• Experience with Python or other scripting languages for data processing and analysis.
+
+• Ability to read and understand electronic schematics.
+
+This job posting closes on October 4, 2026.

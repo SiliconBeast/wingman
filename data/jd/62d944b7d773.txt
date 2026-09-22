@@ -1,0 +1,70 @@
+Come join our team at Crest Operations!
+
+With companies located across the United States, Crest Industries is committed to bringing together the best people and the right resources to meet today’s challenges and deliver the innovations of tomorrow. With significant recent growth and company acquisitions, Crest more than ever is a catalyst for change, using a little grit and a lot of determination to drive a forward movement for our customers and our employees.
+
+
+Position Summary
+The Enterprise Technology Operations Intern will support enterprise infrastructure, endpoint management, cloud services, identity management, and operational technology initiatives across Crest.
+Unlike traditional help desk internships, this role provides exposure to enterprise-scale technology operations, systems administration, cloud platforms, networking, endpoint management, and infrastructure modernization initiatives supporting a multi-company manufacturing organization.
+This position is ideal for students interested in:
+Systems Administration
+Cloud Engineering
+Infrastructure Engineering
+Network Engineering
+IT Operations
+Platform Engineering
+Enterprise Technology Management
+Responsibilities
+Assist with endpoint deployment and lifecycle management
+Support Active Directory and identity administration activities
+Participate in infrastructure projects and system upgrades
+Assist with cloud administration and migration efforts
+Support endpoint security and compliance initiatives
+Develop operational dashboards and reporting
+Assist with asset management and configuration management
+Participate in troubleshooting and root cause analysis activities
+Support automation initiatives using PowerShell and Power Platform
+Document technical procedures and operational standards
+Technologies Exposure
+Microsoft Azure
+Microsoft 365
+Active Directory
+Windows Server
+VMware
+Intune
+PowerShell
+SharePoint
+Networking Infrastructure
+Endpoint Management Platforms
+Preferred Qualifications
+Pursuing a degree in Computer Science, Information Systems, Information Technology, CIS, or related field
+Understanding of operating systems and networking fundamentals
+Interest in infrastructure and cloud technologies
+Strong troubleshooting abilities
+Desire to learn enterprise technology operations
+What Students Will Learn
+Enterprise systems administration
+Cloud operations
+Infrastructure management
+Identity and access management
+Automation and scripting
+Endpoint lifecycle management
+IT service operations
+Enterprise technology governance
+
+
+We know how difficult it is to manage change and solve problems. Continuous improvement is hard work. Founded in 1958, we’ve seen our share of struggles. We’ve failed. We’ve learned and we’ve adapted. We will continue to grow and evolve to meet our customers’ ever-changing needs.  To do this, there are three forces that we leverage that will not change: Our Solid Foundation, Innovation, and The Right People.  When we bring these three forces together, we get a forward movement. Our logo reflects our respect for the past and our legacy but also supports where our industries are going.
+
+THE RIGHT PEOPLE
+We hire people who share our values and we put the right people in the right seats, with the skill sets that fit our customers’ challenges and we work hard to develop our people. Our people come to work because it feels like home, no matter where they are from. We place each other above egos because, at Crest, our coworkers are like your family. And like family, we believe in honest and clear communication so that the path towards our customers’ success is a united effort.
+
+
+
+Crest Operations is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information.
+
+Crest Operations is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request information regarding reasonable accommodation, contact your Human Resource Business Partner.
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+Crest Operations will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
+
+Part of the CREST INDUSTRIES family of companies.

@@ -1,0 +1,88 @@
+ABOUT BASE
+
+Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.
+
+
+
+
+ABOUT THE ROLE
+
+We’re looking for an Analytics Intern to help make data more accessible, reliable, and useful across the company. You’ll work with financial and operational data to answer questions, build analyses, and help create reporting that gives teams a clearer view of the business.
+
+This is a hands-on role for someone who enjoys solving ambiguous problems with data. You’ll work across different datasets and teams, learn how our business operates, and help turn raw information into insights that people can use.
+
+
+
+WHAT YOU’LL DO
+
+ - Support budgeting, forecasting, and financial planning processes.
+
+ - Help prepare and maintain financial reports and analyses.
+
+ - Analyze actual results against budgets and forecasts and help identify key drivers of variances.
+
+ - Work with financial and operational data to support business decisions.
+
+ - Help organize and improve financial models, reporting, and planning processes.
+
+ - Partner with members of the finance and accounting teams to understand and validate financial information.
+
+ - Assist with recurring reporting and ad hoc analyses as the business evolves.
+
+ - Help improve the way financial information is organized, accessed, and communicated across the company.
+   
+   
+
+
+WHAT YOU’LL BRING
+
+ - Currently pursuing a degree in finance, accounting, economics, business, computer science, data science, or a related field.
+
+ - Strong analytical and quantitative skills.
+
+ - Comfort working with spreadsheets and large amounts of data.
+
+ - Curiosity and an interest in understanding how businesses work.
+
+ - Strong attention to detail and a desire to get the numbers right.
+
+ - Ability to communicate clearly and turn analysis into practical takeaways.
+
+ - Willingness to learn new tools, systems, and concepts.
+
+ - Experience with financial modeling, SQL, BI tools, orchestrating AI agents, or similar tooling is a plus, but not required.
+   
+   
+
+
+ABOUT THE TEAM
+
+The Base finance & business operations team is responsible for providing clear visibility on past and future performance across the business, financing our growth, capital allocation decisions, and supporting the broader Base team on key performance drivers. To succeed, Base must raise and deploy tens of billions of dollars, maintain sustainable unit economics, exercise extreme operating leverage, and balance supply/demand and growth/profitability in a complex and high-pace environment. The Finance team enables these by (i) building toward omniscience with sharp analytics and tools for observability, (ii) integrating with the business to support operational decisions, (iii) establishing tight controls and processes to cull complexity, and (iv) presenting Base to investors effectively.
+
+
+
+Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.
+
+
+
+
+OUR VALUES
+
+ - First Principles Thinking: Question assumptions. Principles > rules.
+
+ - Operate at Base Pace: Focus on what matters, act quickly, and learn by doing.
+
+ - Give & Get Feedback: Be direct, be humble, and maintain a growth mindset.
+
+ - Everyone’s an Owner: Follow through on commitments and own results.
+
+ - Strong Opinions, Loosely Held: Drive clarity and make calls with imperfect information.
+
+ - Committed to the Mission: Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.
+
+ - Fun & Optimism Coexist with Grit: Collaboration and celebration coincide with the intensity of building real things.
+   
+   
+
+
+DO THE BEST WORK OF YOUR LIFE AT BASE.

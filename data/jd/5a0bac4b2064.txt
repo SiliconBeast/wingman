@@ -1,0 +1,105 @@
+Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.
+
+The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.
+
+
+
+
+READ THIS PART FIRST
+
+Your code will run next to sensors, networks, and aircraft hardware. You will not be several services removed from the result. When the software works, something physical works because of it.
+
+
+
+
+WHAT WE DO
+
+Swarm Aero is redefining air power. We are building autonomous aircraft and Legion, command and control software designed to coordinate large numbers of heterogeneous autonomous systems. Our team combines experience building novel aircraft, scaling startups, and delivering technology for national security.
+
+
+
+
+THE INTERNSHIP
+
+You will own a scoped project with a clear technical or business outcome, work directly with the people responsible for the system, and present what you built and learned at the end of the summer. The goal is not to give you practice work. It is to give you useful work with the support to do it well.
+
+
+
+
+WHAT YOU'LL DO
+
+· Develop C or C++ software for embedded avionics, vehicle systems, sensing, communications, or test equipment
+
+· Bring up peripherals and interfaces such as SPI, I2C, UART, CAN, Ethernet, or other serial and network protocols
+
+· Write drivers, services, diagnostics, simulation components, or hardware-abstraction layers
+
+· Use debuggers, logs, oscilloscopes, logic analyzers, and JTAG tools to find problems
+
+· Contribute to software-in-the-loop or hardware-in-the-loop testing and verification
+
+
+
+
+WHAT WE'RE LOOKING FOR
+
+· Currently pursuing a degree in Computer Science, Computer Engineering, Electrical Engineering, or a closely related field, with graduation and enrollment requirements to be confirmed.
+
+· Strong programming fundamentals and experience in C or C++
+
+· Coursework or project experience with embedded systems, operating systems, computer architecture, or real-time software
+
+· A project where you wrote software that interacted with hardware and can explain how you debugged it
+
+
+
+
+WHAT SETS YOU APART
+
+· An RTOS such as FreeRTOS, VxWorks, Zephyr, or QNX
+
+· Linux, device drivers, networking, robotics, controls, or avionics
+
+· Python-based test automation, CI, simulation, or model-based development
+
+
+
+
+WHAT YOU DO NOT NEED
+
+Aerospace experience, a perfect GPA, or a previous internship at a famous company. Show us what you have built, analyzed, tested, organized, or improved, and be ready to explain your contribution clearly.
+
+
+
+
+THE HONEST VERSION
+
+The pace is fast, the problems will not arrive fully defined, and you may spend part of the summer learning why your first approach was wrong. We will expect you to ask questions, test your assumptions, document your work, and leave the project better than you found it.
+
+
+
+ITAR requirement
+
+To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability.
+
+What We Offer
+
+ - Meaningful equity in a high-growth defense technology company
+
+ - Competitive base salary commensurate with experience
+
+ - Medical, dental, vision, and 401k
+
+ - PTO and paid sick leave
+
+ - Monthly wellness stipend
+
+ - Daily catered lunch (office)
+
+ - Paid parental leave
+
+ - Direct impact on a critical national security mission
+
+ - A world-class team of engineers and operators solving genuinely hard problems

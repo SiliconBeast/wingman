@@ -1,0 +1,109 @@
+Acron Aviation is seeking motivated and innovative Systems Engineering Interns to join our engineering team in St. Petersburg, Florida.
+This full-time, onsite internship is anticipated to run May through August and provides an opportunity to apply classroom knowledge in a professional engineering environment. You will work alongside experienced systems engineers and contribute to projects supporting the development, integration, verification, certification, and sustainment of aerospace recorder products and related technologies.
+Depending on your assigned team and project, you may gain experience in systems development, requirements analysis, product design, system integration, verification and validation, environmental testing, problem investigation, and technical documentation. Intern assignments will be aligned with current business and program needs while providing exposure to real-world aerospace systems engineering practices and the development of safety-critical aviation products.
+
+
+What You Will Do
+• Work under the guidance of experienced systems engineers and technical team members supporting recorder products and related aerospace systems.
+
+• Support development and review of system requirements, specifications, interface definitions, and design documentation.
+
+• Assist with systems analysis, modeling, and product development activities.
+
+• Help translate customer, regulatory, certification, and program requirements into clear and testable system requirements.
+
+• Develop or update test procedures, test scripts, verification plans, and validation documentation.
+
+• Execute functional, environmental, integration, and system-level testing under engineering guidance.
+
+• Analyze test results and document findings, anomalies, and recommendations.
+
+• Support product integration, verification, validation, regression testing, and issue reproduction activities.
+
+• Participate in test readiness reviews and help ensure test equipment, configurations, and procedures are prepared for execution.
+
+• Assist in investigating defects, failures, and unexpected product behavior.
+
+• Support root cause analysis and corrective action activities.
+
+• Participate in design reviews, technical discussions, project meetings, and engineering peer reviews.
+
+• Support preparation and maintenance of engineering documentation, requirements traceability, and configuration-controlled artifacts.
+
+• Assist with configuration management and product lifecycle activities.
+
+• Collaborate with Software, Electrical, Mechanical, Manufacturing, Quality, Certification, and Program Engineering teams.
+
+• Support qualification, environmental, laboratory, and certification testing activities.
+
+• Identify opportunities to improve testing efficiency, automation, documentation quality, and engineering processes.
+
+• Perform other systems engineering assignments aligned with your academic background and the needs of the assigned team.
+
+• This position may require access to information, technology, software, or hardware that is subject to U.S. export control laws and regulations. To comply with these requirements, applicants must qualify as a US Person.
+
+Required Qualifications
+• Currently enrolled in an accredited bachelor’s or master’s degree program in Systems Engineering, Aerospace Engineering, Electrical Engineering, Computer Engineering, Software Engineering, Mechanical Engineering, or a closely related technical discipline.
+
+• Expected to have completed at least two years of undergraduate study before the internship begins.
+
+• Foundational understanding of engineering development, requirements, testing, debugging, and problem-solving concepts.
+
+• Strong analytical and critical-thinking skills.
+
+• Ability to follow detailed technical procedures and engineering processes.
+
+• Ability to clearly communicate work status, questions, findings, and potential issues.
+
+• Ability to organize technical information and document results accurately.
+
+• Effective verbal communication, technical writing, and presentation skills.
+
+• Ability to work collaboratively in a multidisciplinary engineering environment.
+
+• Ability to take direction, ask questions when needed, and complete assigned work with an appropriate level of independence.
+
+• Ability to work full-time and onsite at the assigned Acron Aviation location for the duration of the internship.
+
+Preferred Qualifications
+• Systems engineering principles and lifecycle processes
+
+• Requirements development, allocation, and traceability
+
+• System architecture and interface definition
+
+• Model-Based Systems Engineering (MBSE)
+
+• Product verification, validation, and certification activities
+
+• System integration and troubleshooting
+
+• Development and execution of test procedures and test plans
+
+• Environmental, qualification, or reliability testing
+
+• Data analysis and interpretation
+
+• Configuration management and change control
+
+• Defect investigation and root cause analysis
+
+• Test automation or scripting
+
+• Aerospace electronics, avionics, or embedded systems
+
+• Flight data recorders, cockpit voice recorders, or aircraft data acquisition systems
+
+• Safety-critical or regulated product development environments
+
+• DO-178, DO-254, ARINC, FAA, EASA, or other aerospace industry standards and processes
+
+• Aerospace, aviation, defense, or other highly regulated industries
+
+•
+
+Equal Opportunity Statement
+Acron Aviation is proud to be an Affirmative Action and Equal Opportunity Employer. We are committed to treating all employees and applicants with respect and dignity and to maintaining a workplace free from unlawful discrimination. All applicants will be considered for employment regardless of race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or any other legally protected characteristic.
+ 
+Additional Information:
+Acron Aviation maintains a drug-free workplace and conducts pre-employment substance abuse testing and background checks, where allowed by law. Acron Aviation is an E-Verify employer

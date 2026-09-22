@@ -1,0 +1,23 @@
+Overview
+
+Susquehanna is looking for highly motivated full-time students for our 10-week FPGA engineering summer internship program. The FPGA team is responsible for designing and implementing high performance and low latency hardware systems. As an engineer on our team, you will work closely with senior members of the team to design, implement, and test digital logic blocks using VHDL. You will also design and run tests on target hardware in our lab using testbenches written in C#. Other projects may include enhancing our tool flows using Python and/or Linux scripts.
+
+What we’re looking for
+
+• Currently pursuing a Bachelor’s degree in Electrical Engineering or Computer Engineering
+
+• Intention to graduate with a bachelor’s or master’s degree within one year of the internship program
+
+• Knowledge of FPGA architecture and build flow
+
+• Experience with VHDL, Verilog, or System Verilog is required
+
+• Existing knowledge of Ethernet and TCP/IP is preferred
+
+• Experience with a high-level software language like Python, C, or C# is preferred
+
+ABOUT SUSQUEHANNA:
+
+Susquehanna is a global quantitative trading firm founded with a growth mindset and an analytical approach to decision making. As one of the largest proprietary trading firms in the world, Susquehanna benefits the financial markets by providing liquidity and ensuring competitive prices for buyers and sellers. Susquehanna brings together the brightest minds, the best technology, and an expansive library of data to design and implement quantitative trading strategies that make us leaders in the financial markets. Beyond trading, Susquehanna is active in global private equity, institutional brokerage, sports analytics, and structured capital.
+
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.

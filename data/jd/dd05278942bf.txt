@@ -1,0 +1,66 @@
+We are seeking a Mechanical Engineering Intern for Photonics Physics Package R&D in our Broomfield, CO location to support trapped-ion integrated photonics R&D team.
+Our diverse team of engineers and scientists develops optics and integrated photonics technologies that enable scaling of our trapped-ion quantum computers from our current 98-qubit Helios system to our future Lumos system with hundreds of thousands of qubits. The data, designs, and expertise from our group inform our next-generation systems, from the overall architecture to the tiniest of details. We are looking for more collaborative engineers and scientists to join our cross-disciplinary team.   
+
+
+Key Responsibilities:
+• Support the trapped-ion integrated photonics R&D effort through one or more of the following: 
+
+• Support the design, build, integration, and/or operation of cryogenic ultra-high vacuum (UHV) test systems used to evaluate and scale next-generation quantum computing technologies.  
+
+• Create and maintain 3D CAD models, detailed engineering drawings, and assembly documentation for custom mechanical components, fixtures, and test hardware.  
+
+• Collaborate with engineers and scientists to fabricate, assemble, troubleshoot, and improve experimental ion trap test systems.  
+
+• Collect and analyze data to validate hardware performance, reliability, and manufacturability. 
+
+• Support root cause investigations and failure analysis activities to identify design improvements and enhance system performance.  
+
+• Contribute to design reviews, engineering documentation, and configuration management processes.  
+
+• Work closely with the Integrated Photonics team to design and build fixtures, tooling, and test hardware supporting photonic device characterization and validation.
+
+You Must Have:
+• Actively pursuing a bachelor’s degree in mechanical engineering or related degree 
+
+• Graduating after December 2027  
+
+• Due to Contractual requirements, applicants for employment for this position must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Quantinuum. (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status)
+
+• Due to national security requirements imposed by the U.S. Government, candidates for this position must not be a People's Republic of China national or Russian national unless the candidate is also a U.S. citizen.
+
+WE VALUE:
+• Curiosity towards vacuum systems, cryogenics, precision mechanics, optics, photonics, or scientific instrumentation and their connection to quantum computing
+
+• Strong problem-solving skills with a willingness to troubleshoot complex multidisciplinary systems. 
+
+• Ability to communicate technical concepts clearly and work effectively in multi-disciplinary teams.  
+
+• Experience with CAD software such as SolidWorks or Onshape. 
+
+• Hands-on experience designing, fabricating, or assembling mechanical systems in a laboratory, research, academic, or industry setting.  
+
+• Familiarity with engineering drawings, GD&T, tolerance stack-up analysis, and design for manufacturing principles.  
+
+• Experience operating rapid prototyping tools or working with machine shops and vendors.  
+
+• Familiarity with structural, thermal, vibration, or finite element analysis methods.  
+
+• Programming or scripting experience (Python, MATLAB, LabVIEW, or similar) for automation, analysis, or test equipment control.
+
+Quantinuum is a leading quantum computing company delivering a full stack platform designed to make quantum computing deployable in real-world environments. With active engagements spanning pharmaceuticals, material science, financial services, government, industrial sectors, and leading academic and research institutions worldwide, we are helping organizations unlock the transformative potential of quantum computing. 
+ 
+Our global team of more than 800 employees includes many of the world's leading scientists, engineers, and researchers, with more than 70% of our technology team holding advanced degrees at the Master's or PhD level. Headquartered in Broomfield, Colorado, Quantinuum operates across the United States, United Kingdom, Germany, Japan, and Singapore. 
+ 
+By joining Quantinuum, you’ll help shape the future of quantum computing, pushing the limits of technology, and making the impossible possible.
+ 
+What’s in it for you?
+We believe our people are our greatest strength and offer a comprehensive rewards package that supports your professional growth, well-being, and long-term success.
+For candidates located outside of this state, this role will include a housing stipend of $500 per check/bi-weekly  
+A competitive market rate and innovative, game-changing work
+Flexible work schedule
+Employee discounts
+Equal Opportunity Employer
+Quantinuum is proud to be an equal opportunity employer. We are committed to building an inclusive workplace where all employees and applicants are treated with respect and provided equal opportunities regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, ancestry, marital status, or any other characteristic protected by applicable law.
+Know Your Rights: Workplace discrimination is illegal. For more information about Quantinuum, please visit our website. 
+We are committed to making our recruitment process accessible to all. If you require any reasonable adjustments at any stage of the application or interview process, please let us know use the Lets talk contact form. 
+Applications will be accepted on an ongoing basis, there is no application deadline for this position.

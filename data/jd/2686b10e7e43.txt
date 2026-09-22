@@ -1,0 +1,91 @@
+Who We Are
+
+Verkada is transforming how organizations protect their people and places with an integrated, privacy-sensitive AI-powered platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management.
+
+We’ve got serious momentum in the market: more than 30,000 customers (including 100+ of the Fortune 500), a $5.8B valuation , more than $1 billion in annualized bookings, and backing from CapitalG, Sequoia Capital, General Catalyst, Felicis Ventures, Next47 and more. Physical AI is one of the most consequential technology shifts of our time, and Verkada is at the center of it.
+
+You can look at all kinds of communities to see our platform’s impact in the world. It's the retailer that uses our agentic AI to deter theft before it happens. The warehouse that uses AI-powered alerts to make sure its team is protected on the floor with proper PPE. The school that’s alerted to a threat in real-time and triggers a lockdown in seconds, not minutes. We’re rapidly scaling this impact: today, more than 2 million Verkada devices are deployed across 170+ countries.
+
+About the Role
+
+As a Technical Support Engineering Intern, you won't be grabbing coffee or shadowing others. Our interns are at the forefront of our team, tackling real-world challenges alongside our full-time engineers. Based at our San Mateo HQ, you'll work with cutting-edge, cloud-managed IoT technology, helping our enterprise clients with everything from troubleshooting to system design.
+
+This internship is your chance to make a real impact, build valuable technical skills, and jumpstart your career in a dynamic, high-tech environment.
+
+What You'll Do
+
+• Hands-on Troubleshooting: Dive into complex network, hardware, and software problems on Verkada's platform
+
+• Level Up Fast: Become the go-to expert customers trust for smart system design and integration advice
+
+• Communicate with Impact: Translate heavy technical concepts into clear, sharp advice on phone calls, live chat, and emails
+
+• Own It, End to End: Take full ownership of customer issues from "we have a problem" to "problem solved"
+
+• Team Up with Tech Leaders: Partner directly with Engineering and Product teams to test new gear and hunt down bugs before anyone else
+
+• Share Knowledge: Write Knowledge Base content that helps thousands of users
+
+What You Bring
+
+• Available for a full-time (40 hours per week) in-person internship for Spring 2027 in San Mateo, CA
+
+• A third or fourth-year student in a Bachelor's degree program from an accredited university, with a focus on a related technical field like Networking, Telecommunications, Systems Administration, Information Technology, Computer Science, Computer Engineering, or Cybersecurity
+
+• You have coursework experience with computer networking, Linux, and computer systems
+
+• You're a problem-solver with a keen eye for detail
+
+• You can clearly and confidently communicate complex technical information
+
+• You thrive in a team environment
+
+• Industry certifications (like CCNP, CCNA, or Network+) are a bonus, but not required!
+
+Intern Perks & Benefits
+
+At Verkada, we believe that internships should be as rewarding, supportive, and fun as they are impactful! That’s why we’re committed to providing a world-class experience that supports both your personal well-being and professional growth. Here are just a few of the perks and benefits you can expect as a Verkada Technical Support Engineering intern:
+
+• Monthly housing stipend for those relocating to the area, in addition to a competitive hourly wage
+
+• Daily lunch catered onsite, complimentary barista-made drinks, and fully stocked snacks to keep you fueled
+
+• Intern-exclusive events and mixers, allowing you to connect with other interns across different teams
+
+• Cross-functional collaboration opportunities, giving you real exposure to how teams work together
+
+• Meetings with company executives so you can hear directly from leaders and gain insight into building a successful career
+
+• 333 program: you can go out with your fellow interns after work and expense $30 off a meal
+
+• Friendly tournaments involving Super Smash Bros, Magic, and other games
+
+• Intern exclusive bingo cards that allow you to explore the Bay Area and win fun swag!
+
+• And more! From team-building activities to mentorship opportunities, we’re here to support your growth every step of the way
+
+Don't just take it from us, hear directly from some of our current and past interns on their experience:
+
+• “A benefit of being a TSE at Verkada is about being a part of a fast-growing company. You learn about the latest products deeply and learn how to effectively communicate what you have learned in an easy-to-understand way for customers: ‘If you can't explain it simply, you don't understand it well enough.’ Albert Einstein” - Daniel, TSE Intern, London
+
+• “After training (which feels a lot like university lectures) you spend time in queue, which is basically being on-call for the next chat/call/email that comes in. When a customer needs something, whether that’s information about a product, how to set up that product, or that product having a bit of a moment, you are the one who gets to be the source of truth for that person. Being able to communicate this to them in a reasonable amount of time is paramount to doing well in this role” - Tedrick, TSE Intern, HQ
+
+• “This internship has given me a lot to think about in terms of career goals. I would say in particular this internship is a great way to build your connections for the Silicon Valley area if your goal is to work in the Tech space. It’s also given me a unique perspective and understanding of enterprise equipment. It serves as a great launching point for your career.” - Thomas, TSE Intern, HQ
+
+Additional Information
+
+• We do sponsor and take over sponsorship of employment visas for this role. If we make you an offer, we will make every reasonable effort to get you a visa.
+
+Pay Disclosure
+
+At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity . This estimate can vary based on the factors described above, so the actual starting base pay may be above or below this range. Base pay is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).
+
+Estimated Hourly Pay Range
+
+$30 — $33 USD
+
+Verkada Is An Equal Opportunity Employer
+
+As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
+
+Your application will be handled in accordance with our Candidate Privacy Policy .
