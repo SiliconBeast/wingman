@@ -1,0 +1,47 @@
+Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+At CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.
+
+
+The CesiumAstro Hardware Design Team is looking for Spring 2026 interns to design and build electronics hardware for satellite communication systems.
+ 
+On the CesiumAstro Hardware Design Team, we are responsible for full-stack hardware development for cutting-edge space electronics. We own designs from initial concept through part selection, schematic, layout, build, test, and delivery, all the way through in-orbit support. Designs encompass the spectrum of electronics design, including high-speed digital, power electronics, and RF hardware – often on the same board.
+ 
+We’re looking for summer interns to support our mission. Interns work side-by-side with design engineers: contributing to the company’s success is as high of a priority as learning and gaining experience. Interns are typically responsible for their own schematics and layouts as well as supporting analysis and hands-on lab work. Specific assignments will be determined by a mix of project availability and candidate interests.
+ 
+If you are an electrical engineering student who wants to sink your teeth into the rigor of space electronics design, this is the job for you.
+ 
+To apply, please include a brief cover letter describing your interest in electronics hardware design and in this particular role. 
+
+
+
+JOB REQUIREMENTS AND MINIMUM QUALIFICATIONS
+• Current enrollment in a Bachelor of Science (BS), Master of Science (MS), or PhD program in Electrical Engineering or Computer Engineering from an accredited university.
+
+• GPA of 3.5 or higher.
+
+• Strong fundamentals in EE topics covered in coursework.
+
+• Practical experience designing and building electronics hardware for a research project, competition team, extracurricular activity, prior internship, or advanced engineering course.
+
+• Experience with schematic capture, PCB layout, bring-up, and debugging.
+
+• Hands-on experience with lab instruments such as oscilloscopes, spectrum analyzers, electronic loads, and signal generators.
+
+• Excellent written and verbal communication skills. Cesium interns regularly present their work to peers, mentors, and Cesium executive leadership throughout the course of the summer.
+
+PREFERRED EXPERIENCE
+• Strong extracurricular involvement, such as in competition teams or research
+
+• Aerospace experience, such as a previous internship or school CubeSat project.
+
+• Advanced coursework or research experience in digital, power, analog, and/or RF circuit design.
+
+• Strong programming skills to support hardware bring-up and test (C/C++, Python, MATLAB, etc.).
+
+• Experience with SPICE-based circuit simulation.
+
+All CesiumAstro internships are compensated competitively and located onsite at one of our facilities.
+ 
+CesiumAstro is an Equal Opportunity employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.
+

@@ -1,0 +1,109 @@
+Do you want to design the physical hardware that measures and controls the world’s most critical industrial processes? Emerson’s Process Systems and Solutions business develops automation products that power the energy and manufacturing industries. We are seeking a Hardware Design Intern (Summer 2027) who is passionate about electrical and mechanical engineering and excited to gain hands-on experience in a collaborative, innovative environment based in either our Round Rock, TX or Austin, TX office.
+
+You will join one of our hardware design teams that build the controllers, I/O, and field devices behind DeltaV , our flagship distributed process control system used by leading chemical, life sciences, and energy companies around the world. Working alongside experienced engineers and mentors, you will take on a summer project drawn from our real backlog. Potential project opportunities include PCB schematic capture, component placement, and board layout , FPGA design and verification, circuit simulation and analysis, or mechanical design work such as enclosures, thermal management, and manufacturability improvements.
+
+No prior industrial automation experience is required. If you enjoy designing and building things and want to see your work become hardware installed in plants around the world, we will teach you the rest. Many of our engineers joined us straight out of school from a general electrical or mechanical engineering background, and this internship is designed to be a great first exposure to professional product design.
+
+In This Role, Your Responsibilities Will Include:
+
+• Partner with electrical and mechanical engineers and your mentor on a summer project that contributes to the hardware behind DeltaV controllers, I/O, and field devices.
+
+• Contribute to schematic capture, component placement, and PCB layout, from initial concept through a design ready to be built.
+
+• Support mechanical design work such as enclosures, mounting, and thermal management, and help evaluate designs for manufacturability.
+
+• Use simulation and analysis tools to evaluate circuit, thermal, or mechanical performance before hardware is built.
+
+• Work hands-on in the lab to bring up, measure, and troubleshoot prototype hardware using standard test equipment.
+
+• Participate in design reviews and testing, and learn how professional teams take a product from concept to release.
+
+• Take part in agile ceremonies such as sprint planning and retrospectives, along with Hackathons, Tech Talks, and Communities of Practice.
+
+• Document what you build so the team can maintain and extend your work after your internship ends, and present your results to the team at the end of the summer.
+
+Who You Are:
+
+You are curious about how products are designed and built, and you enjoy the challenge of turning requirements into a real, physical design. You like solving problems and can break them down into manageable pieces. You are methodical when tracking down an unexpected measurement and comfortable being hands-on in the lab. You ask questions when something is unfamiliar, communicate effectively, and thrive in a team-oriented environment where electrical, mechanical, and software engineers work side by side. You take pride in your work and are motivated by seeing what you design become hardware customers rely on every day.
+
+For This Role, You Will Need:
+
+• Currently enrolled in an accredited college/university and returning to school following the internship.
+
+• Pursuing a degree in Electrical Engineering, Mechanical Engineering, Computer Engineering, or a related technical field.
+
+• Coursework or project experience with CAD tools, whether electrical (schematic capture and PCB layout) or mechanical (3D modeling).
+
+• Legal authorization to work in the United States. Sponsorship will not be provided for this position.
+
+Preferred Qualifications that Set You Apart:
+
+• Junior or Senior standing.
+
+• Experience with schematic capture and PCB layout tools such as Altium Designer, Cadence OrCAD or Allegro, Mentor/Siemens Xpedition, or KiCad.
+
+• Experience with mechanical CAD tools such as SolidWorks, Creo, NX, or AutoCAD.
+
+• Familiarity with circuit simulation and analysis tools such as SPICE, or with thermal and structural simulation.
+
+• Exposure to digital and analog circuit design fundamentals, including power supply design and component selection.
+
+• Exposure to FPGA design and verification using an HDL such as VHDL or Verilog.
+
+• Understanding of signal integrity, power distribution, grounding, or thermal management considerations in board design.
+
+• Interest in design for manufacturability, enclosure design, or materials selection.
+
+• Awareness of agency and compliance requirements such as UL, EMC, hazardous location, or intrinsic safety.
+
+• Comfort with hands-on lab equipment such as oscilloscopes, multimeters, power supplies, and logic analyzers.
+
+• Coursework or project experience in a programming or scripting language such as Python, C, C++, or MATLAB.
+
+• Interest in applying AI/ML techniques to hardware design, simulation, or test problems.
+
+• Previous internship, class project, hackathon, or personal project experience in hardware design.
+
+Our Culture & Commitment to You:​
+
+At Emerson, we prioritize a workplace where every employee is valued, respected, and empowered to grow. We foster an environment that encourages innovation, collaboration, and diverse perspectives because we know that great ideas come from great teams. Our commitment to ongoing career development and growing an inclusive culture ensures you have the support to thrive. Whether through mentorship, training, or leadership opportunities, we invest in your success so you can make a lasting impact. We believe diverse teams working together are key to driving growth and delivering business results. ​
+
+What You’ll Gain:
+
+• Real-world experience contributing work that ships as part of a product used in plants around the world.
+
+• Direct mentorship from experienced engineers and a close look at how professional teams design, build, test, and release products.
+
+• Practical, resume-ready skills in PCB design, mechanical design, and hands-on hardware bring-up and test.
+
+WHY EMERSON
+
+Our Commitment to Our People
+
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+
+Work Authorization
+
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+Equal Opportunity Employer
+
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.
+
+Accessibility Assistance or Accommodation
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+
+ABOUT EMERSON
+
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+
+No calls or agencies please.

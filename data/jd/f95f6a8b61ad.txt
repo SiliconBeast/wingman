@@ -1,0 +1,115 @@
+Why Join Bracco Medical Technologies?
+
+We care as much about our employees as we do our patients. Our culture fosters a work environment where employees can thrive, be passionate and have fun along the way. Each member of the Bracco Medical Technologies team has the power to make a difference......every day!
+
+Company Overview
+
+At Bracco Medical Technologies, every employee has an impact on our Mission to empower lifesaving decisions. We create medical devices that give healthcare providers the insights they need to confidently and safely diagnose patients. Our unique line of products includes Intravascular Ultrasound (IVUS), Fractional Flow Reserve (FFR), Cardiovascular Imaging contrast delivery (CVi), and CT and MRI contrast delivery systems. As part of the Bracco Group, Bracco Medical Technologies benefits from the resources of a multinational conglomerate with broad expertise in cath lab and radiology suite technology and a dedication to continuous advancement.
+
+We are currently seeking intern/co-op candidates to learn with us as they engage in a variety of hands-on projects alongside our high-performing and authentic R&D team.
+
+About the Role
+
+We're looking for a Firmware Engineering Co-op to join our engineering team and help design, test, and debug embedded systems that power our products. This role is a great fit for a student combining electrical engineering and computer science coursework who wants hands-on experience with real hardware, communication protocols, and low-level software development.
+
+You'll work alongside experienced firmware and hardware engineers on active projects, gaining exposure to the full embedded development lifecycle — from schematic review and communication interfaces to writing, testing, and debugging firmware on real boards.
+
+What You'll Do
+
+•
+Write and debug firmware in C/C++ for microcontroller-based systems
+
+•
+Implement and troubleshoot communication interfaces such as I2C, SPI, and Serial (UART)
+
+•
+Use JTAG emulators and debugging tools to identify and resolve hardware/firmware issues
+
+•
+Develop Python scripts to support test automation, data collection, and validation
+
+•
+Use AI tools to accelerate code generation and build test scripts
+
+•
+Support data processing and analysis from test and sensor data
+
+•
+Prototype and validate designs using off-the-shelf development boards (e.g., Arduino, vendor eval boards)
+
+•
+Collaborate with hardware and software teams to bring designs from concept to working prototype
+
+•
+Document code, test procedures, and results clearly for the team
+
+Qualifications
+
+Required:
+
+•
+Currently pursuing a degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field
+
+•
+Proficiency with C/C++
+
+•
+Working knowledge of Python
+
+Preferred:
+
+•
+Coursework or hands-on experience with microcontrollers and basic circuits
+
+•
+Experience with communication interfaces: I2C, SPI, and Serial
+
+•
+Familiarity with JTAG emulators and hardware debugging tools
+
+•
+General understanding of using AI tools to generate code and test scripts
+
+•
+Experience with data processing or analysis
+
+•
+Hands-on experience with development boards such as Arduino or other vendor development kits
+
+What We're Looking For
+
+An ideal candidate blends electrical engineering fundamentals with strong software skills — someone curious about how hardware and software meet, comfortable debugging at the board level, and eager to learn on real projects with real deadlines.
+
+Job Location
+
+•
+Eden Prairie, Minnesota (no relocation or housing assistance available)
+
+Term/Hours
+
+•
+Spring/Summer 2027 start, 2-3 semester rotation, can be consecutive or non-consecutive semesters. January start dates are preferred, but other start dates will be considered.
+
+•
+Hours: 40 hours per week
+
+Compensation & Total Rewards:
+
+Estimated Pay Range: $23.00 – $25.00/hour
+
+*Estimated Starting Pay Range is reflective of the range Bracco Medical Technologies reasonably expects to pay for the position. The range provided is based on compensation and market data specific to the position.
+
+Total Rewards:
+
+•
+Time off – We provide safe and sick time to help you take time for yourself when needed.
+
+•
+Live well – We offer medical benefit options to help protect you along the way.
+
+•
+Evolve – Through structured on-the-job learning, workshops, and networking events, you’ll find many opportunities to grow, personally and professionally.
+
+To learn more about Bracco Medical Technologies, please visit our website at: https://careers.braccomedtech.com .
+
+Bracco Medical Technologies is an equal opportunity/affirmative action employer.

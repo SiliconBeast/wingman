@@ -1,0 +1,98 @@
+The 2027 Summer Internship Program will run from May 17, 2027, through August 6, 2027 . Candidates must be available to start on May 17 and participate through the duration of the program.
+
+Applicants must be legally authorized to work in the United States. We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future.
+
+Who Are We?
+
+The Toro Company (TTC) has delivered market-leading, innovative products and outstanding customer care for more than 100 years. With over 11,000 employees worldwide, TTC is headquartered in Bloomington, Minnesota, USA.
+
+Our company designs and manufactures turf maintenance equipment; turf irrigation systems; landscape and lighting products; snow and ice management solutions; agricultural irrigation systems; rental, specialty and underground construction equipment; and residential turf and snow equipment. We market and sell TTC products worldwide through a network of distributors, dealers, mass retailers, hardware retailers, equipment rental center and home centers—as well as online direct to end users.
+
+What Will You Do?
+
+As an Embedded Software Engineering Intern, you'll have the opportunity to design cutting-edge embedded software applications for Toro equipment. Whether you're working independently or collaborating with a multi-disciplinary team, you'll gain hands-on experience in real-world projects that push the boundaries of technology. Key responsibilities include:
+
+•
+Dive into the development, debugging, and enhancement of embedded firmware for electrification and autonomous projects.
+
+•
+Be part of the team that investigates, defines, and specifies innovative new products.
+
+•
+Collaborate with engineering team members to design and implement high-quality electronics and firmware solutions that meet cutting-edge product requirements.
+
+•
+Play a key role in resolving integration challenges that involve multiple electronics, software applications, and developers.
+
+•
+Work closely with electronic, system, and software design engineers to help optimize overall product performance.
+
+•
+Get hands-on experience in the validation and testing of electronics and embedded software.
+
+•
+Assist software engineers in defining interfaces and optimizing hardware/software performance.
+
+•
+Thoroughly test and evaluate embedded software to ensure top-notch quality and functionality.
+
+•
+Contribute to the creation of detailed hardware and firmware design and validation documentation.
+
+What Do You Need?
+
+To be considered for this role, an individual should meet the following minimal requirements:
+
+•
+Currently a Junior or Senior student pursuing a Bachelor’s degree in Electrical Engineering, Computer Engineering, Mechanical Engineering or a related engineering field (required) with interest in embedded systems.
+
+•
+Familiar with developing embedded firmware for 8/16/32-bit microcontrollers in C/C++.
+
+•
+Experience with real-time operating systems (RTOS) is a plus.
+
+•
+Knowledge of desktop application development in C++/C# is preferred.
+
+•
+Familiar with common communication protocols such as SPI, I2C, RS232, and CAN.
+
+•
+Strong understanding of the relationship between hardware and software, with the ability to design systems that integrate both technologies efficiently.
+
+•
+Excellent oral and written communication skills.
+
+•
+Thrives in a team environment.
+
+•
+Results-driven, action-oriented, and full of positive energy.
+
+•
+Strong problem-solving and resolution skills.
+
+•
+High degree of integrity and commitment to achieving results.
+
+•
+Independently self-motivated and have interpersonal skills to build relationships and collaborate within a team having a variety of cross-functional product responsibility.
+
+What Can We Give You?
+
+At The Toro Company, we are always working to make sure our interns know just how valued they are. In addition to a competitive pay- The Toro Company offers interns a variety of perks, including:
+
+•
+Dress for your day – We know you're more productive when you're comfortable, which is why TTC employees are encouraged to take advantage of our casual, corporate environment.
+
+•
+Volunteerism – The Toro Company is proud to provide interns 8 hours of paid time to volunteer in the community.
+
+•
+Summer Hours *Based on Location* – Enjoy a flexible schedule during the summer! By working a little more during the first few days of the week, TTC employees at certain locations are able to start their weekends early and leave by noon on Friday.
+
+•
+Competitive Pay – Competitive compensation with an anticipated hourly rate of $22–$28. Actual rates may vary based on factors such as academic standing, business function, and other relevant considerations.
+
+The Toro Company is an Equal Opportunity Employer. We consider all qualified applicants based on merit and do not discriminate on the basis of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information, military service, or other non-merit factors. We are committed to creating a welcoming environment for all employees.

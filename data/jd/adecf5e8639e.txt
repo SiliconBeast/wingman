@@ -1,0 +1,141 @@
+Company:
+Qualcomm Canada ULC
+
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern - HW
+
+Qualcomm Overview:
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+General Summary:
+
+About Qualcomm
+
+Qualcomm relentlessly innovates transforming businesses, enriching lives and fortifying societies. Our solutions are pivotal in crafting a smarter, interconnected world. Building on our nearly 40-year history of era-defining technology breakthroughs, we deliver leading-edge AI, high performance, lower-power computing, and unrivaled connectivity. We’re proud to be the partner of choice to many of the world’s largest enterprises. Together with our ecosystem partners, we enable next-generation digital transformation. At Qualcomm, we are engineering human progress.
+
+Join Us in Shaping the Future
+
+At Qualcomm, we're committed to engineering human progress by delivering intelligent computing everywhere. We're passionate about harnessing the power of technology to transform industries and improve lives. Our early career programs offer limitless opportunities for growth, mentorship, and meaningful work. By joining our team, you'll be part of a community that's pushing the boundaries of what's possible in AI, computing, and connectivity. With a global footprint spanning over 30 countries, you'll have the chance to collaborate with diverse talent and contribute to projects that are shaping the future of technology.
+
+Our early career programs are designed to attract inventive minds, offering a platform to contribute to our long-term innovation pipeline. You'll be part of a community that values collaboration, creativity, and continuous learning. Our programs provide real-world experience, technical skills, and professional development opportunities, empowering you to make a meaningful impact and achieve your career goals. Join us for our 2027 intern class in Toronto, Canada !
+
+Maximize Your Opportunities:
+Our internship hiring model routes candidates from this application into multiple project specific roles. Your "Profile Visibility" choice will guide how we manage your data across our systems. To be considered for the full breadth of internship opportunities, select the option to use your profile data for "Any Roles Globally".
+
+If you choose to limit your data to "Only The Role I'm Applying For", it will restrict the opportunity for you to be considered across matching internship opportunities.
+
+You can update your profile visibility preferences at any time through the Candidate Home Portal.
+
+Steps:
+
+•
+Log Into Your Eightfold Candidate Home Account
+
+•
+Hover Over The "Profile" Dropdown
+
+•
+Open Settings
+
+•
+Edit "Profile Visibility"
+
+Role Overview
+
+The Qualcomm Analog Design team in Toronto is composed of a group of nerdy engineers who have still not forgotten how to have fun. We recognize that, as an undergrad student, you probably don’t have a lot of integrated circuit (IC) design experience, and that is ok. We are looking for smart and motivated engineers who like a good challenge and are willing to learn. We will work with you to build upon the knowledge of circuits that you have developed through your courses or projects and will help you become a productive member of our team. Our aim is to help you learn a lot and then return to school with confident knowledge in the subject. It’s our hope that you will become part of Toronto’s expanding ecosystem of hardware engineering talent, and we hope to work with you again longer term after you graduate.
+
+Responsibilities may include:
+
+•
+Work with a team of world-class engineers who are very willing to help when needed and are happy to receive help when offered.
+
+•
+Ensure analog circuit performance adheres to the specifications set by previous versions of the design and system model simulations.
+
+•
+Analog behavior modeling using SystemVerilog and run AMS co-sim to validate models
+
+•
+Propose design and verification strategies to ensure high quality design.
+
+•
+Present simulation data for peer review.
+
+•
+Document design features and key testbench performance metrics.
+
+•
+Cross-functional work involve analog, digital, firmware and system teams.
+
+Minimum Qualifications:
+
+•
+Enrolled in Electrical or Computer Engineering University program.
+
+•
+Skilled in Verilog / SystemVerilog for RTL design verification.
+
+•
+Knowledge of SPICE simulators and simulation methods.
+
+Preferred Qualifications (but not required to apply):
+
+•
+Experience with EDA tools like Cadence Virtuoso for schematic entry, layout, and verification.
+
+•
+Knowledgeable in Verilog-A for analog behavioural modeling.
+
+•
+Familiarity with one of more the following blocks: Bandgap, Regulator, Oscillator, Op Amp, PLL, ADC, high-speed digital logic
+
+•
+Familiarity with transistor-level circuit design using advanced CMOS technology nodes such as 7nm FinFET and above.
+
+•
+Knowledge of Python/Perl/TCL/Matlab for CAD flow automation is helpful
+
+Education Requirements:
+
+•
+In study towards a bachelor’s degree in one of the following: Electrical Engineering, Computer Engineering, Engineering Science, Computer Science, or related field
+
+•
+For 16-month internships: must be available May/June 2027 - August/September 2028
+
+•
+For 12-month internships: must be available May/June 2027 - May/June 2028
+
+•
+Expected graduation date of November 2028 or later.
+
+•
+1+ years of academic experience with programming languages such as C, C++, Python, etc
+
+Qualcomm’s Internship Program
+
+Our interns join world-class teams to help define and build what is next for mobility and the world. You’ll be paired with a mentor with visibility to your project and team, receive support from your manager, and have access to the entire Qualcomm employee community to ensure your success. To round out your internship, we host professional development workshops, social events, cross-functional speaker sessions, and an executive speaker series. In addition to competitive hourly pay and accrued vacation time, you will receive housing stipend to accommodate for the duration of your internship.
+
+Application Process
+
+We will review resumes on an ongoing basis, and a recruiter may reach out to you. Advancing candidates may be invited to complete a timed HackerRank challenge to evaluate their technical skill set.
+
+Export Control Notice
+
+This role may require an export license for candidates with citizenship in certain countries (see current country list below – subject to change). Qualcomm, like other companies, is experiencing significant delays in the export license process. Please be advised that if an export license is required, you may not be able to start work with Qualcomm until the license is granted, which may impact your ability to participate in the internship.
+
+Countries requiring export : Armenia, Azerbaijan, Belarus, Burma (Myanmar), Cambodia, China, Cuba, Georgia, Hong Kong, Iran, Iraq, Kazakhstan, Kyrgyzstan, Laos, Libya, Macau, Moldova, Mongolia, Nicaragua, North Korea, Russia, Sudan, Syria, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, Venezuela, Vietnam, and Yemen.
+
+Applicants : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail myhr.support@qualcomm.com or call Qualcomm's toll-free number found here . Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities.
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+Pay range and Other Compensation & Benefits:
+$54,600.00 - $103,350.00
+
+The above pay scale reflects the broad, minimum to maximum, pay scale for this job code for the location for which it has been posted. Even more importantly, please note that salary is only one component of total compensation at Qualcomm. We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus). In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play. Your recruiter will be happy to discuss all that Qualcomm has to offer.
+
+If you would like more information about this role, please contact Qualcomm Careers .

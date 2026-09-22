@@ -1,0 +1,63 @@
+About Zoox
+Zoox is an autonomous ridehailing company building the world's first purpose-built robotaxi — fully electric, bidirectional, with no steering wheel or driver's seat. Backed by Amazon and founded to make transportation safer, cleaner, and more accessible, Zoox designs its vehicles entirely around the rider. We're currently operating in Las Vegas and San Francisco, with Austin and Miami on the horizon, and testing underway across seven U.S. markets.
+About Our Part-Time Student Worker Program
+Zoox's student worker program puts you at the center of one of the most ambitious challenges in transportation. You'll contribute to real projects, work alongside engineers and researchers pushing the boundaries of autonomous technology, and gain experience that goes well beyond the classroom. We're looking for students who bring strong academic foundations, curiosity that doesn't stop at coursework, and a drive to be part of something that matters.
+Role Overview
+The ASTE team works on autonomy behavioral validation.
+
+
+Responsibilities
+• The triager role is to take on a list of "events" to be triaged, where each event is comprised of an Argus visualization link of hero's behavior (either in real life or in simulation), and there is a set of instructions on what to look for (what is a true issue and what is a false positive issue), and there are instructions on further analysis tools to determine this.
+
+• The triager will then look through all of the events and provide an analysis on the issues
+
+• Look through lists of events
+
+•
+
+Use visualization and analysis tools to work through this list of events.
+
+Required Qualifications
+• provide feedback on each event as requested by the work requestor.
+
+• Data analysis / analytics
+
+• Statistics / Applied math
+
+Bonus Qualifications
+• Digital Video and Multimedia Forensics
+
+• Failure analysis
+
+• Technical writing
+
+Program Requirements
+• Currently enrolled in a B.S. or M.S. program in a relevant discipline.
+
+• Available to commit to a minimum three-month assignment.
+
+• Able to commit a minimum of 40 hours per wee k.
+
+• Able to work on-site at one of our office locations.
+
+• Must adhere with Zoox confidentiality requirements, including refraining from using or sharing proprietary company information outside of Zoox, such as in academic research, theses, publications, or presentations.
+
+We want to be transparent: this is not an internship. The Part-Time Student Worker Program is designed to complement your academic experience by providing meaningful, ongoing work alongside your studies. Rather than participating in a cohort-based program, you'll join a team directly and contribute to real projects with real impact.
+ 
+While the program does not include structured intern programming or a pathway to full-time employment, it offers valuable opportunities to learn, develop new skills, and gain hands-on experience in a professional environment.
+ 
+Compensation for this role is $30/hour.
+ 
+This is a contract position; employment will be through a vendor contracted with Zoox. The hourly rate is as posted, and benefits eligibility is determined by the vendor.
+
+
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+
+Follow us on LinkedIn
+
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.
+
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.

@@ -1,0 +1,90 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+
+Marvell's firmware engineering teams span multiple cutting-edge domains, giving you the opportunity to work on technologies that power next-generation cloud, AI, storage, and networking solutions. Firmware engineers may contribute to secure, high-performance firmware for compute and custom ASIC platforms, embedded software for SSDs, or trusted firmware stacks for hardware security modules. Other teams focus on networking innovation, developing tools and firmware for dynamic services, or creating embedded solutions for high-speed PAM4 DSP chips and optical communication links. Across all groups, you’ll collaborate with hardware and software engineers to deliver robust, scalable solutions that enable Marvell’s leadership in data infrastructure.
+
+What You Can Expect
+
+As a Firmware Engineer Intern at Marvell, you could:
+
+• Develop and maintain embedded firmware for advanced hardware platforms, including data center, AI devices, SSD controllers, DSP networking chips, and high-speed PAM4 DSPs.
+
+• Design and implement device drivers and firmware features for communication protocols (SPI, I2C, I3C, UART, MDIO, PCIe, NVMe) and RTOS-based systems.
+
+• Participate in full product lifecycle : concept, design, implementation, testing, validation, and release to customers.
+
+• Create and enhance automation scripts (Python, shell, bash) for testing, failure analysis workflows, and infrastructure management.
+
+• Develop provisioning software and trusted firmware stacks to enable advanced security features for SoCs, including cryptography and secure protocols (TLS/SSL, IPSec).
+
+• Collaborate with cross-functional teams (Hardware, System, QA, Customer Solutions) for integration, debugging, and performance optimization.
+
+• Design and execute unit, system, and integration tests , including regression planning and continuous integration (Jenkins).
+
+• Support lab testing and data analysis , including tool development for debugging, proof-of-concept preparation, and customer documentation.
+
+• Work on mission-critical features for top-tier cloud customers and gain exposure to DSP concepts (Equalizers, Filters) and networking fundamentals (Ethernet, TCP/IP, OSI model).
+
+• Debug complex hardware/software issues , drive root cause analysis, and manage fixes through issue tracking systems (e.g., Jira).
+
+What We're Looking For
+
+• Currently enrolled in a Bachelor’s Degree in Computer Engineering, Electrical Engineering, or a related field with an expected graduation date between Fall 2027 and Summer 2028
+
+• Strong problem-solving, verbal, and written communication skills
+
+• Proficiency in Python and/or C
+
+• Comfortable working in Windows or Linux-based development environments
+
+• Understanding of computer architecture, networking fundamentals (OSI model, TCP/IP), and/or embedded systems
+
+Knowledge or experience with any of the following technical skills:
+
+• Git, GitHub, or Gerrit
+
+• Linux, Makefiles, GDB, IDEs, and bash scripting
+
+• ARM CPU, RISC-V, TrustZone, Caliptra, or Trusted Firmware
+
+• RTOS architecture, device drivers, and communication protocols (SPI, I2C, I3C, UART, USB, PCIe, MDIO)
+
+• Security protocols (IPSec, TLS/SSL, SPDM, digital certificates, cryptography)
+
+• DSP concepts (Equalizers, Filters, ADC, DAC, FFE, DFE)
+
+• Python/bash scripting, Jenkins CI, and software regression planning
+
+• GUI development, lab automation, and customer SDKs
+
+• Ethernet, SERDES, Switches, and Routers
+
+• Unit testing, system integration, and debugging tools
+
+Expected Base Pay Range (USD)
+26 - 52, $ per hour.
+
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.
+
+&#xa;This role is eligible to participate in Marvell's bonus and equity plans, including a new hire equity grant and annual equity refreshers, ensuring you are rewarded for your contributions and remain invested in the company's long-term success.&#xa;
+Additional Compensation and Benefit Elements
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com .
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-JY1

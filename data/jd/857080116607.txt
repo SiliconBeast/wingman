@@ -1,0 +1,107 @@
+Position Summary
+
+Join Daktronics and be part of a team that creates cutting-edge digital LED display technology and audio systems. Experience the thrill of working on projects that bring excitement to sports events, attract customers worldwide, and guide people in their daily lives.
+
+At Daktronics, you’ll engage in meaningful work and have the chance to grow both personally and professionally. Our internships and student positions offer hands-on experience, mentorship, and the opportunity to develop a deep understanding of our products and industry practices.
+
+You’ll have a mentor who will challenge you to find solutions, take initiative and develop a strong understanding of Daktronics products, practices, and procedures. We are committed to providing the resources and mentorship necessary to thrive in your position, ensuring you feel supported and are successful.
+
+What will the work look like for me?
+
+We will expose you to multiple facets of the embedded world. You will experience a professional business environment where you can sharpen your problem solving and testing skills, grow in your design abilities and processes. We will do our best to prepare you for full-time employment, so we can confidently encourage you to apply for our positions following the internship.    
+
+• Troubleshoot existing designs. 
+
+• Assist in manual testing of hardware and software. 
+
+• Prototype verification, such as:   
+
+• Verify circuit operating parameters (i.e. rise and fall times, regulator stability, etc.).
+
+• Taking measurements with a multi-meter and high-speed oscilloscope. 
+
+• Create test reports.  
+
+• Characterize video source components (i.e., cable length).  
+
+• Signal integrity testing.  
+
+• Develop documentation to support designs, fixtures, and procedures.  
+
+• Develop and support applications using Linux, C, C#, C++, VHDL/Verilog, Python, and/or Tera Term programming languages.  
+
+• Leverage AI-assisted tools to accelerate debugging, documentation, and exploratory analysis.
+
+• Design and implement test fixtures and procedures.  
+
+• Complete quality work in a timely manner.  
+
+• Regularly work scheduled hours.  
+
+• Perform other projects and duties as needed to meet customer expectations.
+
+When will I work?
+
+Our internships typically run from 17 May 2027 to 10 December 2027, with the possibility of adjusting the schedule to fit your academic calendar.
+
+Where is this opportunity located?
+
+Position located in Brookings, South Dakota. This position is open to candidates eligible to work in the U.S.
+
+What are the pay and perks?
+
+The typical hiring range for this position is $25.00 to $27.00 per hour based on the location of the candidate. The actual offer will consider a wide range of factors, including relevant education, experience, location, and applicable local legislation.
+
+This position is eligible for a subset of our company benefits including employee discount program, employee assistance program, community donation program, unpaid time off, 401(k), Employee Stock Purchase Plan, leaves, disability and accommodations. Information about Daktronics benefits can be found on our website Career Opportunities (daktronics.com) (https://www.daktronics.com/en-us/employment/careers). This information is intended to be a general overview and may be modified by Daktronics at any time.
+
+Qualifications
+
+To be considered for Hardware Design Co-Op Intern, we require the following:
+
+Academic Requirements:
+
+• Preferred applicants will be full-time students of at least junior status currently enrolled in an accredited Bachelor's degree program in Electrical Engineering, Computer Engineering, Software Engineering, or related field.
+
+• Able to take a semester off from school to complete the internship, if applicable.
+
+• Must be able to commit to 40 hours per week.
+
+• Work through the Cooperative Education Internship Program with accredited university and Faculty Coordinator to arrange for credit while participating in this 7-month internship.
+
+• Only strong academic performers will be considered, with preference to 3.0 GPA or greater.
+
+• Unofficial transcripts or web transcripts must be submitted with application.
+
+Other Requirements:
+
+• Good oral and written communication skills, good organizational skills, self-motivation.
+
+• Good problem solving and critical thinking skills.
+
+• Dedication and desire for quality performance.
+
+• Ability to work with odors (solder/coating).
+
+• Follow company policies.
+
+• Work with little supervision.
+
+• Fluent in English, both written and verbal.
+
+• Applicants must be 18 years of age or older.
+
+• Daktronics does not sponsor, renew, or extend immigration visas for this position.
+
+Desired Traits:
+
+• Programming knowledge in C, C++, C#, Python, and/or “VHDL/Verilog”.  
+
+• Course completion or currently taking related to coding for hardware.
+
+• Good oral and written communication skills, ability to communicate complex technical concepts.
+
+• Shown ability to work collaboratively on projects or with a partner/team.     
+
+Ready to make an impact? Apply now and start your journey with Daktronics.
+
+Daktronics is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or other characteristics protected by law.

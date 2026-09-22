@@ -1,0 +1,61 @@
+Role Overview
+This role focuses on operational efficiency, building tools and dashboards, and conducting data verification and validation (V&V) for the Fleet- Operations team. The person will also work closely with the team to help drive operational efficiency across L3 programs.
+
+Responsibilities
+• Application & Tool Development
+
+• Design and deploy internal mobile-first web applications to assist field operators with vehicle dispatch, routing, and end-of-shift reporting.
+
+• Build responsive user interfaces for real-time fleet monitoring, ensuring sub-second latency for tracking vehicle states and locations.
+
+Required Qualifications
+• Develop specialized diagnostic tools that translate complex vehicle telemetry and hardware sensor data into readable formats for non-technical operations staff.
+
+• [placeholder]
+
+• Workflow Automation
+
+• Architect automated ticketing systems to streamline maintenance requests, incident reporting, and vehicle recovery dispatches.
+
+Bonus Qualifications
+• Integrate AI-driven workflows to parse operational logs, identify recurring hardware or software faults, and automatically flag high-priority issues to engineering teams.
+
+• [placeholder]
+
+• Develop automated compliance trackers that cross-reference fleet operational zones with local municipal regulations to prevent routing violations.
+
+• Data Analytics & Dashboarding
+
+Program Requirements
+• Construct live operational dashboards to visualize fleet health, downtime metrics, and operator efficiency metrics.
+
+• Currently enrolled in a B.S. or M.S. program in a relevant discipline.
+
+• Optimize database queries across NoSQL and SQL structures to ensure rapid retrieval of historical fleet data for weekly operational reviews.
+
+• Available to commit to a minimum three-month assignment.
+
+• Aggregate and analyze large sets of vehicle performance data to provide actionable recommendations for improving fleet utilization and reducing idle times.
+
+• Able to commit a minimum of 40 hours per week.
+
+• Cross-Functional Collaboration
+
+• Able to work on-site at one of our office locations.
+
+• Interface directly with L3 hardware and software engineering teams to ensure operational tools accurately reflect the latest autonomous system capabilities and constraints.
+
+• Must adhere with Zoox confidentiality requirements, including refraining from using or sharing proprietary company information outside of Zoox, such as in academic research, theses, publications, or presentations.
+
+• Gather feedback from on-the-ground fleet operators to continuously iterate and improve the UX/UI of internal tools.
+
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+
+Follow us on LinkedIn
+
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.
+
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.

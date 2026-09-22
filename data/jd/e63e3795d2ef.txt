@@ -1,0 +1,136 @@
+Worker Type
+
+Supplemental
+
+Job Description
+
+Summer Internship Program
+Our paid Summer Internship Program is designed to provide students with an immersive, hands-on experience within the aerospace and defense industry. Interns work alongside AV team members on meaningful projects involving cutting-edge technology while developing professional relationships, strategic problem-solving skills, and practical experience in a full-time work environment.
+
+This is a 12-week, onsite program intended for highly motivated and passionate students who are currently enrolled in college or are recent graduates. Applicants must have a minimum 3.0 GPA, with a preference for students at the junior level or above.
+
+Our program has been recognized by Yello and WayUp as one of the Top 100 Internship Programs in the United States for multiple years.
+
+Depending on the team and location, students who are willing to relocate for their internship may be eligible for a relocation and housing reimbursement stipend.
+
+AV offers internship opportunities across various teams and locations throughout the United States. Specific team, location, and program details will be discussed during the interview process.
+
+Summary
+
+As an Embedded Software Engineering Intern , you will work alongside experienced engineers to design, develop, and test embedded software for unmanned aerial and robotic systems. You’ll gain hands-on experience in real-world development, writing software that runs on microcontrollers, processors, and other hardware used in flight systems, sensors, and payloads.
+
+You’ll contribute to projects at various stages of the development lifecycle — from prototyping and integration to testing and validation — while learning industry best practices in embedded software development.
+
+Position Responsibilities
+
+•
+Assist in writing and testing embedded software for systems such as autopilots, sensors, radios, and other onboard components.
+
+•
+Help implement software in C/C++ for real-time and bare-metal systems using microcontrollers and embedded platforms.
+
+•
+Support the integration of embedded software with hardware, including debugging with lab tools (oscilloscopes, logic analyzers, etc.).
+
+•
+Collaborate with cross-functional teams, including electrical, systems, and mechanical engineers, to ensure cohesive development.
+
+•
+Participate in peer reviews, software documentation, and configuration management processes.
+
+•
+Contribute to lab testing and field testing of embedded systems in support of real-world mission scenarios.
+
+•
+Assist in the development of prototypes and proof-of-concept demonstrations.
+
+Basic Qualifications (Required Skills & Experience)
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Computer Science , or a related field.
+
+•
+Basic knowledge of embedded systems and microcontrollers.
+
+•
+Familiarity with programming languages such as C, C++ , or Python .
+
+•
+Understanding of low-level software concepts, such as memory management, interrupts, or device drivers.
+
+•
+Exposure to hardware communication protocols like I2C, SPI, UART , or CAN .
+
+•
+Strong analytical and troubleshooting skills.
+
+•
+Effective verbal and written communication.
+
+•
+Ability to work collaboratively in a team environment.
+
+Preferred Qualifications & Competencies
+
+•
+Hands-on experience with microcontroller platforms (e.g., STM32, Arduino, Raspberry Pi, or similar).
+
+•
+Familiarity with RTOS environments (e.g., FreeRTOS , Zephyr).
+
+•
+Exposure to Linux-based development or embedded Linux environments.
+
+•
+Experience with lab equipment (e.g., oscilloscopes, logic analyzers, multimeters).
+
+•
+Interest in aerospace, robotics, or autonomous systems.
+
+•
+Initiative, curiosity, and a passion for learning and innovation.
+
+Physical Demands
+
+•
+Ability to work in an office and R&D environment (Constant)
+
+•
+Required to sit, type, and use office/lab equipment for extended periods (Frequent)
+
+•
+Occasional hands-on work in lab and field test environments may be required
+
+Clearance Level
+
+No Clearance
+
+The salary range for this role is:
+
+AeroVironment considers several factors when extending an offer, including but not limited to, the location, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills.
+
+ITAR Requirement:
+
+This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EAR”). In order to comply with the requirements of the ITAR and/or the EAR, applicants must qualify as a U.S. person under the ITAR and the EAR, or a person to be approved for an export license by the governing agency whose technology comes under its jurisdiction. Please understand that any job offer that requires approval of an export license will be conditional on AeroVironment’s determination that it will be able to obtain an export license in a time frame consistent with AeroVironment’s business requirements. A “U.S. person” according to the ITAR definition is a U.S. citizen, U.S. lawful permanent resident (green card holder), or protected individual such as a refugee or asylee. See 22 CFR § 120.15. Some positions will require current U.S. Citizenship due to contract requirements.
+
+Benefits : AV offers an excellent benefits package including medical, dental vision, 401K with company matching, a 9/80 work schedule and a paid holiday shutdown. For more information about our company benefit offerings please visit: http://www.avinc.com/myavbenefits .
+
+We also encourage you to review our company website at http://www.avinc.com to learn more about us.
+
+Principals only need apply. NO agencies please.
+
+About AV:
+
+AV isn’t for everyone. We hire the curious, the relentless, the mission-obsessed. The best of the best.
+
+We don’t just build defense technology—we redefine what’s possible. As the premier autonomous systems company in the U.S., AV delivers breakthrough capabilities across air, land, sea, space, and cyber. From AI-powered drones and loitering munitions to integrated autonomy and space resilience, our technologies shape the future of warfare and protect those who serve.
+
+Founded by legendary innovator Dr. Paul MacCready, AV has spent over 50 years pushing the boundaries of what unmanned systems can do. Our heritage includes seven platforms in the Smithsonian—but we’re not building history, we’re building what’s next.
+
+If you're ready to build technology that matters—with speed, scale, and purpose—there’s no better place to do it than AV.
+
+We are proud to be an EEO/AA Equal Opportunity Employer, including disability/veterans. AeroVironment, Inc. is an Equal Employment Opportunity (EEO) employer and welcomes all qualified applicants. Qualified applicants will receive fair and impartial consideration without regard to race, sex, color, religion, national origin, age, disability, protected veteran status, genetic data, sexual orientation, gender identity or other legally protected status.
+
+ITAR
+
+U.S. Citizen, U.S. Permanent Resident (Green Card holder), asylee/refugee status as defined by 8 U.S.C. 1324b(a)(3) or a person approved for an export license from the appropriate governing agency.

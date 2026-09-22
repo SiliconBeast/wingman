@@ -1,0 +1,120 @@
+Job Description
+
+About Digital Products
+
+Digital Products owns the definition, development, and delivery of GM’s digital products and the customer experiences delivered through mobile applications, back-office platforms, and connected services. The organization brings together OnStar & Customer Experience Platforms and Digital Vehicle Experience and works closely with Vehicle Products to deliver digital contributors to the vehicle experience.
+
+Digital Products is an exciting place to begin your career because interns can work at the intersection of software, hardware, vehicle systems, and customer experience. You will learn from experienced engineers and technical leaders, contribute to hands-on work, and see how connected and software-defined vehicle experiences are built and validated.
+
+About the opportunity
+
+Digital Products is looking for embedded and systems engineering interns who are interested in how software, hardware, controls, and vehicle systems work together. Depending on the team, you may contribute to low-level software, real-time systems, hardware/software integration, simulation, diagnostics, or test environments that help accelerate vehicle software development.
+
+Assignments may include developing, integrating, simulating, testing, troubleshooting, and documenting components or systems used in engineering and validation.
+
+Potential team and work areas
+
+Opportunities may be aligned to the following groups and product areas from the Digital Products intern intake:
+
+• Physical and Virtual Test Platforms: Virtualization Tools, Virtual Test Infrastructure, SDV2.0 Infrastructure Component HIL Lab, Electric Propulsion Component HIL Lab, Chassis & Brakes Component HIL Labs, Infotainment Lab Operations, and System and Subsystem HIL Simulation Integration
+
+• Vehicle Software Integrity and Delivery: Wired Programming, Calibration Management Tools, VCAM, diagnostics, and software delivery tools
+
+• Digital Vehicle Experience (DVE): Digital vehicle applications, software and systems integration, and vehicle-facing experiences
+
+• OnStar Sales, Activation and Experience (OnStar SAE): Carrier & Vehicle Experience Services and connected-service integrations
+
+• Emerging and Strategic Businesses (ESB): GM Fleet systems and connected mobility experiences
+
+Potential skills and contributions
+
+• Develop or improve embedded software, scripts, models, tools, or test automation
+
+• Support integration of hardware, software, controllers, sensors, networks, and test environments
+
+• Build or use simulation models and analyze results from real-time or faster-than-real-time testing
+
+• Troubleshoot issues using logs, measurements, test results, schematics, or system data
+
+• Assist with hardware-in-the-loop, bench, infotainment, reflash, or diagnostic testing
+
+• Collaborate with software, electrical, mechanical, systems, validation, product, and lab partners
+
+Required qualifications
+
+• Currently enrolled in a Bachelor’s degree program in electrical engineering, computer engineering, computer science, mechanical engineering, systems engineering, or a related field
+
+• Must have at least one additional quarter/semester of school remaining following the completion of the internship
+
+• Availability to work full-time, 40 hours per week, during the 12 week summer internship period between May -August or June – September 2027
+
+• Coursework, project, lab, competition, research, or prior experience involving programming, electronics, controls, systems, or testing
+
+• Strong problem-solving skills and willingness to work across hardware and software boundaries
+
+• Ability to communicate clearly, work collaboratively, and learn new technical tools
+
+• Ability to work onsite at the assigned GM location, including in a lab or test environment when required
+
+Preferred experience
+
+• Candidates are not expected to meet every qualification listed below. Depending on the needs of a specific Digital Product team, a combination of these skills and areas of knowledge may be relevant.
+
+• Currently enrolled in a Master’s degree program in electrical engineering, computer engineering, computer science, mechanical engineering, systems engineering, or a related field
+
+• Familiarity with C, C++, Python, MATLAB, or Simulink
+
+• Exposure to real-time systems, embedded systems, controls, CAN or other vehicle communication protocols, HIL/SIL, or simulation
+
+• Experience reading schematics, wiring diagrams, interface specifications, or test requirements
+
+• Participation in an engineering competition, student design team, robotics team, or hands-on technical project
+
+Compensation:
+
+• The monthly salary range for this role is $6,400-$10,300 per month.
+
+• GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of relocation benefits, please apply using the permanent address you would move from.
+
+What You’ll Get From Us (Benefits):
+
+• Paid US GM Holidays
+
+• GM Family First Vehicle Discount Program
+
+• Result-based potential for growth within GM
+
+• Intern events to network with company leaders and peers
+
+Work Arrangement:
+
+• Start dates for this internship role are May 24th and June 14th of 2027
+
+• Assignments will be based on team placement to ensure interns are located with their working team and leader
+
+• Hybrid:  This role is categorized as hybrid. This means the successful candidate is expected to report to their designated work location three times per week, at minimum. 
+
+&#xa;&#xa;&#xa;&#xa;
+About GM
+
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us
+
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.
+
+Benefits Overview
+
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources .
+
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws.
+
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire .
+
+Accommodations
+
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.

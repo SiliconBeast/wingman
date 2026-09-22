@@ -1,0 +1,60 @@
+Role Overview
+We are seeking a Data Analyst to support the data systems and reporting that power our autonomous fleet operations. You'll transform vehicle telemetry, service logs, and operations data into clear insights that improve decision-making across operations, safety, and engineering teams. This role focuses on analytics, reporting, KPI development, and building accessible datasets and dashboards that help teams understand performance and drive improvements.
+
+Responsibilities
+• Analyze vehicle telemetry, service logs, dispatch data, and operational metrics to identify trends and actionable insights
+
+• Build and maintain dashboards and recurring reports for fleet operations, safety, and engineering stakeholders
+
+• Define, track, and report on KPIs related to fleet performance, mission success, readiness, and operational efficiency
+
+• Ensure datasets used for analysis are accurate, well-structured, and reliable
+
+Required Qualifications
+• Pursuing Bachelor's or Master's degree in Data Analytics, Statistics, Mathematics, Computer Science, Business Analytics, or a related field
+
+• Experience with operational, logistics, or fleet-related data is a plus
+
+• Strong proficiency in SQL for querying, data manipulation, and analysis
+
+• Proficiency in Python for data analysis and reporting preferred
+
+• Experience with data visualization tools (Looker, Tableau, or Power BI)
+
+• Experience working with large datasets and transforming raw data into actionable insights
+
+• Familiarity with Databricks or similar analytics platforms is a plus
+
+Program Requirements
+• Construct live operational dashboards to visualize fleet health, downtime metrics, and operator efficiency metrics.
+
+• Currently enrolled in a B.S. or M.S. program in a relevant discipline.
+
+• Optimize database queries across NoSQL and SQL structures to ensure rapid retrieval of historical fleet data for weekly operational reviews.
+
+• Available to commit to a minimum three-month assignment.
+
+• Aggregate and analyze large sets of vehicle performance data to provide actionable recommendations for improving fleet utilization and reducing idle times.
+
+• Able to commit a minimum of 20 hours per week.
+
+• Cross-Functional Collaboration
+
+• Able to work on-site at one of our office locations.
+
+• Interface directly with L3 hardware and software engineering teams to ensure operational tools accurately reflect the latest autonomous system capabilities and constraints.
+
+• Must adhere with Zoox confidentiality requirements, including refraining from using or sharing proprietary company information outside of Zoox, such as in academic research, theses, publications, or presentations.
+
+• Gather feedback from on-the-ground fleet operators to continuously iterate and improve the UX/UI of internal tools.
+
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+
+Follow us on LinkedIn
+
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.
+
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.

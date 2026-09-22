@@ -1,0 +1,71 @@
+Lexington Medical, Inc. is hiring an Electrical/Embedded Software Engineering Intern for Summer 2027 at our headquarters in Bedford, MA. You will join our R&D team and gain hands-on experience developing the embedded hardware and software behind our AEON™ surgical stapling platform. Depending on your background and project needs, your work may span electrical design, embedded firmware, PCB development, hardware bring-up, testing, debugging, and hardware-software integration.
+
+About Lexington Medical
+
+Lexington Medical, Inc. is a medical device company designing and manufacturing surgical stapling technology at our headquarters in Bedford, Massachusetts, just outside Boston. Our AEON™ Endostapler is an FDA-cleared, minimally invasive surgical stapler used in operating rooms around the world.
+
+With electrical, software, mechanical, manufacturing, and quality teams working closely together under one roof, interns stay close to the product and see how engineering concepts move through development, prototyping, testing, verification, manufacturing, and ultimately into the operating room.
+
+About the Internship
+
+As an Electrical/ Embedded Software Engineering Intern at Lexington Medical, you will work alongside our R&D engineers developing embedded systems for electromechanical surgical devices. You will contribute to real engineering projects involving the interaction between electronics, embedded firmware, motors, sensors, and physical mechanisms.
+
+Depending on your experience and interests, you may work more heavily on electrical hardware, embedded software, or projects that cross both areas. This could include designing and testing circuits, supporting PCB development, writing and debugging embedded code, bringing up new hardware, integrating sensors and motors, or troubleshooting complete electromechanical systems.
+
+This is a good fit for a student who likes understanding how hardware and software work together and wants to build, test, debug, and improve real products rather than work only in simulation or theory.
+
+Responsibilities:
+
+• Support the development and testing of embedded electrical and software systems.
+
+• Develop, test, and debug embedded firmware using C/C++.
+
+• Assist with schematic capture, PCB design, and component selection.
+
+• Support hardware bring-up, bench testing, and system-level debugging.
+
+• Work with microcontrollers, sensors, motors, actuators, and other electromechanical components.
+
+• Use electrical test equipment to troubleshoot hardware and firmware.
+
+• Collaborate with electrical, software, mechanical, and manufacturing engineers.
+
+• Support engineering testing, verification, and technical documentation.
+
+Qualifications:
+
+• Currently pursuing a B.S. or M.S. in Electrical Engineering, Computer Engineering, Computer Science, Robotics, or a related technical field.
+
+• Coursework or project experience with embedded systems, electronics, microcontrollers, PCB design, firmware, or robotics.
+
+• Experience programming in C or C++.
+
+• Hands-on experience building, testing, or debugging hardware or embedded systems.
+
+• Prior internship, co-op, research, or substantial hands-on project experience preferred.
+
+• Strong problem-solving, communication, and attention to detail.
+
+What Success Looks Like
+
+• By the middle of the summer, you can contribute to day-to-day electrical and embedded software engineering work with increasing independence and understand how hardware, firmware, and electromechanical systems work together.
+
+• By the end of the internship, you have completed a meaningful electrical, embedded software, or hardware-software integration project that the engineering team can continue using after you leave.
+
+• You leave with concrete examples of hardware or firmware you developed, technical problems you solved, and engineering decisions you made on a real medical device.
+
+Program Details
+
+• Timing: June 2027 through August 2027, approximately three months.
+
+• Schedule: Full-time, five days per week on-site in Bedford, Massachusetts.
+
+Location & Work Arrangement
+
+This internship is based at our headquarters in Bedford, Massachusetts, in the Greater Boston area, and is fully on-site five days per week.
+
+Visit our Candidate Journey page to learn what to expect from our hiring process.
+
+Hourly Rate
+
+$32 — $36 USD

@@ -1,0 +1,40 @@
+Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+At CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.
+
+
+The CesiumAstro hardware team is looking for Summer 2027 interns to develop HDL-level FPGA systems for satellite communication systems.
+ 
+FPGA development interns will work closely with CesiumAstro engineers on FPGA circuits and systems through all phases of the development process. Areas of focus will include design, verification, testing, and deployment at the HDL level. FPGA HDL designs will include high-speed serial interfaces and data streams, digital processing cores, multiple clock domains, and management interfaces. Testing, validation, and verification will also be central tasks for any FPGA design. Assignments will be determined by a mix of project availability and the interests of the successful candidates.
+ 
+CesiumAstro interns regularly present their work to peers, mentors, and CesiumAstro executive leadership throughout the course of the summer. As such, excellent written and verbal communication skills are required.
+ 
+To apply, please include a cover letter describing your interest in FPGAs and either space systems or communication systems, as well as your status as a US citizen or permanent resident.
+
+
+JOB REQUIREMENTS AND MINIMUM QUALIFICATIONS
+• Current enrollment in a Bachelor of Science (BS), Master of Science (MS), or PhD program in Electrical Engineering or Computer Engineering from an accredited university.
+
+• GPA of 3.5 or higher.
+
+• Advanced coursework in design, analysis, and implementation of FPGA systems at the HDL level.
+
+• Practical experience designing and building FPGA systems for a research project, competition team, extracurricular activity, or advanced engineering course.
+
+• Experience with FPGA design and verification (Verilog/VHDL, HDL coder, Xilinx’s Vivado, Modelsim, etc.).
+
+• Hands-on experience with lab instruments such as digital oscilloscopes, spectrum analyzers, RF signal generators, and vector signal analyzers.
+
+• Excellent written and verbal communication skills.
+
+PREFERRED EXPERIENCE
+• Experience in digital signal processing.
+
+• Experience with board-level hardware design.
+
+• Advanced coursework in communication systems.
+
+All CesiumAstro internships are compensated competitively and located onsite at one of our facilities.
+ 
+CesiumAstro is an Equal Opportunity employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.
+

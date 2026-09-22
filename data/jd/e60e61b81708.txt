@@ -1,0 +1,85 @@
+Solidigm is seeking talented and motivated undergraduate students for our Hardware & Product Development Engineering Internships in the United States. This evergreen posting supports multiple internship opportunities across hardware engineering and product development for Solidigm's data center SSD products.
+
+As an intern, you will work on real engineering challenges supporting hardware design, evaluation, and debug, as well as new product development from concept through release.
+
+This internship is ideal for undergraduate students who enjoy hands-on problem solving, working at the intersection of hardware and system-level design, and helping bring data center storage products from concept through development and release.
+
+Key Responsibilities
+
+Interns may be assigned one or more of the following responsibilities based on project needs, team priorities, and individual strengths:
+
+• Assist with design, evaluation, and debug of hardware subsystems and components.
+
+• Support schematic review, board-level bring-up, and hardware/firmware interaction analysis.
+
+• Support new product development activities from concept through design, prototyping, and release.
+
+• Help track technical inputs, product requirements, and project milestones across engineering disciplines.
+
+• Help analyze component and system-level test data to identify trends, risks, and improvement opportunities.
+
+• Use or help develop scripts and tools (e.g., Python) to automate data collection, analysis, and reporting.
+
+• Collaborate with cross-functional teams including hardware, firmware, validation, and product engineering.
+
+• Help document designs, test methods, and project deliverables.
+
+Minimum Qualifications
+
+• Currently pursuing a Bachelor's degree in Electrical Engineering, Computer Engineering, Electronics, or a related technical discipline.
+
+• Foundational coursework in electrical design, analog and digital electronics, or hardware systems.
+
+• Exposure to one or more programming or scripting languages, such as Python.
+
+• Familiarity with Linux-based development or lab environments.
+
+• Strong analytical, debugging, and problem-solving skills.
+
+• Ability to work independently and collaboratively in a technical team environment.
+
+• Strong communication skills and eagerness to learn.
+
+• This role is not eligible for candidates requiring VISA sponsorship.
+
+Preferred Qualifications
+
+• Coursework or academic project experience in electrical design, circuit analysis, or hardware/component evaluation.
+
+• Exposure to hardware bring-up, board-level debug, or system integration.
+
+• Interest in product development processes or cross-functional engineering coordination.
+
+• Exposure to data analysis, scripting, or automation through coursework or projects.
+
+• Strong interest in data center storage, SSD technology, or hardware/electronic systems.
+
+What You'll Gain
+
+As a Solidigm intern, you will have the opportunity to:
+
+• Work on meaningful projects tied to real data center SSD products and engineering priorities.
+
+• Gain hands-on experience with hardware engineering and product development workflows.
+
+• Learn how high-performance storage products move from concept through hardware design and release.
+
+• Collaborate with experienced engineers, technical leads, product engineers, and cross-functional teams.
+
+• Develop practical skills in hardware evaluation, data analysis, and technical documentation.
+
+• Present your work, receive feedback, and contribute to solutions that may influence future products.
+
+• Grow your professional network through mentorship, team engagement, and intern program activities.
+
+Additional Information
+
+Work locations may include Rancho Cordova, CA; San Jose, CA; or other U.S. Solidigm locations based on business need and internship assignment.
+
+Internship availability and project scope may vary by team, degree level, and business requirements.
+
+All your information will be kept confidential according to EEO guidelines.
+
+Powered by SmartRecruiters - Candidate Privacy Policy
+
+Join a multibillion-dollar global company that brings together amazing technology, people, and operational scale to become a powerhouse in the memory industry. Headquartered in Rancho Cordova, California, Solidigm combines elements of an established, successful technology company with the spirit, agility, and entrepreneurial mindset of a start-up. In addition to the U.S. headquarters and other facilities in the U.S., the company has international presence in Asia, Europe, and the Americas. Solidigm will continue to lead the world in innovating new Memory technologies with aspirations to be the #1 NAND memory company in the world. At Solidigm, we view problems as opportunities to define innovative solutions that hold the power to change the world and unleash the potential technological needs that the future holds. At Solidigm, we are One Team that fosters a diverse, equitable, and inclusive culture that embraces individual uniqueness and empowers us to bring our best selves to deliver excellence in support of Solidigm's vision and mission to be the go-to partner for optimized data storage solutions. You can be part of the takeoff of an innovative business that develops cutting-edge products, delivers strong business value for customers, provides an engaging workplace for its employees, and serves a greater impact on the world. This is a golden opportunity for the right applicant to join us and help design, build, and lead Solidigm. We want a diverse team of dedicated professionals who will not just be Solidigm team members but contribute to how we shape the future of the organization. We are seeking applicants who will grow and thrive in our culture; be customer inspired, trusting, innovative, team-oriented, inclusive, results driven, collaborative, passionate, and flexible.

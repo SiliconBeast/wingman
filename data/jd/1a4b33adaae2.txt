@@ -1,0 +1,127 @@
+Location: Ottawa, ON (on-site)
+
+Employment type: Co-op / Internship
+
+Duration: 4–8 months (flexible based on academic program requirements)\
+
+Hours: 35–40 hours per week
+
+Salary range: $18 – $25 CAD per hour, based on academic level and relevant experience
+
+About Q-Block Computing: Q-Block Computing builds quantum systems that operate in the real world. The company develops quantum timing, quantum-secure communications, and quantum computing platforms engineered for the performance, reliability, and environmental resilience that mission-critical applications demand — systems designed to be deployed, maintained, and trusted by operators who cannot afford ambiguity about whether the technology works.
+
+The long-term vision is deeper than any single platform. Q-Block is pursuing a mission to decode Nature's foundational model — to build instruments of sufficient precision and coherence that they become tools for understanding the physical universe at its most fundamental level. Commercialization and science reinforce each other by design.
+
+About this role: The Embedded Systems Developer Intern will work alongside Q-Block's firmware and hardware engineers on the real-time control and data-acquisition electronics that sit at the heart of the company's quantum platforms. The role is hands-on: you will write firmware, bring up boards, design and test small circuits, and see your work exercised on real hardware.
+
+The successful candidate is a motivated engineering student with solid embedded fundamentals, genuine curiosity about the hardware–firmware boundary, and the discipline to document work carefully as they go. This is a co-op designed to build real depth, not to observe from the sidelines.
+
+Responsibilities
+
+• Design and develop embedded firmware for microcontroller-based systems supporting Q-Block's quantum hardware programs.
+
+• Contribute to digital logic and FPGA work in support of signal processing, control, and data acquisition.
+
+• Assist with peripheral integration, sensor interfacing, and communication protocol implementation (SPI, I2C, UART, and related interfaces).
+
+• Support PCB bring-up, debug, and basic circuit characterization.
+
+• Collaborate with engineering and scientific teams to integrate embedded solutions with quantum hardware.
+
+• Participate in system testing, debugging, and performance optimization.
+
+• Document design decisions, code, and testing procedures following team practices.
+
+• Support laboratory setup and maintenance of embedded testing equipment.
+
+• Contribute to technical notes and progress presentations.
+
+• Contribute to a culture of craftsmanship, learning, and honest technical discussion.
+
+Required qualifications
+
+• Currently enrolled in an Electrical Engineering, Computer Engineering, Electronics Engineering, Computer Science, or closely related undergraduate program.
+
+• Minimum completion of 2nd year coursework (60+ credit hours) at the start of the work term.
+
+• Academic or project experience with embedded electronics and microcontrollers (Arduino, STM32, PIC, Teensy, or comparable platforms).
+
+• Working proficiency in C and/or C++ for embedded systems.
+
+• Familiarity with at least one of the standard embedded communication protocols (SPI, I2C, UART).
+
+• Basic understanding of digital logic and circuit analysis.
+
+Preferred qualifications
+
+• Exposure to FPGA development and HDL (VHDL or Verilog) through coursework or projects.
+
+• Familiarity with real-time operating systems (RTOS) or bare-metal real-time concepts.
+
+• Experience with development environments such as STM32CubeIDE, PlatformIO, Keil, IAR, or Xilinx/Intel FPGA tools.
+
+• Familiarity with version control (Git) and structured development practices.
+
+• Practical experience with laboratory instruments — oscilloscopes, logic analyzers, multimeters, signal generators.
+
+• Exposure to PCB design tools (KiCad, Altium, or equivalent).
+
+• Previous co-op or internship experience in embedded systems, electronics, or scientific instrumentation.
+
+• Portfolio of embedded projects (GitHub repositories, project reports, or demonstrable builds).
+
+Security and compliance requirements
+
+• Must be eligible to obtain and maintain Government of Canada security clearance, if required for assigned projects.
+
+• Must be eligible to comply with requirements of the Controlled Goods Program, if required for assigned projects.
+
+• Must be willing to participate in background screening, documentation, and compliance processes associated with security-sensitive work.
+
+• Due to the nature of Q-Block's research and government-facing work, preference may be given to Canadian citizens and permanent residents.
+
+Skills and attributes
+
+• Strong analytical and problem-solving ability.
+
+• Attention to detail and a commitment to quality in technical work.
+
+• Clear written and verbal communication; able to present technical work and accept feedback constructively.
+
+• Ability to learn quickly and adapt in a fast-paced R&D environment.
+
+• Self-motivated, with good judgment about when to work independently and when to seek guidance.
+
+What you will gain
+
+• Direct mentorship from senior embedded and systems engineers.
+
+• Hands-on experience at the boundary between firmware and hardware in a real engineering environment.
+
+• Exposure to the full arc from code to bench-verified hardware behaviour.
+
+• Professional development, networking within the quantum and deep-tech community, and potential consideration for future co-op terms or full-time employment.
+
+Benefits
+
+• Competitive hourly compensation based on academic level and experience
+
+• Extended health care (including dental and vision)
+
+• Life insurance
+
+• Flexible scheduling where compatible with academic calendar requirements
+
+Application requirements
+
+• Resume highlighting relevant coursework, projects, and technical skills.
+
+• Brief cover letter describing your interest in embedded systems and quantum technology.
+
+• Academic transcript (unofficial acceptable for initial application).
+
+• Portfolio of relevant projects (GitHub links, project reports, or technical demonstrations welcomed).
+
+Equal Opportunity
+
+Q-Block Computing is an equal opportunity employer committed to fostering inclusion and respect. Accommodations are available on request during the application and interview process. All interested students meeting the qualifications are encouraged to apply.

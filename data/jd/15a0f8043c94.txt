@@ -1,0 +1,38 @@
+Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu.
+
+Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. We have fun, work hard and strive to be virtuous in all we do.
+
+FPGA INTERNSHIP
+
+• Location: Austin
+
+• Dates: 10 week program, starting June 7th, 2027 - August 13th, 2027 (with flexibility if needed)
+
+• Training: Ongoing training throughout the summer and a training week held in Austin
+
+• Projects: Real problems to solve throughout the program. Interns will work from a list of projects and have several senior mentors throughout the summer program
+
+• Perks : Onsite Gym & workout classes, Onsite Barista, weekly happy hours/social events, Breakfast & Lunch, Transportation
+
+At Virtu, our internship is designed to put you at the very center of ultra-low latency trading. You will tackle the actual engineering challenges that keep our trading systems competitive, paired with experienced engineers who mentor you through projects where every nanosecond counts.
+
+Our hardware team designs both FPGA and ASIC solutions that sit at the heart of our market-making infrastructure. You'll work across the full design lifecycle — from architecture and RTL implementation through simulation, verification, and bring-up on live hardware. At the end of your internship, you'll have turned an idea into something real, tangible, and running on silicon.
+
+No finance background is required. We are looking for curious engineers who thrive on hard problems at the boundary of hardware and software. What matters most is how you think and how you learn.
+
+THE CANDIDATE
+
+• Currently pursuing a Masters Degree in Electrical Engineering or related field
+
+• Experience with Hardware Description Languages (SystemVerilog, Verilog)
+
+• Comfortable with software programming languages (Python, C++, or similar)
+
+• Basic understanding of network protocols
+
+• Strong problem solving and communication skills
+
+THE PROCESS
+After applicants pass an initial resume screening, an online programming test will be emailed to you via HackerRank. Upon review, we will reach out to arrange next steps. We are looking forward to meeting you!
+
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.

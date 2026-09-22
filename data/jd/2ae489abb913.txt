@@ -1,0 +1,55 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+The Motorola Solutions Electrical Engineering team, based in Schaumburg, IL, specializes in designing and developing world-class digital solutions for the Mission Critical Communications market, including Public Safety. The Electrical Engineering development team develops state-of-the-art Digital, RF, Mechanical, and Power Supply solutions to meet their customers’ needs.
+
+Job Description
+
+A summer internship position with a primary focus on FPGA design for Infrastructure products. The position seeks a highly motivated individual to work under the guidance of a seasoned professional to assist design analysis and validation of the RF Site product development.
+
+Scope of Responsibilities/Expectations:
+
+•
+Development of the FPGAs includes capturing requirements
+
+•
+Writing code in C, VHDL and Verilog languages
+
+•
+Writing test scripts in Python, using diagnostic equipment to troubleshoot problems, and documenting device interface specifications.
+
+•
+Understanding Digital design and performing interfacing analysis to the FPGAs is a must
+
+•
+Bench-level testing using an Oscilloscope, DC PS, and multimeter is required.
+
+Basic Requirements
+
+•
+Pursuing a Bachelor's degree in Computer Engineering
+
+•
+Must graduate date on or after December 2027
+
+•
+Must be a US Citizen, permanent resident, or an MS student with work authorization (F1 Visa on CPT accepted only for master 's-level students)
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

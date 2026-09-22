@@ -1,0 +1,87 @@
+Job Description Summary
+Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it.
+At GE Vernova’s Critical Infrastructure Communications (CIC), we provide the reliable, industrial-grade communication backbone essential for modernizing the global energy grid and ensuring connectivity in the world's most demanding environments.
+What impact you’ll make
+As a core contributor within the CIC Engineering team, you will collaborate with industry experts to design and implement advanced automation frameworks, ensuring our test capabilities remain at the forefront of our product development cycle.
+
+Job Description
+
+What you’ll do (Job Responsibilities)
+
+• Engineering Validation: Apply and refine your expertise in electrical engineering and test automation to perform critical hardware and software validation for real-world industrial applications.
+
+• Industry Impact: Contribute to the development of innovative communications products serving vital sectors, including energy, oil and gas, mining, water/wastewater, and transportation.
+
+• Professional Development: Accelerate your career growth through direct mentorship, technical coaching, and training from world-class industry experts and technical leadership.
+
+• Technical Expansion: Advance your core hardware design capabilities while exploring new technical domains and expanding your professional skill set.
+
+• Hands-on Industrialization: Gain practical experience in the full product lifecycle with exposure to industrialization processes at our state-of-the-art manufacturing facility in Rochester, NY.
+
+What you’ll bring (Basic Qualifications)
+
+• Eligibility: We welcome applicants currently enrolled in an undergraduate or graduate program in Electrical, Computer, or Software Engineering (or related disciplines).
+
+• Experience Level: Candidates should have completed at least two years of their degree program.
+
+What will make you stand out (Desired Qualifications)
+
+• Academic Performance: We look for a strong academic foundation, evidenced by a minimum 3.0 unrounded GPA.
+
+• Technical Proficiency: Strong foundation in Linux OS, shell scripting, and networking fundamentals (TCP/IP), complemented by experience in Python, GitHub Actions, and the Robot Framework.
+
+• Process & Design: Ability to adhere to established design principles and development processes within a fast-paced, agile environment.
+
+• Analytical Problem Solving: Demonstrates a high degree of curiosity and an analytical mindset to troubleshoot and resolve complex technical challenges.
+
+• Communication & Collaboration: Excellent written and oral communication skills, with a proven ability to lead, work effectively in a team, and mentor/learn from peers.
+
+• Self-Motivation & Initiative: A highly self-motivated individual who operates well under minimal supervision, consistently demonstrating academic excellence and the initiative to drive projects forward.
+
+The pay range for this position is $1,000-$2,000 USD weekly. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.
+
+For candidates applying to a U.S. based position only:
+
+This posting is expected to remain open for at least seven days after it was posted on 9/9/2026.
+
+U.S. Internship roles are ineligible for GE Vernova benefits.
+
+Benefits Available to you:
+
+Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce.
+
+This position is also eligible for:
+
+•
+Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.
+
+•
+Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.
+
+•
+Employee Assistance Program , providing 24/7 confidential assessment, counseling and referral services
+
+•
+GE Vernova Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)
+
+Inclusion
+
+At GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture , where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more:
+
+Our Culture | GE Vernova
+
+This posting will be open until at least September 30, 2026
+
+Additional Information
+
+GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer . Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).
+
+Relocation Assistance Provided: No
+
+For candidates applying to a U.S. based position only:
+
+This posting is expected to remain open for at least seven days after it was posted on September 09, 2026.
+
+U.S. Internship roles are ineligible for GE Vernova benefits.

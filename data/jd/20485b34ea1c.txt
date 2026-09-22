@@ -1,0 +1,71 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+
+Marvell is looking for an entry-level Design-for-Test (DFT) intern who will help with the design, and implementation of DFT designs and reference flows. They will coordinate and support their deployment on latest system-on-chip (SOC) designs to ensure successful delivery to end client. This work is critical to support Marvell’s current customer engagements and directly leads to Marvell’s revenue.
+
+What You Can Expect
+
+•
+Understand the design requirements and customer specifications
+
+•
+Learn and run the defined computer-aided design (CAD) tools/flow for the assigned designs
+
+•
+Design and develop the SOC using Linux, TCL, Python/Perl (or other equivalent scripting languages)
+
+•
+Analyze, debug, and implement DFT features using defined CAD tools/flow
+
+•
+Collaborate with global CAD teams on design flow fixes and feature improvements
+
+•
+Assist in design verification efforts using ICL/PDL constructs and SV/UVM
+
+What We're Looking For
+
+•
+Currently enrolled in a Bachelor’s Degree in EE, CE, or a related field with an expected graduation date of Fall 2027 – Summer 2028
+
+•
+Language Fluency – Fluent in English Language – written & verbal.
+
+Preferred Qualifications:
+
+•
+Basic understanding of Linux/Unix/BSD Internals, with experience working on multi-threaded systems
+
+•
+Strong programming skills in scripting languages (e.g., TCL, Python) in a Unix type environment, with good problem-solving skills
+
+•
+Knowledge of SOC (system on a chip) design flow and DFT practices is a plus, e.g., At-Speed Test, Built-in Self-Test (BIST), Automated Test Pattern Generation (ATPG), IEEE1149.6 (AC-JTAG), and IEEE1687 (IJTAG).
+
+Expected Base Pay Range (USD)
+30 - 59, $ per hour.
+
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.
+
+&#xa;This role is eligible to participate in Marvell's bonus and equity plans, including a new hire equity grant and annual equity refreshers, ensuring you are rewarded for your contributions and remain invested in the company's long-term success.&#xa;
+Additional Compensation and Benefit Elements
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com .
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-TT1
