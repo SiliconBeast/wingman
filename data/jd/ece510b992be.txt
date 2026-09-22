@@ -1,0 +1,101 @@
+Are you looking for a unique opportunity to be a part of something great? Want to join a 17,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology Inc.
+
+People come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our Vision, Mission, and 11 Guiding Values ; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence.
+
+Our company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over 30 years of quarterly profitability without a great team dedicated to empowering innovation. People like you.
+
+Visit our careers page to see what exciting opportunities and company perks await!
+
+Job Description:
+
+Microchip Technology Inc. has an Intern-Engineering (Applications) opening based in Houston, Texas . The successful candidate will be responsible for assisting the Applications team in providing technical support, writing applications notes, setting up lab equipment to analyze and recreate customer system problems, issuing device / data sheet errata, embedded firmware debug/development, assist with customer deliverables, and providing technical support. Candidate must be able to work independently, and in a team environment.
+
+Responsibilities:
+
+•
+Assist with SAS/SATA/NVMe Protocol, RAID controller embedded firmware, OS drivers, and management software
+
+•
+Support PCIe, security, and encryption technologies
+
+•
+Assist with customer and ODM requirements, design win support, deliverables, and initial system bring-up activities
+
+•
+Support channel customers, ecosystem partners, and distribution teams
+
+•
+Setup and maintain system compatibility and debug lab
+
+•
+Maintain knowledge base & issue tracking database
+
+•
+Perform code updates
+
+•
+Work independently, and in a team environment
+
+•
+Assist with root cause & documenting customer issues in a timely manner
+
+•
+Develop and review customer level documentation including user guides, release notes, technical product training, and application notes
+
+Requirements/Qualifications:
+
+•
+Currently pursuing a BS degree in Electrical Engineering or Computer Engineering
+
+•
+Coursework, academic projects, or internship experience in applications or software development
+
+•
+Basic understanding of computer architecture
+
+•
+Scripting or automation knowledge (Python, Java, Tcl, other)
+
+•
+SW programming experience (Java and C)
+
+•
+Experience with installing OSes (Linux and Windows), setting up hardware and drivers
+
+•
+Good writing and communication skills
+
+Preferred Qualifications:
+
+•
+Experience with driver development / embedded FW development
+
+•
+Experience with Java NetBeans or Tcl/Tk scripting language is an asset
+
+•
+Familiarity with storage and protocols such as NVME, SAS/SATA, SCSI, TCP/IP is an asset
+
+•
+Familiarity with high-speed design and signal integrity concepts is an asset
+
+•
+Experience with board-level debug & bring-up
+
+Travel Time:
+
+No Travel
+
+Physical Attributes:
+
+Feeling, Handling, Hearing, Seeing, Talking, Works Around Others
+
+Physical Requirements:
+
+10% Standing, 10% Walking, 80% Sitting, 100% Inside-Monday-Friday
+
+Microchip Technology Inc is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+
+For more information on applicable equal employment regulations, please refer to the Know Your Rights: Workplace Discrimination is Illegal Poster .
+
+To all recruitment agencies : Microchip Technology Inc. does not accept unsolicited agency resumes. Please do not forward resumes to our recruiting team or other Microchip employees. Microchip is not responsible for any fees related to unsolicited resumes.

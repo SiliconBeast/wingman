@@ -1,0 +1,47 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+This is an existing vacancy.
+
+Your Team, Your Impact
+As an Analog Layout Engineer with Marvell, you’ll be a member of the Central Engineering business group. If you picture Marvell as a wheel, Central Engineering is the center hub providing IP to be used by all the other spokes on that wheel, including Automotive, Storage, Security, and Networking. You’ll be part of a small analog team making a big impact on this organization. Additionally, Marvell has the perfect size and scale for you to learn several aspects of engineering that will be new to you, but also have the time and freedom to dive deep into the details of your specialization on most projects.
+
+What You Can Expect
+
+You will be working with global teams in Argentina, Singapore, the U.S., and throughout Europe. You’ll receive a schematic from an Analog IC Designer. You will then take that schematic and use a CAD tool to graphically design the layers of that schematic. Then, you run simulations and verifications on the design using Cadence Virtuoso, refine and debug as needed in concert with the designer, and both of you keep iterating the design until it meets the desired specifications.
+
+Each project can last from a couple months to a year and a half. You will likely work on just one project in that time, but may be asked to switch to something else if priorities change. Your flexibility is appreciated.
+
+You’ll meet every few days with the designer you’re paired with to share information and work together. No circuits get built or tested here without you both, so your partnership and teamwork is extremely valuable to Marvell. You’ll also have routine meetings with your technical mentor when you have questions, as well as the layout team and the project team where you may have to speak to the entire group and update them about your progress. You may have to present a particular issue or solution you’ve encountered. We are developing brand new cutting-edge technologies here, so we learn new things frequently and share with our colleagues.
+
+What We're Looking For
+
+To be successful in this role, you must:
+- Have fundamental understanding of electrical concepts, likely acquired through a degree in Electrical Engineering (graduate or undergraduate).
+- Have some specialized course work in analog design or layout, either as part of your Electrical Engineering degree, summer courses, or conference courses.
+- Know how to use CAD tools to do the implementation layers, microelectronic layers in design that go beyond the schematics.
+- Have excellent communication skills to give status updates to your team, present to global teams in different time zones, and to share information with many different levels of personnel at Marvell. Fluency in English is required.
+
+Expected Base Pay Range (CAD)
+34 - 45, $ per hour.&#xa;&#xa;&#xa;
+
+Additional Compensation and Benefit Elements
+
+With competitive compensation and great benefits, you will enjoy our workstyle within an environment of shared collaboration, transparency, and inclusivity. We’re dedicated to giving our people the tools and resources they need to succeed in doing work that matters, and to grow and develop with us. For additional information on what it’s like to work at Marvell, visit our Careers page.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+Marvell may employ artificial intelligence technologies to assist in the evaluation of job applications. All application reviews include meaningful human involvement, and no hiring decisions are made solely on the basis of automated processing.
+
+#LI-TT1

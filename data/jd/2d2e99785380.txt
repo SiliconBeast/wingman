@@ -1,0 +1,59 @@
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X .
+
+About the Role
+
+As a Test Engineering Intern, you will gain hands-on experience supporting the development, validation, and optimization of test solutions for semiconductor products. Working alongside experienced engineers, you will contribute to test hardware and software development, product characterization, data analysis, and debug activities while building a strong foundation in semiconductor test engineering.
+
+Key Responsibilities
+
+• Assist in developing, validating, and debugging test hardware and software solutions.
+
+• Support product characterization, qualification, and production test activities.
+
+• Collect, analyze, and interpret test data to support engineering decisions and troubleshooting.
+
+• Assist in the development of test documentation, reports, and technical presentations.
+
+• Support circuit simulation, test setup, and laboratory measurements using standard engineering tools.
+
+• Collaborate with Design, Product, Quality, and Test Engineering teams to resolve technical issues and improve test processes.
+
+Must Have Skills
+
+• Basic understanding of electronics, circuit analysis, and engineering fundamentals.
+
+• Strong analytical and problem-solving skills.
+
+• Familiarity with laboratory test equipment and measurement techniques.
+
+• Basic programming or scripting knowledge (Python, C/C++, or similar).
+
+• Ability to analyze and organize technical data using tools such as Excel.
+
+• Strong written and verbal communication skills.
+
+• Ability to work effectively in a collaborative team environment.
+
+Preferred Education and Experience
+
+• Currently pursuing a Bachelor's degree in Electrical Engineering, Electronics Engineering, Computer Engineering, or a related field.
+
+• Experience through coursework, projects, laboratory work, or internships involving electronics, testing, or hardware/software development.
+
+• Familiarity with circuit simulation, debugging, and test methodologies.
+
+• Exposure to automated test systems, data analysis, or engineering software tools is a plus.
+
+• Interest in semiconductor product development, validation, and manufacturing test.
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+Job Req Type:
+
+Required Travel:
+
+Shift Type:

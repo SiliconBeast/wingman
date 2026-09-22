@@ -1,0 +1,55 @@
+Our vision is to transform how the world uses information to enrich life for all .
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners! The solutions we build help make everything from virtual reality experiences to breakthroughs in artificial intelligence possible. We do it all while committing to integrity, sustainability, and giving back to our communities, because doing so can fuel the very innovation we are pursuing.
+
+As a process integration engineer in the 3D DRAM organization, you will join a team of world-class engineers who are working in an industry leading 300mm R&D facility on technology that enables the future of memory scaling. You will focus on performance and manufacturability of Micron’s cutting-edge next-generation memories. Areas of concentration will include integration and circuit issues specific to 3D DRAM technology. In addition to a broad basis of process integration knowledge, this position requires a strong background in materials science and semiconductor device physics, along with a creative mindset and effective project management. The role interacts significantly with process development, simulation, characterization, and reliability groups.
+
+Responsibilities:
+
+• Contribute to technology development activities to enable next generation DRAM, working on device components such as charge storage devices and thin-film transistors, among others.
+
+• Optimize process flows and develop creative solutions to meet product requirements.
+
+• Engage numerous cross-functional teams including process development, product engineering, design, probe, and yield enhancement to arrive at solutions for performance and yield issues.
+
+• Design and run experiments in the R&D fab.
+
+• Analyze inline, parametric, and probe data to evaluate operating and failure mechanisms, sources of noise and variability, and to apply fundamental principles for optimization of device performance and reliability.
+
+• Summarize sophisticated problems, explain the actions necessary to address them, and drive the team to implement them.
+
+Minimum Qualifications:
+
+• Currently pursuing a PhD candidate in Materials Science and Electrical Engineering preferred but PhD in physics and chemical engineering acceptable.
+
+• Must be a current student, and cannot graduate prior to September 2027
+
+• Focus on semiconductor device fabrication, electrical and material characterization preferred.
+
+Preferred Qualifications:
+
+• Proficiency in data analysis and modeling preferred.
+
+• Collaboration skills
+
+• Interest in the semiconductor industry
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits .
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert : Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.

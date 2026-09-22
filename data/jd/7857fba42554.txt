@@ -1,0 +1,34 @@
+NXP’s Technology & Operations organization plays an essential role in the company’s success by ensuring the delivery of high quality, scalable, cost-competitive technologies and supply to create a competitive advantage for our customers.
+
+Job Summary:
+
+•
+Primary responsibilities include functional yield enhancement (wafer probe), maintaining and improving parametric process control, developing integration changes to reduce cost or enhance device functionality.
+
+•
+Should have demonstrated abilities to work independently and work within a team-based project environment. Should have keen interest in problem-solving using electrical testing, physical analyses, and statistical data analyses.
+
+•
+Specific projects may include a facet of integration development or integration optimization.
+
+Job Qualifications:
+
+•
+Working toward an Electrical engineering degree is required or in another technical field with related experience (Chemical engineering, Materials science).
+
+•
+Classroom and/or lab familiarity with some of the following: device parametric extraction methods, discrete device operation (MOS, BJT), microfabrication and unit process integration concepts, key statistical analysis and control concepts, materials analysis techniques, materials metrology operation and techniques.
+
+•
+Preferable would be previous educational, research, or industrial experience (co-op or internship) applying Solid State Physics, Electrical Engineering, Electronic Materials principles to microelectronics-related tasks.
+
+•
+Experience in JMP, PROMIS, SQL, LabView or bench probe characterization is a plus.
+
+In order to be considered for a summer internship with NXP you must be returning to school or graduating at the conclusion of the internship term. If you are graduating prior to July 2027 please apply to Entry Level full-time roles.
+
+More information about NXP in the United States...
+
+NXP is an Equal Opportunity/Affirmative Action Employer regardless of age, color, national origin, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status as a disabled veteran and/or veteran of the Vietnam Era or any other characteristic protected by federal, state or local law. In addition, NXP will provide reasonable accommodations for otherwise qualified disabled individuals.
+
+#LI-e41b

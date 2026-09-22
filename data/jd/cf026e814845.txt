@@ -1,0 +1,23 @@
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+
+We are looking for a highly motivated software intern to work on the research and development using the state-of-the-art machine learning technologies in the area of on-chip in parasitic modeling, in a fast-paced, small team environment.
+
+Position Requirements:
+
+• Fast learner, highly motivated with good communication skills to solve extremely challenging technical problems, in a start-up like environment.
+
+• Strong algorithm background, programming skills and implementation for the processing of large amount of data
+
+• Knowledge and experience with state-of-the-art machine learning technologies, parasitic modeling is a big plus
+
+• Experience in C/C++ coding, with any of the following background: CS, Mathematics, Physics or EE.
+
+• Knowledge in UNIX shell and scripting language like Python, Perl
+
+• ML knowledge is a plus
+
+• Minimum: Master or PhD graduate candidates
+
+​ The hourly range for California is $31.63 to $58.75 per hour. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Please note that the hourly range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more.
+
+We’re doing work that matters. Help us solve what others can’t.

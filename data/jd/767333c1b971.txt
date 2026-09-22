@@ -1,0 +1,98 @@
+Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?
+
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X .
+
+At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network.
+
+ADI’s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees.
+
+At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles.
+
+Apply now for the opportunity to grow your career and help innovate ahead of what’s possible.
+
+About the Role
+
+As a Product Engineer Prod Dev Intern at Analog Devices (ADI), y ou’ll work alongside experienced engineers, learn to use industry-standard lab equipment, and contribute to real product evaluations. As a member of the Product E ngineering team, you will be responsible for a specific product or group of products from product definition through production and release.
+
+Key Responsibilities :  
+
+•
+Development of test capability including both hardware and software designs. 
+
+•
+Support design validation of early silicon. 
+
+•
+Debug of product related issues. 
+
+•
+Product characterization by laboratory testing. 
+
+•
+Work closely with reliability team to define and execute on qualification plan and validation of the necessary qualification hardware. 
+
+•
+Analysis of production and reliability test data. 
+
+•
+Post release sustaining activities (Disposition of early production hold lots, drive the resolution of customer and production yield issues). 
+
+•
+Direct interaction with field sales/applications as well as customers to resolve product issues. 
+
+•
+May participate in customer visits. 
+
+•
+Familiarity with bench test equipment including spectrum analyzers, oscilloscopes, signal generators
+
+•
+Circuits knowledge that includes experience in an area related to analog circuits, RF circuits, signals and systems, ADCs, DACs, high speed serial interfaces, microcontrollers
+
+Must Have Skills :
+
+•
+Self-motivated with a strong desire to learn. 
+
+•
+Strong organizational skills and the ability to work to aggressive schedules. 
+
+•
+Strong analytical skills.   Ability to draw conclusions from complex data sets and summarize and present at a high level.  
+
+•
+Strong understanding of statistical analysis. 
+
+•
+Excellent oral and written communication skills and the ability to work on large multi-discipline development teams. 
+
+•
+Experience with high level software languages. Useful examples include C, Microsoft VBA, National Instruments LabVIEW, and Matlab. 
+
+•
+Experience with medical products, biomedical engineering and system design practices is beneficial. 
+
+Preferred Education and Experience :  
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or a related field.
+
+•
+Coursework or project experience involving electronics, semiconductors, circuits, testing, or product development.
+
+•
+Excellent communication abilities and a collaborative mindset.
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+EEO is the Law: Notice of Applicant Rights Under the Law .
+Job Req Type: Internship/Cooperative
+
+Required Travel: Yes, 10% of the time
+
+The expected wage range for a new hire into this position is $22 to $41.
+Actual wage offered may vary depending on work location , experience, education, training, external market data, internal pay equity, or other bona fide factors.

@@ -1,0 +1,21 @@
+Job Responsibility:
+
+As a Physical Design Intern, you will join a highly experienced team. Your key responsibilities will be:
+
+Understand the existing flow, tools and scripts to do Digital backend flow from Synthesis to GDS2 using Cadence tools Support with multiple parallel runs to experiment with different RTL implementations, and/or tools options to find the most area-optimal solution Deeply study the Cadence tools’ user-manuals and user-forum discussions, and suggest improvements to existing flows and scripts that could improve the quality and efficiency of the backend flow
+
+Job Qualification:
+
+• Pursuing Master's degree (MSEE) with majority of courses relevant to Digital Design, RTL, Digital backend flow
+
+• Any prior experience with this flow is a strong plus
+
+• Willing to relocate to Phoenix Metro area (Arizona) for the full duration of internship, and minimum 3 days per week full-day presence in NXP's Chandler office
+
+• Excellent on problem-solving, teamwork, planning, organizing, attention to detail and communication skills.
+
+More information about NXP in the United States...
+
+NXP is an Equal Opportunity/Affirmative Action Employer regardless of age, color, national origin, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status as a disabled veteran and/or veteran of the Vietnam Era or any other characteristic protected by federal, state or local law. In addition, NXP will provide reasonable accommodations for otherwise qualified disabled individuals.
+
+#LI-e41b

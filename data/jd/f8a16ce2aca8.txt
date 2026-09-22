@@ -1,0 +1,61 @@
+Our vision is to transform how the world uses information to enrich life for all .
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+The CMP Process team works on developing and enhancing semiconductor manufacturing processes that support next-generation memory products. Working within a collaborative engineering environment, the team conducts fundamental research, evaluates process performance, and develops innovative solutions that meet increasingly complex device requirements.
+
+As an intern, you will gain broad exposure to semiconductor processing while developing expertise in Chemical Mechanical Planarization (CMP) process technology. You will work under the guidance of experienced engineers on a dedicated technical project focused on process development, optimization, and characterization. The internship culminates with a presentation of your technical contributions and project results to engineering collaborators.
+
+Responsibilities
+
+• Develop and evaluate CMP processes that meet product requirements for physical and electrical performance in advanced DRAM technologies.
+
+• Partner with multi-functional process and equipment engineering teams to identify, implement, and validate process improvements.
+
+• Apply root-cause analysis and failure-mode methodologies to identify process limitations and drive corrective actions.
+
+• Conduct fundamental research and experimental studies to support next-generation semiconductor process development.
+
+• Analyze statistical process and manufacturing data and apply Artificial Intelligence, AI Assisted tools, or AI-Enabled methodologies to improve process understanding, data analysis, and project efficiency.
+
+Minimum Qualifications
+
+• Currently pursuing a Ph.D. or equivalent degree in Materials Science, Chemical Engineering, Chemistry, Physics, or a related technical field.
+
+• Must be enrolled as a student and continue academic studies beyond September 2027.
+
+• Demonstrated experience with experimental design, data analysis, and interpretation of technical results.
+
+• Strong analytical, problem-solving, and quantitative reasoning skills.
+
+• Ability to manage project work independently and communicate technical findings effectively through presentations and written reports.
+
+Preferred Qualifications
+
+• Experience with semiconductor processing, materials characterization, process development, or manufacturing research.
+
+• Knowledge of advanced statistics, statistical process control (SPC), process optimization, or design of experiments (DOE).
+
+• Experience applying root-cause analysis, failure analysis, or model-based problem-solving methodologies.
+
+• Programming or scripting experience using tools such as Python, MATLAB, JMP, R, or similar analytical platforms.
+
+• Experience Applying AI, Using AI, or Leveraging Artificial Intelligence to improve research workflows, process analysis, data interpretation, automation, or engineering productivity.
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits .
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert : Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.

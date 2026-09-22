@@ -1,0 +1,67 @@
+Job Details:
+
+Job Description:
+
+Intel is seeking a motivated Module Engineering Intern to join our dynamic semiconductor manufacturing team. In this role, you will support the development and implementation of manufacturing processes for specialized modules, contributing directly to Intel's production of world-class semiconductor products. Through hands-on experience with cutting-edge equipment and process optimization, you will collaborate with engineering teams to address challenges, explore innovative solutions, and play a key role in shaping the future of technology.
+
+Business group
+As part of Intel Foundry, you will join a team dedicated to advancing semiconductor technology and manufacturing excellence. Our group focuses on optimizing processes and equipment for high-quality production, supporting Intel's broader goals of delivering innovative solutions for global technology challenges.
+
+Key Responsibilities
+- Assist in the development and optimization of manufacturing processes for specific modules used in semiconductor production.
+- Support equipment troubleshooting, maintenance, and qualification activities to ensure operational excellence.
+- Collaborate with engineering teams to sustain and improve manufacturing processes and equipment.
+- Apply process characterization methodologies and Design of Experiments (DOE) principles to enhance quality and production efficiency.
+- Conduct structured data analysis and experiments to identify areas for process improvement.
+- Participate in hands-on engineering projects and activities in a cleanroom environment.
+
+Qualifications:
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum qualifications and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your schoolwork, classes, research, relevant previous job, and/or internship experiences.
+
+Minimum Qualifications
+- Perusing a PhD in Mechanical Engineering, Chemical Engineering, Materials Science, Chemistry, Polymer Engineering, or a related field .
+
+3+ months of experience listed above should be in one or more of the following:
+- Experience with semiconductor manufacturing equipment and process development methodologies.
+- Experience in data analysis tools such as MATLAB, Python, or JMP.
+
+Preferred Qualifications
+- GPA 3.0
+- Hands-on experience with process optimization, troubleshooting engineering tools, and cleanroom environments.
+- Familiarity with DOE principles, structured problem-solving techniques, and statistical data analysis.
+- Experience in failure analysis, yield analysis, and process improvement strategies.
+
+We invite you to bring your enthusiasm, technical expertise, and fresh perspective to Intel and embark on an exciting internship opportunity. Join us in shaping the future of technology-apply today.
+
+Job Type:
+Student / Intern
+
+Shift:
+Shift 1 (United States of America)
+
+Primary Location:
+US, Arizona, Phoenix
+
+Additional Locations:
+
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Position of Trust
+N/A
+
+Benefits
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+
+Annual Salary Range for jobs which could be performed in the US: $120,898.00-120,902.00 USD
+
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and job role during the hiring process.
+
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+
+*
+
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

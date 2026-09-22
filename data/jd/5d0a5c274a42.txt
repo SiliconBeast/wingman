@@ -1,0 +1,80 @@
+About SiFive
+
+As the pioneers who introduced RISC-V to the world, SiFive is transforming the future of compute by bringing the limitless potential of RISC-V to the highest performance and most data-intensive applications in the world. SiFive’s unrivaled compute platforms are continuing to enable leading technology companies around the world to innovate, optimize and deliver the most advanced solutions of tomorrow across every market segment of chip design, including artificial intelligence, machine learning, automotive, data center, mobile, and consumer. With SiFive, the future of RISC-V has no limits.
+
+At SiFive, we are always excited to connect with talented individuals, who are just as passionate about driving innovation and changing the world as we are.
+
+Our constant innovation and ongoing success is down to our amazing teams of incredibly talented people, who collaborate and support each other to come up with truly groundbreaking ideas and solutions. Solutions that will have a huge impact on people's lives; making the world a better place, one processor at a time.
+
+Are you ready?
+
+To learn more about SiFive’s phenomenal success and to see why we have won the GSA’s prestigious Most Respected Private Company Award (for the fourth time!), check out our website and Glassdoor pages.
+
+Job Description:
+
+Join SiFive’s Design Verification Infrastructure team to develop and maintain the Verification Platform technologies used across SiFive. An ideal candidate will be a systems engineer with a desire to accelerate Design Verification through new technologies. You will be expected to collaborate with the Platform Technologies team that developed Chisel and CIRCT to bring new functionality to bear on Design Verification challenges.
+
+Responsibilities:
+
+•
+Architect, develop, and maintain the Verification Platform to provide a common infrastructure that scales with the growth of SiFive for Design Verification and other verification and validation activities
+
+•
+Develop new functionality in Chisel and CIRCT to support Verification Platform libraries and tools
+
+•
+Develop Verification Platform libraries for expressing verification intent in Scala with Chisel, including test harnesses, stimulus, scoreboards, and other generators
+
+•
+Develop Verification Platform libraries for querying design intent in Python from verification tools, including from specs, generated metadata, and other sources
+
+•
+Develop Verification Platform tools and methodologies to support end-to-end flows used by Design Verification other verification and validation teams
+
+•
+Educate the Design Verification and other verification and validation teams on best practices and how to achieve them with the Verification Platform
+
+Requirements:
+
+•
+Software engineering experience in at least one compiled language and one scripting language
+
+•
+Understanding of modern software engineering practices
+
+•
+Experience deploying software systems into production environments
+
+Desired:
+
+•
+Experience with Chisel, CIRCT, and/or MLIR
+
+•
+History working on systems software like compilers, databases, and/or operating systems
+
+•
+Understanding of EDA tools and flows for Design Verification
+
+Pay & Benefits
+
+Consistent with SiFive values and applicable law, we provide the following information to promote pay transparency and equity. We have a market-based pay structure which varies by location. Please note that the base pay range is a guideline, and our compensation range reflects the cost of labor in the U.S. geographic market based on the location of the role. Pay within these ranges varies and depends on job-related knowledge, skills, and relevant work experience.
+
+For candidates who receive and offer, the starting salary will vary based on various factors including, but not limited to, such qualifications as, skill level, competencies, and work location. The range provided may represent a candidate range and may not reflect the full range for an individual tenured employee.
+
+Base Pay Range
+
+In addition to base pay, this role may be eligible for variable/ incentive compensation and/ or equity. In addition, this role is eligible for a comprehensive, competitive benefits package which may include healthcare and retirement plans, paid time off, and more!
+
+Additional Information:
+
+This position requires a successful background and reference checks and satisfactory proof of your right to work in
+United States of America
+
+Any offer of employment for this position is also contingent on the Company verifying that you are a authorized for access to export-controlled technology under applicable export control laws or, if you are not already authorized, our ability to successfully obtain any necessary export license(s) or other approvals.
+
+SiFive is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+As an E-Verify employer, we use this system to confirm the employment eligibility of all new hires in accordance with federal law. All applicants will be required to complete a Form I-9, Employment Eligibility Verification, upon hire. We do not use E-Verify to pre-screen job candidates and will comply with all E-Verify regulations.
+
+California residents: please see our job candidate notice for more information on how we handle your personal information and your privacy rights: Privacy Policy Document .

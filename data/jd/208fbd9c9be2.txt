@@ -1,0 +1,71 @@
+Change the world. Love your job.
+
+As a Data Engineering intern, you'll help build the data infrastructure that powers TI's AI/ML initiatives, analytics, and data-driven decision-making across the organization. You'll work with cutting-edge data technologies and cloud platforms, gaining hands-on experience in transforming raw data into actionable insights. And, you'll have the opportunity to work in exciting areas like machine learning pipelines, big data processing, AI-driven analytics, cloud data architecture, real-time data streaming, and automated data workflows.
+
+Some of your responsibilities will include, but will not be limited to:
+
+• Assisting in the development and maintenance of data pipelines and ETL/ELT workflows for processing datasets from multiple sources
+
+• Supporting the building and optimization of data models, schemas, and databases to ensure efficient data storage and accessibility
+
+• Participating in data cleaning, validation, and quality checks to help deliver accurate and reliable data for analytical use
+
+• Working with SQL, Python, and modern data tools such as Spark to support data flows and data science initiatives
+
+• Collaborating with data engineers and business teams to understand data requirements and contribute to solution development
+
+• Assisting in monitoring data infrastructure performance and helping troubleshoot issues as needed
+
+• Contributing to documentation for pipelines, data models, and transformation logic
+
+• Learning about emerging data technologies and supporting recommendations for data architecture improvements
+
+• Supporting the implementation of software engineering best practices such as testing and monitoring in data workflows
+
+Put your talent to work with us as a Data Engineering Intern!
+
+Texas Instruments will not sponsor job applicants for visas or work authorization for this position.
+
+Minimum requirements:
+
+• Currently pursuing an undergraduate or graduate degree in Electrical Engineering, Computer Engineering, Computer Science, Data Science, or related field
+
+• Cumulative 3.0/4.0 GPA or higher
+
+Preferred qualifications:
+
+• Coursework or project experience with programming languages such as Python, Java, or SQL
+
+• Basic understanding of database concepts and data manipulation
+
+• Exposure to big data platforms (e.g., Spark), cloud services (AWS, Azure, or GCP), or machine learning concepts through coursework or personal projects
+
+• Ability to establish strong relationships with key stakeholders critical to success, both internally and externally
+
+• Strong verbal and written communication skills
+
+• Ability to quickly ramp on new systems and processes
+
+• Demonstrated strong interpersonal, analytical and problem-solving skills
+
+• Ability to work in teams and collaborate effectively with people in different functions
+
+• Ability to take the initiative and drive for results
+
+• Strong time management skills that enable on-time project delivery
+
+Why TI?
+
+• Engineer your future. We empower our employees to truly own their career and development. Come collaborate with some of the smartest people in the world to shape the future of electronics.
+
+• We're different by design. Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger. We value each and every voice, and look forward to hearing yours. Meet the people of TI
+
+• Benefits that benefit you. We offer competitive pay and benefits designed to help you and your family live your best life. Your well-being is important to us. Please find our country-specific benefits here
+
+About Texas Instruments
+
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, data center, personal electronics and communications equipment. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere. Learn more at TI.com .
+
+Texas Instruments is an equal opportunity employer and supports a diverse, inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, disability, genetic information, national origin, gender, gender identity and expression, age, sexual orientation, marital status, veteran status, or any other characteristic protected by federal, state, or local laws.
+
+If you are interested in this position, please apply to this requisition.

@@ -1,0 +1,198 @@
+{
+ "AMD": {
+  "ok": true,
+  "n": 112,
+  "m": 54,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 2.1
+ },
+ "Altera": {
+  "ok": true,
+  "n": 183,
+  "m": 3,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 8.8
+ },
+ "Analog Devices": {
+  "ok": true,
+  "n": 595,
+  "m": 21,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 35.3
+ },
+ "Astera Labs": {
+  "ok": true,
+  "n": 5,
+  "m": 3,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.1
+ },
+ "Cadence": {
+  "ok": true,
+  "n": 19,
+  "m": 4,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 1.9
+ },
+ "Ciena": {
+  "ok": true,
+  "n": 144,
+  "m": 8,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 10.0
+ },
+ "Etched": {
+  "ok": true,
+  "n": 106,
+  "m": 16,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.3
+ },
+ "Intel": {
+  "ok": true,
+  "n": 506,
+  "m": 21,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 40.8
+ },
+ "Keysight": {
+  "ok": true,
+  "n": 44,
+  "m": 19,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.7
+ },
+ "Lightmatter": {
+  "ok": true,
+  "n": 61,
+  "m": 0,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.3
+ },
+ "Marvell": {
+  "ok": true,
+  "n": 41,
+  "m": 16,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 3.3
+ },
+ "Microchip": {
+  "ok": true,
+  "n": 466,
+  "m": 10,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 28.0
+ },
+ "Micron": {
+  "ok": true,
+  "n": 432,
+  "m": 37,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 29.6
+ },
+ "NVIDIA": {
+  "ok": true,
+  "n": 710,
+  "m": 31,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 49.0
+ },
+ "NXP": {
+  "ok": true,
+  "n": 565,
+  "m": 70,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 47.6
+ },
+ "Qualcomm": {
+  "ok": false,
+  "err": "HTTPError: 403 Client Error: FORBIDDEN for url: https://qualcomm.eightfold.ai/api/apply/v2/jobs?domain=qualcomm.com&query=intern&start=0&num=50&sort_by=timestamp",
+  "at": "2026-09-22T01:02:35Z",
+  "fails": 1
+ },
+ "SiFive": {
+  "ok": true,
+  "n": 123,
+  "m": 2,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 6.8
+ },
+ "Tenstorrent": {
+  "ok": true,
+  "n": 7,
+  "m": 3,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.1
+ },
+ "Texas Instruments": {
+  "ok": true,
+  "n": 380,
+  "m": 59,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 7.9
+ },
+ "d-Matrix": {
+  "ok": true,
+  "n": 34,
+  "m": 0,
+  "err": null,
+  "at": "2026-09-22T01:02:35Z",
+  "last_ok": "2026-09-22T01:02:35Z",
+  "fails": 0,
+  "secs": 0.1
+ }
+}

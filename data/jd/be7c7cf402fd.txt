@@ -1,0 +1,67 @@
+Are you looking for a unique opportunity to be a part of something great? Want to join a 17,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology Inc.
+
+People come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our Vision, Mission, and 11 Guiding Values ; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence.
+
+Our company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over 30 years of quarterly profitability without a great team dedicated to empowering innovation. People like you.
+
+Visit our careers page to see what exciting opportunities and company perks await!
+
+Job Description:
+
+The successful candidate will join the rapidly growing Data Center Solutions (DCS) business unit at Microchip. DCS has a broad portfolio of products widely deployed by the industry’s cutting-edge server/storage OEMs and hyperscale datacenters. Customers deploy DCS solutions into applications ranging from Big Data capacity storage to artificial intelligence and machine learning that are helping to shape the next digital age. Our product portfolio includes SAS/PCIe/NVMe/CXL products that connect, manage, and secure the world’s information, including Flash Controllers, High Performance Switches, RAID Controllers and Memory Controllers. Join a team where you can expand your skill set and drive key elements of the industry’s technology leadership.
+
+We are seeking a highly motivated Verification Intern to join our IP Design team and work alongside experienced engineers in developing our next generation storage controller SOC products. This internship will provide you with hands-on experience in developing IP verification environment and development of AI tools and flow to enhance Verification productivity.
+
+Seeking candidate with design/development career aspirations and the flexibility to work part-time (up to 25 hours per week) while completing degree program.
+
+Key Responsibilities
+
+• Write and maintain testbenches using industry-standard verification languages (e.g., System Verilog, UVM).
+
+• Analyze simulation results, identify issues, and collaborate with design engineers to resolve them.
+
+• Contribute to the development of automated verification environments and scripts.
+
+• Help design, implement, and integrate AI-based tools and workflows to enhance verification efficiency and productivity.
+
+• Research and evaluate new AI technologies and methodologies applicable to ASIC verification.
+
+• Participate in team meetings and technical reviews.
+
+Requirements/Qualifications:
+
+Preferred Qualifications:
+
+The ideal candidate is currently enrolled in an Electrical and/or Computer Engineering degree program and has reached the Senior level. Or is actively pursuing post-graduate studies in a related discipline.
+
+• Familiarity with Verilog, System Verilog, with UVM as a career growth opportunity.
+
+• Courses in digital design, computer architecture a must; Digital design projects using Verilog/System Verilog.
+
+• Good programming / scripting skills with languages such as TCL, Python and Perl.
+
+• Exposure to advances in Artificial Intelligence and how AI is applied to design and/or process improvement would be a plus but not mandatory.
+
+• Excellent analytical, communication (written and verbal), and documentation skills.
+
+• Excellent problem solving and debugging skills.
+
+• Preferred graduation date Summer 2027.
+
+Travel Time:
+
+No Travel
+
+Physical Attributes:
+
+Hearing, Seeing, Talking, Works Alone, Works Around Others
+
+Physical Requirements:
+
+80% sitting, 10% standing, 10% walking, 100% inside.
+
+Microchip Technology Inc is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+
+For more information on applicable equal employment regulations, please refer to the Know Your Rights: Workplace Discrimination is Illegal Poster .
+
+To all recruitment agencies : Microchip Technology Inc. does not accept unsolicited agency resumes. Please do not forward resumes to our recruiting team or other Microchip employees. Microchip is not responsible for any fees related to unsolicited resumes.

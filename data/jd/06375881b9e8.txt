@@ -1,0 +1,47 @@
+Scope of Responsibilities/Expectations
+
+You will report to the SCE Systems Mgr. in Austin, Texas USA. Working as a system engineer, you will be mentored by senior team members to create a project showcasing the capabilities of the latest NXP microprocessors in the areas of artificial intelligence and machine learning with a focus on time series and anomaly detection. You will collaborate with local team members as well as Designers, Software Developers, and other engineers from around the globe. You will be responsible for managing your project from Conception to Planning to Execution to Final Product, culminating with a presentation to the leadership team showing off your hard work.
+
+In addition you will contribute to the development of firmware, proofs of concept and all materials enhancing our product offering to our customers.
+
+Key Challenges:
+
+• Build application / demos / drivers porting or development.
+
+• Build innovative functions or use case demonstrators in all applications fields: security, connectivity.
+
+• Perform technical feasibility studies on key functions
+
+• Build reference designs in various strategic domains, application notes and white papers writing.
+
+• Review Reference Manuals and Data Sheets and contribute to Developer guides and "Ease-of-use".
+
+Cross functional aspects:
+
+• You will be mentored by senior members of the team and have the opportunity to get help from team members both locally and in other locations according to the area of expertise you need to learn about for your project.
+
+• You may need to interact with other job functions like lab technicians in order to complete certain tasks of your project, giving you a better understanding of how a typical engineering office operates.
+
+Job Qualifications:
+
+• Must be pursuing a Bachelor’s degree in Computer Engineering, Electrical Engineering or Computer Science.
+
+• Must have proficiency in the C language
+
+• In order to be considered for a summer internship with NXP you must be returning to school or graduating at the conclusion of the internship term. If you are graduating prior to July 2027 please apply to Entry Level full-time roles.
+
+In addition, the ideal candidate will also have experience in one or more of the following:
+
+• Experience with embedded Systems on Chip, especially ARM Cortex architecture.
+
+• Embedded software development and debug experience including one of more of the following: operating systems, device drivers, connectivity stack (802.15.4, BLE, Thread, Zigbee)
+
+• Experience with embedded software development and debug
+
+• Technical writing skills for creating application notes, white papers, and user’s guides / reference manuals.
+
+More information about NXP in the United States...
+
+NXP is an Equal Opportunity/Affirmative Action Employer regardless of age, color, national origin, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status as a disabled veteran and/or veteran of the Vietnam Era or any other characteristic protected by federal, state or local law. In addition, NXP will provide reasonable accommodations for otherwise qualified disabled individuals.
+
+#LI-e41b

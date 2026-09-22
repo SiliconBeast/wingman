@@ -1,0 +1,61 @@
+Job Details:
+
+Job Description:
+
+Join Us in Shaping the Future
+At Intel, we're advancing the next generation of foundational software through hardware-software co-design, building state-of-the-art compilers for AI/ML models that unlock the full potential of heterogeneous computing. Our team enables developers worldwide to harness CPUs, GPUs, and accelerators with cutting-edge tools, libraries, and compilers. By joining us, you'll contribute to an open ecosystem that drives performance, scalability, and portability across diverse architectures-empowering breakthroughs in AI, HPC, and beyond. If you're passionate about transforming computing technology and want to work on innovations that truly matter, this is your opportunity to make an impact.
+The Team
+The Intel Compiler Engineering Team is a high-performing organization responsible for creating the industry-leading Intel C/C++/DPC++ and Fortran Compilers. As a leader in LLVM.org, the foundation of our compiler products, we continually push the boundaries of compiler technology to deliver highly useful and performant compilers for all Intel processor platforms, including both CPUs and GPUs.
+Position Overview
+We're hiring a Compiler Research and Development Intern to support the co-design of next-generation Intel CPU and GPU architectures through compiler innovation for AI/ML model and framework optimizations. In this role, you'll work alongside experienced engineers to collect and analyze AI model performance data on Intel CPUs and GPUs, contribute to hardware and software features that optimize AI models and workload performance, and evaluate optimization impact on hardware design. You'll gain hands-on experience with technologies like LLVM, SYCL and CUDA while learning how compilers and runtimes integrate across the hardware-software stack to deliver strong performance and reliability for AI workloads.
+
+Ideal Start Date: Fall Semester 2027
+
+Qualifications:
+
+Minimum Qualifications
+- Pursuing a Master's or higher degree in Computer Science (preferred), Computer Engineering, Applied Mathematics, or a related technical field, with 2-3 years of hands-on experience in domain skills gained through internships, academic projects, coursework, or hands-on training OR a Master's degree in the relevant field with no prior professional experience.
+- Proficiency in C/C++ programming and understanding of data structures and algorithms.
+- Familiarity with compiler construction concepts from coursework or projects.
+- Knowledge of modern CPU/GPU architecture and memory systems.
+- Experience with accelerated computing and parallel programming models such as OpenMP, CUDA, or SYCL.
+
+Preferred Qualifications
+- Hands-on experience building compilers or compiler components using the LLVM framework.
+- Demonstrated ability to analyze and optimize AI models and runtimes for performance and scalability across heterogeneous architectures.
+- Experience in kernel programming and AI model optimization using PyTorch for large language models (LLMs).
+- Familiarity with Intel Architecture and GPU performance tracking and analysis.
+- Proven ability to debug complex technical problems and proactively propose solutions.
+
+We are looking for individuals who are enthusiastic about shaping the future of computing technology. If you are ready to make an impact, apply today to join a collaborative and innovative team that is driving performance breakthroughs in AI and HPC.
+
+Job Type:
+Student / Intern
+
+Shift:
+Shift 1 (Canada)
+
+Primary Location:
+Virtual Canada
+
+Additional Locations:
+
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Position of Trust
+N/A
+
+Annual Salary Range for jobs which could be performed in Canada
+
+Salary range dependent on a number of factors including location and experience.
+
+Work Model for this Role
+This role is available as a fully home-based and generally would require you to attend Intel sites only occasionally based on business need. However, you must live and work from the country specified in the job posting, in which Intel has a legal presence. Due to legal regulations, remote work from any other country is unfortunately not permitted. * Job posting details (such as work model, location or time type) are subject to change.
+Canada Accommodation:
+
+Intel is committed to a culture of accessibility. Intel provides accommodations to applicants and employees with disabilities. Find information and request accommodation here .
+
+*
+
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

@@ -1,0 +1,61 @@
+Our vision is to transform how the world uses information to enrich life for all .
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+At Micron, we are accelerating the transformation of information into intelligence through industry-leading memory and storage solutions. The 3D DRAM Photolithography team develops advanced patterning technologies that enable future memory scaling and support next-generation products powering AI, cloud computing, and data-intensive applications. Our work combines innovative research, semiconductor process development, and high-volume manufacturing innovation.
+
+As a 3D DRAM Photolithography Process Development Intern, you will gain hands-on experience in semiconductor process development while working on a dedicated technical project within the 3D DRAM Photo team. Under the mentorship of experienced engineers, you will collaborate across process and equipment subject areas to solve complex manufacturing challenges and develop innovative solutions that meet demanding product requirements. The internship culminates in a presentation of project results to technical and leadership teams.
+
+Responsibilities
+
+• Develop and optimize photolithography processes that meet product requirements for physical and electrical performance.
+
+• Partner with multi-functional process and equipment teams to find opportunities for process improvements and technology advancement.
+
+• Conduct root-cause and failure-mode analyses to identify process limitations and implement corrective actions.
+
+• Perform statistical analysis of pilot manufacturing and technology development data to support process optimization and decision-making.
+
+• Research and develop innovative solutions for next-generation memory technologies, including Applying Artificial Intelligence and data-driven methods where appropriate to improve engineering efficiency and project outcomes.
+
+Minimum Qualifications
+
+• Currently pursuing a Ph.D. in Materials Science, Chemical Engineering, Chemistry, Physics, or a related technical field.
+
+• Must be enrolled as a student and not graduate before September 2027.
+
+• Demonstrated experience with experimental design, data analysis, and scientific or engineering research methodologies.
+
+• Strong analytical, problem-solving, and communication skills.
+
+• Ability to independently manage numerous projects, priorities, and work in a research and development environment.
+
+Preferred Qualifications
+
+• Advanced knowledge of statistics, statistical process control, or data-driven process optimization techniques.
+
+• Experience using programming or scripting languages such as Python, MATLAB, JMP, or similar analytical tools.
+
+• Demonstrated experience Applying Artificial Intelligence, Leveraging AI, or AI-enabled analytical tools to improve project execution, data interpretation, or engineering workflows.
+
+• General understanding of semiconductor manufacturing processes, with deeper expertise in photolithography or another semiconductor process area preferred.
+
+• Experience performing root-cause analysis, model-based problem solving, or advanced process characterization.
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits .
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert : Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.

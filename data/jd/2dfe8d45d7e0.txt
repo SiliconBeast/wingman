@@ -1,0 +1,110 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+
+The Board Product Engineering team's core mission is to develop and implement effective board manufacturing strategies that support the needs of Marvell's various Business Units (BUs).
+
+Marvell is seeking a motivated Summer Intern – Board Product Engineering to support board-level product engineering activities during the summer internship program. This role provides hands-on exposure to new product introduction, board assembly, manufacturing test, supplier coordination, and product readiness activities for advanced hardware products.
+
+What You Can Expect
+
+The intern will work under the guidance of experienced engineers and cross-functional teams to help track engineering builds, collect and analyze manufacturing data, document issues, support readiness reviews, and contribute to continuous improvement activities. This summer internship is intended for students who want practical experience in hardware product engineering and manufacturing operations.
+
+•
+Support board-level product engineering activities for prototype and pre-production hardware builds.
+
+•
+Assist with tracking engineering build milestones, action items, risks, and readiness status.
+
+•
+Help collect, organize, and summarize data from board assembly, inspection, manufacturing test, and validation activities.
+
+•
+Support documentation of build issues, failure symptoms, corrective actions, and lessons learned.
+
+•
+Work with hardware design, operations, test engineering, quality, reliability, and supply chain teams to support NPI execution.
+
+What You’ll Learn
+
+•
+How board-level hardware products move from prototype builds into manufacturing readiness.
+
+•
+How engineering, operations, quality, reliability, and supply chain teams work together during new product introduction.
+
+•
+How to organize build data, track issues, summarize technical findings, and communicate status to engineering teams.
+
+•
+How manufacturing test, validation, and failure analysis activities support product readiness.
+
+How to contribute to engineering documentation, lessons learned, and continuous improvement efforts in a real product development environment
+
+What We're Looking For
+
+•
+Currently pursuing a BS degree in Electrical Engineering, Computer Engineering, Mechanical Engineering, Manufacturing Engineering, or a related technical discipline.
+
+•
+Basic understanding of hardware products, printed circuit boards, electronics manufacturing, or product development processes.
+
+•
+Coursework or project experience related to electronics, circuits, embedded systems, manufacturing, or mechanical design is preferred.
+
+•
+Ability to organize technical information, summarize data, and communicate clearly.
+
+•
+Comfortable working in a team environment and learning from engineers across multiple disciplines and regions.
+
+•
+Familiarity with Microsoft Excel, PowerPoint, basic scripting, lab equipment, and CAD tools is a plus.
+
+•
+Strong interest in hardware product engineering and manufacturing
+
+•
+Curiosity and willingness to learn
+
+•
+Attention to detail and good documentation habits
+
+•
+Basic analytical and problem-solving skills
+
+•
+Good written and verbal communication
+
+•
+Ability to work collaboratively with cross-functional teams
+
+•
+Self-motivated, organized, and able to follow through on assigned tasks
+
+Expected Base Pay Range (USD)
+24 - 48, $ per hour.
+
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.
+
+&#xa;&#xa;
+Additional Compensation and Benefit Elements
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com .
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-RM1

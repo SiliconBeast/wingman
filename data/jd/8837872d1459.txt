@@ -1,0 +1,82 @@
+Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?
+
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X .
+
+At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network.
+
+ADI’s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees.
+
+At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles.
+
+Apply now for the opportunity to grow your career and help innovate ahead of what’s possible.
+
+About the Role :
+
+As an Analog Design Engineer Intern at Analog Devices ( ADI ) , you will have the opportunity to work alongside senior engineers in the design and development of analog and mixed-signal ICs. You will assist in creating circuits such as amplifiers, filters, and data converters, while learning to simulate and evaluate circuit behavior using tools like SPICE and Cadence. Your role will include supporting circuit layout, simulation, and testing processes, gaining hands-on experience in real-world IC development.
+
+This internship is an excellent opportunity for students to develop practical skills and contribute to key projects within ADI’s product portfolio.
+
+Key Responsibilities:
+
+•
+Assist in the design and simulation of analog circuits such as amplifiers and filters.
+
+•
+Use simulation tools like SPICE to model circuit behavior and predict performance.
+
+•
+Help develop IC layouts to ensure optimized performance and manufacturability.
+
+•
+Conduct lab tests and measurements using oscilloscopes and function generators.
+
+•
+Collaborate with senior engineers to troubleshoot design issues and optimize circuits.
+
+Must Have Skills :
+
+•
+Analog Circuits Design: Basic understanding of analog circuits, including amplifiers and filters, with the ability to assist senior engineers.
+
+•
+Mixed-Signal IC Design: Introductory exposure to integrating analog and digital components on a single chip.
+
+•
+Simulation Modeling: Familiarity with simulation tools like SPICE to assist in modeling circuit performance.
+
+•
+Integrated Circuit Layout: Initial exposure to IC layout design, assisting in optimization for performance and manufacturability.
+
+•
+CMOS Design: Developing knowledge of CMOS technology to support basic circuit designs.
+
+•
+Analog to Digital Conversion: Basic knowledge of ADC design, assisting in testing and development.
+
+Preferred Education and Experience :
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or related field.
+
+•
+Previous coursework or projects related to analog circuit design and simulation.
+
+•
+Strong analytical and problem-solving skills.
+
+•
+Excellent communication abilities and a collaborative mindset.
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+EEO is the Law: Notice of Applicant Rights Under the Law .
+Job Req Type: Internship/Cooperative
+
+Required Travel: Yes, 10% of the time
+
+The expected wage range for a new hire into this position is $22 to $41.
+Actual wage offered may vary depending on work location , experience, education, training, external market data, internal pay equity, or other bona fide factors.

@@ -1,0 +1,124 @@
+Job Details:
+
+Job Description:
+
+What if your next project helped power the future of technology?
+
+At Intel, you'll do more than learn, you'll contribute. You'll work side-by-side with industry leaders, gain hands-on experience on meaningful projects, and help solve real-world challenges that affect billions of people worldwide. From advanced semiconductor manufacturing to AI-powered innovations, you'll play a role in technologies that redefine how the world works, learns, and connects.
+
+What makes Intel unique is the opportunity to see the entire technology lifecycle in action. Unlike many companies where hardware, software, and manufacturing operate separately, Intel brings them together, giving you exposure to everything from research and design to advanced semiconductor manufacturing and global deployment.
+
+Whether you're tackling engineering challenges, improving operations, analyzing data, advancing next-generation technologies, or supporting global customers, you'll build valuable skills while contributing to innovations that enable a more sustainable and connected future.
+
+Bring your curiosity, make an impact, and see where your ideas can take you at Intel.
+
+What You'll Do
+
+Build technologies that power the future of computing. As a Silicon Hardware Engineering Intern, you'll work on meaningful projects while building technical expertise that accelerates your professional growth.
+
+• Silicon architecture, circuit design, logic, layout, physical design, verification, validation, and debug.
+
+• Design, build, test, and analyze technologies at the core of Intel processors and platforms.
+
+• Use scripting, data analysis, and hardware validation methods to solve technical problems.
+
+• Collaborate across silicon, product, and manufacturing teams.
+
+• Contribute to innovations in processors, GPUs, SoCs, photonics, and validation systems.
+
+Develop technical depth, tackle complex challenges, and contribute from day one while learning alongside experienced Intel engineers and technical leaders.
+
+Where Your Career Could Take You
+
+Potential opportunity areas include:
+
+• Analog Circuit Design Engineer
+
+• CPU/GPU Design Verification Engineer
+
+• GPU Physical Design Engineer
+
+• DFT Design Engineer
+
+• Formal Verification Engineer
+
+• Product Development Engineer
+
+• Product Failure Analysis Engineer
+
+• Silicon Product Architect
+
+• SoC Logic Design Engineer
+
+Build technical expertise, explore new possibilities, and help shape what is next in computing and semiconductor technology.
+
+Qualifications:
+
+Must possess the minimum qualifications below to be initially considered for this position. Experience may be gained through coursework, research, academic projects, internships, laboratory work, student organizations, leadership experiences, or other relevant experiences.
+
+Minimum Qualifications
+
+• Currently pursuing a Master’s degree or PhD in Computer Engineering, Computer Science, Electrical Engineering, Physics, or a related STEM field.
+
+• 3+ months of experience gained through coursework, academic projects, research, internships, co-ops, student organizations, assistantships, or other relevant technical experiences.
+
+Preferred Qualifications
+
+• GPA of 3.0 or higher preferred.
+
+• Experience or interest in design, architecture, programming, scripting, data analysis, automation, modeling, simulation, validation, or debugging.
+
+• Hands-on coursework, research, projects, or internship experience related to the role family.
+
+• Strong problem-solving, communication, collaboration, and ability to work in team-based environments.
+
+Location & Immigration Information
+
+As you consider the opportunity to join Intel, relocation assistance may be available based on eligibility, current location, and the specifics of the role.
+
+Job location and modality of work will be communicated at time of offer. This position is not available in the state of Colorado.
+
+This position is not eligible for employment-based visa/immigration sponsorship.
+
+Intel sponsors individuals for employment-based visas for positions where we experience a shortage of U.S. workers. These skills shortage roles are typically STEM positions requiring a Master's or PhD degree, or a Bachelor's degree with at least three years of post-degree related job experience. This position does not qualify for Intel sponsorship because it is either a non-STEM position, or a STEM position that only requires a Bachelor's degree and less than three years' experience.
+
+For information on Intel's immigration sponsorship guidelines, please see: https://www.intel.com/content/www/us/en/jobs/hiring.html
+
+Additional Information
+
+This application is for internship starts in Spring and Summer 2027, with consideration also given to candidates interested in year-long internship or co-op opportunities. You must be available to start work during this time frame.
+
+Life at Intel
+
+Job Type:
+Student / Intern
+
+Shift:
+Shift 1 (United States of America)
+
+Primary Location:
+US, Oregon, Hillsboro
+
+Additional Locations:
+US, Arizona, Phoenix, US, California, Folsom, US, California, Santa Clara, US, Texas, Austin
+
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Position of Trust
+N/A
+
+Benefits
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+
+Annual Salary Range for jobs which could be performed in the US: $105,698.00-105,702.00 USD
+
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and job role during the hiring process.
+
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+
+*
+
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.
