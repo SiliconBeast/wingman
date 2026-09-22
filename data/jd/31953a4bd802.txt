@@ -1,0 +1,90 @@
+ABOUT US
+
+The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges, and sidewalks have been asked to manage the physical world with tools that can't see it.
+
+CYVL is the Physical AI company changing that. We help governments build infrastructure faster with hardware, software, and AI — turning street-level capture into living intelligence that 500+ cities and towns across the country use to see what's out there, direct the work, and fix problems before they fail.
+
+We believe in a future where infrastructure keeps up with society. Every street, sidewalk, bridge … everywhere. The proof isn't a dashboard. It's a smoother commute, a safer walk to school, public dollars going where they matter most.
+
+We're a fast-moving team in Boston building for the real world. If you believe technology's highest calling is public good, come build with us.
+
+
+
+
+ABOUT YOU
+
+As a Hardware Summer Engineering Intern at Cyvl, you won’t be stuck on side projects. You'll work directly on our sensor stack that ride on the vehicles mapping roads for cities across the country. You'll collaborate with our engineering and product teams, and learn how hardware actually gets designed, tested, and built in a fast-moving startup.
+
+
+
+
+KEY RESPONSIBILITIES
+
+ - Design and iterate sensor mounts and enclosures in CAD, from first sketch to printed and machined parts you can hold.
+
+ - Ability to develop and execute tests including designing fixtures, writing concise test plans and reports, and writing simple scripts(python, bash) to automate testing.
+
+ - Work closely with engineers who will invest in your growth — regular pairing and direct feedback on your work.
+
+
+
+
+QUALIFICATIONS
+
+
+REQUIRED:
+
+ - Currently pursuing a degree in Robotics, Mechanical Engineering, Electrical Engineering, or a related field.
+
+ - 3D CAD fluency. Preference is to Solidworks but Onshape, etc is welcomed as well!
+
+ - Ability to develop and execute tests including designing fixtures, writing concise test plans and reports, and writing simple scripts(python, bash) to automate testing.
+
+ - Excitement to learn new technologies and apply them quickly.
+
+ - Strong communication skills and the ability to work in a collaborative environment.
+
+ - Able to work in person at our Somerville, MA office.
+
+
+NICE TO HAVE:
+
+ - Portfolio is a nice to have! Doesn't have to be perfect but we want to see that you have built things.
+
+ - Designing for outdoor, automotive, or industrial applications(weatherproofing, shock and vibration)
+
+ - An understanding of DFX methods(manufacturability, usability, repairability, etc)
+
+
+
+
+OUR VALUES
+
+Our values guide how we operate:
+
+Real - authentic, transparent, focused on solving real problems with simple, effective solutions.
+
+All Out - bold, driven, and committed to delivering results that matter.
+
+Accelerating with Intention - always learning, growing, and moving with intention.
+
+Reliable - we follow through and deliver at a consistently high bar.
+
+Empowering - we lift each other up and help governments build infrastructure they can be proud of.
+
+
+
+
+READ MORE ABOUT US
+
+Learn about our startup journey https://fortune.com/2025/10/19/meet-gen-z-founder-996-work-ethic-govtech-potholes-cyvl/
+
+Learn what we are doing https://www.theengineer.co.uk/content/opinion/how-to-rebuild-us-infrastructure-smarter-and-stronger
+
+Learn about our customers https://www.youtube.com/playlist?list=PLN8D9I84Yoz2kWW5Rgc2rYP7i-6aojp8c
+
+Together, we stay curious, learn quickly, and keep raising the bar. If you want to grow, make an impact that truly matters, and be part of a team that’s shaping the future of public infrastructure, you’ll feel right at home at Cyvl.
+
+
+
+At Cyvl, we welcome diversity in all forms. We do not discriminate based on race, color, religion, sex, gender, sexual orientation, age, national origin, disability, veteran status, or any other protected characteristic.

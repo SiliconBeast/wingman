@@ -1,0 +1,140 @@
+INSTITUTIONAL FABRIC FOR THE DIGITAL ASSET MARKET
+
+Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle.
+
+At Talos, you’ll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe every member of our team brings invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust, integrity, collaboration, and mutual growth.
+
+We are a tight-knit yet globally distributed team of highly experienced engineers and business leaders, with hubs in New York, London, Singapore, and Cyprus. You’ll be part of a hybrid-friendly environment where your unique talents and insights will play a crucial role in building something extraordinary.
+
+
+
+
+QUANTITATIVE ANALYST INTERN
+
+As a Quantitative Analyst Intern, you will support our team in analyzing trading and proprietary data, and helping produce quantitative models that drive the decision making behind our quantitative execution offerings. You will assist in producing quantitative signals, impact models, and analyze Talos unique trading datasets to support improvements of the trading products and beyond.
+
+You will work alongside experienced team members, including product owners, quantitative analysts, and managers who will provide guidance and mentorship. This role offers excellent exposure to quantitative trading technology and will provide hands-on experience with financial markets data analysis. You'll gain practical experience while working with experienced professionals in the field.
+
+This is a 12-week internship running from June 1, 2027  to August 27, 2027
+
+Want to learn more about Talos’s engineering culture? Check out Sonic, our first open-source project which allows Talos to achieve microsecond network stack latency in Go: https://github.com/talostrading/sonic
+
+
+
+
+RESPONSIBILITIES 
+
+Quant Modelling
+
+ - Assist in analyzing trading data, proprietary intraday signals, to produce quantitative execution alphas
+
+ - Help create bespoke analytics visualizations using Talos data to illustrate trading patterns and execution insights
+
+ - Learn to use internal tools and systems for data analysis
+
+Quantitative Execution Algorithms
+
+ - Work with Talos quants upon quantitative strategies that utilize execution alphas to drive trading decision making
+
+ - Help gather and organize data related to trading algorithm performance
+
+ - Learn about market microstructure and best execution practices
+
+Business Support
+
+ - Assist in preparing quantitative content for client meetings, presentations and academic research reporting
+
+ - Work with the  Quant strategies to backtest real-world trading features for the pleasure of top leading crypto firms in the space
+
+
+
+
+QUALIFICATIONS
+
+ - Graduating class of 2029 pursuing a Masters or Doctorate degree in Computer Science or related field 
+
+ - Programming Skills: Advanced proficiency in Python, with hands-on experience in data science libraries (especially pandas) and a strong understanding of dataframe architecture for data manipulation, transformation, and analysis. Familiarity with Python-based data visualization tools is a plus.
+
+ - Database and Query Languages: Experience with SQL, including constructing and optimizing complex queries for large datasets; experience with BigQuery or other cloud-based querying platforms is a strong advantage.
+
+ - Computational Finance: Exposure to computational finance concepts, with familiarity in using quantitative methods and tools for finance-related applications.
+
+ - Statistics and Data Analysis: Strong statistical knowledge, including probability distributions, hypothesis testing, and data sampling methods. Ability to apply statistical analysis techniques to analyze financial data.
+
+ - Mathematics and Machine Learning: Solid foundation in mathematical principles, including linear algebra and calculus, with a focus on regression analysis. Exposure to machine learning and deep learning algorithms and methods in the presence of sparse data, including common imputation approaches. .
+
+ - Portfolio Optimization: Knowledge of portfolio optimization methodologies, specifically the Markowitz risk-return models is a plus.
+
+ - Local to New York HQ
+
+
+
+
+CHECK OUT THESE VIDEOS AND LINK TO LEARN MORE ABOUT THE TEAM!
+
+ - Market Impact Modeling: Understanding Market Impact in Crypto Trading: The Talos Model for Estimating Execution Costs https://www.talos.com/insights/understanding-market-impact-in-crypto-trading-the-talos-model-for-estimating-execution-costs | Youtube https://www.youtube.com/watch?v=E_0Q4ge5-_Q
+
+ - Execution Alphas: Youtube https://www.youtube.com/watch?v=hyHhO0Dtr3s
+
+ - Prediction Markets: Prediction Markets on Talos: Quant Execution Alpha Dashboard https://www.talos.com/dashboards/prediction-markets-quant-execution
+
+ - Digital Asset Industry Thought Leadership: Bitcoin is not the Digital Asset Industry https://www.talos.com/insights/bitcoin-is-not-the-digital-asset-industry and Before the First Fill: Quantitative Pre-Trade Analytics and the Agentic Future of Digital and Multi-Asset Execution https://www.talos.com/insights/before-the-first-fill-quantitative-pre-trade-analytics-and-the-agentic-future-of-digital-and-multi-asset-execution
+
+ 
+
+
+LEARN MORE ABOUT TALOS
+
+ 
+
+Check out these videos and links to learn more about Talos and our culture!
+
+ - Spotlight Article: Talos Snapshot by DRW https://www.drw.com/vc/updates/drw-vc-portfolio-company-spotlight-anton-katz-talos/
+
+ - Podcast: 2023 episode with co-founders Anton & Ethan https://www.youtube.com/watch?v=-gDUxXkBMr8&t=62s/
+
+ - Website: Explore Talos: Products, Investors, Team & More https://www.talos.com/
+
+ - Case Studies: Real world examples of client solutions https://www.talos.com/insights?insight-category=Case+Studies
+
+ - Awards: Talos Wins Hedgeweek Global Digital Assets Award 2024 https://www.talos.com/insights/talos-wins-best-trading-platform-at-hedgeweek-global-digital-assets-awards-2024/
+
+ - Culture: Award-winning, Forbes-listed, low-attrition team https://www.talos.com/insights/forbes-names-talos-one-of-americas-best-startup-employers-for-the-second-year-in-a-row/
+
+Andreessen Horowitz re: Talos: "The company best suited to drive institutional adoption is one that understands traditional capital markets deeply and is forward-thinking enough to fully grasp the promise of crypto. Talos is that company."
+
+
+
+
+BENEFITS
+
+You will also enjoy a comprehensive array of competitive benefits, regardless of your location, within our warm, welcoming, and ambitious company culture. Some of our benefits include:
+
+ - A lunch credit of $25 USD towards lunches for days in-office
+
+ - Evening socials with the entire office and fellow interns
+
+ - Other in-office perks: Catered lunches on Tuesdays, snacks, and drinks
+
+
+
+
+Also, check out other open positions https://talos.com/company/#join-the-team listed on our website. Questions? Please contact earlycareers@talos.com http://talos.com.
+
+
+
+© Talos Trading, careers@talos.com
+
+Talos is proud to be an Equal Opportunity employer.  We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.  Talos is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process.  If you need any assistance or accommodations due to a disability, please let us know at careers@talos.com.
+
+To protect the interests of all parties, Talos Trading, LLC and its affiliates (“Talos”) strongly discourage submission of unsolicited resumes from any source other than directly from a candidate.
+
+Talos will NOT pay fees, commissions or compensation of any kind (“Fees”) for any placement or hire resulting from the receipt of an unsolicited resume. Talos will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees and Talos reserves the right to contact, interview, and hire the candidate directly.
+
+Agencies, search firms, recruitment firms and similar organizations (“Agencies”) must obtain advance written approval from Talos’s internal recruiting team to submit resumes, AND must sign a valid fully executed placement agreement with Talos in order to be eligible to receive any Fees from Talos. Talos will not pay a Fee to any Agency that does not have such agreement in place.  By submitting a resume without a signed agreement, you acknowledge and accept these terms.
+
+
+
+© Talos Trading, careers@talos.com
+
+By submitting your application and pursuing job candidacy, you consent to the processing of your personal information in connection with our Applicant & Employee Privacy Notice https://www.talos.com/legals/employee-privacy-policy. 

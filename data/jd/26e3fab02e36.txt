@@ -1,0 +1,51 @@
+Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join our team!
+
+The AI Infrastructure Product Design team creates software used by engineers and researchers to prepare data, run complex workflows, and understand results. This internship offers ownership of a defined product problem from early research through a tested design and implementation handoff. Designers on this team often move between Figma and working HTML prototypes, and may hand off HTML directly to engineering. This work calls for a high standard of visual and interaction design alongside technical fluency. The role is a good fit for someone who enjoys making technically complex systems easier to understand and who uses large language models and software agents thoughtfully as part of their design and prototyping process.
+
+What you will be doing:
+
+• Own a focused design project for an internal AI infrastructure product, from understanding the problem through a validated design and implementation handoff.
+
+• Interview engineers and researchers, map their workflows, and turn the findings into clear product requirements, user flows, and interaction models.
+
+• Create precise, implementation-ready interface designs and interactive prototypes in Figma and HTML/CSS, with careful attention to typography, hierarchy, spacing, visual consistency, interaction states, and edge cases. Test them with users and improve the design based on evidence.
+
+• Work closely with product managers and software engineers to understand technical constraints, make tradeoffs, and support the design through implementation.
+
+• Use large language models and software agents as working partners for research synthesis, concept exploration, prototyping, and documentation, while reviewing outputs critically and validating them with users and teammates.
+
+What we need to see:
+
+• Pursuing a BS or MS in Product Design, Human Computer Interaction, Interaction Design, Computer Science, or equivalent program.
+
+• Experience using Figma and writing HTML/CSS, with enough JavaScript to build or modify interactive prototypes and hand off understandable front-end code.
+
+• A portfolio with at least two case studies that demonstrate a high standard of visual and interaction design. The work should show careful typography, hierarchy, spacing, component behavior, and attention to detail, as well as the problem, key decisions, iterations, and final result. At least one case study should include an interactive or coded prototype.
+
+• Experience conducting user interviews or usability tests and translating findings into specific design changes.
+
+Ways to stand out from the crowd:
+
+• Interested in designing tools for AI, data, developer workflows, autonomous vehicles, or other technically complex domains.
+
+• Experience designing enterprise or business software with dense data, multi-step workflows, or unfamiliar technical concepts.
+
+• Familiarity with design systems, accessibility, data visualization, or contributing reusable interface patterns.
+
+• Experience building more advanced prototypes or interfaces with JavaScript, React, or another front-end framework.
+
+• A curious and collaborative approach, with examples of taking initiative and improving work through feedback from users and teammates.
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.&#xa;
+
+You will also be eligible for Intern benefits . ​
+
+Applications for this job will be accepted at least until September 26, 2026.
+
+This posting is for an existing vacancy.
+
+NVIDIA uses AI tools in its recruiting processes.
+
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

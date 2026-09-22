@@ -1,0 +1,86 @@
+About fab2
+
+The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.
+
+We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.
+
+ 
+
+fab2 was founded by Sam Zeloof https://www.youtube.com/@SamZeloof and Jim Keller https://en.wikipedia.org/wiki/Jim_Keller_(engineer). Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.
+
+
+
+About the Role
+
+We’re hiring Electrical Engineering Interns for the summer term. The internship begins in May or June, with a preferred commitment of 4 to 8 months. We’re rebuilding the chip fabrication process from the ground up, so you’ll be exposed to some really interesting and impactful work. You will work closely with other engineers to develop lithography systems, deposition tools, vacuum chambers, nanometer precision motion control, plasma etching systems, and related tools. You’ll be expected to identify problems, prototype solutions, productionize your prototypes, and deliver finished solutions that will revolutionize IC manufacturing.
+
+
+
+Our philosophy is to get things built and tested in days or weeks, not months. Because of this, a portfolio is required to apply: show us the things you’ve actually built! If you’ve shipped a medium-to-high complexity system through a personal project or previous internship, you’d be a good fit here.
+
+
+
+Responsibilities
+
+ - Design PCBAs and electrical systems for our machines, driving the end-to-end process including schematic capture, layout, bringup, testing, integration, and documentation.
+
+ - Collaborate cross-functionally with software, mechanical, and process teams to gather system requirements, performing independent investigations to define targets where requirements are ambiguous or missing.
+
+ - Investigate optimal design approaches and perform detailed analysis and simulations to evaluate electrical designs, weighing off-the-shelf components against custom solutions.
+
+
+
+Required Experience
+
+ - Pursuing a Bachelor’s Degree or higher in engineering
+
+ - Strong foundation in electrical engineering (KiCad/Altium, microcontrollers, embedded systems, digital circuits, etc.)
+
+ - Ability to learn quickly and troubleshoot technical problems
+
+ - Hands-on prototyping experience and the ability to move through design cycles quickly
+   
+   
+
+Nice-to-have
+
+ - Familiarity with semiconductor processing— ALD, CVD, PVD, photolithography, etc.
+
+ - Hands-on experience with electromechanical assembly design and analysis from coursework, internships, or personal projects
+
+
+
+Working at fab2
+We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation practices. Hardware Interns are paid an hourly rate equivalent to an annualized range of $108,000-126,000, depending on experience and education level. Actual earnings will vary depending on internship length and hours worked.
+
+
+Internship Benefits:
+
+ - Housing Stipend to help with first month expenses
+
+ - Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts
+
+ - Weekly Learning & Development opportunities
+
+ - Commuter Benefits including Parking and Late Night Uber rides from the office
+
+ - Paid Time Off inclusive of Holidays and Sick Time
+
+ - Visa Sponsorship
+
+ - Medical, Dental, and Vision insurance
+
+ - 401(k) retirement plan
+
+ - Life and Disability Insurance
+
+
+
+We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
+
+
+Export Control Analysis: This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.
+
+ 
+
+fab2, formerly known as Atomic Semi

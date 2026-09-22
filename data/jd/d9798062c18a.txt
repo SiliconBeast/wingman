@@ -1,0 +1,102 @@
+ABOUT US
+
+The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges, and sidewalks have been asked to manage the physical world with tools that can't see it.
+
+CYVL is the Physical AI company changing that. We help governments build infrastructure faster with hardware, software, and AI — turning street-level capture into living intelligence that 500+ cities and towns across the country use to see what's out there, direct the work, and fix problems before they fail.
+
+We believe in a future where infrastructure keeps up with society. Every street, sidewalk, bridge … everywhere. The proof isn't a dashboard. It's a smoother commute, a safer walk to school, public dollars going where they matter most.
+
+We're a fast-moving team in Boston building for the real world. If you believe technology's highest calling is public good, come build with us.
+
+
+
+
+ABOUT YOU
+
+As a Summer Engineering Intern at Cyvl, you won’t be stuck on side projects. You’ll work directly on the systems and features that power our platform — user interfaces, backend services and APIs, and the machine learning models. The work you do will make it into production, meaning you’ll see your impact live in front of customers. You’ll collaborate with our engineering and product teams to design and launch new capabilities, gaining exposure to a wide range of technologies and learning how to build scalable, production-grade software in a fast-moving startup environment.
+
+
+
+
+KEY RESPONSIBILITIES
+
+ - Contribute to real product features that ship to customers, both frontend and backend.
+
+ - Collaborate with engineers, designers, and product managers to build features that help governments build infrastructure faster.
+
+ - Write well tested code for APIs and services using Python and Supabase.
+
+ - Gain experience with cloud-based tools and DevOps workflows.
+
+ - Develop real fluency with AI coding agents on a large production codebase: how to direct them, review their output, and know when to work by hand.
+
+ - Work closely with engineers who will invest in your growth — regular pairing, thorough code reviews, and direct feedback on your work.
+
+
+
+
+QUALIFICATIONS
+
+
+REQUIRED:
+
+ - Currently pursuing a degree in Computer Science, Software Engineering, or a related field.
+
+ - Strong programming skills in Python.
+
+ - Basic understanding of databases and SQL (Postgres experience a plus).
+
+ - Comfortable working with AI coding agents (Claude Code, Cursor, etc.) as part of a normal development workflow.
+
+ - Excitement to learn new technologies and apply them quickly.
+
+ - Strong communication skills and the ability to work in a collaborative environment.
+
+ - Able to work in person at our Somerville, MA office.
+
+
+NICE TO HAVE:
+
+ - Experience with side projects, class projects, or hackathons that showcase full-stack development.
+
+ - Familiarity with tools/frameworks like React, Supabase, Docker/Kubernetes, or cloud platforms (AWS, GCP, etc.).
+
+ - Hands-on experience with computer vision — image classification, object detection, or segmentation (PyTorch, YOLO, Roboflow, or similar).
+
+ - Experience working with messy real-world data: cleaning, labeling, or evaluating model output — not just training on a clean benchmark.
+
+ - Interest in geospatial data, 3D mapping technologies, or infrastructure.
+
+
+
+
+OUR VALUES
+
+Our values guide how we operate:
+
+Real - authentic, transparent, focused on solving real problems with simple, effective solutions.
+
+All Out - bold, driven, and committed to delivering results that matter.
+
+Accelerating with Intention - always learning, growing, and moving with intention.
+
+Reliable - we follow through and deliver at a consistently high bar.
+
+Empowering - we lift each other up and help governments build infrastructure they can be proud of.
+
+
+
+
+READ MORE ABOUT US
+
+Learn about our startup journey https://fortune.com/2025/10/19/meet-gen-z-founder-996-work-ethic-govtech-potholes-cyvl/
+
+Learn what we are doing https://www.theengineer.co.uk/content/opinion/how-to-rebuild-us-infrastructure-smarter-and-stronger
+
+Learn about our customers https://www.youtube.com/playlist?list=PLN8D9I84Yoz2kWW5Rgc2rYP7i-6aojp8c
+
+Together, we stay curious, learn quickly, and keep raising the bar. If you want to grow, make an impact that truly matters, and be part of a team that’s shaping the future of public infrastructure, you’ll feel right at home at Cyvl.
+
+
+
+At Cyvl, we welcome diversity in all forms. We do not discriminate based on race, color, religion, sex, gender, sexual orientation, age, national origin, disability, veteran status, or any other protected characteristic.

@@ -1,0 +1,92 @@
+About fab2
+
+The fab2 team can build anything. We design all the hardware and software needed to make chips and we make the fabs, tools, and components ourselves.
+
+We're looking for exceptional, hands-on people who can iterate to the limits of what's possible.
+
+ 
+
+fab2 was founded by Sam Zeloof https://www.youtube.com/@SamZeloof and Jim Keller https://en.wikipedia.org/wiki/Jim_Keller_(engineer). Sam is best known for making chips in his garage, and Jim has been a leader in the semiconductor industry for the past 40 years.
+
+ 
+
+About the Role
+
+We're hiring Process Engineering Interns for the summer term. The internship begins in May or June, with a preferred commitment of 4 to 8 months. We’re rebuilding the chip fabrication process from the ground-up, so you’ll be exposed to some really interesting and impactful work. This is a hands-on process engineering role—you’ll be responsible for experiment design and execution of new semiconductor and thin-film fabrication methods. We're looking for someone with both a strong understanding of traditional semiconductor processing methods and an open-mindedness to new techniques. 
+
+
+
+This is a high-ownership role with lots of autonomy in a fast-moving startup environment. You’ll have the opportunity to contribute to novel R&D processes and influence tool design. Candidates should have hands-on cleanroom experience and a track record of developing nanofabrication recipes from scratch, ideally across multiple process steps.
+
+ 
+
+Responsibilities
+
+ - Design and run experiments alongside senior process engineers
+
+ - Read academic papers and technical literature to inform experimental design; whiteboard ideas and iterate quickly
+
+ - Learn and operate a range of semiconductor tools, including deposition, etch, lithography, and metrology systems
+
+ - Develop, transfer, and optimize process recipes across platforms with a focus on consistency, yield, and throughput
+
+ - Analyze process data, troubleshoot recipe or equipment issues, and clearly document findings and results for the team
+
+ 
+
+Required Experience
+
+ - Pursuing a Bachelor’s Degree or higher in engineering
+
+ - Ability to learn quickly and troubleshoot technical problems
+
+ - Hands-on experience with wafer fabrication tools (etch, deposition, patterning) and metrology tools (AFM, SEM, thin film measurement, etc.)
+
+ - Recipe development and optimization for some subset of thin film deposition, dry etch, or lithography.
+
+ - Strong foundation in theoretical semiconductor knowledge (devices, fabrication, etc.)
+
+ 
+
+Nice-to-have
+
+ - Familiarity with data processing in Python
+
+ - Mechanical or maintenance experience with fab tools
+
+ 
+
+Working at fab2
+We’re an early-stage hardware startup with solid funding, world-class advisors, and labs/offices in Austin, TX, Lockhart, TX, and San Francisco, CA. fab2 is committed to fair and equitable compensation. Process Interns are paid hourly, at a rate equivalent to on an annualized range of $108,000–$126,000 depending on experience and education. Actual earnings vary with hours worked.
+
+
+Internship Benefits:
+
+ - Housing Stipend to help with first month expenses
+
+ - Lunches daily, Dinners 3x per week, Stocked Office Kitchen with Snacks and Spindrifts
+
+ - Weekly Learning & Development opportunities
+
+ - Commuter Benefits including Parking and Late Night Uber rides from the office
+
+ - Paid Time Off inclusive of Holidays and Sick Time
+
+ - Visa Sponsorship
+
+ - Medical, Dental, and Vision insurance
+
+ - 401(k) retirement plan
+
+ - Life and Disability Insurance
+
+
+
+We are an equal-opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
+
+
+Export Control Analysis: This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.
+
+ 
+
+fab2, formerly known as Atomic Semi

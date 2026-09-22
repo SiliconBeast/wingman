@@ -1,0 +1,80 @@
+At Reflect, you will be expected to move fast, have a lot of ownership and, most importantly, be able to effect change. If this excites you, we are interested in hearing about your best work and accomplishments across any domain and from any points in your life.
+
+
+
+
+ABOUT THE ROLE
+
+Reflect Orbital believes that talent is talent regardless of experience. If you seek an opportunity to solve hard problems and advance humanity, Reflect Orbital can offer that experience.
+
+During your internship at Reflect Orbital you will be given as much responsibility as our full-time team-members. You work will contribute to directly to the success of our flying constellation.
+
+Ideal candidates for internships will be comfortable facing challenges with no known solution, willing to be hands-on individual contributors, and able to commit to a minimum of 12 weeks in-person at our Hawthorne, CA office. We encourage all motivated and excellent candidates to apply regardless of the specific set of requirements you meet.
+
+
+
+
+RESPONSIBILITIES
+
+ - Work on a focused piece of our guidance, navigation, and control stack, in simulation, in flight software, or both.
+
+ - Build complete tools and test setups, with an emphasis on fully completing and shipping your work.
+
+ - Get hands on with our flatsat, integrating and debugging components on real avionics.
+
+ - Own an open question, whether that's a sensor trade, an orbit study, or a failure mode nobody has characterized yet, and document your findings so the team can build on them.
+
+
+
+
+IDEAL QUALIFICATIONS
+
+ - You are able to work full-time onsite
+
+ - You are enrolled in a Bachelor's or Master’s degree program from an accredited college or university in aerospace engineering, mechanical engineering, or related engineering field
+
+ - Understanding of fundamentals in the fields of orbital mechanics, spacecraft attitude dynamics, control systems and state estimation/sequential filtering
+
+ - Familiarity with ADCS components such as star trackers, IMU's, reaction wheels, CMG's, RCS, etc
+
+ - Proficiency in mathematical modeling and simulation software, including numerical methods
+
+ - Proficiency in Python, C/C++ or Rust code development
+
+ - Application of technical skills outside of the classroom (examples include: extracurricular projects, volunteering, personal projects, laboratory research, or prior internship/work experience)
+
+ - Excellent communication skills and the ability to work collaboratively in a professional team environment
+
+ - Eagerness to learn and adapt in a dynamic startup environment
+
+
+
+Even if you don’t meet 100% of the above qualifications, we are likely still interested in hearing from you. Hiring exceptional individuals is our #1 priority, and we believe that exceptional people often have highly unusual backgrounds.
+
+We are also interested in carving out unique roles for unconventional people that we are excited about working with.
+
+
+
+
+BENEFITS
+
+Reflect Orbital’s success will hinge on our team, which is why our compensation and benefits plan is designed to reward our employees and support their families as generously as we’re able.
+
+ - Generous paid time off
+
+ - Healthy lunches provided daily
+   
+   
+
+
+EQUAL OPPORTUNITY
+
+Reflect Orbital is an Equal Opportunity Employer; employment with Reflect Orbital is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+
+
+
+More about Reflect Orbital:
+
+
+
+Learn more about our team here. https://www.reflectorbital.com/team

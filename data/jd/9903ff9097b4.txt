@@ -1,0 +1,85 @@
+Immuta is the Data Authorization Company, helping the world’s largest organizations control who, and what, can access their data.
+The way enterprises access data is fundamentally changing. Organizations are racing to put data to work across analytics and AI, while AI copilots and agents are emerging as an entirely new class of data consumer. Traditional approaches built around tickets, static permissions, and manual approvals were not designed for this speed, scale, or complexity.
+Immuta provides the authorization layer for modern data and AI. Our platform enables organizations to provision governed access to data by policy, by request, and dynamically for AI agents, so people and AI can access the data they need while enterprises maintain security, compliance, and control.
+For Chief Data Officers, that means making enterprise data dramatically easier to access and use without giving up governance. For AI leaders, it means giving AI agents secure, governed access to enterprise data so they can move from experimentation into production.
+Founded in 2015, Immuta is trusted by Fortune 500 companies and government agencies worldwide.
+Our technology ecosystem includes Snowflake, Databricks, AWS, Microsoft Azure, Google Cloud, Okta, ServiceNow, Teradata, Alation, Atlan, and Starburst — connecting Immuta to the data, cloud, identity, and enterprise platforms powering modern data and AI environments.
+Immuta has been recognized by Forbes as a top American startup employer, by Inc. Magazine and Built In as one of the best workplaces, and by Fast Company as one of the world’s most innovative companies.
+Immuta has raised $263 million from investors including NightDragon, Snowflake, Databricks, ServiceNow, Citi Ventures, Dell Technologies Capital, DFJ Growth, IAG, Intel Capital, March Capital, Okta Ventures, StepStone, Ten Eleven Ventures, and Wipro Ventures.
+We operate as a hybrid workplace with offices in Boston, MA; Columbus, OH; and College Park, MD.
+
+
+ABOUT THE TEAM
+UX Design at Immuta helps make complex data access and governance workflows easier to understand and use. The team brings together design, research, and engineering to understand user problems, explore solutions, and turn them into clear, usable product experiences.
+As a UX Design Intern, you’ll work with UX designers and collaborate with product and engineering teammates. You’ll help connect customer needs to what the product actually does and learn how a product team moves from understanding a problem to designing and prototyping a solution.
+
+
+
+YOUR INTERNSHIP
+
+At Immuta, interns are treated like members of the team. You’ll join the team’s regular workflow, contribute to real work, and take on responsibilities that reflect your skills and the team’s priorities.
+
+The exact projects will depend on what the team is working on next summer, but you can expect to:
+
+• Explore user and customer problems through research, conversations, workshops, and other discovery activities.
+
+• Turn research and product insights into concepts, user flows, mockups, and prototypes.
+
+• Use design tools to communicate ideas, explain design decisions, and gather feedback.
+
+• Work with engineers and product teammates to understand constraints and shape solutions that can work in the real product.
+
+• Participate in activities such as storyboarding, journey mapping, user interviews, and portfolio or design critiques.
+
+• Use front-end skills, where relevant, to prototype, test, or communicate how an experience could work across responsive and mobile interfaces.
+
+• Share your work, explain your thinking, incorporate feedback, and build confidence working across design, research, and engineering.
+
+
+TOOLS & TECHNOLOGIES
+
+Depending on your role, you may work with:
+
+• Figma and similar design tools
+
+• Wireframing, mockups, and interactive prototyping
+
+• Storyboarding, journey mapping, user interviews, and other research methods
+
+• HTML and CSS
+
+• Front-end frameworks such as Angular or React
+
+• Responsive and mobile design concepts
+
+• AI-enabled tools and workflows used by your team
+
+You do not need to know every tool listed above. We’re looking for a strong foundation, curiosity, and the ability to learn.
+
+
+WHAT WE’RE LOOKING FOR
+
+• A portfolio that demonstrates your design work, prototypes, research, product thinking, or other relevant projects.
+
+• Strong ability in at least one of three areas: visual design, user research, or engineering/front-end development. Experience across two or more is a plus.
+
+• You do not need to be equally strong in all three areas. We’re interested in candidates who can demonstrate clear strength in at least one and curiosity about the others.
+
+• Curiosity about users, products, and how technology can solve real problems.
+
+• Strong communication and collaboration skills.
+
+• Initiative, willingness to learn, and comfort receiving and applying feedback.
+
+At Immuta, our goal is to help bridge the gap between personal and professional growth, so that our team members can be well and thrive personally and professionally. After all, great professional success stories rarely happen without great personal success stories! Our generous benefits package given to all full time employees includes:
+100% employer paid Healthcare (Medical, Dental, Vision) premiums for you and your dependents (including Domestic Partners)
+Stock Options
+Paid parental leave (Both Maternity and Paternity)
+Unlimited Paid time off (U.S. based positions)
+Learning and Development Resources
+ 
+EEO NOTICE: Immuta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, marital status, age, disability (including disability due to pregnancy) or genetics, protected veteran status, or any other characteristic protected by law. Immuta complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment.
+ 
+NOTICE TO THIRD PARTY RECRUITERS: Immuta does not accept candidates from third party recruiters. All candidates submitted through are considered to be submissions by the candidate and no submission will obligate Immuta to pay any third party for the referral or hiring of a candidate.
+ 
+AI NOTICE: As part of our hiring process, Immuta may use artificial intelligence (AI) tools to support recruiting activities, such as application review and interview coordination. These tools assist our recruiting team but do not replace human decision-making. To protect the privacy of all participants and the confidentiality of Immuta information discussed during interviews, candidates may not use external recording tools, AI meeting assistants, or third-party transcription platforms during interviews unless approved in advance by Immuta. If you require an accessibility accommodation or assistance during the interview process, please contact us in advance so we can support your needs appropriately. For more information on how we process your personal data, please visit our Privacy Notice for Job Applicants.

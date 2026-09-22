@@ -1,0 +1,61 @@
+Netic is the AI revenue engine for essential services who are the backbone of the American economy.  With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America. There are now companies operating entirely AI-first on Netic.
+
+ 
+
+You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.
+
+
+
+Netic's Full-Stack Software Engineers working on the product team build the features that put AI in the hands of real businesses. This role combines technical excellence with customer empathy, crafting products that make complex AI feel simple, and deliver immediate value to essential service industries.
+
+ 
+
+We need to hire multiple engineers for 12-week internships on our core software product team  that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better.
+
+ 
+
+What You'll Do:
+
+ - Build agentic products: Design, code, and ship full-stack features for Netic's AI platform.
+
+ - Co‑create with customers: Work closely with our customers to understand workflows, gather feedback, and turn pain points into features that stick.
+
+ - Own end‑to‑end delivery: Drive projects from spec to production, handling data models, APIs, front‑end polish, and post‑launch iteration.
+
+ - Ensure quality: Build, test, and monitor features in production to ensure reliability and performance.
+
+ 
+
+What You'll Bring:
+
+ - Proven product builder: Ability to deliver user‑facing software at scale; you’ve carried features through multiple release cycles.
+
+ - Full‑stack fluency: Comfortable with React, TypeScript, Python; experience with databases and cloud infrastructure.
+
+ - AI experience (nice‑to‑have): Hands‑on with LLM APIs, embeddings, or RAG patterns—or hunger to learn fast.
+
+ - Customer empathy: Track record of translating stakeholder goals into crisp technical specs and delightful products.
+
+ - Founder‑level ownership: You run toward ambiguity, write clean code quickly, and see failures as data for the next sprint.
+
+ - Excellent communicator: Able to explain architectural trade‑offs to engineering, and business outcomes to executives.
+
+
+
+What brings us together is our commitment to:
+
+ - Live to build
+
+ - Run through walls and win
+
+ - Obsess over customers in each line of code
+
+ - Lose sleep over the "almost perfect"
+
+ - Show internal locus of control
+
+ - Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship
+
+
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 

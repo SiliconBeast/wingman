@@ -1,0 +1,39 @@
+AI Vision Processors For Edge Applications
+
+Our solutions make cameras smarter by extracting valuable data from high-resolution video streams.
+
+Job Description
+
+Job Description
+
+Position Responsibilities:
+
+• Designing and implementing video compression logic, image processing logic, neural network and AI accelerator logics, and processor cores, in Verilog and System Verilog.
+
+• Logic design, implementation, and verification using Verilog, System Verilog, and any required programing and scripting languages.
+
+• Synthesize and optimize RTL for timing, area and power.
+
+• Developing unit level and cluster level test-benches, BFMs, random test generators, functional coverage monitors, using System Verilog, UVM, C++, and Perl scripts.
+
+• Developing test plan, random and directed test cases, performing logic verification, and functional coverage analysis.
+
+• Developing front-end methodologies and tool flows.
+
+• Participating in chip bring-up and testing.
+
+Requirements :
+
+• Master’s degree in Electrical/Electronics/Computer Engineering with 0-5 years of experience.
+
+• Good understanding of computer architecture, logic design and VLSI design.
+
+• Knowledge of System Verilog, Verilog, and Perl.
+
+• Knowledge of design verification, and functional coverage.
+
+• Ability to program scripting languages and the ability to write assembly language programs.
+
+• Strong communication skills and a good team player.
+
+• Knowledge of logic synthesis and timing closer

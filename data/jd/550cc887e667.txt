@@ -1,0 +1,161 @@
+Software Product Security Engineer Intern
+
+Description -
+
+This opportunity is intended for conversion to a full-time role that will not offer work authorization sponsorship in the future (full-time conversion pending performance evaluation post internship and available headcount). Interested candidates must be currently eligible to work in the US AND must not require work authorization sponsorship in the future. HP, Inc. will not provide any assistance or sign documentation in support of immigration sponsorship including Curricular Practical Training (CPT) or Optional Practical Training (OPT).
+
+About Us
+Innovation is in HP’s DNA. From our origins in a Palo Alto garage in 1939, to our current position as one of the world’s leading technology companies, HP has grown to become a leader in technology and corporate culture, inspiring innovators, and entrepreneurs around the globe.
+
+HP brings together a portfolio that spans printing, personal computing, software, and services to serve more than 1 billion customers in over 170 countries. We are committed to fostering a diverse and inclusive workplace that attracts exceptional talent and to supporting our employees to succeed at all levels. We dream in over 35 languages and share one mission: to engineer experiences that amaze.
+
+The Team:
+
+Today, what we build in Personal Systems is across three main pillars:
+
+Advancing leadership in Computing is our first pillar
+
+•The Pandemic made PC’s essential.
+
+•We create: laptops, desktops, business PCs, Gaming PCs, Chromebooks, Education-specific PCs, Creator-specific PCs, and Workstations…
+
+Our second pillar is Creating leadership in Peripherals
+
+•Peripherals are your monitors, docks, webcams, keyboards, and mice….
+
+•Let’s face it, the most immersive experiences come through things we see, hear, touch.
+
+•AND People refresh THEIR peripherals 5x faster AND MORE OFTEN than their notebooks.
+
+•You may have heard we acquired HyperX, WHERE WE DEVELOP HIGH QUALITY GAMING GEAR FOR ALL TYPES OF GAMERS …and WE HAVE ALSO ACQUIRED Poly, WHICH ALLOWS US TO PROVIDE RAZOR-SHARP 4K VIDEO FOR THE ULTIMATE MEETING EXPERIENCES
+
+AND OUR 3RD PILLAR IS Expanding Digital Services
+
+•More hybrid workforce and more time spent on digital platforms gaming, shopping, connecting = more need for services.
+
+•We are uniquely placed to help IT with combo across HP (PC & Print)
+
+•Can help them tackle the pain points of a remote workforce – onboarding, productivity, remote computing – we acquired Teradici.
+
+•All OF THIS IS Supported by Security and Sustainability
+
+Mission = delivering new digital EXPERIENCES. PC + Peripherals + Services = Full Ecosystem Experiences.
+
+Big goal = Lead in Hybrid Work and Gaming.
+
+Job Summary
+
+The intern will contribute to endpoint platform security solutions for modern computing environments. This role will also support innovation in edge AI, exploring technologies that improve endpoint security, performance, and user experience.
+
+Responsibilities
+
+• Develop and test software components for endpoint security solutions.
+
+• Support AI/ML initiatives running on endpoint devices.
+
+• Build prototypes and proof-of-concept applications.
+
+• Analyze technical requirements and translate them into software solutions.
+
+• Assist with debugging, testing, documentation, and code reviews.
+
+• Evaluate how AI can enhance security, performance, and user experience.
+
+• Collaborate with software engineering, security, and product teams.
+
+• Present findings and recommendations to technical stakeholders.
+
+Education
+
+• Currently pursuing a Master’s degree in Computer Science, Software Engineering, Computer Engineering, Cybersecurity, Artificial Intelligence, or a related technical field.
+
+• Must be enrolled full time at an accredited university.
+
+• Has no more than 24 months of prior work experience professionally related to the intern requisition they are applying to (not including internships, teaching assistance, research work, or military experience)
+
+• Able to obtain work authorization in the United States in 2027, and not require sponsorship in the future.
+
+Required Skills
+
+• Programming experience with Python and at least one of the following: C++, C#, or TypeScript.
+
+• Understanding of software engineering principles, algorithms, and data structures.
+
+• Experience with debugging, testing, and version-control practices.
+
+• Strong analytical and problem-solving skills.
+
+• Ability to communicate technical concepts and work collaboratively.
+
+• Exposure to UX/UI principles.
+
+• Excel, PowerPoint, Power BI, and AI productivity tools
+
+Preferred Skills
+
+• Experience with AI/ML tools and frameworks.
+
+• Knowledge of endpoint, platform, or application security concepts.
+
+• Familiarity with edge AI or on-device machine learning.
+
+• Understanding of operating systems and computer architecture.
+
+• Experience developing prototypes or user-facing applications.
+
+We are looking for visionaries who are ready to make an impact on the way the world works. At HP, the future is yours to create. Thanks for taking the time to review our job, if you think it is a match to your knowledge and interests please apply today— we are eager to learn more about you.
+
+HP is an equal opportunity employer: https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c08129225
+
+The pay range for this position is $35 to $40 per hour (applies to US candidates only).  Pay varies by work location, job-related knowledge, skills, and experience.
+
+Benefits:
+
+Review HP US benefits: https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c07065756
+
+HP offers a comprehensive benefits package for this position, including:
+
+Health insurance
+
+Dental insurance
+
+Vision insurance
+
+Long term/short term disability insurance
+
+Employee assistance program
+
+Flexible spending account
+
+Life insurance
+
+Generous time off policies, including; 
+
+4-12 weeks fully paid parental leave based on tenure
+
+13 paid holidays
+
+15 days paid time off (US benefits overview)
+
+The compensation and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law. 
+
+Job -
+Administration
+
+Schedule -
+Full time
+
+Shift -
+No shift premium (United States of America)
+
+Travel -
+
+Relocation -
+
+Equal Opportunity Employer (EEO) -
+
+HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+
+Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence.
+
+For more information, review HP’s EEO Policy or read about your rights as an applicant under the law here: “ Know Your Rights: Workplace Discrimination is Illegal "

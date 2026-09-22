@@ -1,0 +1,66 @@
+Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.
+
+ 
+
+
+ABOUT SUPERHUMAN
+
+Superhuman is the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company’s products include Grammarly’s writing assistance, Superhuman Docs’s collaborative workspaces, Mail’s inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at superhuman.com http://superhuman.com and about our values here https://blog.superhuman.com/our-values/.
+
+ 
+
+
+THE OPPORTUNITY
+
+To achieve our ambitious goals, we’re looking for Software Engineering Interns to join our Engineering team for three months in summer 2027. Interns in our Engineering organization will work on various projects spanning front-end, back-end, full-stack, security, and mobile engineering. In this role, the intern will help Superhuman tackle some of our most interesting technical challenges and gain real-world experience shipping features to millions of users.
+
+Our engineers and researchers are empowered to innovate and discover technical breakthroughs that directly shape our product strategy. As we scale our infrastructure, algorithms, and interfaces, the complexity of our work continues to grow. To learn more about our team's journey, check out our technical blog http://grammarly.com/blog/engineering.
+
+Superhuman is expanding quickly, offering unique chances to join high-impact teams, learn from seasoned professionals, and build new products from scratch. In our scaling engineering organization, you will find significant room for ownership and the ability to make a direct impact on our users.
+
+As a Software Engineering Intern, you will:
+
+ - Work on an end-to-end Engineering challenge that directly relates to your team’s high-level goals.
+
+ - Ship code within your first few weeks!
+
+ - Iterate quickly in a fast-paced environment and leverage your unique perspective to provide valuable feedback on product direction.
+
+ - Partner with a mentor to scope, design, and execute on a fully formed project over the duration of your internship.
+
+ - Collaborate with a strong team of professionals from whom you can learn on a daily basis, especially with a mentor.
+
+ - Get your hands on a variety of APIs, frameworks, tools, coding agentsa nd programming languages.
+
+ - Learn from all the challenges that come from shipping a product to tens of millions of daily active users.
+
+
+QUALIFICATIONS
+
+ - Can collaborate in person at one of our US hubs (NY, SF, or Seattle) at least two days per week.
+
+ - Is available for the entire duration of a twelve-week program.
+
+ - Is currently enrolled in a full-time, degree-seeking program and in the process of obtaining a bachelor’s degree in computer science or a related field.
+
+ - Has strong computer science fundamentals: CS fundamentals can come from being self-taught, previous internships, what you’ve learned at school, passion projects, and more. However you got there, it’s great for us!
+
+ - Has proficiency in at least one programming language (Superhuman’s Engineering tech stack includes Java, TypeScript, JavaScript, C#, Python or Go, but feel free to apply if your specialty is different!).
+
+ - Demonstrates strong communication skills, especially as it relates to technical collaboration.
+
+ - Is excited to learn!
+
+ 
+
+
+COMPENSATION
+
+The expected pay for this position is $50.00 USD/hour and may be modified in the future.
+
+ 
+
+
+WE ENCOURAGE YOU TO APPLY
+
+At Superhuman, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Superhuman is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).

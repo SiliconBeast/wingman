@@ -1,0 +1,59 @@
+Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.
+
+
+
+Role:
+
+Northwood Space is seeking an enthusiastic RF Engineering Intern for Summer 2027 to join our team in Torrance. As an intern, you’ll assist in designing the next generation of ground stations and support the RF team’s efforts in optimizing performance, reliability, and manufacturability. You’ll gain hands-on experience working alongside electrical, RF, mechanical, manufacturing, and software engineers, contributing to the development process from concept to production.
+
+
+
+Responsibilities:
+
+ - Support the design and development of new RF hardware, as well as improvements to existing designs for enhanced performance and reliability
+
+ - Assist in the fabrication and characterization of prototypes for antennas, feeds, and active RF circuits
+
+ - Work closely with hardware and software engineers to test and troubleshoot integrated RF performance
+
+ - Provide technical support to colleagues in regulatory and site operations
+
+
+
+Minimum Qualifications:
+
+ - Currently pursuing a degree in Electrical Engineering or a related field
+
+ - Basic knowledge of transmission line theory and use of the smith chart
+
+ - Experience in Python or another language for data analysis
+
+ - 1+ year experience in antenna, RF, or electrical design, fabrication, and test including lab work and university projects
+
+
+
+Preferred Skills and Experience:
+
+ - Experience with PCB design in a tool such as Altium
+
+ - Experience working closely with mechanical and manufacturing engineers in translating analyzed design to machinable components
+
+ - Familiarity with RF test equipment, such as network analyzers and spectrum analyzers, including how they work
+
+ - Experience analyzing antenna systems in the lab (s-parameters, isolation, radiation patterns, propagation effects, etc)
+
+ - Familiarity with 3D EM simulation tools such as CST, HFSS, ADS, FEKO, Microwave Office, etc. 
+
+
+
+Additional Information:
+
+If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.
+
+
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+
+
+Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.

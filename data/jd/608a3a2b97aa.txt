@@ -1,0 +1,85 @@
+MORSE Corp is an employee owned, small business based in Cambridge, MA, Arlington, VA, and Seattle, WA with a history of fielding cutting-edge technology. MORSE boasts a specially selected team of scientists, engineers, and software developers to deliver best-in-class technical solutions that solve difficult multidisciplinary problems faced by the US National Security Ecosystem.  
+
+We are looking for a Network Engineer Co-op to work as part of the MORSE IT and Security team to design and implement network and security infrastructure across MORSE’s corporate environment, ensuring the security, reliability, and efficiency of our network systems, as well as contribute to R&D programs to design network infrastructure for mission-critical aircraft.
+
+Responsibilities:
+
+•
+
+Design and implement enterprise-wide network solutions, upgrades and changes with a strong focus on network security (implementing/managing firewalls, crafting firewall policies, developing trust zone models, building systems/apps into trust zones) with NIST 800-171 compliance in mind
+
+•
+
+Drive network and security projects from planning to implementation to ensure successful delivery with strong communication, documentation, and organization
+
+•
+
+Provide enhancements to our networks leveraging your expertise of switching, routing, and data flows
+
+•
+
+Conduct related technical analysis & planning for deployment of evolving technology solutions, leveraging architecture standards and design guides
+
+•
+
+Interface with stakeholders to gather requirements for new projects
+
+Qualifications:
+
+•
+
+US CITIZENSHIP REQUIRED and the ability to obtain a U.S. Security Clearance
+
+• Working towards a MS in Network Engineering, Information Systems, or related field
+
+•
+
+Experience with designing, building, and monitoring LAN, MAN, WAN, internet, VPN, WiFi, data center network environments
+
+•
+
+Practical experience and applied knowledge of routing protocols
+
+•
+
+Strong understanding of modern data center network design, both internal data centers and cloud service provider environments
+
+•
+
+Experience with deploying and managing load balancers and remote access VPNs and Next Gen Firewalls
+
+•
+
+Experience testing or implementing Network Access Control solutions
+
+•
+
+Layer 3 segmentation and advanced routing skills
+
+•
+
+Significant experience with Aruba Wireless Environment, Fortigate Firewall, Extreme Networks and Cisco switching
+
+•
+
+Demonstrable ability to break down and analyze network communications at the packet level
+
+•
+
+Familiarity with cloud security solutions desired
+
+•
+
+Excellent communication and organization skills
+
+•
+
+Coding and/or scripting skills (e.g., Python, Ansible, Terraform); experience with network automation processes and tools desired
+
+MORSE Corp’s pay range for this role carefully considers a wide range of compensation factors, including but not limited to, prior experience, education, skills and expertise, location, internal equity, and other factors that are job related and consistent with business need. Therefore, final offer amounts may vary from the amount stated.
+
+Compensation
+
+$28 — $37 USD
+
+The team at MORSE takes pride in being the smart team that is easy to work with. We focus on steady, long-term success while maintaining a collaborative, enjoyable work experience for our employees. For more information, please visit www.morsecorp.com .

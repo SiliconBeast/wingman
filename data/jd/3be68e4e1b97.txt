@@ -1,0 +1,49 @@
+Job Title
+Stage – Développement logiciel
+
+Job Description
+
+Le monde aérien a toujours piqué ta curiosité mais tu n’as jamais osé passer ton permis de vol.
+
+La bonne nouvelle est qu’il est inutile de savoir piloter pour pouvoir travailler chez nous.
+
+En intégrant le Centre de Développement logiciel de Vanderlande situé à Québec, tu contribueras, par ton talent, à définir l’aéroport « intelligent » de demain.
+
+Nous sommes à la recherche d e stagiaires intéressés à travailler sur des projets de développement logiciel innovants . Comme notre objectif est de révolutionner le monde des aéroports, nous nous basons sur des concepts et des technologies logicielles de pointe parmi celles-ci   :
+
+•
+Java ou Java Spring Boot
+
+•
+CI/CD
+
+•
+Tests automatisés
+
+•
+Angular
+
+•
+Architecture microservice
+
+•
+Kubernetes
+
+•
+Docker
+
+•
+Microsoft Azure
+
+•
+Kafka
+
+•
+Python
+
+•
+etc.
+
+En tant que stagiaire chez Vanderlande, tu auras la chance de travailler sur des projets concrets et axés sur les besoins de nos clients. Tu seras entouré d’experts produit s et d’experts technique s afin que ton expérience soit la plus enrichissante pour toi et que ta contribution ait un réel impact pour nous.
+
+Alors, qu’est-ce que tu attends ?

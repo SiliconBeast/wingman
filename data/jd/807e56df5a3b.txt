@@ -1,0 +1,92 @@
+Want to work with the best and brightest in a company that tackles challenges that have never been done before? Emerson’s Process Systems and Solutions business develops automation software to streamline manufacturing processes. We are looking for a Graduate Software Engineer Intern (Summer 2027) who is interested in gaining real-world experience in a dynamic, collaborative environment at our Round Rock, TX , location.
+
+You will explore and prototype software technology in the process industries, execute a project in AI, Machine Learning, or Control, be a part of a cross-functional team with frontend development, backend development, and UX, and work in an agile team and learn to scope and execute projects.
+
+In this Role, Your Responsibilities Will Be:
+
+• Research and learn about product development using agile development methodology
+
+• Become familiar with frontend reactive frameworks
+
+• Design and implement APIs
+
+• Apply AI technologies to support frontend functions
+
+• Learn about and compare AI and Machine Learning algorithms
+
+• Utilize agentic framework, MCP, Ollama LLMs
+
+• Build software in C#, Go, and Python
+
+Who You Are:
+You readily distinguish between what’s relevant and what’s unimportant to make sense of complex situations. You envision new and better ways of completing a task that drive efficiency and improve user experience. You convey clear performance expectations and follow up consistently while delegating in a way that empowers ownership. You have a keen understanding of how and when you apply technology to business problems and report on the results.
+
+For This Role, You Will Need:
+
+• Currently enrolled in an accredited college/university
+
+• Pursuing a graduate degree in Engineering or Computer Science or similar STEM degree
+
+• Computer Science - algorithms, networking, and language development such as C/C++, C#, and Go are required.
+
+• Engineering – computational analysis, numerical methods, control, an understanding of process technologies (e.g., distillation columns, heat exchangers, etc.), and language development such as C/C++, C#, Go, and Python are required.
+
+• Legal authorization to work in the United States. Sponsorship will not be provided for this position.
+
+Preferred Qualifications that Set You Apart:
+
+• Completed courses in computer architecture, software algorithms, linear algebra, C/C++, C#, Go, or Python
+
+• Exposure to frontend frameworks such as React, Vue, or Angular
+
+• Exposure to: AI, Machine Learning, Computer Vision, Reinforcement Learning, LLMs, Deep Neural Networks
+
+• Previous internship experience in a professional environment
+
+• Strategic mindset and self-motivated
+
+• Strong written, verbal, and visual communication skills
+
+• Innovative approach to solving problems
+
+Our Culture & Commitment to You:
+
+At Emerson, we prioritize a workplace where every employee is valued, respected, and empowered to grow. We foster an environment that encourages innovation, collaboration, and diverse perspectives—because we know that great ideas come from great teams. Our commitment to ongoing career development and growing an inclusive culture ensures you have the support to thrive. Whether through mentorship, training, or leadership opportunities, we invest in your success so you can make a lasting impact. We believe diverse teams, working together are key to driving growth and delivering business results. ​
+
+We recognize the importance of employee wellbeing and know that to do your best you must have flexible, competitive benefits plans to meet you and your family’s physical, mental, financial, and social needs. We provide, a variety of medical insurance plans, with dental and vision coverage, Employee Assistance Program, profit sharing retirement, tuition reimbursement, employee resource groups, recognition, and much more. Our culture prioritizes work-life balance and offers flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+Our training programs and initiatives focus on end-to-end development, from onboarding through senior leadership. We provide a wide range of development opportunities, including face-to-face and virtual training, mentorship and coaching, project management, and on-the-job training.
+
+Learn more about our Culture & Values .
+
+WHY EMERSON
+
+Our Commitment to Our People
+
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+
+Work Authorization
+
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+Equal Opportunity Employer
+
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.
+
+Accessibility Assistance or Accommodation
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+
+ABOUT EMERSON
+
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+
+No calls or agencies please.

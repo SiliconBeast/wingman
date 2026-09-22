@@ -1,0 +1,89 @@
+Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.
+
+
+
+
+ROLE OVERVIEW
+
+Come help build the embedded systems powering Northwood’s next-generation ground stations! As an Embedded Software Engineering Intern, you’ll work alongside our hardware, firmware, and software engineers to develop and test embedded systems that connect our hardware and software platforms.
+
+You’ll have the opportunity to work on real systems, contribute to production-relevant projects, and gain hands-on experience with embedded Linux, hardware interfaces, and system-level development. This is a great opportunity for someone who enjoys working close to the hardware, solving challenging technical problems, and learning how complex systems are built from the ground up.
+
+
+
+
+RESPONSIBILITIES
+
+ - Develop and test software for Linux-based embedded devices
+
+ - Contribute to embedded Linux tooling, system configuration, and user-space applications
+
+ - Help develop and improve over-the-air (OTA) software update capabilities
+
+ - Debug software and hardware integration issues alongside firmware and hardware engineers
+
+ - Work with common hardware communication interfaces such as I2C, SPI, UART, and USB
+
+ - Use laboratory equipment such as oscilloscopes, logic analyzers, and multimeters to troubleshoot systems
+
+ - Write tests and documentation to improve the reliability and maintainability of embedded systems
+
+ - Collaborate with FPGA, electrical, firmware, and software engineers on system integration
+
+ - Own an internship project and present your work and learnings at the end of the internship
+
+
+
+
+BASIC QUALIFICATIONS
+
+ - Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field
+
+ - Experience programming in C, C++, Rust, Python, or a similar language through coursework, projects, research, or previous internships
+
+ - Familiarity with Linux environments and command-line tools
+
+ - Understanding of fundamental computer architecture and operating system concepts
+
+ - Familiarity with embedded systems, microcontrollers, or hardware/software interaction
+
+ - Strong problem-solving skills and willingness to learn new technologies
+
+ - Ability to work collaboratively in a hands-on engineering environment
+
+
+
+
+PREFERRED QUALIFICATIONS
+
+ - Experience with embedded Linux environments such as Yocto or PetaLinux
+
+ - Experience with common bus interfaces such as I2C, SPI, UART, or USB
+
+ - Experience with microcontrollers, development boards, or FPGA-based systems
+
+ - Familiarity with RTOS environments such as Zephyr or FreeRTOS
+
+ - Experience with networking fundamentals
+
+ - Experience programming in Rust
+
+ - Familiarity with Git and software development workflows
+
+ - Experience using oscilloscopes, logic analyzers, multimeters, or other laboratory equipment
+
+ - Personal, academic, or extracurricular projects involving embedded software, robotics, electronics, or similar systems
+
+
+
+Additional Information:
+
+If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.
+
+
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+
+
+Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.

@@ -1,0 +1,77 @@
+About the Hiring Team
+
+What the Role Entails
+We are looking for a proactive and detail-oriented IT Operations Intern to join Tencent’s IT team in the PA office, United States. You will work closely with our IT Operations, Infrastructure, and Service Support teams to support daily IT operations, project delivery, data analysis, coordination, and continuous improvement initiatives.
+This role is suitable for someone with an IT background who is interested in enterprise IT operations, service management, project execution, operational planning, and cross-team collaboration. You will gain hands-on experience in real business scenarios and support the team in improving IT service quality, delivery efficiency, and operational visibility.
+
+Responsibilities
+
+• Support day-to-day IT operations, including issue follow-up, service tracking, operational reporting, and documentation.
+
+• Assist in coordinating IT projects and operational initiatives, including task tracking, meeting notes, progress updates, risk follow-up, and stakeholder communication.
+
+• Work with IT engineers and operations teams to support project delivery, ensuring actions are clearly assigned, followed up, and closed on time.
+
+• Collect, organize, and analyze IT operational data to identify trends, issues, risks, and improvement opportunities.
+
+• Prepare dashboards, reports, trackers, and management summaries to improve visibility of IT operations and project progress.
+
+• Support the planning and coordination of team activities, operational reviews, training sessions, workshops, and cross-team meetings.
+
+• Help maintain internal knowledge bases, process documents, service guides, and project-related materials.
+
+• Communicate with internal users and stakeholders to understand requests, collect feedback, clarify requirements, and support issue resolution.
+
+• Support complex and multi-threaded tasks that require coordination across different teams, systems, or regions.
+
+• Identify opportunities to improve operational processes, including workflow optimization, better use of existing tools, and light automation where applicable.
+
+Who We Look For
+
+Requirements
+
+• Bachelor’s or Master’s student in Information Systems, Computer Science, IT Management, Engineering, Business Analytics, Project Management, or a related discipline.
+
+• H ave a basic understanding of IT operations, IT service management, infrastructure, workplace technology, or enterprise IT support.
+
+• H ave strong organizational skills and are able to manage multiple tasks, follow up on details, and drive items to closure.
+
+• Have e xperience or strong interest in project coordination, project management, operational planning, or service delivery.
+
+• C omfortable working with data and have experience using Excel or similar tools for data analysis, reporting, and tracking.
+
+• Experience with dashboards or visualization tools such as Power BI, Tableau, Looker Studio, or similar platforms is a plus.
+
+• Basic knowledge of automation tools, scripting, workflow tools, or AI productivity tools is a plus, but not mandatory.
+
+• A quick learner, detail-oriented, flexible, and able to work independently in a fast-paced environment.
+
+• E njoy communicating with users and stakeholders, understanding their needs, and helping solve practical problems.
+
+• C urious, willing to explore new topics, and comfortable handling complex or ambiguous tasks.
+
+• A vailable for a minimum of 6 months and a maximum of 12 months.
+
+• C ommit to working from Tencent’s PA office in the United States.
+
+• Bilingual proficiency in English and Mandarin highly preferred
+
+Preferred Qualifications
+
+• Previous internship or project experience in IT Operations, IT Support, PMO, Service Management, Data Analysis, or Business Operations.
+
+• Familiarity with tools such as Jira, Confluence, ServiceNow, SharePoint, Power BI, Excel, or other collaboration and reporting platforms.
+
+• Experience preparing reports, dashboards, meeting materials, project trackers, or operational review documents.
+
+• Interest in global IT operations, service governance, project delivery, and continuous improvement.
+
+Location State(s)
+
+US-California-Palo Alto
+
+The expected base pay range for this position in the location(s) listed above is $27.12 to $51.93 per hour. Actual pay may vary depending on job-related knowledge, skills, and experience.&#xa;This position will be eligible for 1 hour of paid sick leave for every 30 hours worked and up to 13 paid holidays throughout the calendar year. Subject to the terms and conditions of the applicable plans then in effect, full-time interns are also eligible to enroll in the Company-sponsored medical plan.
+
+Equal Employment Opportunity at Tencent
+
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.

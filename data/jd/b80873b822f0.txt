@@ -1,0 +1,38 @@
+Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.
+
+At CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.
+
+
+As a Systems Engineering Intern, you will work alongside experienced engineers to contribute to the success of our projects. You will support the design and verification of real-world space systems, collaborating closely with electrical, mechanical, software, RF, and test teams. Tasks may include requirements development, interface definition, system-level analysis, trade studies, integration planning, and test execution. Specific assignments will be matched based on your interests and active program needs.
+ 
+If you're passionate about multidisciplinary engineering and space systems—and want to be involved in defining how complex hardware and software come together into a unified system—this role is for you.
+
+
+JOB REQUIREMENTS AND MINIMUM QUALIFICATIONS
+• Current enrollment in a Bachelor of Science (BS), Master of Science (MS), or PhD program in Engineering (Aerospace, Electrical, Mechanical, Software), Physics, or a related technical discipline from an accredited university.
+
+• Targeting rising juniors or seniors with a GPA of 3.5 or higher.
+
+• Practical experience working with space systems through coursework, internships, clubs, or research.
+
+• Excellent written and verbal technical communication skills.
+
+• Strong sense of urgency and the ability to work effectively under pressure in a fast-paced environment.
+
+• Team player who works well with cross-functional groups and adapts quickly to changing priorities.
+
+PREFERRED EXPERIENCE
+• Experience with systems engineering tools and methodologies, such as requirements flow-down, interface control, system budgets, or validation planning.
+
+• Familiarity with model-based systems engineering (MBSE) tools (e.g., Cameo, SysML) is a plus.
+
+• Participation in student design teams, such as CubeSat, rocketry, or aerospace competitions.
+
+• Exposure to hardware/software integration or system-level testing.
+
+• Aerospace or defense industry experience is a bonus.
+
+All CesiumAstro internships are compensated competitively and located onsite at one of our facilities.
+ 
+CesiumAstro is an Equal Opportunity employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.
+

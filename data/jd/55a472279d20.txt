@@ -1,0 +1,63 @@
+Netic is the AI revenue engine for essential services who are the backbone of the American economy.  With $43M in funding from Founders Fund, Greylock, Hanabi, and Dylan Field who led our Series B, we helped our customers book hundreds of thousands of jobs across services industries in North America. There are now companies operating entirely AI-first on Netic.
+
+ 
+
+You’ll join our team with relentless builders from Scale, Databricks, HRT, Meta, MIT, Stanford, and Harvard in bringing frontier AI to the physical economy, where the problems are hard, the data is complex, and the impact is immediate and tangible.
+
+
+
+Our Forward Deployed Engineers are at the heart of building AI that transforms how essential service businesses operate. This role combines cutting-edge AI development with real-world impact, creating systems that handle complex business operations autonomously.
+
+
+
+We need to hire multiple FDEs to join our team for a 12-week internship that are available to start between winter of 2026 and summer of 2027. If you can start earlier - even better. 
+
+ 
+
+What You’ll Do:
+
+ - Architect agents: Build and ship multi-modal AI agents that drive business impact for essential service companies.
+
+ - Co‑build with customers: Work directly with enterprise stakeholders to map workflows and deploy our product to unlock immediate revenue lift.
+
+ - Own end‑to‑end lifecycle: Manage everything from design, to implementation, to rollout, including deployment, measuring success, and iterating with customers.
+
+ - Ensure scalability: Build reliable systems that support thousands of concurrent interactions with strong performance.
+
+ - Run rapid experiments: Evaluate cutting‑edge text/voice models, fine‑tune, live A/B test, and iterate within tight feedback loops.
+
+ - Elevate the platform: Surface patterns and opportunities across customers to inform product and engineering roadmaps.
+
+ 
+
+What You’ll Bring:
+
+ - Production systems: Experience building and maintaining production systems using Python (asyncio, FastAPI) and TypeScript (Node, React).
+
+ - AI systems: Hands-on experience with LLM, TTS and speech APIs, fine-tuning models, vector databases, RAG, and evaluation frameworks.
+
+ - Performance focus: Ability to meet SLAs, resolve issues, and optimize systems for speed and reliability at scale.
+
+ - Scale mindset: Experience building production monitoring and debugging systems across cloud infrastructure and databases.
+
+ - Customer obsession: Comfortable engaging directly with customers to troubleshoot issues, understand edge cases, and deliver fast solutions.
+
+
+
+What brings us together is our commitment to:
+
+ - Live to build
+
+ - Run through walls and win
+
+ - Obsess over customers in each line of code
+
+ - Lose sleep over the "almost perfect"
+
+ - Show internal locus of control
+
+ - Prioritize finesse: refinement of first principles thinking, execution, and craftsmanship
+
+
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or any other legally protected status. 
