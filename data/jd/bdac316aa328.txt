@@ -1,0 +1,66 @@
+An internship at onsemi offers a dynamic opportunity to gain hands-on experience through real-world projects that drive innovation in the semiconductor industry. Interns are entrusted with meaningful responsibilities and exposed to cutting-edge technologies, fostering both technical skill development and professional growth.
+
+onsemi views internships as a strategic pipeline for entry-level career positions, providing a collaborative and inclusive environment where interns work alongside diverse teams and contribute to high-impact initiatives. The company’s commitment to sustainability, including its goal of achieving net-zero emissions by 2040, enables interns to engage in projects that align with global environmental priorities.
+
+Key benefits include:
+
+• Competitive compensation and medical benefits
+
+• Flexible work hours aligned with academic schedules
+
+• Access to Employee Resource Groups (ERGs) which foster a sense of belonging and provide opportunities for mentorship and community engagement
+
+• Networking events, professional development workshops, and project showcases that build career readiness and visibility across the organization
+
+Internship roles span multiple disciplines including engineering, business operations, data analytics, and finance, and are designed to align with onsemi’s strategic goals of innovation and workforce development. Structured programs such as rotational field sales and finance analyst tracks offer additional career pathways for interns transitioning into full-time roles.
+
+The Technology Development (TD) Intern will support the LV/MV EFK technology development team in advancing semiconductor device performance, reliability, and manufacturing capability. This role provides hands-on experience in wafer characterization, defect analysis, reliability testing, and yield improvement activities within a semiconductor development environment.
+Key Responsibilities
+
+• Support wafer inspection and defect analysis activities to identify process and device-related issues.
+
+• Perform data analysis to help improve device yield and manufacturing performance.
+
+• Assist with device characterization and electrical measurements at wafer level.
+
+• Support reliability characterization activities, including:
+
+• TDDB (Time-Dependent Dielectric Breakdown)
+
+• WL-UIL (Wafer-Level Unclamped Inductive Load) measurements
+
+• Other device reliability and qualification testing
+
+• Analyze test data and prepare technical reports summarizing results and recommendations.
+
+• Collaborate with Device, Process Integration, Product, and Reliability Engineering teams.
+
+• Support root-cause investigations and corrective action initiatives for yield and reliability issues.
+
+• Participate in design of experiments (DOE) and statistical analysis to optimize device performance.
+
+• Document findings and present project updates to the engineering team.
+
+Qualifications – External
+
+Requirements:
+
+Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Electrical Engineering, Materials Science, Physics, Semiconductor Engineering or a related technical field.
+
+• Basic understanding of semiconductor devices and fabrication processes.
+
+• Strong analytical and problem-solving skills.
+
+• Experience with data analysis tools such as Excel, JMP, Python, MATLAB, or similar.
+
+• Excellent communication and teamwork skills.
+
+onsemi is excited to share the base salary range for this position is $26.00 -$44.00 per hour exclusive of fringe benefits or potential bonuses. The final pay rate for the successful candidate will depend on geographic location, skills, education, experience, and/or consideration of internal equity of our current team members. We also offer a competitive benefits package. https://www.onsemi.com/site/pdf/Benefits-Summary-USA.pdf
+
+Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide competitive pay medical benefits, various networking event opportunities, and flexible hours based on school schedule.
+
+onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world.
+
+More details about our company benefits can be found here:
+
+https://www.onsemi.com/careers/career-benefits

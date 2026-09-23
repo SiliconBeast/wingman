@@ -1,0 +1,125 @@
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+The Robotics Integration and Development Co-op is apart of the Robotics Center of Excellence (RCoE). The RCoE is the "innovation engine" of Rockwell Automation robotics. We are a dynamic, research group dedicated pre-programmed automation and ushering in the new era of Autonomous Operations. Here, you'll work with world-class experts in a culture that prizes rapid prototyping and the desire to see "impossible" ideas working on the factory floor.
+
+You will work on platform-level ownership, system architecture, deployment workflows, and ensuring reproducibility and reliability across development and on-robot environments. One focus is the integration of mobile manipulators, combining autonomous mobile robots with robotic manipulators to ensure complex industrial tasks. You will gain hands-on experience working with Clearpath research platforms and OTTO Motors industrial AMRs , bridging research and platform software to deliver reliable, scalable robotic applications.
+
+*Relocation assistance is not available or provided for this role.
+
+Your Responsibilities :
+
+•
+System Development: Develop and integrate software across multiple robotics subsystems, contributing to bringing up and improving functionality on hardware.
+
+•
+System Deployment: Build, deploy, and maintain robotics applications using modern containerization technologies.
+
+•
+System Debugging: Investigate and resolve issues by collecting system data, analysing behaviour, and contributing to debugging efforts across full robotics stack.
+
+•
+Applied Robotics: Apply modern robotics research, such as motion planning, perception, and manipulation, to real-world robotic systems.
+
+The Essentials - You Will Have:
+
+•
+Actively pursuing a bachelors or advanced degree at an accredited college or university.
+
+•
+Legal authorization to work in Canada is required. We will not sponsor individuals for employment visas, now or in the future for this job opening.
+
+The Preferred - You Might Also Have:
+
+•
+Expected graduation date is December 2027 or beyond
+
+•
+Prior internship or co-op in related field
+
+•
+Ability to relocate to Waterloo area if over 50 miles. Relocation assistance is not provided
+
+•
+Pursuing a degree in Electrical and Computer Engineering (ECE), Mechatronics, Computer Engineering, Software Engineering, or similar
+
+•
+Involvement in robotics/technology clubs or related projects
+
+•
+Programming skills in Python, C++ , and Linux-based environments.
+
+•
+Exposure to developing and integrating software across multiple subsystems, with an understanding of software-hardware interfacing.
+
+•
+Experience with software deployment workflows and tools
+
+•
+Debug issues across a complex system using logs, testing, and iterative development.
+
+•
+Experience with ROS/ROS2
+
+•
+Experience with containerization tools, such as Docker and Kubernetes
+
+•
+Experience working with robotic hardware or embedded systems
+
+•
+Interest in modern robotics topics (e.g., manipulation, autonomy, or embodied AI)
+
+What We Offer:
+
+•
+Health Insurance including Medical and Dental
+
+•
+Health Care Spending Account (HCSA – dependent on the plan chosen)
+
+•
+Employee Assistance Program (EAP)
+
+•
+Retirement plans
+
+•
+Paid Time off
+
+•
+Volunteering Time off
+
+•
+Employer Savings Plan Matching (includes RRSP, TFSA, and EPSP)
+
+•
+Employer Paid DC Pension
+
+•
+Maternity and Parental Leave Top-Up
+
+•
+Fitness Reimbursement Programme
+
+•
+Flexible Work Schedule where you will work with your manager to enjoy a work schedule that can be flexible with your personal life.
+
+This position is part of a job family. Experience will be the determining factor for position level and compensation.
+
+For this role, the hourly compensation is from $20-$32 CAD. Actual pay will be based on factors such as skills, knowledge, education, and experience.
+
+This posting is for an existing vacancy within our organization
+
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+#LI-Hybrid
+
+#DNI
+
+We are an Equal Opportunity Employer including disability and veterans.
+
+If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (519) 618-4899.

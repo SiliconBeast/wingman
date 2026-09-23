@@ -1,0 +1,111 @@
+Why USAA?
+
+At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families.
+
+Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful.
+
+The Opportunity
+
+Our internship program lets you showcase your skills, while gaining real-life experience that’ll help you jump-start your career. Throughout the internship, you'll participate in professional development opportunities, networking events, mentorship programs, and team-based projects designed to help prepare you for a successful career in technology.
+
+Our interns deliver innovative solutions to real business challenges, while building enduring relationships in a collaborative culture with their manager and an assigned mentor.
+
+This position is based in San Antonio, TX.
+
+What you'll do:
+
+As a Infrastructure Engineer Intern you will have the opportunity to explore how large-scale technology environments are monitored, maintained, secured, and optimized to deliver reliable experiences for our members and employees. You'll contribute to meaningful projects that enhance operational efficiency, strengthen platform reliability, and support modernization efforts across the organization. Under direct supervision and with guidance from senior engineers and your mentor, your day will focus on supporting infrastructure operations. You'll attend team meetings and assist in analyzing potential threats or vulnerabilities across systems. You will learn about designing scalable infrastructure, implementing system changes, and automating service delivery and maintenance tasks. You may assist in building monitoring and tooling activities, and help troubleshoot production issues or system problems. You'll learn how to analyze outages to identify opportunities for improvement and experiment with new patterns and technologies. Your work will support USAA's technology strategy and may involve leveraging AI tools and automation.
+
+Primary Responsibilities:
+
+• Learn how to design scalable infrastructure and implement system changes.
+
+• Assist in automating service delivery and maintenance tasks.
+
+• Help build monitoring and tooling activities for infrastructure systems.
+
+• Learn to independently resolve production issues through system problem-solving under guidance.
+
+• Start to analyze outages to identify opportunities for improvement.
+
+• Experiment with new infrastructure patterns and technologies.
+
+• Contribute to projects aligned with USAA's Technology Strategy.
+
+• Assist in developing and implementing innovative IT solutions, potentially using AI tools.
+
+• Create and maintain documentation related to technical solutions.
+
+• Gain exposure to risk and compliance procedures within IT operations.
+
+What you need to have:
+
+To qualify, you must be pursuing a degree from an accredited college or university, and plan to graduate after the final day of the internship. Most of our interns participate in the summer between their junior and senior years. Our 2027 internship will start on June 2nd, 2027 and last through August 6, 2027.
+
+• Graduation date cannot be prior to August 6, 2027
+
+• Currently pursuing a Bachelor's or master’s degree in computer science, Computer Engineering, Software Engineering, or a related technical field.
+
+• Anticipated graduation date between September 2027 and May 2028.
+
+• Foundational understanding of:
+
+•
+
+• Java or object-oriented programming concepts
+
+• Data structures and algorithms
+
+• Software development fundamentals
+
+• SQL and database concepts
+
+• Problem-solving and analytical thinking
+
+• Basic scripting skills to solve technical problems and reduce manual effort
+
+• Strong verbal and written communication skills.
+
+• Demonstrated leadership through coursework, projects, student organizations, employment, or community involvement.
+
+What sets you apart:
+
+• Exposure to PowerShell, Python, Ansible, PowerShell, Infrastructure as code (IaC) network Automation or other scripting languages.
+
+• Exposure to Arista/Cisco
+
+• Familiarity with APIs and system integrations.
+
+• Exposure to Azure or other cloud technologies.
+
+• Understanding of IT service management concepts or ServiceNow.
+
+• Experience with coursework, projects, labs, or hackathons involving technology solutions.
+
+• Interest in automation, infrastructure operations, and cloud engineering.
+
+• Hands-On Experience Beyond the Classroom
+
+• Basic knowledge of Microsoft 365 technologies and collaboration tools.
+
+• Graduation date between August 2027 and May 2028
+
+Compensation range: The salary range for this position is: $28.50 - $35 . Interns will receive an intern stipend to assist with expenses.
+
+USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).
+
+Information for Compensation and Benefits no longer need to be copied and pasted into OS as it is auto-populated when position is posted externally.
+
+USAA views its internship program as a pipeline to possible future employment. This is based on an individual’s graduation date, performance, role qualifications, and business need. To be considered for possible future employment opportunities interns must meet the full-time work eligibility requirements for any given role. Thus, interns should ensure their sponsorship status and other provided information is accurately reflected on their intern application. Inadequate completion of your application may render you ineligible for further consideration in the hiring process.
+
+Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the hourly range based on your experience and market data of the position. The actual hourly rate for this role may vary by location.
+
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+
+Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+
+Interns may not be eligible for all benefits, for more details on our outstanding benefits, please visit our benefits page on USAAjobs.com.
+
+Applications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus, interested candidates are encouraged to apply the same day they view this posting.
+
+USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

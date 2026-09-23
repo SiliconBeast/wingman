@@ -1,0 +1,125 @@
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+The Robotics Research Co-op is apart of the Robotics Centre of Excellence (RCoE). The RCoE is the "innovation engine" of Rockwell Automation robotics. We are a dynamic, research group dedicated pre-programmed automation and ushering in the new era of Autonomous Operations. Here, you'll work with world-class experts in a culture that prizes rapid prototyping and the desire to see "impossible" ideas working on the factory floor.
+
+We are looking for a passionate Robotics Research Intern who is at the intersection of AI theory and hands-on implementation. You will work with senior researchers, gaining invaluable hands-on experience with modern embodied intelligence. Your work will centre on building data tooling and pipelines. These pipelines move, curate, and integrate data into our platform. They directly help develop perception and world models. We achieve this support through the use of machine learning frameworks.
+
+*Relocation assistance is not available or provided for this role.
+
+Your Responsibilities:
+
+•
+Build data tooling and pipelines to integrate robot and perception data into our platform. These pipelines support dataset curation and ensure model evaluation workflows, including dataset slicing and active learning loops for continuous improvement.
+
+•
+Collect robot and perception datasets using LiDAR, cameras, and other sensors across a range of scenarios, including both structured experiments and real-world deployments.
+
+•
+Organise perception datasets, contributing to the creation of high-quality datasets for model training and evaluation.
+
+•
+Write clean, scalable, and code applying modern system programming languages and following software engineering best practices.
+
+•
+Document your best practices and research through technical reports, white papers, and publications.
+
+The Essentials - You Will Have:
+
+•
+Actively pursuing a bachelors or advanced degree at an accredited college or university.
+
+•
+Legal authorization to work in Canada is required. We will not sponsor individuals for employment visas, now or in the future for this job opening.
+
+The Preferred - You Might Also Have:
+
+•
+Demonstrated experience working with datasets, including data processing, organisation, and curation to support machine learning workflows, with familiarity with common data quality issues and their mitigation.
+
+•
+Experience with Machine Learning concepts, vision and applied robotics contexts, with a focus on how data impacts model performance.
+
+•
+Hands-on experience working with robotics hardware and sensors.
+
+•
+Foundation in software development, with the ability to design clean, maintainable systems and quickly understand unfamiliar codebases.
+
+•
+Practical experience with PyTorch, Tensorflow, TensorRT, HuggingFace.
+
+•
+Exposure to simulation environments or synthetic data generation workflows.
+
+•
+Experience with ROS/ROS2
+
+•
+Experience with robotics principles including state estimation and 3D processing
+
+•
+Exposure to foundation models such as Vision-Language-Models
+
+•
+Experience with cloud storage such as Azure, AWS, etc.
+
+•
+Experience with containerization tools such as Docker, Apptainer.
+
+•
+Experience with research, parsing academic publications, and literature review.
+
+What We Offer:
+
+•
+Health Insurance including Medical and Dental
+
+•
+Health Care Spending Account (HCSA – dependent on the plan chosen)
+
+•
+Employee Assistance Program (EAP)
+
+•
+Retirement plans
+
+•
+Paid Time off
+
+•
+Volunteering Time off
+
+•
+Employer Savings Plan Matching (includes RRSP, TFSA, and EPSP)
+
+•
+Employer Paid DC Pension
+
+•
+Maternity and Parental Leave Top-Up
+
+•
+Fitness Reimbursement Program
+
+•
+Flexible Work Schedule where you will work with your manager to enjoy a work schedule that can be flexible with your personal life.
+
+This position is part of a job family. Experience will be the determining factor for position level and compensation.
+
+For this role, the compensation is from $20 - $32 hourly. Actual pay will be based on factors such as skills, knowledge, education, and experience.
+
+This posting is for an existing vacancy within our organization
+
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+#LI-Onsite
+
+#LI-DNI
+
+We are an Equal Opportunity Employer including disability and veterans.
+
+If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (519) 618-4899.

@@ -1,0 +1,91 @@
+Why Join Bracco Medical Technologies?
+
+We care as much about our employees as we do our patients. Our culture fosters a work environment where employees can thrive, be passionate and have fun along the way. Each member of the Bracco Medical Technologies team has the power to make a difference......every day!
+
+Company Overview
+
+At Bracco Medical Technologies, every employee has an impact on our Mission to empower lifesaving decisions. We create medical devices that give healthcare providers the insights they need to confidently and safely diagnose patients. Our unique line of products includes Intravascular Ultrasound (IVUS), Fractional Flow Reserve (FFR), Cardiovascular Imaging contrast delivery (CVi), and CT and MRI contrast delivery systems. As part of the Bracco Group, Bracco Medical Technologies benefits from the resources of a multinational conglomerate with broad expertise in cath lab and radiology suite technology and a dedication to continuous advancement.
+
+We are currently seeking intern/co-op candidates to learn with us as they engage in a variety of hands-on projects alongside our high-performing and authentic Operations team.
+
+Position Summary
+
+As a Product Security Engineering Intern , you will be expected to analyze architecture, product design with different technology stacks, application, firmware, and hardware from a security perspective. You will be involved in discovering security issues and recommending remediation.
+
+Primary Duties & Responsibilities:
+
+• Engage in security research and develop tooling to enhance the product security team’s capability to detect and classify vulnerabilities within systems
+
+• Engage with product security team to review current toolsets and conduct research on additional security capabilities
+
+• Assist product security team members to perform security testing such as vulnerability testing and penetration testing to ensure that BMT products are resistant to exploitation
+
+• Review security tools integration into the CI/CD pipeline and build adoption guides for the development teams.
+
+• Evaluation of security tools and technologies and build custom internal tools as needed using Python
+
+• Work with cross functional teams including, R&D Quality, Manufacturing and Regulatory to participate in security risk reduction
+
+• Contribute to the development of security training
+
+Relationship development
+
+This role provides the opportunity to learn and work cross functionally with a variety of stakeholders to include product development teams and contribute to product security deliverables and activities.
+
+Training to be Provided
+
+Interns will be exposed to working with product security engineers, software developers, systems engineers, Hardware/Firmware engineers, program managers within multiple business units in Bracco Medical Technologies.
+
+They will have the opportunity to practice and learn advanced security skillsets such threat modeling, penetration testing, security tool integration into the software development lifecycle. Interns will work with product security engineers who will conduct knowledge transfer in their area of expertise.
+
+Additionally, our interns and co-ops benefit from a buddy program, career development programming, and opportunities to build their professional networks virtually and in-person with Bracco Medical Technologies professionals.
+
+Qualifications
+
+Minimum
+
+• Currently enrolled in bachelor’s in Computer Engineering, Computer Science, Software Engineering, Information Security, Electrical Engineering, or Computer Systems Engineering, or a related discipline.
+
+• Development experience with one or more languages (C, C#, C++, Python, etc.); familiar with .Net, ASP.Net or other application frameworks.
+
+Preferred
+
+• Pursuing a degree in Information Security, Computer Engineering, Computer Science or a related field with graduation date no later than end 2025.
+
+• Used hack the box or similar environment to develop penetration and vulnerability analysis skills.
+
+• Basic knowledge in IoT, Hardware and Web application.
+
+• 2 years’ experience in systems security administration control and/or software engineering experience or other related experience.
+
+• Strong interpersonal and communication skills.
+
+• Strong technical writing and presentation skills.
+
+Job Location
+
+Eden Prairie, Minnesota.
+
+Term/Hours
+
+· May 2027 start dates are preferred, but other start dates may be considered. A longer-term engagement, like a co-op program, is optional.
+
+· Hours: 40 hours per week
+
+Compensation & Total Rewards:
+
+Estimated Pay Range: $23.00 – $25.00/hour
+
+*Estimated Starting Pay Range is reflective of the range Bracco Medical Technologies reasonably expects to pay for the position. The range provided is based on compensation and market data specific to the position.
+
+Total Rewards:
+
+• Time off – We provide safe and sick time to help you take time for yourself when needed.
+
+• Live well – We offer medical benefit options to help protect you along the way.
+
+• Evolve – Through structured on-the-job learning, workshops, and networking events, you’ll find many opportunities to grow, personally and professionally.
+
+To learn more about Bracco Medical Technologies, please visit our website at: www.BraccoMedTech.com
+
+Bracco Medical Technologies is an equal opportunity/affirmative action employer.

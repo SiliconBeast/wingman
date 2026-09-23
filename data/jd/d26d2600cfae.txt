@@ -1,0 +1,97 @@
+Job Title: Software Engineering Intern - Summer 2027
+
+Job Category: Intern/Co-op
+
+Time Type: Part time
+
+Minimum Clearance Required to Start: None
+
+Employee Type: Part-Time On-Call
+
+Percentage of Travel Required: None
+
+Type of Travel: None
+
+* * *
+
+The Opportunity:
+We are seeking Software Engineering Interns to join our team for a 12-week summer internship. This position provides an opportunity to work alongside experienced engineers developing software for complex, mission focused systems. The ideal candidate is curious, eager to learn, and interested in understanding how software is designed, developed, tested, and deployed in a real-world engineering environment. Interns will have the opportunity to contribute to an active software project while gaining hands-on experience with technologies such as Linux, APIs, databases, networking, automated testing, and software development tools. A strong interest in problem solving is more important than prior experience with any specific technology. We are looking for someone who is willing to ask questions, investigate unfamiliar problems, and work collaboratively with engineers to develop practical solutions.
+
+Responsibilities:
+
+• Work closely with experienced software engineers and mentors to develop and maintain software applications
+
+• Contribute to a significant software development project or technical investigation that supports team objective
+
+• Design, implement, and test software components using modern development practices
+
+• Develop and interact with APIs and other software interfaces
+
+• Work in a Linux development environment and become familiar with commandline tools and software development workflows
+
+• Investigate technical problems, evaluate potential solutions, and communicate findings to the engineering team
+
+• Collaborate with other engineers using software development tools such as Git and GitLab
+
+• Develop automated tests and participate in software verification and validation activities
+
+• Document technical work and present project results to engineers and management
+
+• Gain exposure to software development practices used in mission-cri tical and/or distributed systems
+
+Qualifications:
+
+Required:
+
+• Currently pursuing an undergraduate or graduate degree in Computer Science, Software Engineering, Computer Engineering, Electrical Engineering, Systems Engineering or related field
+
+• Must be able to obtain and maintain applicable security clearance
+
+• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+
+• Familiarity with programming concepts appropriate to the candidate's academic level
+
+• Ability to work effectively both independently and as part of a team
+
+• Strong problem-solving and analytical skills
+
+• Strong written and verbal communication skills
+
+• Ability to learn unfamiliar technologies and concents
+
+Desired:
+
+• Practical software development experience
+
+• Signal processing knowledge
+
+• Computer architecture experience
+
+• Hardware/software test development experience
+
+• Previous internship/co-op or other work experience is preferred, not required
+
+-
+
+What You Can Expect:
+
+A culture of integrity.
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+An environment of trust.
+
+CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+A focus on continuous growth.
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+Pay Range :
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+The proposed salary range for this position is:
+$45,900 - $91,900
+
+CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.

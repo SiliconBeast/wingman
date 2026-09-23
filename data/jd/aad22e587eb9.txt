@@ -1,0 +1,157 @@
+Locations: Scottsdale, AZ; Allen, TX; San Jose, CA; Hopewell Junction, NY; Nampa, ID; Mountain Top, PA; Gresham, OR.
+
+At onsemi , you'll do more than complete an internship. You'll help shape the future of intelligent power and sensing technologies that enable electric vehicles, renewable energy, industrial automation, cloud infrastructure, and next-generation consumer electronics.
+
+We are proud to offer a high-impact internship experience where students work alongside industry-leading engineers on meaningful projects that contribute directly to our business and technology roadmap. As an Engineering Intern, you'll gain hands-on experience solving real engineering challenges, working with cutting-edge semiconductor technologies, and developing skills that will accelerate your career.
+
+Whether your passion is hardware, software, manufacturing, data analytics, artificial intelligence, or product development, you'll have the opportunity to make a measurable impact while learning from experts across the organization.
+
+Why Join onsemi?
+
+• Work on real projects that influence products used by customers around the world.
+
+• Gain hands-on experience with advanced semiconductor technologies, including Silicon Carbide (SiC), Gallium Nitride (GaN), intelligent power solutions, and sensing technologies.
+
+• Collaborate with experienced engineers, scientists, and business leaders.
+
+• Build technical and professional skills through mentorship, training, and networking opportunities.
+
+• Present your work to engineering and leadership teams.
+
+• Explore potential full-time career opportunities with a global semiconductor leader.
+
+Engineering internship opportunities may be available in:
+
+• Applications Engineering
+
+• Product Engineering
+
+• Test Engineering
+
+• Design Engineering
+
+• Device Engineering
+
+• Manufacturing Engineering
+
+• Quality & Reliability Engineering
+
+• Software Engineering
+
+• Data Engineering
+
+• AI & Machine Learning Engineering
+
+• Technical Marketing
+
+• Process Engineering
+
+This is an onsite internship opportunity . Interns work directly from an onsemi office, laboratory, or manufacturing facility, providing valuable exposure to real-world engineering environments, technologies, and team collaboration. Remote work is not available for this position.
+
+Depending on your assigned team and area of focus, you may:
+
+• Contribute to the development, testing, and improvement of semiconductor products and technologies.
+
+• Design and conduct experiments, product characterization, and validation activities.
+
+• Analyze technical data to identify trends, solve problems, and drive engineering decisions.
+
+• Develop software tools, automation solutions, AI-enabled applications, or data analytics dashboards.
+
+• Support product qualification, manufacturing optimization, reliability assessments, and process improvements.
+
+• Utilize industry-standard engineering software, programming languages, laboratory equipment, and data analytics tools.
+
+• Collaborate with cross-functional teams across engineering, manufacturing, operations, quality, marketing, and business functions.
+
+• Document results and communicate technical findings through reports and presentations.
+
+• Present project outcomes and recommendations to engineering and leadership audiences.
+
+• Participate in intern networking events, professional development workshops, and mentorship programs.
+
+Minimum Qualifications:
+
+• Currently pursuing a Bachelor's, Master's, or PhD degree in:
+
+• Electrical Engineering
+
+• Computer Engineering
+
+• Mechanical Engineering
+
+• Chemical Engineering
+
+• Materials Science
+
+• Physics
+
+• Computer Science
+
+• Data Science
+
+• Or a related engineering or technical discipline
+
+• Strong analytical, problem-solving, and communication skills.
+
+• Ability to work effectively in a collaborative team environment.
+
+• Passion for innovation and interest in semiconductor technology.
+
+Preferred Qualifications:
+
+Experience or coursework in one or more of the following areas is highly valued:
+
+• Semiconductor devices, fabrication, or device physics.
+
+• Analog, mixed-signal, or power electronics.
+
+• Silicon Carbide (SiC), Gallium Nitride (GaN), Power MOSFET, or IGBT technologies.
+
+• Product testing, characterization, validation, and failure analysis.
+
+• Data analytics, visualization, and statistical analysis.
+
+• AI, machine learning, generative AI, or data-driven engineering applications.
+
+• Programming experience with Python, MATLAB, JMP, LabVIEW, SQL, or similar tools.
+
+• Circuit simulation tools such as Cadence, SPICE, LTspice, MATLAB, or equivalent platforms.
+
+• Statistical modeling, experimental design, and process optimization.
+
+• Laboratory experience using oscilloscopes, source measure units (SMUs), parameter analyzers, automated test systems, or related equipment.
+
+• Previous engineering project, research, co-op, or internship experience.
+
+• Experience leveraging AI tools such as Microsoft Copilot, ChatGPT, Gemini, or similar technologies to improve productivity, data analysis, research, or technical problem solving.
+
+What You'll Gain?
+
+At onsemi, we invest in our interns because we view them as future innovators and leaders.
+
+You'll receive:
+
+• Competitive compensation.
+
+• Medical benefits eligibility.
+
+• Flexible work schedules aligned with academic commitments.
+
+• Dedicated mentorship from experienced professionals.
+
+• Hands-on exposure to cutting-edge semiconductor development and manufacturing environments.
+
+• Executive engagement and networking opportunities.
+
+• Professional development workshops and career-building experiences.
+
+• The opportunity to make meaningful contributions that create lasting business impact.
+
+Join onsemi and gain the experience, mentorship, and technical expertise needed to launch your career while helping drive the technologies powering a more sustainable future.
+
+onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world.
+
+More details about our company benefits can be found here:
+
+https://www.onsemi.com/careers/career-benefits

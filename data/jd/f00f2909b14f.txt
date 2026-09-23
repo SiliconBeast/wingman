@@ -1,0 +1,120 @@
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+As an IT I ntern you will work alongside full-time employees and industry professionals developing new and existing products in an agile environment. Each intern has a dedicated mentor to help navigate Rockwell, ramp up in our code base, and remove daily blockers.
+
+Intern activities may include software application design, implementation , testing, prototype evaluation, technology investigations, debugging, and project management in areas such as:
+
+•
+Software Development
+
+•
+Artificial Intelligence/Machine Learning (AI/ML)
+
+•
+Information Security/Cybersecurity
+
+•
+Networking and Infrastructure
+
+•
+Cloud Engineering
+
+•
+Data Engineering/Data Analytics
+
+Basic Qualifications:
+
+•
+Must be pursuing a bachelor’s or advanced degree from an accredited college or university
+
+•
+Legal authorization to work in the US is required. We will not sponsor individuals for employment visas, now or anytime in the future.
+
+Preferred Qualifications:
+
+•
+Minimum cumulative GPA of a 3.0 on a 4.0 scale
+
+•
+Prior internship or co-op with Rockwell Automation
+
+•
+Prior internship or co-op within a related field
+
+•
+Pursuing a degree in software or computer engineering, computer science, information technology, data science or similar.
+
+•
+Met on campus, national recruiting events, a Rockwell Automation-hosted event
+
+•
+Expected graduation date is December 2027 or beyond
+
+•
+Foundational understanding of AI concepts (machine learning, natural language processing, generative & Agentic AI) and their practical applications in IT
+
+•
+Ability to use enterprise approved AI tools/platforms (i.e. Co-Pilot, GitHub, Claude, Windsurf) to improve productivity, automation, and decision making.
+
+•
+Awareness of responsible AI practices, including data privacy, security, and compliance.
+
+•
+Comfort collaborating with cross-functional teams on AI-related initiatives or digital transformation efforts.
+
+•
+Adaptability and continuous learning: The AI landscape is rapidly evolving, requiring IT professionals to continuously learn new technologies and advancements.
+
+Technologies we use:
+
+•
+Object-oriented designs using C#, Java, Python, and other programming languages.
+
+•
+Desktop, cloud, and mobile platform software development using Windows and Linux.
+
+•
+TypeScript, React, Angular frameworks.
+
+•
+Power BI and Power Apps
+
+•
+Large, scalable distributed systems and/or SaaS solutions.
+
+What We Offer:
+
+•
+Health Insurance including Medical, Dental and Vision
+
+•
+401k
+
+•
+Flexible Work Schedule
+
+To learn more about our benefits package, please visit at www.raquickfind.com
+
+For this role, the Base Salary Compensation is from $20-32/hourly. Actual pay will be based on factors such as skills, education, and experience.
+
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles.
+
+Rockwell Automation's hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.
+
+This role is part of a job family. Experience will be the determining factor for position level and compensation.
+
+#LI-CS1
+
+#LI-hybrid
+
+#DNI
+
+We are an Equal Opportunity Employer including disability and veterans.
+
+If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (844) 404-7247.
+
+Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.

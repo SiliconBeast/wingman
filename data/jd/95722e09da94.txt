@@ -1,0 +1,105 @@
+An internship at onsemi offers a dynamic opportunity to gain hands-on experience through real-world projects that drive innovation in the semiconductor industry. Interns are entrusted with meaningful responsibilities and exposed to cutting-edge technologies, fostering both technical skill development and professional growth.
+
+onsemi views internships as a strategic pipeline for entry-level career positions, providing a collaborative and inclusive environment where interns work alongside diverse teams and contribute to high-impact initiatives. The company’s commitment to sustainability, including its goal of achieving net-zero emissions by 2040, enables interns to engage in projects that align with global environmental priorities.
+
+Key benefits include:
+
+• Competitive compensation and medical benefits
+
+• Flexible work hours aligned with academic schedules
+
+• Access to Employee Resource Groups (ERGs) which foster a sense of belonging and provide opportunities for mentorship and community engagement
+
+• Networking events, professional development workshops, and project showcases that build career readiness and visibility across the organization
+
+Internship roles span multiple disciplines including engineering, business operations, data analytics, and finance, and are designed to align with onsemi’s strategic goals of innovation and workforce development. Structured programs such as rotational field sales and finance analyst tracks offer additional career pathways for interns transitioning into full-time roles.
+
+We are seeking a highly motivated Metrology Engineering Intern to support operational efficiency and continuous improvement initiatives within a semiconductor manufacturing environment. This internship is intended for a Junior or Senior undergraduate student pursuing a degree in Electrical Engineering, Materials Science, Physics, Chemistry, Chemical Engineering, Mechanical Engineering, Industrial Engineering, or a related engineering discipline .
+
+The successful candidate will work closely with Metrology Engineers, Process Engineers, Equipment Engineers, Manufacturing, and Industrial Engineering teams to identify and execute opportunities that improve factory productivity, increase equipment utilization, reduce operational waste, and streamline metrology workflows. This role provides hands-on exposure to semiconductor metrology systems, factory operations, data analytics, and continuous improvement methodologies.
+
+Factory Operational Efficiency
+
+• Support projects focused on reducing non-value-added activities and improving metrology productivity.
+
+• Monitor metrology tool utilization, queue times, cycle time, and throughput performance.
+
+• Identify bottlenecks within metrology operations and recommend solutions to improve factory efficiency.
+
+• Participate in Lean Manufacturing and Operational Excellence initiatives.
+
+Data Analysis & Continuous Improvement
+
+• Collect, organize, and analyze manufacturing and metrology equipment performance data.
+
+• Perform statistical analysis using Minitab , Excel, and other engineering tools.
+
+• Participate in AI integrated tool Alarm and spec hold response optimization
+
+Metrology Process Support
+
+• Gain exposure to semiconductor metrology techniques including critical dimension (CD) measurements, overlay measurements, film thickness measurements, defect inspection, and process control methodologies.
+
+• Support engineers in evaluating measurement performance and identifying efficiency improvement opportunities.
+
+• Participate in measurement system analysis (MSA), GR&R studies, and tool-to-tool matching activities.
+
+• Observe and participate in problem-solving efforts related to measurement accuracy, repeatability, reproducibility, and equipment performance.
+
+Present project updates and final recommendations to engineering and management teams.
+
+Required Qualifications
+
+• Currently pursuing a Bachelor's degree in:
+
+• Electrical Engineering (EE)
+
+• Materials Science
+
+• Physics
+
+• Chemistry
+
+• Chemical Engineering
+
+• Mechanical Engineering
+
+• Industrial Engineering
+
+• Other related STEM disciplines
+
+• Junior or Senior undergraduate standing preferred.
+
+• Minimum GPA of 3.0 preferred.
+
+• Strong analytical and problem-solving skills.
+
+• Experience using Microsoft Excel for data analysis and visualization.
+
+• Ability to work effectively in a team-oriented manufacturing environment.
+
+• Excellent written and verbal communication skills.
+
+Desired Characteristics
+
+• Self-motivated and eager to learn in a fast-paced manufacturing environment.
+
+• Strong attention to detail and organizational skills.
+
+• Comfortable working on the manufacturing floor and interacting with production equipment.
+
+• Curious mindset with a passion for solving operational challenges.
+
+• Ability to transform data into actionable recommendations.
+
+• Strong teamwork and collaboration skills.
+
+onsemi is excited to share the base salary range for this position is $26.00 -$44.00 per hour exclusive of fringe benefits or potential bonuses. The final pay rate for the successful candidate will depend on geographic location, skills, education, experience, and/or consideration of internal equity of our current team members. We also offer a competitive benefits package. https://www.onsemi.com/site/pdf/Benefits-Summary-USA.pdf .
+
+Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide competitive pay medical benefits, various networking event opportunities, and flexible hours based on school schedule.
+
+onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way in creating a safer, cleaner, and smarter world.
+
+More details about our company benefits can be found here:
+
+https://www.onsemi.com/careers/career-benefits

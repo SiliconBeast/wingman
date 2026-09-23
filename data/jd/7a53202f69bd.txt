@@ -1,0 +1,75 @@
+Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe— large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts.
+
+Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis has raised over $750 million from some of the world’s best investors, from Andreessen Horowitz to Blackrock and Fidelity, and employs a team of 450 engineers and entrepreneurs. Astranis designs, builds, and operates its satellites out of its 153,000 sq. ft. headquarters in Northern California, USA.
+
+Antenna Intern (Summer 2027)
+
+Internships at Astranis typically last for twelve weeks, and are hourly roles designed for students who are currently enrolled at a four-year university.
+
+As an Antenna Intern, you will work closely with mechanical, thermal, and payload system engineers to design, build and test antenna systems for ongoing and next-generation satellite payloads.
+
+Role
+
+• Leverage cutting-edge design tools to realize high-performance communications antenna systems with on-orbit flexibility to meet evolving customer demand.
+
+• Work with vendors to design and procure antenna and RF components and validate their performance through anechoic chamber testing.
+
+• Co-design antenna components and systems in conjunction with other technical disciplines, including Mechanical/Structural/Thermal/Payload Systems.
+
+Requirements
+
+• Fundamental understanding of electromagnetics, including antenna fundamentals, impedance matching, transmission lines, and circuit matching.
+
+• Experience measuring components using vector network analyzers, spectrum analyzers, and signal sources.
+
+• Demonstrated ability to solve engineering challenges in innovative and creative ways.
+
+• Capable of using industry-standard design tools such as CST, HFSS, or TICRA and scripting to solve engineering problems using Matlab or Python.
+
+Bonus
+
+• Experience with 3D printing (Direct Metal Laser Sintering and Fused Deposition Modeling).
+
+• Experience with link budget and system calculations including EIRP, noise figure, and G/T.
+
+• Experience designing waveguide components (OMT, MUX, diplexer, filters, polarizers, etc).
+
+• Experience with reflectors.
+
+The base pay for this position is $29.00 per hour.
+
+Base Hourly Pay
+
+$29 — $29 USD
+
+U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required
+
+(To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+
+Our mission and products are built for everyone, regardless of gender, race, creed, or background. We believe in a diverse and inclusive workplace, and we invite all people to join our team and bring their unique perspectives to make us stronger.
+
+SMS Terms of Service
+
+1. When you opt in to receive SMS messages from Astranis Space Technologies Corp. , we may send you messages related to your job application, including updates, interview coordination, and other recruiting communications.
+2. You can cancel the SMS service at any time by replying with any of the following industry standard keywords:
+
+a. STOP
+b. STOPALL
+c. OPTOUT
+d. CANCEL
+e. END
+f. QUIT
+g. UNSUBSCRIBE
+h. REVOKE
+
+3. After you opt out, we may send one final text message confirming that you have been unsubscribed. No further recruiting SMS messages will be sent unless you opt in again.
+4. To opt back in, reply with any of the following industry standard keywords:
+
+a. START
+b. UNSTOP
+c. YES
+
+5. For help, reply HELP or contact us at EMAIL or PHONE NUMBER.
+6. Carriers are not liable for delayed or undelivered messages.
+7. Message and data rates may apply. Message frequency may vary. Contact your wireless provider for details.
+8. For more information on how we handle your data, please review our Privacy Policy at: https://www.astranis.com/legal/privacy .
