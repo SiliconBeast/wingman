@@ -1,0 +1,27 @@
+Censys internships are competitively paid, ~12-week summer opportunities built around real ownership. Every intern is paired with a manager and a mentor, meeting with both of them regularly, and works on production-impacting projects from day one — whether that's a customer-facing feature, an internal tool, or original security research. The internship also includes a six-part "Career Kickstart" series (professional foundations, organizational navigation, feedback, ownership, personal branding, and interviewing), and a week together in person at our Ann Arbor office.
+
+Censys is small enough that intern work ships to production and reaches real customers — not a shelved capstone project. You'll work directly with the engineers and researchers who built the company's core products, get direct feedback and mentorship rather than a checklist of tasks, and leave with concrete, real-world outcomes (shipped features, published research, measurable infrastructure improvements) you can point to in your next interview.
+
+Tracks available:
+
+• AI/LLM Engineering
+
+• ML/DS
+
+• Frontend Software Engineering
+
+• Backend/Distributed Systems Engineering
+
+• Security Research
+
+Location: This position will be located remotely and expected to be in Ann Arbor for one week during onboarding.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 83% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to your recruiter. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+To ensure the integrity of our hiring process and in attempt to facilitate a more personal connection, we require all candidates to keep their cameras on during video interviews. You may also be required to meet a Censys employee at one point during your process. Additionally, if hired, you will be invited to visit Ann Arbor, Michigan for in-person onboarding.
+
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with our Censys Privacy Policy .
+
+We value diversity and are committed to creating an inclusive environment for all employees. Censys is an equal opportunity employer .

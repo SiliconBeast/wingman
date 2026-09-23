@@ -1,0 +1,49 @@
+We are looking for a motivated intern to help us continue developing our machine-learning solutions for heat pump reliability. You will build on what we've already started, work on improving our current models, and explore how we can apply these ideas to additional reliability use cases. Most of your work will be done in Databricks.
+
+• During your internship, you will contribute to the review and enhancement of existing data preparation and feature engineering approaches.
+
+• You will support the optimization and evaluation of existing machine learning models.
+
+• In addition, you will investigate potential new features and early risk indicators within field and IoT data.
+
+• You will also develop reproducible ML workflows in Databricks using MLflow.
+
+• Furthermore, you will adapt and assess existing approaches for additional product issues and reliability-related use cases.
+
+• Moreover, you will explore the application of Generative AI to transform model outputs and key risk drivers into concise and understandable reports for engineers.
+
+• Finally, you will communicate findings through data visualizations, short presentations, and technical documentation.
+
+• Education: Master studies in the field of Data Science, Artificial Intelligence, Computer Science, Information Systems, Engineering or a comparable quantitative or technical field
+
+• Experience and Knowledge: practical knowledge of machine learning, model evaluation, feature engineering, and data preprocessing; good Python skills; experience with Databricks, MLflow, PySpark or Generative AI applications is a plus
+
+• Personality and Working Practice: you excel at driving tasks forward independently, organizing your workflows systematically, while communicating technical results with high clarity
+
+• Work Routine: we offer you the opportunity to work in a hybrid setup with regular presence in Wernau
+
+• Enthusiasm: interested in applying machine learning to real-world products and IoT data
+
+• Languages: very good in English
+
+Start: November/December 2026
+
+Duration: 6 months
+
+Requirement for this internship is the enrollment at university. Please attach your CV, transcript of records, enrollment certificate, examination regulations and if indicated a valid work and residence permit.
+
+Diversity and inclusion are not just trends for us but are firmly anchored in our corporate culture. Therefore, we welcome all applications, regardless of gender, age, disability, religion, ethnic origin or sexual identity.
+
+Need further information about the job?
+
+Linnan Du (Functional Department)
+
++49 7153 3068232
+
+Work #LikeABosch starts here: Apply now!
+
+#LI-DNI
+
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other. Join in and feel the difference.
+
+The Bosch Home Comfort Group is looking forward to your application!

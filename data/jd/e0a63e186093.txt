@@ -1,0 +1,75 @@
+FLEXCAR ENGINEERING
+Software Engineering Intern
+Ruby on Rails & React
+
+Position: Internship
+
+Period of Internship: Initial 6 Months (Renewal upon satisfactory performance)
+
+Who can apply: Graduating batch of 2024 or later, with a degree in Computer Science, Engineering, or equivalent practical experience
+Who can't apply: Expected to pass out in 2027
+Stipend: Rs. 50,000 per month
+
+About the team
+We build the software that runs Flexcar's fleet — the systems that get vehicles inspected, repaired, moved between lots, and back in front of customers. That means real operational problems with real constraints: a technician waiting on a part, a vehicle stuck out of service, a lot running out of capacity.
+Our engineering team spans the US and India. You would be working in the same codebase as everyone else, shipping to the same production, on the same review cycle. Interns here are not given a side project to keep them busy.
+What you'll work on
+You'll pick up scoped, real tickets from day one and grow into larger ones. Depending on where you land, that could look like:
+
+• Building an internal tool screen end to end — a Rails controller and service on the backend, a React page on the front end
+
+• Adding a filter, report, or workflow to the tools our operations and service teams use every day
+
+• Writing model and controller tests, and component tests for the UI you build
+
+• Investigating a production data question and turning the answer into a fix
+
+• Cleaning up something slow, confusing, or duplicated — with the freedom to propose how
+
+You'll have a named mentor, and your code will go through the same pull request review as everyone else's.
+Our stack
+You will not know all of this on day one. Nobody expects you to.
+
+• Backend: Ruby 3.4, Rails 8, PostgreSQL, Redis, Solid Queue for background jobs
+
+• Frontend: React with TypeScript, Inertia.js, Tailwind CSS, Vite; Hotwire (Turbo + Stimulus) in older parts of the app
+
+• Testing: Minitest on the backend, Jest on the front end
+
+• Everything else: Git, GitHub, CI on every pull request
+
+What we're looking for
+Required
+
+• Graduating batch of 2024 or later, with a degree in Computer Science, Engineering, or equivalent practical experience
+
+• Solid programming fundamentals — data structures, how a web request actually works, how to model data in a relational database
+
+• Comfortable writing SQL and reasoning about a schema
+
+• Able to read code you didn't write and figure out what it does
+
+• Clear written communication — most of our collaboration is asynchronous across time zones
+
+• Willing to ask questions early rather than stay stuck
+
+Preferred
+
+• Hands-on experience with Ruby on Rails — a personal project, a college project, an earlier internship, open source, anything you can walk us through
+
+• Hands-on experience with React; TypeScript is a bonus, not a requirement
+
+• Familiarity with Git workflows: branches, pull requests, resolving a conflict without panic
+
+• Any experience writing automated tests
+
+Nice to have
+
+• Exposure to Tailwind, Inertia, or server rendered React
+
+• Background jobs, caching, or anything you've had to make faster
+
+• A public GitHub profile, a blog, or something you've built and can talk about honestly
+
+We care much more about how you think through a problem than about which frameworks you've already used. If you're strong in another stack — Django, Laravel, Spring, Node — and are genuinely interested in learning Rails, apply.
+Flexcar is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind. Flexcar provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.

@@ -1,0 +1,63 @@
+Overview
+
+We are seeking a highly motivated Data Engineering Intern to join our Data Engineering group within our Artificial Intelligence team. The ideal candidate is passionate about data engineering, analytics, data exploration and leveraging AI and has a strong desire to learn and develop their skills. As a Data Engineering Intern, you will work with experienced Data Engineers in developing and deploying data pipelines in the cloud.
+
+Responsibilities
+
+• Build data pipelines in the cloud leveraging Python, Spark and SQL in a Databricks platform.
+
+• Help with building data and analytics PoCs in Databricks.
+
+• Help with ad-hoc data analysis of various data sources including project management data from jira and other sources.
+
+• Help the team with documentation of data quality checks, access controls and data governance protocols.
+
+• Conceptual understanding of fundamental machine learning concepts either from your degree or self-learning.
+
+• Help the team with putting a process in place for documentation of data assets to make them more discoverable.
+
+This job description is intended to describe the general nature and level of work being performed in this internship. It is not an exhaustive list of responsibilities, duties, and skills required and does not constitute an employment agreement. This job description is subject to change as Cotiviti’s needs and requirements of the internship evolve.
+
+Qualifications
+
+• Required : Currently in your junior or senior year studying toward a Bachelor's or Master’s degree in Data Science, Computer Science, Statistics, Math, Economics, or Engineering.
+
+• Preferred : Pursuing Masters or PhD degree in Data Science, Analytics, Computer Science, Statistics, Math.
+
+• Excellent oral and written communication skills.
+
+• Interested in collaborating on a large team with other data science practitioners on innovative projects.
+
+Mental Requirements:
+
+• Communicating with others to exchange information.
+
+• Assessing the accuracy, neatness, and thoroughness of the work assigned.
+
+Physical Requirements and Working Conditions:
+
+• Remaining in a stationary position, often standing or sitting for prolonged periods.
+
+• Repeating motions that may include the wrists, hands, and/or fingers.
+
+• Must be able to provide a dedicated, secure work area.
+
+• Must be able to provide high-speed internet access/connectivity and office setup and maintenance.
+
+• No adverse environmental conditions are expected.
+
+Base compensation ranges from $21.00 to $30.00 per hour. Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs.
+
+Nonexempt employees are eligible to receive overtime pay for hours worked in excess of 40 hours in a given week, or as otherwise required by applicable state law.
+
+Date of posting: 9/17/2026
+
+Applications are assessed on a rolling basis. We anticipate that the application window will close on 11/17/2026, but the application window may change depending on the volume of applications received or close immediately if a qualified candidate is selected.
+
+#LI-DNP
+
+#LI-LL1
+
+#intern
+
+#remote

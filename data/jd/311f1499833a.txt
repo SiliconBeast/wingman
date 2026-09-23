@@ -1,0 +1,127 @@
+HPC AI Systems Administrator Intern
+
+This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.
+
+Who We Are:
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+
+Job Description:
+
+About the role
+Hewlett Packard Enterprise is looking for a systems administration intern to join the HPC and AI Data Center Administration team. Our administrators operate the high-performance computing and AI laboratory systems used across HPE engineering, and this intern works alongside them on the security, monitoring, and visibility side of that work.
+The intern will help identify where lab systems lack expected monitoring, logging, and vulnerability scanning coverage, build repeatable reports, document hardening expectations, and improve the team's ability to track remediation work. Over the term, the intern produces a system visibility baseline and a set of tools and documentation the team continues to use after the internship ends.
+This is a strong opportunity for a student interested in Linux systems administration, cybersecurity operations, infrastructure automation, observability, or large-scale compute environments. It is also a direct look at the day-to-day work of an HPC systems administrator, which is the career track this team hires into.
+
+Job Responsibilities
+
+• Assist with inventory validation for HPC and AI lab systems.
+
+• Review monitoring, logging, and vulnerability scanning coverage across a heterogeneous system fleet.
+
+• Identify gaps in agent deployment, log forwarding, scan inclusion, and system ownership records.
+
+• Build scripts, reports, or dashboards that summarize security visibility.
+
+• Document hardening expectations and practical checklists for lab systems.
+
+• Work with system administrators to validate findings and prioritize follow-up work.
+
+• Present project results and recommendations at the end of the internship.
+
+Required qualifications
+
+• Linux is the working environment for this role, not a nice-to-have. We are looking for a candidate who is already comfortable operating without a graphical interface.
+
+• Currently enrolled in a degree program in cybersecurity, computer science, software engineering, information systems, computer engineering, network administration, or a related technical field.
+
+• Working comfort on the Linux command line.
+
+• Able to navigate a filesystem, read and edit configuration files, inspect running services and logs, manage users and permissions, and troubleshoot without a GUI.
+
+• Demonstrated hands-on Linux exposure through at least one of the following: a Linux or Unix systems administration course, a personal or home lab Linux environment, a prior internship or job with Linux responsibilities, or substantive coursework in a Linux-based environment.
+
+• Interest in cybersecurity, infrastructure, monitoring, or automation.
+
+• Ability to organize technical findings clearly in writing.
+
+• Willingness to learn from experienced administrators and ask questions early.
+
+• Able to work fully onsite in Chippewa Falls, WI for the duration of the internship.
+
+Preferred qualifications
+
+• Scripting ability in Python or Bash sufficient to automate a repetitive data-gathering task.
+
+• Experience with SSH key management, sudo and privilege boundaries, system services, or package management.
+
+• Familiarity with logging, monitoring, vulnerability scanning, or SIEM concepts such as syslog, rsyslog orjournald, log forwarding, and agent-based collection.
+
+• Exposure to Git or GitHub in a collaborative workflow.
+
+• Working understanding of TCP/IP networking, firewalls, DNS, and Linux permissions.
+
+• Any hands-on security or monitoring tooling exposure: Zabbix, Nessus, OpenSCAP, Wazuh, Splunk, Elastic, Nmap, or similar.
+
+• Configuration management or automation exposure: Ansible, Puppet, Salt, or similar.
+
+• Interest in HPC, AI infrastructure, lab systems, or large-scale compute environments.
+
+• Security coursework, security club or competition background such as CCDC or CTF, or a foundational certification such as Security+ or Linux+.
+
+What you will learn as an HPE Intern
+
+• How HPC and AI lab systems are operated in a real engineering environment.
+
+• How infrastructure teams track security coverage across heterogeneous systems.
+
+• Practical monitoring, logging, and vulnerability management workflows.
+
+• How to turn messy operational data into useful dashboards and action plans.
+
+• How to work with system administrators on security hardening without disrupting active engineering work.
+
+What We Can Offer You:
+
+Health & Wellbeing
+
+We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.
+
+Personal & Professional Development
+
+We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.
+
+Unconditional Inclusion
+
+We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.
+
+Let's Stay Connected:
+
+Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.
+
+#unitedstates
+
+#interns
+
+Job:
+Administration
+Job Level:
+N/A
+
+"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.
+– United States of America: Hourly Salary USD 35.00 - 41.00 in Minnesota
+The listed salary range reflects base salary. Variable incentives may also be offered."
+
+Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity .
+
+Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.
+
+HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
+
+Recruitment Fraud Alert
+
+We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.
+
+All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.

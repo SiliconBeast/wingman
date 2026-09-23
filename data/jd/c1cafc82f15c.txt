@@ -1,0 +1,83 @@
+Internship Program Mission:
+
+To attract and engage undergraduate and graduate talent, including students pursuing advanced degrees for specialized roles, by providing meaningful internship opportunities at HAI Group that align with their fields of study and enable them to apply academic knowledge, theory, and skills in a practical workplace environment.
+
+Internship Overview
+
+As an intern on the IT Applications Development Team you will gain hands-on experience in the development and deployment of software programs to meet business needs. The software development intern will be exposed to new technologies and given the opportunity to learn and utilize them. You will work closely with a senior developer and will be assigned projects to either enhance an existing system or potentially develop a prototype to explore a new system. You will participate in agile design and planning session along with daily sprint standup sessions with others on the team.
+
+This is a full-time, paid internship that is required to be on-site in the HAI Group office, located in Cheshire, CT, Monday–Friday. The internship program will run from May 31st – Mid August.
+
+Essential Functions
+
+• Work closely with a Tech Lead or developer and engage in development work for an existing system
+
+• Work closely with an identified Tech Lead or developer to develop a prototype to solve a business problem
+
+• Training on existing HAI systems and the underlying technologies in order to be effective
+
+Job Requirements
+
+Required:
+
+• Currently enrolled undergraduate or graduate student pursuing a degree in Computer Engineering, Computer Science, or related degree, with an emphasis on software development.
+
+• Strong understanding of fundamental programming concepts including variables, data types, conditional logic, looping, functions, data structures, object-oriented programming, debugging, and the use of libraries/modules. Experience developing software in a high-level language such as C#, Java, or Python is required.
+
+• Ability to be on-site in the HAI Group office, located in Cheshire, CT, Monday–Friday
+
+• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.
+
+Preferred:
+
+• Prior work /internship experience experience
+
+• Experience or exposure to common data formats (JSON, XML, CSV), relational databases (SQL), version control systems such as Git, and web development technologies including HTML, CSS, JavaScript, and REST APIs, is preferred.
+
+• Exposure to technologies and practices such as C#/.NET, cloud platforms (Microsoft Azure), software testing, Agile development methodologies, and AI-assisted development tools (GitHub Copilot, Microsoft Copilot, ChatGPT, or similar) is a plus
+
+Knowledge, Skills, Abilities:
+
+• Eagerness to learn and apply technologies
+
+• Ability to learn and apply technologies to solve real-world business problems.
+
+• Demonstrates initiative with an eagerness to learn software technologies and development practices
+
+• Strong analytical and problem-solving skills
+
+• Effective verbal and written communication skills
+
+• Collaborative team player
+
+Work Environment & Physical Demands
+
+• Inside climate-controlled office building
+
+• Prolonged sitting and using a PC
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+Department Overview
+
+The Information Technology Department works closely with internal and external business partners using their subject matter expertise to strategically invest in information systems and infrastructure across the enterprise. Flexible and adaptive to customer needs, the IT Team takes a broad view of the HAI Group enterprise; contributing research and development to strengthen and add value to business operations. IT develops its team in both the technical and leadership career paths to support customers while meeting the development needs of the team. Highly responsive, the team continually explores best practices and their application to growing the HAI Group enterprise.
+
+Company Overview
+
+HAI Group® [1] is the nation’s leading property-casualty insurance company founded by and dedicated to affordable housing organizations. While we are recognized as a pioneer of affordable housing insurance programs, insurance is not our only strength. We protect, preserve, and promote the sustainability of affordable housing with an array of products and services that support the challenges housing organizations face. HAI Group offers risk control and consulting services, professional development through the Housing Training Institute, and industry research and data through the Public and Affordable Housing Research Corporation. Headquartered in Cheshire, Connecticut, HAI Group has earned national and regional recognition for its workplace culture and employee experience. Visit our Careers page for a full list of HAI Group workplace awards and recognition.
+
+Cultural Objective
+
+HAI Group contributes to a culture that creates a safe and healthy working environment and a space of inclusiveness and belonging for all by: exceeding our customers’ expectations, working collaboratively across the organization, embracing diversity, and demonstrating mutual respect and empathy.
+
+HAI Group is an Equal Opportunity Employer.
+
+No agency submissions please. Resumes submitted to any HAI Group employee without a current, signed, and valid contract in place with the HAI Group Recruiting team for this position will become the property of HAI Group and no agency fees will be paid.
+
+HAI Group's Notice of Collection of Personal Information: https://resources.haigroup.com/hubfs/2023-HAI-Notice-of-Collection-Employees_1099_Applicants.pdf
+
+[1] HAI Group® is a marketing name used to refer to insurers, a producer, and related service providers affiliated through a common mission, management, and governance. Property-casualty insurance and related services are written or provided by Housing Authority Risk Retention Group, Inc.; Housing Authority Property Insurance, A Mutual Company; Housing Enterprise Insurance Company, Inc.; Housing Specialty Insurance Company, Inc.; Innovative Housing Insurance Company Inc.; Housing Investment Group, Inc.; and Housing Insurance Services, Inc. (DBA Housing Insurance Agency Services, Inc. in NY and MI).
+
+Intern Pay Range
+
+$22 — $25 USD

@@ -1,0 +1,65 @@
+Description
+
+Welcome to ATB Technologies, where innovation meets exceptional customer service! We are an award-winning Managed Service Provider (MSP) in St. Louis, fueled by the passion of our team and client referrals. Crafting personalized IT solutions is our forte, and we're on the lookout for enthusiastic individuals to join our crew. At ATB Technologies, it's not just about upgrading businesses with better IT and providing top-tier customer service, it's about creating a workplace for your success.
+
+This full-time Summer internship is ideal for students or recent graduates who are eager to gain hands-on experience working with applied AI in a real-world business environment. The role focuses heavily on data quality, AI-driven documentation improvement, and AI agent testing and QA, with opportunities to experiment, analyze outcomes, and contribute directly to ATB’s internal systems and initiatives.
+
+Interns will primarily work in Copilot Studio, supporting efforts to stress test AI agents, improve internal data accuracy, and enhance documentation across core platforms. This internship is best suited for someone who is curious, self-motivated, and interested in understanding how AI tools behave behind the scenes—and how they can be improved through thoughtful testing and iteration.
+
+This internship opportunity will be offered during the Summer of 2027 and is open to eligible college students who meet the program requirements. Interns are expected to work 40 hours per week on-site at our Chesterfield office. This is a 12-week internship program with an anticipated start date of 5/17/2027 and end date of 8/6/2027.
+
+Key Responsibilities
+
+• Stress test and experiment with AI agents in real-world scenarios to uncover limitations, edge cases, and unexpected behaviors.
+
+• Investigate how agents reason, make decisions, and use tools in order to identify performance bottlenecks and improvement opportunities.
+
+• Document findings from testing, including failure patterns, successful prompt strategies, and recommendations that influence future agent development.
+
+• Use AI-assisted techniques to discover, analyze, and remediate data quality issues across core internal systems.
+
+• Apply a combination of agentic tools and hands-on investigation to clean, normalize, and validate data at scale.
+
+• Explore proactive, AI-driven approaches to early data quality detection and long-term data health improvement.
+
+• Use AI to assess internal documentation, identify outdated or fragmented content, and help modernize how knowledge is structured and maintained.
+
+• Transform unstructured or inconsistent documentation into clean, standardized formats that are easier for both humans and AI to use.
+
+• Work hands-on in Copilot Studio to prototype, test, and iterate on new AI agent concepts.
+
+• Evaluate internally and externally created agents to understand practical use cases and real end-user value.
+
+• Think critically from an end-user perspective to understand how people realistically interact with AI and what problems it should solve.
+
+• Contribute creative ideas that explore how AI can deliver meaningful, practical impact across the organization.
+
+Requirements
+
+• Currently enrolled in a college or university program or a recent graduate.
+
+• Genuine interest in AI and curiosity about how AI tools work and evolve.
+
+• Self-driven learner who enjoys experimentation, testing, and problem-solving.
+
+• Strong attention to detail, especially when validating data and documenting findings.
+
+• Ability to analyze results, identify patterns, and communicate observations clearly.
+
+• Experience using AI tools in an academic, personal, or experimental capacity.
+
+• Comfort working with ambiguity and iterating through trial-and-error testing.
+
+• Technical aptitude and interest in understanding AI behavior behind the scenes.
+
+• Ability to work independently and collaboratively in an on-site team environment.
+
+• Willingness to make code or configuration changes when needed, or to learn how to do so.
+
+What ATB Technologies Offers
+
+• Earn while you learn! This is a paid internship that will provide compensation while you work alongside experts in the industry.
+
+• An award-winning collaborative, flexible, innovative, and supportive culture – INC 5000 Award Winner, STL Best Places to Work, INC Best Places to Work, MSP 500 Awards.
+
+• Company-paid lunch offered two days per week.

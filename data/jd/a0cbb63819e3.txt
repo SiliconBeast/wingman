@@ -1,0 +1,77 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+The global Digital Signal Processing (DSP) team is responsible for architecting, designing and developing real-time software for digital communications and audio for Motorola Solutions worldwide portfolio two-way radio products.
+
+The team is responsible for delivering Audio and RF Signal Processing Software and has ownership of all Applications Processor DSP subsystems, including Audio Management.
+
+Job Description
+
+This position is for a DSP Software Engineering internship opportunity at Motorola Solutions in Plantation, Florida. We are looking for engineers with a strong interest in DSP and embedded systems to help expand our team and deliver the next generation of communication devices to our customers.
+
+•
+Knowledge of fundamentals of Digital Signal Processing and/or Digital Communication
+
+•
+Experience in C/C++ is a plus
+
+•
+Knowledge of Machine Learning is a plus
+
+•
+Experience with, Matlab, Python, Perl is a plus
+
+•
+Experience in real-time embedded software is a plus
+
+•
+Strong communication and problem solving skills is a plus
+
+•
+Experience using version control; Git is a plus
+
+•
+Experience with Linux is a plus
+
+•
+Experience with embedded development/debug tools (such as emulators/JTAG, etc.) is a plus.
+
+Responsibilities include, but are not limited to, the following:
+
+•
+Work in an Agile/Scrum team to analyze, design, implement cutting edge real-time software for DSP algorithms and Low Level device drivers to be used in wireless products
+
+•
+Teamwork in a multi-site, world-wide development environment
+
+•
+Finding, tracking, and repairing device software defects
+
+•
+Create and execute unit, integration, system, load, and acceptance tests
+
+#LI-JM2
+
+Basic Requirements
+
+•
+Must be pursuing a Bachelors or Masters Degree in one of the following programs : Computer Science, Software Engineering, Electrical & Computer Engineering.
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

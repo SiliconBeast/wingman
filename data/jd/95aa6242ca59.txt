@@ -1,0 +1,60 @@
+Founded in 1939, Neuberger is a private, independent, employee-owned investment manager. From offices in 40 cities worldwide, the firm manages $567 billion in client assets (as of March, 2026) across a range of strategies—including equity, fixed income, quantitative and multi-asset class, private equity and hedge funds—on behalf of institutions, advisors and individual investors globally.
+
+We are seeking a highly motivated Summer Quantitative Analyst to join in New York. The Summer Quant position will focus on Quantitative Analysis, Portfolio Analysis & Modeling to provide quantitative research, analysis and support to the Institutional Solutions, and Risk businesses. The internship will be 12 weeks in length, including six-week rotations across each of two businesses for broad exposure to quantitative careers within the asset management industry.
+
+Responsibilities:
+
+• Conduct generalist quantitative research using demonstrable market knowledge and intuition across multiple asset classes, including fixed income and equity markets globally, as well as alternative asset classes. Research will be academic and buy-side oriented.
+
+• Solve real world portfolio management problems in a largely autonomous fashion while collaborating with team members.
+
+• Translate academic and/or buy-side research into theses that are implementable and actionable.
+
+• Conduct statistical analysis and develop sophisticated quantitative financial models used for asset allocation and security selection.
+
+• Perform portfolio optimization, performance and attribution analysis, and portfolio risk (coherent measures) analysis.
+
+• Build financial models to perform back tests on asset allocation and security selection strategies.
+
+• Stay connected and current with academic finance research and developments and present findings to team members.
+
+• Prepare materials for presentations.
+
+• Help on daily portfolio management tasks in the areas of cash management, risk reporting and performance attribution.
+
+Qualifications:
+
+• Master’s degree candidates are encouraged in Financial Mathematics or related quantitative field or foreign equivalent.
+
+• Qualified undergraduates in Finance, Mathematics or related STEM field considered.
+
+• Expected graduates in December 2027 or Spring 2028 only.
+
+• Strong statistical, econometrics and applied mathematics grounding.
+
+• Knowledge of fixed income and equity markets.
+
+• Passion for investing.
+
+• Experience developing quantitative models to evaluate the expected return and risk associated with portfolio management decisions is a plus.
+
+• Programming experience required; specific experience in Python, R, and SQL preferred.
+
+• Excellent verbal and written communication skills.
+
+#LI-MW1
+
+#LI-Hybrid
+
+#LI-DNI
+&#xa;Applicants must be authorized and have the right to work in the country where the role is located without the need for current or future sponsorship.
+
+Compensation Details
+
+The hourly rate for this role is $45. This is the hourly rate we in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than the posted hourly rate, and the hourly rate may be modified in the future. This hourly rate is only applicable for jobs to be performed in the job posting location.
+
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, production, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.
+
+Neuberger is an equal opportunity employer. The Firm and its affiliates do not discriminate in employment because of race, creed, national origin, religion, age, color, sex, marital status, sexual orientation, gender identity, disability, citizenship status or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact onlineaccommodations@nb.com .
+
+Learn about the Applicant Privacy Notice .

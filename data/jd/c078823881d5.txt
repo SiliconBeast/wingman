@@ -1,0 +1,81 @@
+The Embedded Firmware Engineering Co-op will assist in product design and architecture for firmware development. The Co-op will participate in requirements engineering activities, including collaborating with Co-opal customers to define and set expectations, accurately defining and documenting the technical side of the project, and identifying risks. The Co-op will also design, develop, and integrate test software systems for security system products.
+
+• Participate in panel development for a new product, a cloud-native security ecosystem.
+
+• Take responsibility for designated software tasks from design through development, integration & test.
+
+• Take initiative to test code against known usage, investigate faults/boundary conditions, and automate unit tests.
+
+• Facilitate and assist in the task estimation process.
+
+• Work in a cross-functional team environment comprised of software engineers, testers, and product managers.
+
+• Participate in technical project reviews and code reviews.
+
+• Work with product and development teams to identify test cases for project requirements.
+
+• Introduce test strategies and innovative paradigms to meet the technical/schedule needs of the project.
+
+• Write embedded software (C, C++, Python) to automate testing and create tools to support testing and development of software/hardware.
+
+• Drive the verification of electrical, electromechanical, and software platforms.
+
+• Design, execute and evaluate results of repeatability and reliability studies.
+
+• Troubleshoot products and test equipment; propose and implement fixes.
+
+• Engage a data driven approach to product performance, trending reports, and analysis of test results.
+
+Learning Objectives:
+
+The Embedded Firmware Engineering Co-op will collaborate closely with a staff mentor to gain a depth of experience with embedded firmware design, development, and testing. You will also work with security panel hardware and gain experience with development in Linux and FreeRTOS environments. You will gain have the opportunity to work on a professional engineering team with seasoned engineers. At the end of the Co-op experience, you will be equipped to give presentation outlining a feature you built and receive feedback from your team.
+
+Requirements:
+
+• Pursuing BS or MS Degree in Computer Engineering, Electrical Engineering, Software Engineering, or a technology-related field.
+
+• GPA of 3.0 or above preferred.
+
+• Excellent analytical skills, including analysis of existing software code and utilization of software tools.
+
+• Ability to work independently in an organized and structured fashion, take ownership, and remain self-accountable to team goals.
+
+• Good interpersonal skills within a cross functional team; initiative-taking approach to communication and handling conflicts.
+
+• Excellent written and verbal communication skills for both a technical and non-technical audience.
+
+• High level of self-motivation, a drive for self-development and possess excellent communication and interpersonal skills.
+
+Collegiate-level experience or interest in at least one of the following:
+
+• Software development for real-time embedded systems written in C / C++ using OOP principles.
+
+• Software development for embedded microcontrollers including Linux.
+
+• Design and implementation of low power, battery operated devices.
+
+• Hardware schematics and design/implement associated with embedded software.
+
+• Integrating hardware and software using data buses and protocols such as SPI, I2C, RS-232, or DMA.
+
+• Testing with commonly used electrical test equipment, such as oscilloscopes, signal generators, spectrum analyzers, network analyzers etc.
+
+• Debugging software, performing root cause analysis, and clarifying potential hardware related issues with the electronic hardware team.
+
+• Unit and integration testing to include automation of test procedures.
+
+The U.S. based hourly rate for this role is between $24.00-27.00/hour. Within the range, individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.
+
+• Reasonable accommodation may be provided, to the extent they do not pose an undue hardship, to enable qualified individuals with covered disabilities to perform essential functions.
+
+• Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization is not available.
+
+• All your information will be kept confidential according to EEO guidelines.
+
+At Keenfinity Group we don’t just build innovative solutions — we shape a smarter, more connected world through technology. We value different backgrounds, ideas, and experiences and we’re committed to growing, learning, and celebrating success as one team. Everyone is welcome here — we foster an environment where everyone is respected, valued, and encouraged to be their authentic self.
+
+Keenfinity Group is an equal opportunity employer, offering equal opportunities for all. We welcome applications from people with disabilities and can offer support, if needed. When everyone has a chance to contribute, we all do better.
+
+The transition from Bosch to Radionix is now complete — providing a future-focused trajectory for our Radionix and Bosch product portfolios and exclusive benefits for our valued partners. ​The Radionix name holds a special place in the hearts of our associates, dealers, distributors, and customers alike. The new Radionix vision — Mission control for your security — encapsulates our focus on empowering users with an intrusion system that seamlessly integrates every layer of security, from our intrusion system products to our G Series panels to our reimagined Remote Security Manger app.
+
+​Fairport, NY is the headquarters for the Radionix sales & marketing organization in the United States and serves as the primary site for research and development, engineering, quality, and product management for intrusion detection systems, including state-of-the-art sensors, control panels, software, communications and more.

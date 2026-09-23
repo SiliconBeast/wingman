@@ -1,0 +1,82 @@
+Job Description:
+
+Saab Inc's Surveillance Systems is in search of motivated, enthusiastic Electrical or Computer Engineering student(s) who would be interested in putting their Electrical or Computer Engineering studies to a real-work application in the development of a next-generation radar systems for the multiple DoD customers including the U.S. Navy. This is a hands-on, real-life, development effort using cutting edge technology though circuit card design and advanced FPGA-based design.
+
+This assignment is at our East Syracuse, NY location for Summer 2027 (May 2027 - August 2027)
+
+Responsibilities Include:
+
+• Selected candidate will assist engineering in the design, development and test of various electronic circuit card assemblies. This includes:
+
+• Design and implementation of basic circuits
+
+• Design, implementation, simulation and test of VHDL based Field Programmable Gate Array (FPGA) firmware
+
+• Bench testing of various circuit cards including first article hardware and legacy hardware
+
+• Assist in the generation of various artifacts/documentation including circuit board schematics and bills of material
+
+Compensation Range: $20.27-$22.30/hr
+
+In addition to a competitive hourly rate, Saab Inc. offers a sign-on bonus to off-set housing expenses for Co-Ops residing outside the typical office commuting distance.
+
+The compensation range provided is a general guideline. When extending an offer, Saab, Inc. considers factors including (but not limited to) the role and associated responsibilities, location, and market and business considerations, as well as the candidate's work experience, key skills, and education/training.
+
+Skills and Experience:
+
+Your Experience and Skills:
+
+•
+Have a passion for what you do. Be a self-starter willing to jump in with a large development team
+
+•
+Enrollment in an accredited degree program, with a major in Electrical or Computer Engineering
+
+•
+Cumulative GPA of 3.0 or better
+
+•
+Must be a US Citizen
+
+•
+Must have completed Sophomore year or greater
+
+Additional Skills:
+
+•
+Understanding of basic circuit theory
+
+•
+Understanding of digital logic design
+
+•
+Must be able to read and decipher an electrical schematic
+
+•
+Working knowledge of VHDL
+
+•
+Ability to effectively use MS Word and Excel
+
+•
+Ability to use rudimentary test equipment including Oscilloscopes, Digital Multimeters, and power supplies
+
+•
+Ability to communicate clearly and effectively in both the written and oral contexts
+
+•
+Must demonstrate good organizational skills and attention to detail
+
+Citizenship Requirements:
+
+Must be a U.S. citizen. Applicants selected may be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+Drug-Free Workplaces:
+
+Saab is a federal government contractor and adheres to policies and programs necessary for sustaining drug-free workplaces. As a condition of employment, candidates will be required to pass a pre-employment drug screen.
+
+About Us:
+
+Saab is a leading defense and security company with an enduring purpose, to help nations keep their people and society safe. Empowered by its 28,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. In the U.S., Saab delivers advanced technology and systems, supporting the U.S. Armed Forces and the Federal Aviation Administration, as well as international and commercial partners. Headquartered in Syracuse, New York, the company has business units and local employees in ten U.S. locations.
+
+Saab is a company where we see diversity as an asset and offer unlimited opportunities for advancing in your career. We are also a company that respects each person’s needs and encourage employees to lead a balanced, rewarding life beyond work. Saab values diversity and is an Affirmative Action employer for protected veterans and individuals with disabilities. Saab is an Equal Employment Opportunity employer, all qualified individuals are encouraged to apply and will be considered for employment without regard to race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, age, veteran, disability status, or any other federal, state, or locally protected category.

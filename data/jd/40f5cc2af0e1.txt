@@ -1,0 +1,85 @@
+Why GM Financial?
+
+GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses.
+
+Our Purpose: We pioneer the innovations that move and connect people to what matters.
+
+About the Role
+
+Are you excited about innovation, entrepreneurship and solving complex business problems? Then we are looking for you!
+
+The Software Development Engineer Intern collaborates with Agile development teams to build and enhance software solutions while gaining hands-on experience across web, mobile, API, and data-driven applications. This role participates in Scrum ceremonies, supports DevOps and vulnerability remediation efforts, contributes to production-focused engineering practices, and helps deliver high-quality, scalable technology solutions in a fast-paced environment.
+
+In this role you will:
+
+• Attend and participate in scrum events (the sprint, daily stand-ups, sprint planning, sprint review, sprint retrospective)
+
+• Participate in team or departmental meetings
+
+• Assist with vulnerabilities remediation
+
+• Assist with building/improvement of DevOps tooling (e.g., pipelines, static scanning etc.)
+
+• Complete the internship program final capstone presentation
+
+• Maintain a production-first mindset focused on scale, uptime and ability to rapidly triage/resolve production issues
+
+• Invest in our Agile practice to continuously improve product quality, time to market
+
+• Learn to develop product features for any of the following: data marketplaces, mobile applications, web applications, and API services
+
+What makes You an ideal candidate?
+
+• Strong written and verbal communication skills required. This incumbent will be required to give presentations and communicate with business leaders.
+
+• Strong analytical, quantitative, problem solving, and conceptual skills required.
+
+• Must be detail oriented and able to prioritize tasks to meet deadlines.
+
+• Must be able to work independently or in a team setting.
+
+• Previous internships are considered a plus
+
+Additional Knowledge and Skills
+
+Working effectively within an AI enabled environment:
+
+• Ability to use AI tools (e.g., Microsoft Copilot) to support daily work
+
+• Skills in evaluating AI outputs for accuracy, compliance, and bias
+
+• Experience integrating AI into workflows to improve efficiency or insights
+
+• Familiarity with AI assisted research, summarization, and content generation
+
+• Understanding of responsible AI use, including ethics and data protection
+
+Work Experience & Education
+
+• Must be a student pursuing a bachelor's degree or higher from an accredited college or university in Computer Science, Data Science, Data Analytics, Information Systems, Statistics with at least one semester remaining upon start of the internship.
+
+• Must possess a minimum of a 3.0 (out of a 4-point scale) GPA.
+
+• Junior or Senior classification preferred.
+
+Our program offers
+
+• 11 weeks of work experience (May 26-August 6, 2027)
+
+• Executive and peer networking opportunities
+
+• Independent and team project experiences
+
+• Philanthropic activities
+
+• Career development
+
+• Opportunity to apply for full-time career positions
+
+Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+Compensation: Competitive pay
+Work Life Balance: Flexible hybrid work environment, 2-days a week in office
+
+GM FINANCIAL DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE. THIS INCLUDES DIRECT COMPANY SPONSORSHIP, ENTRY OF GM FINANCIAL AS THE IMMIGRATION EMPLOYER OF RECORD ON A GOVERNMENT FORM, AND ANY WORK AUTHORIZATION REQUIRING A WRITTEN SUBMISSION OR OTHER IMMIGRATION SUPPORT FROM THE COMPANY (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.)
+
+#GMFJobs #LI-Hybrid #LI-NY1

@@ -1,0 +1,99 @@
+Internship Program Mission:
+
+To attract and engage undergraduate and graduate talent, including students pursuing advanced degrees for specialized roles, by providing meaningful internship opportunities at HAI Group that align with their fields of study and enable them to apply academic knowledge, theory, and skills in a practical workplace environment.
+
+Internship Overview
+
+As an intern, you will gain hands-on experience working with enterprise data, business intelligence, reporting solutions, and analytics initiatives that directly support business decision-making across the organization. You will work alongside data analysts, engineers, architects, and business stakeholders to help deliver trusted data, actionable insights, and reporting solutions that support underwriting, claims, finance, risk management, and other key business functions.
+
+This is a full-time, paid internship that is required to be on-site in the HAI Group office, located in Cheshire, CT, Monday–Friday. The internship program will run from May 31st– Mid August.
+
+Essential Functions
+
+• Assist with extracting, validating , cleansing, and preparing data for analysis and reporting.
+
+• Develop reports, visualizations, and dashboards that communicate business insights to stakeholders.
+
+• Support the design, testing, and maintenance of data models and reporting solutions.
+
+• Investigate and troubleshoot data discrepancies, reporting issues, and data quality concerns.
+
+• Perform analyses that help business teams make informed, data-driven decisions.
+
+• Document business requirements, data definitions, and reporting logic.
+
+• Collaborate with technical and business teams in an Agile development environment.
+
+Job Requirements
+
+Required:
+
+• Currently enrolled undergraduate or graduate student pursuing a degree in Business, Finance, Data Science, Risk Management, Data Analytics, Computer Science , or other related degrees.
+
+• Work on-site in the HAI Group office, located in Cheshire, CT, Monday–Friday
+
+• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.
+
+Preferred:
+
+• Prior work/internship experience
+
+• Experience with SQL, Stata, or other statistical platforms
+
+• Basic understanding in data modeling and Tabular Model
+
+• Familiar with agile project management tools, Jira preferred
+
+Knowledge, Skills, Abilities:
+
+• Strong interest in data analytics, risk management, data engineering, data visualization or related fields.
+
+• Basic knowledge of Excel, including formulas, functions (like VLOOKUP, IF statements), and pivot tables.
+
+• Familiarity with data visualization tools and techniques
+
+• Strong analytical thinking and problem-solving skills.
+
+• Ability to communicate effectively and work well in a team environment.
+
+• Ability to work in a team
+
+• Takes initiative
+
+• Highly organized with great attention to detail
+
+• Clear verbal and written skills
+
+• Critical thinker and problem solver with an analytical mindset
+
+Work Environment & Physical Demands
+
+• Inside climate-controlled office building
+
+• Prolonged sitting and using a PC
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+Department Overview
+
+The Information Technology Department works closely with internal and external business partners using their subject matter expertise to strategically invest in information systems and infrastructure across the enterprise. Flexible and adaptive to customer needs, the IT Team takes a broad view of the HAI Group enterprise; contributing research and development to strengthen and add value to business operations. IT develops its team in both the technical and leadership career paths to support customers while meeting the development needs of the team. Highly responsive, the team continually explores best practices and their application to growing the HAI Group enterprise.
+
+Company Overview
+
+HAI Group® [1] is the nation’s leading property-casualty insurance company founded by and dedicated to affordable housing organizations. While we are recognized as a pioneer of affordable housing insurance programs, insurance is not our only strength. We protect, preserve, and promote the sustainability of affordable housing with an array of products and services that support the challenges housing organizations face. HAI Group offers risk control and consulting services, professional development through the Housing Training Institute, and industry research and data through the Public and Affordable Housing Research Corporation. Headquartered in Cheshire, Connecticut, HAI Group has earned national and regional recognition for its workplace culture and employee experience. Visit our Careers page for a full list of HAI Group workplace awards and recognition.
+
+Cultural Objective
+
+HAI Group contributes to a culture that creates a safe and healthy working environment and a space of inclusiveness and belonging for all by: exceeding our customers’ expectations, working collaboratively across the organization, embracing diversity, and demonstrating mutual respect and empathy.
+
+HAI Group is an Equal Opportunity Employer.
+
+No agency submissions please. Resumes submitted to any HAI Group employee without a current, signed, and valid contract in place with the HAI Group Recruiting team for this position will become the property of HAI Group and no agency fees will be paid.
+
+HAI Group's Notice of Collection of Personal Information: https://resources.haigroup.com/hubfs/2023-HAI-Notice-of-Collection-Employees_1099_Applicants.pdf
+
+[1] HAI Group® is a marketing name used to refer to insurers, a producer, and related service providers affiliated through a common mission, management, and governance. Property-casualty insurance and related services are written or provided by Housing Authority Risk Retention Group, Inc.; Housing Authority Property Insurance, A Mutual Company; Housing Enterprise Insurance Company, Inc.; Housing Specialty Insurance Company, Inc.; Innovative Housing Insurance Company Inc.; Housing Investment Group, Inc.; and Housing Insurance Services, Inc. (DBA Housing Insurance Agency Services, Inc. in NY and MI).
+
+Intern Pay Range
+
+$22 — $25 USD

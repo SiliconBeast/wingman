@@ -1,0 +1,96 @@
+Application close date:
+Applications will be accepted on an ongoing basis until the requisition is closed.
+
+At Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We’re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! 
+
+As part of a hardworking team, interns work directly with Blue engineering teams on projects in support of our business units.
+
+Avionics Software Intern projects vary but can include the design, development and testing of avionics hardware and software for programs ranging from orbital rockets, ground systems, test stands, to moon landers .
+
+During your internship experience, you can expect to:
+
+•
+Gain hands on, real-world experience.
+
+•
+Receive mentorship and feedback from mentors and managers.
+
+•
+Participate in events to learn about other parts of our organization.
+
+Basic Qualifications:
+
+•
+Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+•
+Currently enrolled a graduate degree program and have at least one semester of school remaining after the internship .
+
+•
+Available to work full time for a minimum of 15 weeks while not concurrently enrolled in coursework.
+
+•
+Strong written, verbal, communication, and interpersonal skills .
+
+•
+Passion for mission and vision.
+
+Desired: We love to see hands-on experience and extracurricular engagement!
+
+•
+As a part of a passionate team of engineers, you will contribute to the software development life cycle including requirements analysis, design, coding, testing, and maintenance.
+
+•
+Based upon your placement, your projects may involve many aspects of applied systems analysis, software testing, quality assurance, DevOps, data analysis.
+
+•
+Collaborate with multidisciplinary teams to understand their needs and design solutions that accelerate all phases of vehicle development, testing, and operations .
+
+•
+Troubleshoot and fix software issues at multiple levels, including both server-side and client side.
+
+Additional skills:
+
+•
+Experience with on-premises and cloud-based infrastructures, particularly AWS. 
+
+•
+Experience with modern development tools and practices such as git, Docker, and Kubernetes. 
+
+•
+Familiarity with rich user experience development in HTML, CSS, and JavaScript frameworks like React. 
+
+•
+Experience developing and testing real-time embedded systems, vehicle or industrial control systems, gaming systems, device drivers, or mobile devices .
+
+We offer housing and relocation support. Interns are responsible for daily transportation to and from their work locations.
+
+When you apply, be sure to include your internship, co-curricular and research experience in your resume. Please also include the relevant programming languages you have utilized in these settings. If you haven’t yet used a tool in a professional setting, please include relevant coursework that demonstrates your preparation for these roles .
+
+Hourly compensation for applicant is: $38.00
+
+Culture Statement
+
+Don’t meet all desired requirements? Studies have shown that some people are less likely to apply to jobs unless they meet every single desired qualification. At Blue Origin, we are dedicated to building an authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every desired qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+Export Control Regulations
+
+Applicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+Background Check
+
+• Required for all positions: Blue’s Standard Background Check
+
+• Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation
+
+• Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs. and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing, vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training.
+
+• Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical
+
+Equal Employment Opportunity
+
+Blue Origin is proud to be an Equal Opportunity/Affirmative Action Employer and is committed to attracting, retaining, and developing a highly qualified and dedicated work force. Blue Origin hires and promotes people on the basis of their qualifications, performance, and abilities. We support the establishment and maintenance of a workplace that fosters trust, equality, and teamwork. We provide all qualified applicants for employment and employees with equal opportunities for hire, promotion, and other terms and conditions of employment, regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin/ethnicity, age, physical or mental disability, genetic factors, military/veteran status, or any other status or characteristic protected by federal, state, and/or local law. Blue Origin will consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state, and local laws, including the Washington Fair Chance Act, the California Fair Chance Act, the Los Angeles Fair Chance in Hiring Ordinance, and other applicable laws. For more information on “Know Your Rights,” please see here .
+
+Affirmative Action and Disability Accommodation
+
+Applicants wishing to receive information on Blue Origin’s Affirmative Action Plans, or applicants requiring a reasonable accommodation in order to participate in the application and/or interview process, please contact us at EEOCompliance@blueorigin.com . Please note this is a publicly managed inbox. Please do not include any personal medical information in your request.
