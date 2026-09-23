@@ -1,0 +1,59 @@
+As a Data Science Co-op here at Honeywell, you will have the opportunity to apply your knowledge and skills in a real-world setting. You will work alongside our experienced data scientists and contribute to projects that drive data-driven decision-making and provide valuable insights to support business growth and operational excellence.
+
+In this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world.
+
+At Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture.
+
+Key Responsibilities
+
+• Collaborate with cross-functional teams to identify business challenges and opportunities where data science can provide valuable insights
+
+• Assist in developing and implementing advanced analytical models and methodologies to analyze complex data sets
+
+• Support data visualization efforts to effectively communicate insights to stakeholders
+
+• Conduct data analysis and provide actionable recommendations based on data-driven insights
+
+• Stay updated with the latest trends and advancements in data science and identify opportunities to leverage new tools and technologies
+
+Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Co-ops will shape the future. You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career. #Futureshaper
+
+Location: 1212 Pittsford-Victor Road, Pittsford, NY 14534 USA
+
+YOU MUST HAVE
+
+• Currently pursuing a bachelor’s degree (or higher) from an accredited college or university in (ex. Software Engineering) or similar field
+
+• Must graduate December 2027 or later
+
+• Must continue enrollment in degree program upon completion of the co-op
+
+• Validated academic excellence (3.0 GPA and higher)
+
+• Due to compliance with U.S. export control laws and regulations, candidate must be a U.S. citizen, U.S. permanent resident, or have asylum or refugee status in the U.S.​
+
+WE VALUE:
+
+• Enthusiasm for working in a collaborative team environment, including a willingness to seek and offer help.
+
+• Familiarity with using LLMs, especially via APIs
+
+• Understanding of application of dense vector text embedding models for finding semantic similarity
+
+• NoSQL / Vector Database experience
+
+• Knowledge Graph construction and search
+
+• Cloud platform services experience on AWS or Azure
+
+• Python programming
+
+• Data visualization modules & packages, such as matplotlib, plotly, Power BI, etc.
+
+• Infrastructure as code
+
+The hourly base range for this position is $20/hr - $45/hr. Please note that this salary information serves as a general guideline. Honeywell considers various factors when extending an offer, including but not limited to the scope and responsibilities of the position, the candidate's work experience, education and training, key skills, as well as market and business considerations.
+
+Honeywell is currently unable to consider applicants who would require current or future sponsorship for employment authorization for this position. Candidates must be authorized to legally work in the United States without current or future sponsorship requirements. ​
+
+Honeywell Technologies is a global, pure-play automation company with a legacy of innovating to help solve the world’s most mission-critical challenges, enhancing the quality of life for people and communities around the world. We serve the building, industrial and process sectors with a broad portfolio of services, solutions and products, underpinned by our Honeywell Technologies Accelerator operating system and Honeywell Technologies Forge intelligence layer. By combining the deep domain expertise of our more than 50,000 employees with decades of data from our global installed base, we are uniquely positioned to lead the industrial sector’s transition from automation to autonomy.

@@ -1,0 +1,71 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+As a world leader in wireless, broadband and internet technologies, Motorola Solutions is making products smarter – and life better – by unleashing the creativity of thousands of professionals from every corner of the globe. The ASTRO Devices Software team specializes in the development of world-class digital two-way radios for the mission critical market. Our APX family of radios are a lifeline to our public safety customers - firefighters, police officers, and other first responders.
+
+Job Description
+
+This position is for a Software Engineering internship opportunity at Motorola Solutions in Plantation, Florida. We are looking for software engineers with a strong interest in embedded systems to help expand our team and deliver the next generation of communication devices to our customers.
+
+Responsibilities include, but are not limited to, the following:
+
+•
+Work in an Agile/Scrum team to analyze, design, implement, and test new two-way radio products and features
+
+•
+Teamwork in a multi-site, world-wide development environment
+
+•
+Finding, tracking, and repairing RTOS device software defects
+
+•
+Create and execute unit, integration, system, load, and acceptance tests
+
+Preferred Skills:
+
+•
+Experience in C/C++ is a plus
+
+•
+Experience in real-time embedded software is a plus
+
+•
+Strong communication and problem solving skills is a plus
+
+•
+Experience using version control; Git is a plus
+
+•
+Experience with Linux is a plus
+
+•
+Experience with embedded development/debug tools (such as emulators/JTAG, etc.) is a plus
+
+#LI-JM2
+
+Basic Requirements
+
+•
+Currently pursuing at least a Bachelor's Degree in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, or a related field ​
+
+•
+Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students)
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

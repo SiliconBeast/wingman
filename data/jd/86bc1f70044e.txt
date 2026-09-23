@@ -1,0 +1,66 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+At Motorola Solutions we are helping solve some of the biggest challenges around safety and physical security by developing advanced artificial intelligence (AI) technologies and products that are used to help keep people, businesses, and cities around the world safer. Avigilon, a Motorola Solutions company, designs, develops, and manufactures advanced AI, video analytics, network video management software and hardware, surveillance cameras, and access control solutions that help change the way people interact with their security systems.
+
+Job Description
+
+Join our global quality team as a Product Quality Engineer Intern to champion customer expectations and drive manufacturing excellence across our Land Mobile Radio (LMR) and Video product lines. In this hands-on role, you will apply structured problem-solving methodologies to resolve complex technical challenges across international supply chains and cross-functional engineering teams.
+
+Key Responsibilities
+
+•
+Quality Planning: Initiate detailed quality plans to set clear project goals that align with customer requirements and deliverable benchmarks.
+
+•
+Incident Management: Facilitate cross-functional root-cause investigations using the 8D methodology to resolve stop-ship/stop-build events efficiently.
+
+•
+Defect & Trend Analysis: Drive complex problem resolution and manage customer complaints in JIRA, utilizing return data trends to champion design and manufacturing upgrades.
+
+•
+KPI Metrics & Reporting: Develop, track, and regularly report product quality KPIs and performance metrics to senior Supply Chain and Design Engineering leadership.
+
+•
+Preventive Strategy: Identify underlying process gaps and drive robust Preventive Actions to ensure recurring quality issues are eliminated.
+
+•
+Cross-Functional Collaboration: Work daily with global plant teams, Engineering, Technical Support, Service, and Order Management.
+
+Qualifications & Requirements
+
+•
+Methodologies: Familiarity with structured root-cause analysis frameworks (e.g., 8D, Lean Six Sigma concepts, or DMAIC).
+
+•
+Technical Aptitude: Exposure to workflow tools like JIRA and data analysis tools for tracking trends and metrics.
+
+•
+Communication: Clear presentation and written communication skills with the ability to convey technical data to cross-functional partners and leadership.
+
+•
+Mindset: Detail-oriented, proactive team player with a passion for process improvement and customer advocacy.
+
+Basic Requirements
+
+•
+Education: Currently pursuing a Bachelor’s Mechanical Engineering, Electrical Engineering, Systems Engineering, or a related technical field with a graduation date no late then Dec. 2030
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.
