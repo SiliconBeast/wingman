@@ -1,0 +1,57 @@
+Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25% of retail order flow in the US. is serviced by Virtu.
+
+Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. We have fun, work hard and strive to be virtuous in all we do.
+
+QUANTITATIVE RESEARCH INTERNSHIP
+
+Virtu's internship program offers students an extraordinary opportunity to learn about the firm and the world’s financial markets. We have built a thoughtful and challenging curriculum with projects that introduce students to the many complex and ever changing problems to solve. Students can expect a company-curated global training week for our interns, real quantitative problems to solve throughout the program and engaging social events to get to know our team and culture.
+
+• Location : New York
+
+• Dates : 10 week program, starting June 7th, 2027 - August 13th, 2027 (with flexibility if needed)
+
+• Training : Ongoing training throughout the summer and a training week held in New York
+
+• Projects : Real problems to solve throughout the program. Interns will work from a list of projects and have several senior mentors throughout the summer program.
+
+• Perks (varies by location): Onsite Gym & workout classes, Onsite Barista, weekly happy hours/social events, Breakfast & Lunch, Transportation
+
+Our Quantitative Strategists and Researchers are an integral part of the algorithmic research team, working to improve Virtu's trading algorithms through transforming large data sets into usable trading models. Successful quantitative researchers work well independently and collaboratively, enjoy learning and applying new algorithmic techniques, and are excited to see their ideas turn into tangible results.
+
+Interns will work directly with senior members of the team on our trading strategies used in Virtu's customer market making business. Interns in this track will apply their quantitative analysis and research skills to discover patterns that can potentially improve our trading algorithms. Through these projects, interns will learn about Virtu's market making business, learn to apply basic data analysis tools to large trading data sets and be pushed to think out of the box for trading ideas. Each intern will complete one to two projects which could come from different mentors and groups.
+
+REQUIREMENTS
+
+• Degree in Science, Math, Engineering or other quantitative field
+
+• History of diverse, challenging, and interesting coursework paired with a strong GPA
+
+• Exceptional quantitative, mathematical, and problem-solving skills
+
+• Great communication skills and the ability to collaborate with peers
+
+• Ability to solve technical and or quantitative problems under pressure
+
+• Ability to express ideas mathematically and algorithmically
+
+• Strong programming skills (especially C/C++ and Python, Pandas)
+
+• Intellectually curious and self-motivated
+
+• Ability to communicate within and across teams, at a high and low level, on both technical and non-technical subjects
+
+• Ability to seek guidance and learn new skills from peers
+
+• Extraordinary mental flexibility and a high tolerance for ambiguity
+
+• Strong drive for success within a collaborative team
+
+• Interest in financial markets
+
+THE PROCESS
+
+After applicants pass an initial resume screening, an online programming test will be emailed to you via Hackerrank. Upon review, we will reach out to arrange next steps. We are looking forward to meeting you!
+
+Salary Range: $5,000 - $5,800 weekly (salary range is exclusive of sign on bonuses, housing, meals, benefits or any other forms of compensation)
+
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.

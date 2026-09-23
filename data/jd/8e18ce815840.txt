@@ -1,0 +1,59 @@
+***** Federal Work Study Students Only*****
+
+This position will remain open for applications for up to 30 days from the posting date. However, please note that the position may be filled before the 30-day period ends if a suitable candidate is selected. Interested applicants are encouraged to apply as soon as possible, as the posting may close early once the hiring process is complete.
+
+Overview:
+
+University Annual Giving in the Office of Engagement is seeking a detail-oriented and motivated work study student employee to join our Direct Marketing team. This role is ideal for someone with strong, practical Excel skills, including formulas, pivot tables, and data cleanup, and an interest in supporting initiatives that enhance donor engagement and campaign performance. We offer a congenial, remote-first learning environment and welcome the opportunity to employ talented University of Virginia students who want to learn more about data-driven marketing strategies within the fundraising and higher education sectors.
+
+Perform specialized office support functions or services that require some training, skill, or experience. Duties include providing customer service and specific information, data entry and use of standard office software programs & systems, work within established guidelines and policies. Limited supervision is provided; ability to perform a wide range of duties.
+
+Key Responsibilities:
+
+• Build, clean, and maintain large donor and campaign datasets in Excel, including use of pivot tables, VLOOKUP/XLOOKUP, conditional formatting, and formulas to organize audience segments for direct mail, email, social media, and text campaigns.
+
+• Set up and manage Excel-based A/B testing worksheets, including splitting audience lists, tracking test variables, and summarizing results for campaign review.
+
+• Build and maintain audience segmentation queries in Snowflake for direct mail, email, social media, and text campaigns.
+
+• Assist in data validation for campaigns, including verifying donor records within Salesforce Ascend.
+
+• Investigate and troubleshoot data issues by analyzing query logic and applying problem-solving skills.
+
+• Document query logic and maintain clear workflows for repeatable processes.
+
+Qualifications:
+
+• Currently pursuing a degree in Data Science, Business Analytics, Information Systems, Computer Science, or related field.
+
+• Strong, hands-on Excel skills, including formulas, pivot tables, lookup functions, and data formatting for large datasets.
+
+• Solid understanding of relational database concepts and ability to write SQL queries involving joins, CTEs, and conditional filtering.
+
+• Comfortable troubleshooting query results and explaining logic clearly.
+
+• Strong attention to detail and ability to manage multiple tasks independently.
+
+Eligibility:
+
+Applicants must be a current UVA undergraduate or graduate student eligible for student employment and work study. This posting is for 2026-27 academic school year.
+
+A resume and one academic reference is required to apply.
+
+Rate of pay
+
+$19.50/hour for up to 20 hours a week; a minimum of 10 hours a week. Fully-remote.
+
+MINIMUM REQUIREMENTS
+
+Resume and one academic reference required.
+
+Education: Current UVA student. Federal Work-Study eligible
+Experience: None
+Licensure: None
+
+PHYSICAL DEMANDS
+
+This is primarily a sedentary job involving extensive use of desktop computers. The job does occasionally require traveling some distance to attend meetings, and programs.
+
+The University of Virginia is an equal opportunity employer. All interested persons are encouraged to apply, including veterans and individuals with disabilities. Learn more about UVA’s commitment to non-discrimination and equal opportunity employment .

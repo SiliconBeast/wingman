@@ -1,0 +1,48 @@
+Intern - Firmware Developer
+
+Hypertherm Engineers think outside the box and bring new ideas to life. As a design/build company, our Engineers are hands-on and focused on continuous improvement, helping to make industrial cutting more accurate, cost-effective, and safe for our customers.
+
+Join us this summer as Firmware Developer Intern and work alongside outstanding colleagues who will help you learn and develop your skills. Cultivate relationships with your Intern cohorts as you participate in fun and rewarding activities throughout the summer, including networking opportunities, community service, and resume/interview workshops.
+
+The project opportunity:
+
+Hypertherm is enhancing product quality by expanding its hardware-in-the-loop automated testing. The intern will help extend the testing framework and coverage, evaluate system reliability, and ensure automated tests run with every firmware build on the build server.
+
+Qualifications:
+
+• Currently enrolled in an engineering-focused college degree program (software, firmware preferred)
+
+• Junior (you have completed a minimum of 2 years) and are in good standing
+
+• Enthusiastic about learning with the ability to work collaboratively in a team, as well as independently on selected projects
+
+Specific experience desired per engineering focus:
+
+Project or coursework experience in:
+
+• QA/QC and automated testing
+
+• Microcontroller programming
+
+• C code
+
+• Electronic circuit and schematic familiarity
+
+• Test equipment familiarity (meters, oscilloscopes)
+
+• Software application experience preferred (C++, Java, .NET, Python)
+
+Location : Hanover, NH
+
+Hypertherm’s mission is to provide customers with the best industrial cutting solutions in the industry. We are a 100% associate-owned company with our corporate office in Hanover, NH, USA, and have Associates in twenty-six countries around the globe. Globally focused, we design, manufacture, and support the world’s leading cutting solutions, with a proud history of over 50 years. We rate routinely as one of the top places to work in New Hampshire.
+
+Hypertherm Associates is proud to be an Equal Opportunity Employer, and we welcome all applications. We recruit, employ, train, compensate, and promote without regard to race, color, religion, sex, age, national origin, disability, or veteran status, or any other characteristic protected by federal, state, or local laws.
+
+At Hypertherm Associates, we are committed to building an inclusive diverse, flexible, and collaborative environment . If our mission resonates with you, but you don’t meet all posted requirements, we encourage you to still apply. We will evaluate your application materials and may suggest alternative roles that better leverage your strengths and talents. For positions with multiple levels, we will evaluate your prior experience to determine the level within our organization you are best aligned based upon the job applying.
+
+CURRENT ASSOCIATES OR TEMPORARY ASSOCIATES: Please apply via your internal Workday career account.
+
+$0.00-$0.00 Hourly
+This is the base pay range that an applicant can expect to make upon hire.
+
+Pay within this range will vary based upon relevant experience, skills, and education among other factors.

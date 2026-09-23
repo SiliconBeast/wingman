@@ -1,5 +1,5 @@
 {
- "run": 7,
+ "run": 8,
  "boards": {
   "wd:bah/bah_jobs": {
    "first": "2026-09-21",
@@ -15,18 +15,18 @@
    "roles": 39,
    "last": "2026-09-23"
   },
-  "wd:oshkoshcorporation/oshkosh": {
-   "first": "2026-09-21",
-   "name": "Oshkosh",
-   "value": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh",
-   "roles": 35,
-   "last": "2026-09-23"
-  },
   "wd:xcelenergy/external": {
    "first": "2026-09-21",
    "name": "Xcel Energy",
    "value": "https://xcelenergy.wd1.myworkdayjobs.com/External",
    "roles": 35,
+   "last": "2026-09-23"
+  },
+  "wd:oshkoshcorporation/oshkosh": {
+   "first": "2026-09-21",
+   "name": "Oshkosh",
+   "value": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh",
+   "roles": 34,
    "last": "2026-09-23"
   },
   "smartrecruiters:boschgroup": {
@@ -36,17 +36,17 @@
    "roles": 32,
    "last": "2026-09-23"
   },
+  "wd:jj/jj": {
+   "first": "2026-09-21",
+   "name": "Johnson & Johnson",
+   "value": "https://jj.wd5.myworkdayjobs.com/jj",
+   "roles": 31,
+   "last": "2026-09-23"
+  },
   "smartrecruiters:gdmsi": {
    "first": "2026-09-21",
    "name": "General Dynamics UK",
    "value": "https://jobs.smartrecruiters.com/GDMSI",
-   "roles": 30,
-   "last": "2026-09-23"
-  },
-  "wd:jj/jj": {
-   "first": "2026-09-21",
-   "name": "Johnson & Johnson",
-   "value": "https://jj.wd5.myworkdayjobs.com/JJ",
    "roles": 30,
    "last": "2026-09-23"
   },
@@ -60,14 +60,14 @@
   "wd:clearwateranalytics/clearwater_analytics_careers": {
    "first": "2026-09-21",
    "name": "Clearwater Analytics",
-   "value": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers",
-   "roles": 24,
+   "value": "https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers",
+   "roles": 25,
    "last": "2026-09-23"
   },
   "wd:tencent/tencent_careers": {
    "first": "2026-09-21",
    "name": "Tencent",
-   "value": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers",
+   "value": "https://tencent.wd1.myworkdayjobs.com/tencent_careers",
    "roles": 24,
    "last": "2026-09-23"
   },
@@ -85,6 +85,13 @@
    "roles": 22,
    "last": "2026-09-23"
   },
+  "oracle:egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx": {
+   "first": "2026-09-21",
+   "name": "Vertiv",
+   "value": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "roles": 22,
+   "last": "2026-09-23"
+  },
   "wd:caci/external": {
    "first": "2026-09-21",
    "name": "CACI",
@@ -99,25 +106,11 @@
    "roles": 22,
    "last": "2026-09-23"
   },
-  "wd:philips/jobs-and-careers": {
-   "first": "2026-09-21",
-   "name": "Philips",
-   "value": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-   "roles": 22,
-   "last": "2026-09-23"
-  },
   "wd:stryker/strykercareers": {
    "first": "2026-09-21",
    "name": "Stryker",
-   "value": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
+   "value": "https://stryker.wd1.myworkdayjobs.com/strykercareers",
    "roles": 22,
-   "last": "2026-09-23"
-  },
-  "oracle:egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx": {
-   "first": "2026-09-21",
-   "name": "Vertiv",
-   "value": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
-   "roles": 21,
    "last": "2026-09-23"
   },
   "wd:amgen/careers": {
@@ -131,6 +124,13 @@
    "first": "2026-09-21",
    "name": "Intelcom | Dragonfly",
    "value": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom",
+   "roles": 21,
+   "last": "2026-09-23"
+  },
+  "wd:philips/jobs-and-careers": {
+   "first": "2026-09-21",
+   "name": "Philips",
+   "value": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
    "roles": 21,
    "last": "2026-09-23"
   },
@@ -158,7 +158,7 @@
   "wd:cox/cox_external_career_site_1": {
    "first": "2026-09-21",
    "name": "Cox",
-   "value": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
+   "value": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1",
    "roles": 20,
    "last": "2026-09-23"
   },
@@ -176,6 +176,13 @@
     "ats": "jibe",
     "url": "https://careers.jhuapl.edu"
    },
+   "roles": 19,
+   "last": "2026-09-23"
+  },
+  "wd:brunswick/search": {
+   "first": "2026-09-21",
+   "name": "Brunswick",
+   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
    "roles": 19,
    "last": "2026-09-23"
   },
@@ -207,13 +214,6 @@
    "roles": 18,
    "last": "2026-09-23"
   },
-  "wd:brunswick/search": {
-   "first": "2026-09-21",
-   "name": "Brunswick",
-   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
-   "roles": 18,
-   "last": "2026-09-23"
-  },
   "wd:copart/copart": {
    "first": "2026-09-21",
    "name": "Copart",
@@ -231,7 +231,7 @@
   "wd:marvell/marvellcareers": {
    "first": "2026-09-21",
    "name": "Marvell",
-   "value": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+   "value": "https://marvell.wd1.myworkdayjobs.com/marvellcareers",
    "roles": 18,
    "last": "2026-09-23"
   },
@@ -266,7 +266,7 @@
   "wd:aoins/autoowners": {
    "first": "2026-09-21",
    "name": "Auto-Owners Insurance",
-   "value": "https://aoins.wd5.myworkdayjobs.com/AutoOwners",
+   "value": "https://aoins.wd5.myworkdayjobs.com/autoowners",
    "roles": 16,
    "last": "2026-09-23"
   },
@@ -287,7 +287,7 @@
   "wd:thehartford/careers_external": {
    "first": "2026-09-21",
    "name": "The Hartford",
-   "value": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+   "value": "https://thehartford.wd5.myworkdayjobs.com/careers_external",
    "roles": 15,
    "last": "2026-09-23"
   },
@@ -308,14 +308,14 @@
   "wd:alliedsolutions/allied_external": {
    "first": "2026-09-21",
    "name": "Allied Solutions",
-   "value": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External",
+   "value": "https://alliedsolutions.wd501.myworkdayjobs.com/allied_external",
    "roles": 14,
    "last": "2026-09-23"
   },
   "wd:mckesson/external_careers": {
    "first": "2026-09-21",
    "name": "McKesson",
-   "value": "https://mckesson.wd3.myworkdayjobs.com/External_Careers",
+   "value": "https://mckesson.wd3.myworkdayjobs.com/external_careers",
    "roles": 14,
    "last": "2026-09-23"
   },
@@ -329,7 +329,7 @@
   "wd:ttc/toro_external_careers": {
    "first": "2026-09-21",
    "name": "The Toro Company",
-   "value": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers",
+   "value": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers",
    "roles": 14,
    "last": "2026-09-23"
   },
@@ -337,13 +337,6 @@
    "first": "2026-09-21",
    "name": "USAA",
    "value": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
-   "roles": 14,
-   "last": "2026-09-23"
-  },
-  "wd:wexinc/wexinc": {
-   "first": "2026-09-21",
-   "name": "Wex",
-   "value": "https://wexinc.wd5.myworkdayjobs.com/WEXInc",
    "roles": 14,
    "last": "2026-09-23"
   },
@@ -364,14 +357,14 @@
   "wd:gehc/gehc_externalsite": {
    "first": "2026-09-21",
    "name": "GE HealthCare",
-   "value": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
+   "value": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite",
    "roles": 13,
    "last": "2026-09-23"
   },
   "wd:genpt/careers": {
    "first": "2026-09-21",
    "name": "Genuine Parts Company",
-   "value": "https://genpt.wd1.myworkdayjobs.com/Careers",
+   "value": "https://genpt.wd1.myworkdayjobs.com/careers",
    "roles": 13,
    "last": "2026-09-23"
   },
@@ -392,7 +385,7 @@
   "wd:graco/graco_careers": {
    "first": "2026-09-21",
    "name": "Graco",
-   "value": "https://graco.wd501.myworkdayjobs.com/Graco_Careers",
+   "value": "https://graco.wd501.myworkdayjobs.com/graco_careers",
    "roles": 13,
    "last": "2026-09-23"
   },
@@ -407,6 +400,13 @@
    "first": "2026-09-21",
    "name": "Pennsylvania State University",
    "value": "https://psu.wd1.myworkdayjobs.com/PSU_Staff",
+   "roles": 13,
+   "last": "2026-09-23"
+  },
+  "wd:usfoods/usfoodscareersexternal": {
+   "first": "2026-09-21",
+   "name": "US Foods",
+   "value": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal",
    "roles": 13,
    "last": "2026-09-23"
   },
@@ -483,14 +483,21 @@
   "wd:liveoakbancshares/live_oak": {
    "first": "2026-09-21",
    "name": "Live Oak Bank",
-   "value": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak",
+   "value": "https://liveoakbancshares.wd1.myworkdayjobs.com/live_oak",
    "roles": 12,
    "last": "2026-09-23"
   },
-  "wd:usfoods/usfoodscareersexternal": {
+  "wd:wellington/external": {
    "first": "2026-09-21",
-   "name": "US Foods",
-   "value": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal",
+   "name": "Wellington Management",
+   "value": "https://wellington.wd5.myworkdayjobs.com/external",
+   "roles": 12,
+   "last": "2026-09-23"
+  },
+  "wd:wexinc/wexinc": {
+   "first": "2026-09-21",
+   "name": "WEX",
+   "value": "https://wexinc.wd5.myworkdayjobs.com/wexinc",
    "roles": 12,
    "last": "2026-09-23"
   },
@@ -504,7 +511,7 @@
   "ashby:northwoodspace": {
    "first": "2026-09-21",
    "name": "Northwood Space",
-   "value": "https://jobs.ashbyhq.com/NorthwoodSpace",
+   "value": "https://jobs.ashbyhq.com/northwoodspace",
    "roles": 11,
    "last": "2026-09-23"
   },
@@ -512,6 +519,13 @@
    "first": "2026-09-21",
    "name": "Rivian",
    "value": "https://jobs.ashbyhq.com/rivianvw.tech",
+   "roles": 11,
+   "last": "2026-09-23"
+  },
+  "greenhouse:klaviyocampus": {
+   "first": "2026-09-21",
+   "name": "Klaviyo",
+   "value": "https://job-boards.greenhouse.io/klaviyocampus",
    "roles": 11,
    "last": "2026-09-23"
   },
@@ -525,7 +539,7 @@
   "wd:cna/cna_careers": {
    "first": "2026-09-21",
    "name": "CNA Insurance",
-   "value": "https://cna.wd1.myworkdayjobs.com/CNA_Careers",
+   "value": "https://cna.wd1.myworkdayjobs.com/cna_careers",
    "roles": 11,
    "last": "2026-09-23"
   },
@@ -539,7 +553,7 @@
   "wd:draftkings/campus_career_portal": {
    "first": "2026-09-21",
    "name": "DraftKings",
-   "value": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal",
+   "value": "https://draftkings.wd1.myworkdayjobs.com/campus_career_portal",
    "roles": 11,
    "last": "2026-09-23"
   },
@@ -547,13 +561,6 @@
    "first": "2026-09-23",
    "name": "Excellus BCBS",
    "value": "https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers",
-   "roles": 11,
-   "last": "2026-09-23"
-  },
-  "wd:wellington/external": {
-   "first": "2026-09-21",
-   "name": "Wellington Management",
-   "value": "https://wellington.wd5.myworkdayjobs.com/external",
    "roles": 11,
    "last": "2026-09-23"
   },
@@ -574,14 +581,7 @@
   "ashby:talos-trading": {
    "first": "2026-09-21",
    "name": "Talos",
-   "value": "https://jobs.ashbyhq.com/Talos-Trading",
-   "roles": 10,
-   "last": "2026-09-23"
-  },
-  "greenhouse:klaviyocampus": {
-   "first": "2026-09-21",
-   "name": "Klaviyo",
-   "value": "https://job-boards.greenhouse.io/klaviyocampus",
+   "value": "https://jobs.ashbyhq.com/talos-trading",
    "roles": 10,
    "last": "2026-09-23"
   },
@@ -589,6 +589,13 @@
    "first": "2026-09-21",
    "name": "Hermeus",
    "value": "https://jobs.lever.co/hermeus",
+   "roles": 10,
+   "last": "2026-09-23"
+  },
+  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1": {
+   "first": "2026-09-21",
+   "name": "GM financial",
+   "value": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
    "roles": 10,
    "last": "2026-09-23"
   },
@@ -609,7 +616,14 @@
   "wd:momentive/mc": {
    "first": "2026-09-21",
    "name": "Momentive",
-   "value": "https://momentive.wd1.myworkdayjobs.com/MC",
+   "value": "https://momentive.wd1.myworkdayjobs.com/mc",
+   "roles": 10,
+   "last": "2026-09-23"
+  },
+  "wd:saabusa/saab_careers": {
+   "first": "2026-09-21",
+   "name": "Saab",
+   "value": "https://saabusa.wd1.myworkdayjobs.com/saab_careers",
    "roles": 10,
    "last": "2026-09-23"
   },
@@ -641,13 +655,6 @@
    "roles": 9,
    "last": "2026-09-23"
   },
-  "greenhouse:transmarketgroup": {
-   "first": "2026-09-21",
-   "name": "TransMarket Group",
-   "value": "https://job-boards.greenhouse.io/transmarketgroup",
-   "roles": 9,
-   "last": "2026-09-23"
-  },
   "greenhouse:walleyecapital-external-students": {
    "first": "2026-09-21",
    "name": "Walleye Capital",
@@ -662,13 +669,6 @@
    "roles": 9,
    "last": "2026-09-23"
   },
-  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1": {
-   "first": "2026-09-21",
-   "name": "GM financial",
-   "value": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-   "roles": 9,
-   "last": "2026-09-23"
-  },
   "wd:avisbudget/abg_careers": {
    "first": "2026-09-21",
    "name": "Avis Budget Group",
@@ -679,21 +679,14 @@
   "wd:q2ebanking/q2": {
    "first": "2026-09-21",
    "name": "Q2",
-   "value": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
-   "roles": 9,
-   "last": "2026-09-23"
-  },
-  "wd:saabusa/saab_careers": {
-   "first": "2026-09-21",
-   "name": "Saab",
-   "value": "https://saabusa.wd1.myworkdayjobs.com/saab_careers",
+   "value": "https://q2ebanking.wd5.myworkdayjobs.com/q2",
    "roles": 9,
    "last": "2026-09-23"
   },
   "wd:uline/uline_careers": {
    "first": "2026-09-21",
    "name": "Uline",
-   "value": "https://uline.wd1.myworkdayjobs.com/Uline_Careers",
+   "value": "https://uline.wd1.myworkdayjobs.com/uline_careers",
    "roles": 9,
    "last": "2026-09-23"
   },
@@ -774,6 +767,13 @@
    "roles": 8,
    "last": "2026-09-23"
   },
+  "greenhouse:transmarketgroup": {
+   "first": "2026-09-21",
+   "name": "TransMarket Group",
+   "value": "https://job-boards.greenhouse.io/transmarketgroup",
+   "roles": 8,
+   "last": "2026-09-23"
+  },
   "jibe:careers.medpace.com": {
    "first": "2026-09-21",
    "name": "Medpace",
@@ -843,7 +843,7 @@
   "wd:drivetime/drivetime": {
    "first": "2026-09-21",
    "name": "DriveTime",
-   "value": "https://drivetime.wd1.myworkdayjobs.com/DriveTime",
+   "value": "https://drivetime.wd1.myworkdayjobs.com/drivetime",
    "roles": 8,
    "last": "2026-09-23"
   },
@@ -857,7 +857,7 @@
   "wd:freddiemac/external": {
    "first": "2026-09-21",
    "name": "Freddie Mac",
-   "value": "https://freddiemac.wd5.myworkdayjobs.com/External",
+   "value": "https://freddiemac.wd5.myworkdayjobs.com/external",
    "roles": 8,
    "last": "2026-09-23"
   },
@@ -877,7 +877,7 @@
   },
   "wd:hp/externalcareersite": {
    "first": "2026-09-21",
-   "name": "Hewlett Packard",
+   "name": "HP",
    "value": "https://hp.wd5.myworkdayjobs.com/externalcareersite",
    "roles": 8,
    "last": "2026-09-23"
@@ -913,14 +913,14 @@
   "wd:rockwellautomation/external_rockwell_automation": {
    "first": "2026-09-21",
    "name": "Rockwell Automation",
-   "value": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
+   "value": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation",
    "roles": 8,
    "last": "2026-09-23"
   },
   "wd:sysco/syscocareers": {
    "first": "2026-09-21",
    "name": "Sysco",
-   "value": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers",
+   "value": "https://sysco.wd5.myworkdayjobs.com/syscocareers",
    "roles": 8,
    "last": "2026-09-23"
   },
@@ -1032,7 +1032,14 @@
   "wd:lowes/lws_external_cs": {
    "first": "2026-09-21",
    "name": "Lowe's",
-   "value": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS",
+   "value": "https://lowes.wd5.myworkdayjobs.com/lws_external_cs",
+   "roles": 7,
+   "last": "2026-09-23"
+  },
+  "wd:nationwide/nationwide_career": {
+   "first": "2026-09-21",
+   "name": "Nationwide",
+   "value": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
    "roles": 7,
    "last": "2026-09-23"
   },
@@ -1074,7 +1081,7 @@
   "wd:simon/simon": {
    "first": "2026-09-21",
    "name": "Simon Property Group",
-   "value": "https://simon.wd1.myworkdayjobs.com/Simon",
+   "value": "https://simon.wd1.myworkdayjobs.com/simon",
    "roles": 7,
    "last": "2026-09-23"
   },
@@ -1192,7 +1199,7 @@
   },
   "greenhouse:hyannisportresearch": {
    "first": "2026-09-21",
-   "name": "HPR (Hyannis Port Research)",
+   "name": "HPR",
    "value": "https://job-boards.greenhouse.io/hyannisportresearch",
    "roles": 6,
    "last": "2026-09-23"
@@ -1283,7 +1290,7 @@
   "wd:barclays/external_career_site_barclays": {
    "first": "2026-09-21",
    "name": "Barclays",
-   "value": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+   "value": "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays",
    "roles": 6,
    "last": "2026-09-23"
   },
@@ -1325,21 +1332,28 @@
   "wd:dowjones/dow_jones_career": {
    "first": "2026-09-21",
    "name": "Dow Jones",
-   "value": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career",
+   "value": "https://dowjones.wd1.myworkdayjobs.com/dow_jones_career",
    "roles": 6,
    "last": "2026-09-23"
   },
   "wd:emcins/emc_careers": {
    "first": "2026-09-21",
    "name": "EMC Insurance",
-   "value": "https://emcins.wd5.myworkdayjobs.com/EMC_Careers",
+   "value": "https://emcins.wd5.myworkdayjobs.com/emc_careers",
    "roles": 6,
    "last": "2026-09-23"
   },
   "wd:gdit/external_career_site": {
    "first": "2026-09-21",
-   "name": "General Dynamics Information Technology",
+   "name": "GDIT",
    "value": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
+   "roles": 6,
+   "last": "2026-09-23"
+  },
+  "wd:gdit/gdit_earlytalent": {
+   "first": "2026-09-23",
+   "name": "General Dynamics Information Technology",
+   "value": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent",
    "roles": 6,
    "last": "2026-09-23"
   },
@@ -1378,13 +1392,6 @@
    "roles": 6,
    "last": "2026-09-23"
   },
-  "wd:nationwide/nationwide_career": {
-   "first": "2026-09-21",
-   "name": "Nationwide",
-   "value": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
-   "roles": 6,
-   "last": "2026-09-23"
-  },
   "wd:nike/nke": {
    "first": "2026-09-21",
    "name": "Nike",
@@ -1409,7 +1416,7 @@
   "wd:smithnephew/external": {
    "first": "2026-09-21",
    "name": "Smith+Nephew",
-   "value": "https://smithnephew.wd5.myworkdayjobs.com/External",
+   "value": "https://smithnephew.wd5.myworkdayjobs.com/external",
    "roles": 6,
    "last": "2026-09-23"
   },
@@ -1417,6 +1424,13 @@
    "first": "2026-09-21",
    "name": "SWBC",
    "value": "https://swbc.wd1.myworkdayjobs.com/swbccareers",
+   "roles": 6,
+   "last": "2026-09-23"
+  },
+  "wd:symbotic/symbotic": {
+   "first": "2026-09-22",
+   "name": "Symbotic",
+   "value": "https://symbotic.wd504.myworkdayjobs.com/Symbotic",
    "roles": 6,
    "last": "2026-09-23"
   },
@@ -1487,6 +1501,13 @@
    "first": "2026-09-21",
    "name": "The Exploration Company",
    "value": "https://jobs.ashbyhq.com/the-exploration-company",
+   "roles": 5,
+   "last": "2026-09-23"
+  },
+  "greenhouse:axontalentcommunity": {
+   "first": "2026-09-21",
+   "name": "Axon",
+   "value": "https://job-boards.greenhouse.io/axontalentcommunity",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1567,6 +1588,13 @@
    "roles": 5,
    "last": "2026-09-23"
   },
+  "smartrecruiters:keenfinity": {
+   "first": "2026-09-23",
+   "name": "Keenfinity",
+   "value": "https://jobs.smartrecruiters.com/Keenfinity",
+   "roles": 5,
+   "last": "2026-09-23"
+  },
   "smartrecruiters:winsupply1": {
    "first": "2026-09-21",
    "name": "Winsupply",
@@ -1619,14 +1647,14 @@
   "wd:draftkings/employee_referral_portal": {
    "first": "2026-09-21",
    "name": "DraftKings",
-   "value": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal",
+   "value": "https://draftkings.wd1.myworkdayjobs.com/employee_referral_portal",
    "roles": 5,
    "last": "2026-09-23"
   },
   "wd:draper/draper_careers": {
    "first": "2026-09-21",
    "name": "Draper",
-   "value": "https://draper.wd5.myworkdayjobs.com/Draper_Careers",
+   "value": "https://draper.wd5.myworkdayjobs.com/draper_careers",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1640,7 +1668,7 @@
   "wd:equifax/ur_external": {
    "first": "2026-09-21",
    "name": "Equifax",
-   "value": "https://equifax.wd5.myworkdayjobs.com/UR_External",
+   "value": "https://equifax.wd5.myworkdayjobs.com/ur_external",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1668,7 +1696,7 @@
   "wd:hp/exteu-ac-careersite": {
    "first": "2026-09-21",
    "name": "Hewlett Packard",
-   "value": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite",
+   "value": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1682,7 +1710,7 @@
   "wd:medline/medline": {
    "first": "2026-09-21",
    "name": "Medline",
-   "value": "https://medline.wd5.myworkdayjobs.com/Medline",
+   "value": "https://medline.wd5.myworkdayjobs.com/medline",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1697,13 +1725,6 @@
    "first": "2026-09-21",
    "name": "Repsol",
    "value": "https://repsol.wd3.myworkdayjobs.com/Repsol",
-   "roles": 5,
-   "last": "2026-09-23"
-  },
-  "wd:symbotic/symbotic": {
-   "first": "2026-09-22",
-   "name": "Symbotic",
-   "value": "https://symbotic.wd504.myworkdayjobs.com/Symbotic",
    "roles": 5,
    "last": "2026-09-23"
   },
@@ -1731,7 +1752,7 @@
   "ashby:atomicsemi": {
    "first": "2026-09-21",
    "name": "Atomic Semi",
-   "value": "https://jobs.ashbyhq.com/atomicsemi",
+   "value": "https://jobs.ashbyhq.com/AtomicSemi",
    "roles": 4,
    "last": "2026-09-23"
   },
@@ -1751,14 +1772,14 @@
   },
   "ashby:kastle": {
    "first": "2026-09-21",
-   "name": "Kastle AI",
+   "name": "Kastle",
    "value": "https://jobs.ashbyhq.com/kastle",
    "roles": 4,
    "last": "2026-09-23"
   },
   "ashby:oneapp": {
    "first": "2026-09-23",
-   "name": "ONE Finance",
+   "name": "OnePay",
    "value": "https://jobs.ashbyhq.com/oneapp",
    "roles": 4,
    "last": "2026-09-23"
@@ -1766,7 +1787,7 @@
   "ashby:sierra": {
    "first": "2026-09-21",
    "name": "Sierra",
-   "value": "https://jobs.ashbyhq.com/Sierra",
+   "value": "https://jobs.ashbyhq.com/sierra",
    "roles": 4,
    "last": "2026-09-23"
   },
@@ -1787,7 +1808,7 @@
   "ashby:valon": {
    "first": "2026-09-21",
    "name": "Valon",
-   "value": "https://jobs.ashbyhq.com/Valon",
+   "value": "https://jobs.ashbyhq.com/valon",
    "roles": 4,
    "last": "2026-09-23"
   },
@@ -1795,13 +1816,6 @@
    "first": "2026-09-21",
    "name": "Amperesand",
    "value": "https://job-boards.greenhouse.io/amperesand",
-   "roles": 4,
-   "last": "2026-09-23"
-  },
-  "greenhouse:axontalentcommunity": {
-   "first": "2026-09-21",
-   "name": "Axon",
-   "value": "https://job-boards.greenhouse.io/axontalentcommunity",
    "roles": 4,
    "last": "2026-09-23"
   },
@@ -1842,7 +1856,7 @@
   },
   "greenhouse:sage49": {
    "first": "2026-09-21",
-   "name": "Sage",
+   "name": "SAGE",
    "value": "https://job-boards.greenhouse.io/sage49",
    "roles": 4,
    "last": "2026-09-23"
@@ -1989,6 +2003,13 @@
    "roles": 4,
    "last": "2026-09-23"
   },
+  "smartrecruiters:resultant": {
+   "first": "2026-09-23",
+   "name": "Resultant",
+   "value": "https://jobs.smartrecruiters.com/Resultant",
+   "roles": 4,
+   "last": "2026-09-23"
+  },
   "wd:abb/external_career_page": {
    "first": "2026-09-21",
    "name": "ABB",
@@ -2076,7 +2097,7 @@
   "wd:bcbsks/external": {
    "first": "2026-09-23",
    "name": "Blue Cross and Blue Shield of Kansas",
-   "value": "https://bcbsks.wd1.myworkdayjobs.com/External",
+   "value": "https://bcbsks.wd1.myworkdayjobs.com/external",
    "roles": 4,
    "last": "2026-09-23"
   },
@@ -2094,31 +2115,10 @@
    "roles": 4,
    "last": "2026-09-23"
   },
-  "wd:coreandmain/coreandmain": {
-   "first": "2026-09-23",
-   "name": "Core & Main",
-   "value": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain",
-   "roles": 4,
-   "last": "2026-09-23"
-  },
   "wd:countryfinancial/countrycorporateinternships": {
    "first": "2026-09-21",
    "name": "COUNTRY Financial",
    "value": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
-   "roles": 4,
-   "last": "2026-09-23"
-  },
-  "wd:dickssportinggoods/dsg": {
-   "first": "2026-09-21",
-   "name": "Dick's Sporting Goods",
-   "value": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG",
-   "roles": 4,
-   "last": "2026-09-23"
-  },
-  "wd:dmainc/dma": {
-   "first": "2026-09-21",
-   "name": "DuCharme, McMillen & Associates",
-   "value": "https://dmainc.wd5.myworkdayjobs.com/dma",
    "roles": 4,
    "last": "2026-09-23"
   }

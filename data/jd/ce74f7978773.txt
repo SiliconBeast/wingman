@@ -1,0 +1,89 @@
+Date Posted:
+2026-09-22&#xa;&#xa;
+Country:
+United States of America&#xa;&#xa;
+Location:
+US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193&#xa;&#xa;
+Position Role Type:
+Onsite&#xa;&#xa;
+U.S. Citizen, U.S. Person, or Immigration Status Requirements:
+This job requires a U.S. Person. A U.S. Person is a lawful permanent resident as defined in 8 U.S.C. 1101(a)(20) or who is a protected individual as defined by 8 U.S.C. 1324b(a)(3). U.S. citizens, U.S. nationals, U.S. permanent residents, or individuals granted refugee or asylee status in the U.S. are considered U.S. persons. For a complete definition of “U.S. Person” go here: https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120/subpart-C/section-120.62&#xa;&#xa;
+Security Clearance Type:
+None/Not Required&#xa;&#xa;
+Security Clearance Status:
+Not Required
+
+Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in the industry? At RTX, our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and create a safer, more connected world. Discover opportunities to make a difference at RTX.
+
+This position is a 2027 Summer/Fall Engineering Co-op at Collins Aerospace for a student majoring in Electrical Engineering with interests in hardware design/support. This position provides the opportunity for you to broaden your background with a practical approach to engineering. The primary goal for you is to merge your theoretical knowledge gained in school with practical engineering applications. Our team is responsible for hardware design support and development of digital and analog circuitry for embedded systems utilizing Multicore Processors, memory devices, FPGAs, Networking Components, high speed interfaces and analog devices on Commercial Avionics and Business and Regional Avionics platforms. This exciting opportunity will allow you to work in our growing team of engineers supporting and designing state-of-the-art, industry-leading multicore processing for Graphics Generation, Displays.  Our team designs and supports the hardware for Network Switches, Display Processing Computers, Multi-module Cabinet and Communication Management products. This position is intended to include design engineering and factory, field, and customer related support to achieve a healthy understanding of the product lifecycle. 
+
+This is an onsite position based out of our Cedar Rapids, IA site location. This position is full-time, Monday-Friday, and will run May/June- December.
+
+What You Will Do:
+
+•
+You will assist Senior Electrical Engineers in the design, development, support and documentation associated with both digital and analog circuitry.
+
+•
+You will lean in to the opportunity to expand your knowledge and skills of all phases of electrical hardware design, including requirements capture, design, layout, test/verification, integration, factory transition, and factory support.
+
+•
+You will do analog and digital electronics design and testing.
+
+•
+You will work on component analysis and troubleshooting of electronic circuitry.
+
+What You Will Learn:
+
+•
+You will be provided with access to Collin’s Aerospace communities of practice for learning and networking opportunities
+
+•
+You will be exposed to cutting-edge technology and have the ability to significantly contribute to the creation of our newest products.
+
+•
+Electrical Engineers at Collins Aerospace perform activities that span all phases of the hardware development lifecycle, including requirements capture, design, integration, verification, factory transition, and customer interface.
+
+Qualifications You Must Have:
+
+•
+Must be pursuing Bachelor's or Advanced degree in Electrical Engineering or related Science, Technology, Engineering, or Mathematics (STEM) major and actively enrolled through the completion of the internship/co-op session.
+
+•
+Experience with digital circuit design parameters (e.g., throughput, rise time, clock frequencies, propagation delay).
+
+•
+Experience with computer hardware components (e.g., processors, memory, interfaces), and characteristics (throughput, processing architecture, timing).
+
+Experience may be obtained through on-the-job experience, research, coursework, or projects.
+
+What We Offer
+
+•
+Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Safety, Trust, Respect, Accountability, Collaboration, and Innovation.
+
+Learn More & Apply Now!
+
+Please ensure the role type defined below is appropriate for your needs before applying to this role. This position is classified as:
+
+Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.
+
+Apply now and be part of the team that’s redefining aerospace, every day.
+
+As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.
+
+The salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.
+
+Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+
+This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+
+RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.
+
+Privacy Policy and Terms:
+
+Click on this link to read the Policy and Terms
