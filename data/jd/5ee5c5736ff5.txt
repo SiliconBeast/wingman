@@ -1,0 +1,69 @@
+Our vision is to transform how the world uses information to enrich life for all .
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+Job Description
+
+At Micron-Boise, ID, we are undergoing a historic $15 billion investment in semiconductor manufacturing; construction began in early 2023, with DRAM production slated for the second half of the decade. As a leader in the semiconductor industry, we build solutions that encourage and transform technology. With plans to invest more than $150 billion globally over the next decade in groundbreaking manufacturing, we are looking for hardworking people to join our Boise expansion team and give to the growth and innovation of the semiconductor industry.
+
+ID1 High Volume Manufacturing Equipment Engineer is responsible for monitoring, sustaining, and improving the equipment while working in partnership with process team members and area engineers. In this position you will supervise tool performance, schedule and perform preventative maintenance on assigned tool sets, and use mechanical, electronic and PC/software skills to solve and repair equipment issues. They are also required to assist with equipment installations, engineering tests, build and modify equipment procedures, increase tool uptime through systematic problem solving and quality workmanship, and thoroughly document all maintenance. This is a hands-on equipment focused role with time spent in the fabrication facility.
+
+Responsibilities:
+
+• Safely identify, handle, and work with chemicals and associated hazards in the work area.
+
+• Recognize and respond appropriately to safety alarms and events, including EES, fire alarms, MDA, and ERT notifications.
+
+• Drive improvements in area and shift KPIs through LTD reduction, MA improvement, excursion prevention, and the application of AI-enabled analytics and automation solutions where appropriate.
+
+• Foster a culture of Total Productive Maintenance (TPM) through ownership of TPM metrics, workstation health reports, continuous improvement initiatives, and MTAG execution.
+
+• Partner with Equipment Owners, Shift Engineers, and Technicians to resolve issues that may result in yield loss, defects, excursions, tool restrictions, or output loss.
+
+• Lead root cause investigations and implement sustainable corrective and preventive actions to prevent recurrence.
+
+• Leverage Statistical Process Control (SPC), Design of Experiments (DOE), and structured problem-solving methodologies such as 8D to improve process control, reduce defectivity, and minimize unplanned downtime.
+
+• Develop, maintain, and update procedures, training materials, assessor checklists, and related documentation to support standardized execution and continuous improvement.
+
+Minimum qualifications:
+
+• Working towards degree in Electrical Engineering, Mechanical Engineering, or a related engineering field. Other technical fields may be considered.
+
+• Must be a current student and not graduate before September 2026.
+
+• Knowledge of AC/DC circuits, fundamentals of electricity, and electronic components.
+
+• Understanding of mechanical, vacuum, gas delivery, and electrical systems, including the ability to interpret schematic diagrams for issue resolution.
+
+• Programming and data analysis experience using tools such as Python, Java, Tableau, MATLAB, or Microsoft Office applications.
+
+Preferred qualifications:
+
+• Strong verbal and written communication skills with the ability to collaborate effectively across engineering and manufacturing teams.
+
+• Experience applying statistical process control (SPC), Design of Experiments (DOE), 8D, or other structured problem-solving methodologies.
+
+• Understanding of semiconductor manufacturing processes, equipment systems, and cleanroom operations.
+
+• Experience implementing automation, AI, machine learning, or advanced analytics to improve equipment performance, reliability, or operational efficiency.
+
+• Experience and/or interest in developing Agentic AI workflows into current or future processes.
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits .
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert : Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.
