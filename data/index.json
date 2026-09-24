@@ -692,7 +692,7 @@
 "0de735e46855": {"first":"2026-09-22T23:02:43Z","last":"2026-09-23","jt":[],"jm":[4,8],"jc":false},
 "0df1ce485ca6": {"first":"2026-09-22T05:09:21Z","last":"2026-09-22","alerted":"2026-09-21"},
 "0df2fa768d7a": {"first":"2026-09-22T05:09:21Z","last":"2026-09-23","alerted":"2026-09-21"},
-"0df5a2ed3400": {"first":"2026-09-22T05:09:21Z","tries":1,"last":"2026-09-21"},
+"0df5a2ed3400": {"first":"2026-09-22T05:09:21Z","tries":2,"last":"2026-09-23","jd":true,"loc":["Boston, MA","Mountain View, CA"],"jt":[],"jm":[],"jc":false,"fit":[null,[],["us_citizen"],":"],"extract":[null,null],"alerted":"2026-09-23"},
 "0df69605fc2b": {"first":"2026-09-22T01:02:35Z","tries":1,"jd":true,"loc":["Austin (Oakhill, Office)"],"last":"2026-09-23","jt":[],"jm":[],"jc":false,"fit":[null,[],[],":"],"extract":[null,null],"alerted":"2026-09-21"},
 "0df750f57fdb": {"first":"2026-09-22T05:09:21Z","last":"2026-09-23","alerted":"2026-09-21","tries":1,"jd":true,"loc":["New York, New York, United States","New York"],"jt":[],"jm":[],"jc":false,"fit":[null,[],[],":"],"extract":[null,null]},
 "0e01e26dc0f9": {"first":"2026-09-22T13:29:13Z","last":"2026-09-23"},
