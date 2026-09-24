@@ -1,0 +1,59 @@
+As the global leader in high-speed connectivity, Ciena builds the critical infrastructure powering the AI era. We’re a technology company shaping the future of networking, guided by innovation, integrity, and collaboration. Through development opportunities, meaningful work, and flexibility, Ciena supports growth and well-being—on and off the job. Connect with a career that matters.
+
+The Opportunity:
+
+As a WaveLogic Software Intern, gain hands-on experience contributing to next-generation optical networking technologies. Work with experienced teams to help develop, validate, and improve software capabilities that support network solutions. Contribute technical skills while building knowledge of optical transport and switching technologies.
+
+How you will make an impact:
+
+• Develop understanding and expertise in next-generation network solutions using optical transport and switching technologies such as OTN and Ethernet.
+
+• Develop embedded software skills to design, develop, validate, and document advanced networking features and capabilities deployed in service provider networks.
+
+• Troubleshoot and resolve reported embedded software issues by identifying root causes, diagnosing defects, debugging, and delivering fixes.
+
+• Collaborate with cross-functional teams to design, develop, and test next-generation modem technologies.
+
+The must haves:
+
+• Education: Actively enrolled in a bachelor's degree in Electrical/Computer Engineering,
+
+• C, C++ programming language experience
+
+• Good knowledge of embedded systems, device drivers (e.g., GPIO, I2C drivers), Linux/RTOS operating system knowledge, mutual exclusion, synchronization, interrupt handling, inter-process communication, memory management, etc.
+
+• Positive work attitude, highly motivated, with the ability to seek out answers and learn independently
+
+• Strong verbal and technical writing skills
+
+• Collaborates well in a team environment
+
+Nice to haves:
+
+• Familiarity with datacom & telecom concepts such as DWDM, OTN, Ethernet, TCP/IP
+
+• Low-level Real-Time Software/Firmware Development including hardware bring-up and interfacing with third-party devices
+
+• Ability to understand CPU hardware architectures, hardware functional specifications, and hardware timing diagrams
+
+• Linux as a software development environment
+
+• Design and development tools such as Git, Eclipse, JIRA, Confluence, GDB, Yocto
+
+• YANG modeling language and toolchains
+
+• Scripting experience, Python, Go, BASH
+
+Pay Range:
+
+The pay range for this position is $27.00 - $37.50
+
+Pay ranges at Ciena are designed to accommodate variations in knowledge, skills, experience, market conditions, and locations, reflecting our diverse products, industries, and lines of business. Please note that the pay range information provided in this posting pertains specifically to the primary location, which is the top location listed in case multiple locations are available.
+
+In addition to competitive compensation, Ciena offers students access to the Employee Assistance Program (EAP), company-paid holidays, paid sick leave, and vacation pay as required by applicable laws.
+
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.
