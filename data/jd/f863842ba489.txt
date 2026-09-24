@@ -1,0 +1,43 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+The Motorola Solutions IC Engineering team, located in Plantation, FL., specializes in the design and development of world class Mission Critical Communications equipment. This team develops state of the art mixed signal modules and integrated circuits for use in our radio products. We need innovative and motivated system-on-a-chip(SoC) intern engineer to apply their talents to take our radio product solutions to the next level. As a member of our team you will have opportunities to work on a variety of circuits and system designs.
+
+Job Description
+
+The SoC Digital Engineer Intern will work with CMOS technologies to develop the digital portion of mixed signal ICs to be utilized in hi-reliability public safety communications systems. This position will be one of a team of IC design technologists that will conceive, design and implement RF and analog circuits and subsystems using robust design methodologies for SoC system integration. The SoC product is intended for use in Motorola Solutions radio products. This position is 100% on site Monday thru Friday located in Plantation FL.
+
+• Course and lab work in digital FPGA or ASIC specification, design, verification, physical implementation, silicon bring-up and debug.
+
+• Course and lab work coding in RTL.
+
+• Course and lab work with DSP hardware and/or DSP algorithms.
+
+• Familiar with Cadence digital design tools is a plus
+
+• Experience with Verilog-A/Verilog-AMS/SystemVerilog/Universal Verification Methodology (UVM) for digital or analog/mixed signal (AMS) designs. Familiar with shell and scripting languages (SKILL, Perl, Python, TCL, make, csh, bash).
+
+• Silicon validation in the lab or experience in Labview or similar will be an asset
+
+Basic Requirements
+
+• Currently pursuing a BS or MS
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

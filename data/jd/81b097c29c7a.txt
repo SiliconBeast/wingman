@@ -1,0 +1,118 @@
+As the largest mover of truckload freight in the world with 19 million shipments annually, C.H. Robinson builds resilient supply chains through science and technology. Never heard of us? Our customers have relied on our supply chain expertise for over 120 years, but they’ve never needed us more. That’s because global markets face historically tight capacity constraints, volatility and pandemic-related disruption, along with one off situations like extreme weather conditions. As a key factor in easing this congestion, we need global scale marketplace tech. Come join our team as a cyber security engineer intern and help us move boldly into the future to increase efficiencies and agility for our customers!
+
+From day one of your 2027 summer internship you will have hands-on, meaningful responsibilities that will challenge you and require out-of-the-box thinking. Using your ingenuity and creativity, you will work with your team to build and enhance custom, proprietary systems impacting thousands of users around the world. Are you ready for the challenge? We will maximize your learning opportunities by pairing you with an experienced engineer who is passionate about providing feedback and guidance, while allowing you to grow your skills and deliver real business value. The training and hands-on experience you gain through the program will give you the confidence and experience you need to advance your career. You've worked hard to get where you are today; now it’s time to use your unique skills, talents, and personality to achieve great things at C.H. Robinson!
+
+With over 1,200 technology employees across the globe, you will work in a highly collaborative environment with peers who live wherever they work best, within the country they reside in. Whether that be in one of our 300 offices in the U.S., or 100% remote, we understand how critical it is for you to find balance between solving challenges at work and enjoying your personal passions.
+
+Opportunity:
+
+• Work with your fellow cyber security professionals to analyze, plan, implement, maintain, monitor, troubleshoot, and enhance C.H. Robinson's security posture.
+
+• Assist with security operations activities including incident response, threat hunting, security investigations, and phishing or business email compromise analysis.
+
+• Support application security initiatives including vulnerability management, secure code review, penetration testing, and remediation validation.
+
+• Participate in rotational assignments across Security Operations (SOC) and Application Security (AppSec) teams to gain exposure to multiple cybersecurity disciplines.
+
+• Analyze and recommend security controls and procedures in acquisition, development, and change management lifecycle of information systems, and monitors for compliance.
+
+• Monitor, investigate, and triage suspicious or malicious activity and alerts
+
+• Learn from an experienced engineer who will train you on our systems, explain our business, and introduce you to leaders throughout the organization
+
+• Leverage multiple Security technologies and implement security products (firewalls, AV systems, IDS, IPS, web content filter, Microsoft Windows system security services and functions)
+
+Required Qualifications:
+
+• Understanding of best practices in security engineering, including secure development, cryptography, network security, security operations, systems security, policy, and/or incident response
+
+• Pursuing a Bachelor's degree in Cybersecurity, Computer Science, Information Systems, or a related field; students entering their junior or senior year with demonstrated interest in cybersecurity through coursework, projects, internships, certifications, research, or extracurricular activities are preferred.
+
+Preferred Qualifications:
+
+• Innovative problem-solving skills, with passion for leveraging technology to solve complex business problems
+
+• Excellent communication and interpersonal skills
+
+• Growth mindset, open to giving and receiving feedback
+
+• Values a diverse and inclusive work environment
+
+• Team-first mentality and ability to thrive in a collaborative and dynamic workplace
+
+We will review applications for this role on an ongoing basis and encourage all interested candidates to apply at their earliest convenience.
+
+Compensation Range
+
+$15 - $30 per hour
+
+The base pay range displayed on each job posting reflects the minimum and maximum base pay for the position across all U.S. locations. Your individual base pay within this range is determined by work location, which takes into account geographic cost of labor, and additional factors, including job-related skills, experience, and relevant education or training. Compensation details listed in this posting reflect the base pay only and do not include additional variable compensation.
+
+Questioning if you meet the mark? Studies have shown that some individuals may be less likely to apply unless they match the job description exactly. Here at C.H. Robinson, we’re building an inclusive workplace where all employees feel they belong. If this position excites you, we welcome you to apply whether you check all the preferred qualifications or just a few. You may just be our next great fit!
+
+Equal Opportunity
+
+C.H. Robinson is proud to be an Equal Opportunity Employer. We are committed to a workplace and performance culture that reflects the strengths of our worldwide marketplace. We value unique experiences and diverse backgrounds of our people within our company, our business relationships, and our communities. We’re committed to providing an inclusive environment, free from harassment and discrimination, where all employees feel welcomed, valued and respected.
+
+EOE\Disabled\Veteran
+
+Benefits
+
+Your Health, Wealth and Self
+
+Your total wellbeing is the foundation of our business, and our benefits support your financial, family and personal goals. We provide the top-tier benefits that matter to you most, including:
+
+•
+Three medical plans which include
+
+•
+
+•
+Prescription drug coverage
+
+•
+Enhanced Fertility benefits
+
+•
+Flexible Spending Accounts
+
+•
+Health Savings Account (including employer contribution)
+
+•
+Dental and Vision
+
+•
+Basic and Supplemental Life Insurance
+
+•
+Short-Term and Long-Term Disability
+
+•
+Paid observed holidays
+
+•
+2 paid floating holidays for U.S. hourly employees
+
+•
+Flexible Time Off (FTO) offered to U.S. salaried employees — no accruals and no caps. Paid Time Off (PTO) offered to all other employees in the U.S. and Canada
+
+•
+Paid parental leave
+
+•
+Paid time off to volunteer in your community
+
+•
+Charitable Giving Match Program
+
+•
+401(k) with 6% company matching
+
+•
+Employee Stock Purchase Plan
+
+•
+Plus a broad range of career development, networking, and team-building opportunities
+
+Learn more about our benefit offerings on our BENEFITS & WELLBEING page

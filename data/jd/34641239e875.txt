@@ -1,0 +1,76 @@
+Job Summary
+Intern, Medical Device - R&D Mobile DevOps: June-August 2027 (Onsite)&#xa;&#xa;
+Position Dates: June 7, 2027 – August 13, 2027
+
+About Insulet:
+
+Insulet Corporation is an innovative medical device company dedicated to making the lives of people with diabetes and other conditions easier through the use of its Omnipod® product platform. The Omnipod® system consists of a hand-held controller that communicates directly with a wearable on-body device to provide Insulin therapy. More than 150,000 users across the globe rely on Insulet’s Omnipod® Insulin Management System to bring simplicity and freedom to everyday life. Insulet Corporation is headquartered in a world class facility in Acton, MA.
+
+Position Overview:
+
+Insulet is looking for a self-motivated intern to be part of a DevOps team working to continuously improve product quality and software team efficiency. DevOps works with cross-functional teams, including systems, software, and test teams in supporting new product development and existing product maintenance.
+
+This position will also assist with the implementation of software development tools to improve the overall quality of software, including peer reviews, software hazard analysis, requirements traceability, software code analysis/code coverage, defect tracking, software metrics, configuration management, software supplier quality, and software tool validations.
+
+Responsibilities:
+
+• Assist in setup and automation of CI/CD pipelines for product applications and cloud-based services.
+
+• Develop scripts to automate manual tasks which improve engineering processes.
+
+• Contribute to manage critical engineering applications and infrastructure in collaboration with IT
+
+• Support efforts to identify, evaluate, and introduce new tools for continuous improvement
+
+• Performs other duties as required
+
+Education and Experience:
+
+Minimum Requirements:
+
+• Pursuing a Bachelor’s in Computer Science or Electrical and Computer Engineering
+
+Preferred Skills and Competencies:
+
+• Experience working in a command-line environment (Linux/Ubuntu/MacOS)
+
+• Experience programming with scripting languages (Bash/Python)
+
+• Experience working with software development teams
+
+• Strong written, verbal, interpersonal and presentation skills.
+
+• Skills considered as a plus:
+
+• Experience with Linux/Ubuntu system administration
+
+• Experience with Jenkins to build CI/CD pipelines
+
+• Experience with Atlassian tools (Bamboo, Bitbucket, Jira, Confluence)
+
+• Experience programming using REST APIs
+
+• Experience with software development involving Android/iOS applications
+
+• Experience with software development using AWS infrastructure/services
+
+• Experience with AWS CLI
+
+Physical Requirements (if applicable):
+
+• Ability to engage with team in a virtual workplace environment via Microsoft Teams.
+
+• Ability to travel to US locations (San Diego) for on-site work.
+
+This position is not eligible for employer-based visa sponsorship. Candidates must have authorization to work in the U.S. without current or future sponsorship needs.
+
+Additional Information:
+&#xa;Compensation & Benefits:&#xa;&#xa;For U.S.-based positions only, the annual base salary range for this role is $25.00 - $34.00&#xa;&#xa;This position may also be eligible for incentive compensation.&#xa;&#xa;We offer a comprehensive benefits package, including:&#xa;• Medical insurance&#xa;• Holiday pay&#xa;• Sick time off&#xa;• And additional employee wellness programs&#xa;&#xa;Application Details:&#xa;This job posting will remain open until the position is filled.&#xa;To apply, please visit the Insulet Careers site and submit your application online.&#xa;&#xa;Actual pay depends on skills, experience, and education.
+
+Insulet Corporation (NASDAQ: PODD), headquartered in Massachusetts, is an innovative medical device company dedicated to simplifying life for people with diabetes and other conditions through its Omnipod product platform. The Omnipod Insulin Management System provides a unique alternative to traditional insulin delivery methods. With its simple, wearable design, the tubeless disposable Pod provides up to three days of non-stop insulin delivery, without the need to see or handle a needle. Insulet’s flagship innovation, the Omnipod 5 Automated Insulin Delivery System, integrates with a continuous glucose monitor to manage blood sugar with no multiple daily injections, zero fingersticks, and can be controlled by a compatible personal smartphone in the U.S. or by the Omnipod 5 Controller. Insulet also leverages the unique design of its Pod by tailoring its Omnipod technology platform for the delivery of non-insulin subcutaneous drugs across other therapeutic areas. For more information, please visit insulet.com and omnipod.com.
+
+We are looking for highly motivated, performance-driven individuals to be a part of our expanding team. We do this by hiring amazing people guided by shared values who exceed customer expectations. Our continued success depends on it!
+
+At Insulet Corporation all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+( Know Your Rights )

@@ -1,0 +1,53 @@
+The Cleveland Guardians are seeking an intern to join their Baseball Systems team this coming summer. We are an expanding department focused on building software and data products that directly impact the organization's ability to acquire, develop, and deploy players. The products you help build facilitate operations and enhance decision-making across all areas of the organization, helping answer questions such as "which trades should we execute," "who should we select with our next pick in the draft," and "how can we help players use data from yesterday's game to improve?" The position offers the unique opportunity to work with a variety of emerging technologies spanning the entire applications stack — from data warehousing to web design — alongside veteran software engineers crafting innovative solutions to challenging problems, all in pursuit of the organization's ultimate mission: winning the World Series. If you enjoy working on large-scale data products, developing high-impact tools, and collaborating with talented individuals, we want to hear from you.
+
+Timing
+
+We recognize that applicants will have differing dates of availability between their academic periods over the summer, and we therefore want to remain flexible with timing so that we can best accommodate each applicant’s specific start date and end date. That said, our expectation is that the internship will last ~10-14 weeks.
+
+The compensation for this position is $24/hr.
+
+As a Software Engineer Intern with the Cleveland Guardians, you will:
+
+• Get hands-on experience writing impactful software
+
+• Participate in cross-functional team meetings and Agile sprint work
+
+• Have regular opportunities to engage with, and learn from, our Baseball Operations leadership group
+
+Basic Requirements:
+
+• Some experience in a field such as Computer Science or another STEM program
+
+• Demonstrated experience writing application code
+
+• A proven ability to work within tight timelines
+
+• Effective communication skills and the ability to collaborate within a cross-functional team
+
+• A desire to learn and grow not only as a software engineer, but also as a person
+
+• A passion for baseball/sports, or a willingness to learn more about the game
+
+• Ability to work with AI Tools
+
+Organizational Requirements:
+
+• Demonstrates the ability to read, speak, comprehend, and communicate effectively in order to perform job duties and interact with coworkers.
+
+• Represents the Cleveland Guardians in a positive fashion to all business partners, teammates, and the general public.
+
+• Ability to build robust, professional relationships with teammates by demonstrating interpersonal skills, approachability, and a collaborative spirit contributing to a positive, respectful work environment.
+
+• Ability to perform the essential physical requirements of the role as outlined in the job description, which may include extended periods of sitting, standing, lifting, or navigating a multilevel ballpark.
+
+• Adapts quickly and effectively to a fast-paced, dynamic, and diverse work environment.
+
+• Ability to act according to the organizational values and service excellence at all times.
+
+• Willingness to work extended days and hours, including holidays and weekends.
+
+• Willingness to adhere to all Major League Baseball and Club policies.
+
+The Cleveland Guardians are committed to developing and maintaining an environment that embraces all forms of diversity to enrich our core values, enhance our competitive position, strengthen our impact within our community, and foster a greater sense of belonging for our employees.
+
+In this spirit, we know studies have shown that people from historically underserved groups - including women and people of color - are less likely to apply for jobs unless they believe they meet every one of the qualifications as described in a job description. We are most interested in finding the best candidate for the job and understand that candidate may bring certain skills and experiences to the role that are not listed in our job description, but that would add tremendous value to our organization. We would encourage you to apply, even if you don’t believe you meet every one of our qualifications described.

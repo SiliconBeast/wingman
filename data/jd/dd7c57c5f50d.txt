@@ -1,0 +1,53 @@
+Location: Burlington, ON.
+
+Our Team:
+
+Semtech’s Signal Integrity Products group designs high performance optical networking product platforms that enable hyperscale data center applications, enterprise networking, wireless infrastructure including 5G networks, and passive optical network/Fibre-to-the-X markets.
+
+To put it simply, whenever you use your computer to browse the web or use your smartphone to make a video call, most likely, your data is passing through one of many high-speed analog chips designed by the Analog IC teams at Semtech. Our experience and expertise ensures we are always pushing the boundaries of networking speed, ensuring the best experience for our end users – you!
+
+Join us, and together we will continue to build a faster, better, and more secure online world for everyone.
+
+Job Summary:
+
+Our approach to internship is to make the successful candidate an integral part of our team. We understand that it is best to learn through direct involvement and we will provide you with tasks that enable you to learn and to be productive at the same time. The more you learn the more complex your tasks will become. The internship program is an important part of our recruiting strategy.
+
+Responsibilities:
+
+• As the Intern, High Speed Analog IC Design, you will be involved with:
+
+• The design, development, verification and characterization of analog and mixed-signal circuits for use in our data communications products.
+
+• Circuits such as phase-locked loops, equalizers, optical and cable receivers and drivers plus other key circuit building blocks. State-of-the-art BiCMOS and CMOS technologies are used for these circuits.
+
+• Advanced CAD tools for the design, layout, simulation, and verification of the analog blocks plus scripting work for IC design and validation automation using Python, Skill, TCL, etc.
+
+• Semtech’s dynamic team environment and senior designers who will provide mentoring and guidance throughout the internship term.
+
+This position is for a 12 – 16-month student Analog IC design internship at Semtech Canada with the Signal Integrity Products Group (SIP) in our Burlington Design Centre.
+
+Minimum Qualifications:
+
+• Good understanding of analog electronic circuit fundamentals
+
+• Ability to learn quickly and work independently or in a team environment
+
+• Exposure to transistor level circuit design/analysis would be an asset
+
+• Exposure to CAD circuit design tools (e.g. Cadence Virtuoso) would be an asset
+
+• Experience with Matlab and/or scripting languages such as Python would be an asset
+
+• Desired start date May 2027, 12-16 month term
+
+Career Growth Philosophy
+
+At Semtech, we seek innovation and leadership from each and every member of our team. Our goal is to ensure that our talented professionals are equipped with support, resources, and the opportunity to excel. Our pay-for-performance philosophy provides recognition and prestige coupled with a competitive compensation package.
+
+The intent of this job description is to describe the major duties and responsibilities performed by incumbents of this job. Incumbents may be required to perform job-related tasks other than those specifically included in this description.
+
+All duties and responsibilities are essential job functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities.
+
+We may leverage Artificial Intelligence (AI) tools to enhance efficiency during candidate screening, assessment, and recruitment. Final hiring decisions remain with our Hiring Teams, not AI systems.
+
+A reasonable estimate of the pay range for this position is $26 - $28.5 CAD per/hr. There are several factors taken into consideration in determining base salary, including but not limited to: job-related qualifications, skills, education and experience, as well as job location and the value of other elements of an employee’s total compensation package.

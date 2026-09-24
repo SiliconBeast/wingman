@@ -1,0 +1,100 @@
+Why GM Financial?
+
+GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses.
+
+At GM Financial, our team members define and shape our culture — an environment that welcomes new ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+
+Our Purpose:  We pioneer the innovations that move and connect people to what matters.
+
+This position will be posted until filled.
+
+About this role:
+
+Are you excited about innovation, entrepreneurship and solving complex business problems? Then we are looking for you!
+
+The Data Engineer Intern supports data and software development initiatives by assisting with code debugging, performance improvements, and technical problem-solving. This role collaborates with team members to develop solutions, troubleshoot issues, and contribute to reliable data systems.
+
+The intern also participates in code reviews, stays informed on emerging technologies, and helps ensure system understanding through ongoing documentation and project updates.
+
+In this role you will:
+
+• Debugging computer code to correct errors and improve performance
+
+• Problem solving and solution creation
+
+• Participating in peer code reviews to improve the quality of code written by team members
+
+• Proactively learning about new technologies
+
+• Regular communication and troubleshooting with team members
+
+• Reviewing documentation about the latest technology releases and project updates to ensure understanding of system operations
+
+What makes You an ideal candidate?
+
+• Must be a current student pursuing a bachelor's degree or higher from an accredited college or university in Computer Science, Data Science, Data Analytics, Computer Engineering or Data Engineering with at least one semester remaining upon start of the internship.
+
+• Must possess a minimum of a 3.0 (out of a 4-point scale) overall GPA.
+
+• Junior or Senior classification preferred.
+
+• Strong written and verbal communication skills required. This incumbent will be required to give presentations and communicate with business leaders.
+
+• Strong analytical, quantitative, problem solving, and conceptual skills required.
+
+Additional Knowledge and Skills
+
+Working effectively within an AI enabled environment:
+
+• Ability to use AI tools (e.g., Microsoft Copilot) to support daily work
+
+• Skills in evaluating AI outputs for accuracy, compliance, and bias
+
+• Experience integrating AI into workflows to improve efficiency or insights
+
+• Familiarity with AI assisted research, summarization, and content generation
+
+•
+Understanding of responsible AI use, including ethics and data protection
+
+AI Skills Preferred
+
+• Experience with AI-assisted software development or automation
+
+• Knowledge of prompting techniques to improve output quality
+
+• Awareness of emerging GenAI capabilities and limitations
+
+Work Experience and education
+
+• 1-2 years of experience with programming languages (Java/C++/Python) preferred
+
+• 1-2 years of experience with Version Control Systems (GitHub, VSA, SVN) preferred
+
+• Must be detail oriented and able to prioritize tasks to meet deadlines.
+
+• Must be able to work independently or in a team setting.
+
+• Previous internships are considered a plus.
+
+Our program offers
+
+• 11 weeks of work experience (May 26th - August 6th)
+
+• Executive and peer networking opportunities
+
+• Independent and team project experiences
+
+• Philanthropic activities
+
+• Career development
+
+• Opportunity to apply for full-time career positions
+
+Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+Compensation: Competitive pay
+Work Life Balance: Flexible hybrid work environment, 2-days a week in office
+
+GM FINANCIAL DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE. THIS INCLUDES DIRECT COMPANY SPONSORSHIP, ENTRY OF GM FINANCIAL AS THE IMMIGRATION EMPLOYER OF RECORD ON A GOVERNMENT FORM, AND ANY WORK AUTHORIZATION REQUIRING A WRITTEN SUBMISSION OR OTHER IMMIGRATION SUPPORT FROM THE COMPANY (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.)
+
+#GMFJobs #LI-Hybrid #LI-NY1

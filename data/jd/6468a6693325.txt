@@ -1,0 +1,67 @@
+Who are we?
+
+At Tradeweb, we’re constantly moving forward. We were the first to electronify the bond market, and we’ve been innovating ever since. Come join our team and find out what it means to lead the way into the future of electronic trading. Collaborate with our creative thinkers who have the vision and the drive, and learn how you too can make an impact of your own.
+
+What’s in it for you?
+
+As an intern, you’ll work with our technologists and business experts to gain practical, hands-on experience that you can actually use. Our program combines traditional classroom-settings with project-based work where you can get involved with the products and services the firm is working on. Along the way, you’ll have guidance from people at all levels of the organization so you can start to build a long-lasting professional network and build relationships with the intern class through interactive outings and projects.
+
+At the conclusion of your internship, you may be considered for full-time employment, to commence upon successful completion of your degree program.
+
+Who will you work for?
+
+Tradeweb’s quantitative teams sit at the intersection of artificial intelligence, data science, financial markets, and technology. These teams use advanced analytics, machine learning, and AI to solve complex problems, uncover insights from large datasets, and develop innovative solutions that support Tradeweb’s products, clients, and businesses.
+
+As a quantitative Intern, you will gain hands-on experience applying data science and AI techniques to real-world challenges within electronic trading and financial markets. You may work on projects involving predictive modeling, machine learning, data analysis, generative AI, or the development of analytical tools and applications.
+
+Throughout the internship, with guidance from a mentor, you’ll explore a real-world trading or business challenge using Tradeweb data, develop and evaluate an analytical solution, and present your findings to both technical and business stakeholders. Projects may include analyzing execution quality, modeling trading activity or market behavior, or evaluating the use of AI tools to solve business challenges.
+
+What do you need to succeed?
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science , Data Science, Artificial Intelligence, Machine Learning, Statistics, Mathematics, Engineering, Quantitative Finance, or a related technical or analytical discipline
+
+•
+Strong programming skills, preferably in Python, with experience working with data and analytical libraries
+
+•
+Familiarity with SQL and working with structured or unstructured datasets
+
+•
+Foundational knowledge of statistics, machine learning, data science, or artificial intelligence concepts
+
+•
+Exposure to machine learning frameworks, generative AI, large language models, or AI development tools is a plus
+
+•
+Interest in applying AI and data science to real-world business problems; prior financial markets experience is not required
+
+•
+Strong analytical and problem-solving skills with an ability to approach complex or ambiguous problems thoughtfully
+
+•
+Intellectual curiosity and an interest in learning about financial markets, electronic trading, and financial technology
+
+•
+Strong written and verbal communication skills, including the ability to explain technical concepts and analytical findings clearly
+
+•
+Collaborative mindset with the ability to work effectively with both technical and non-technical colleagues
+
+About Tradeweb Markets:
+
+Tradeweb is a global leader in electronic trading across asset classes. As financial markets become increasingly interconnected, our technology enables efficient, multi-asset trading on a global scale. We serve more than 3,000 clients in more than 85 countries, including many of the world’s largest banks, asset managers, hedge funds, insurers, corporations, and wealth managers.
+
+Creative collaboration and sharp client focus have helped fuel our organic growth. We facilitated average daily trading volume (ADV) of more than $2.8 trillion over the past four fiscal quarters, topping $3.3 trillion in ADV for the first quarter of 2026.
+
+Since our IPO in 2019, Tradeweb has completed four acquisitions and doubled our revenues – and 2025 was our 26th consecutive year of record revenues.
+
+Tradeweb plays a central role in modernizing market structure by developing innovative trading protocols, embedding analytics into execution, and building technology infrastructure that supports the convergence of traditional and digitally native financial markets. Tradeweb is a great place to work, recognized in 2025 by Forbes as one of America’s Best Companies and by U.S. News & World Report as one of the Best Financial Services Companies to Work For .
+
+Tradeweb Markets LLC ("Tradeweb") is proud to be an EEO Minorities/Females/Protected Veterans/Disabled/Affirmative Action Employer.
+
+Workplace Posters | U.S. Department of Labor
+
+The current pay range for this role if performed in the city of New York is currently $45-$75 hourly based on a regular, full-time schedule.  The amount of pay offered will be determined by several factors, including but not limited to qualifications, market data, geographic location, and internal guidelines.
+
+At Tradeweb, we believe some of the best ideas come from looking at challenges with a fresh perspective. During your internship, you’ll be encouraged to explore how AI and emerging technologies can be applied within your area of the business. Whether through dedicated project work or your day-to-day responsibilities, you’ll have opportunities to think differently, challenge existing processes, and contribute ideas that can help shape how we work in the future.

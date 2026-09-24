@@ -1,0 +1,63 @@
+Location: Ottawa, ON.
+
+Our Team:
+
+Semtech’s Signal Integrity Products group designs high performance optical networking product platforms that enable hyperscale data center applications, enterprise networking, wireless infrastructure including 5G networks, and passive optical network/Fibre-to-the-X markets.
+
+To put it simply, whenever you use your computer to browse the web or use your smartphone to make a video call, most likely, your data is passing through one of many high-speed analog chips designed by the Analog IC teams at Semtech. Our experience and expertise ensures we are always pushing the boundaries of networking speed, ensuring the best experience for our end users – you!
+
+Join us, and together we will continue to build a faster, better, and more secure online world for everyone.
+
+Job Summary:
+
+As Semtech’s Firmware Intern, you will be involved with the firmware design, development, verification and characterization of our data communications or video products.
+
+Our approach to internship is to make the successful candidate an integral part of our team. We understand that it is best to learn through direct involvement and we will provide you with tasks that enable you to learn and to be productive at the same time. The more you learn the more complex your tasks will become. The internship program is an important part of our recruiting strategy.
+
+Responsibilities:
+
+• Analyze new product functional requirements to determine required data structures and behaviors
+
+• Work with the design and system teams to help devise algorithms for various applications.
+
+• Design the firmware structure to meet the functional requirements specified
+
+• Write documentation for firmware
+
+• Design and implement firmware modules using C, C++, assembly level software and standard design patterns and techniques
+
+• Define test cases and write test automation that effectively validate module design
+
+• Work with the Development Team to ensure interoperability between firmware components and hardware
+
+• Partner with Semtech’s dynamic team of senior designers who will provide mentoring and guidance throughout the internship term.
+
+This position is for a 12 – 16-month student Firmware design internship at Semtech Canada with the Signal Integrity Products Group (SIP) in our Ottawa Design Centre.
+
+Minimum Qualifications:
+
+• Good understanding of real-time operating systems
+
+• Knowledge of embedded programming in C or C++
+
+• Knowledge of Python
+
+• Ability to learn quickly and work independently or in a team environment
+
+• Ability to understand hardware block diagrams and schematics
+
+• Ability to troubleshoot, test, and debug
+
+• Desired start date May 2027, 12 to 16-month term
+
+Career Growth Philosophy
+
+At Semtech, we seek innovation and leadership from each and every member of our team. Our goal is to ensure that our talented professionals are equipped with support, resources, and the opportunity to excel. Our pay-for-performance philosophy provides recognition and prestige coupled with a competitive compensation package.
+
+The intent of this job description is to describe the major duties and responsibilities performed by incumbents of this job. Incumbents may be required to perform job-related tasks other than those specifically included in this description.
+
+All duties and responsibilities are essential job functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities.
+
+We may leverage Artificial Intelligence (AI) tools to enhance efficiency during candidate screening, assessment, and recruitment. Final hiring decisions remain with our Hiring Teams, not AI systems.
+
+A reasonable estimate of the pay range for this position is $26 - $28.5 CAD per hr. There are several factors taken into consideration in determining base salary, including but not limited to: job-related qualifications, skills, education and experience, as well as job location and the value of other elements of an employee’s total compensation package.

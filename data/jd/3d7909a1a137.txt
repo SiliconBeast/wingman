@@ -1,0 +1,75 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+As a world leader in wireless, broadband and internet technologies, Motorola Solutions is making products smarter – and life better – by unleashing the creativity of thousands of professionals from every corner of the globe.
+
+The Motorola Solutions Device Management team specializes in the fulfillment of world class software applications for managing fleets of end user two-way communications devices for public safety.
+
+Job Description
+
+This position is for a Software Engineering internship opportunity at Motorola Solutions in Plantation, Florida. The candidate will be responsible for developing and testing enterprise level, Windows based applications.
+
+These are applications written in C#/.NET8/10/Framework4.8 on both the client & server side with WPF frameworks, with the addition of Java and SQL DB operations, and a roadmap directing it towards cloud & WEB services .
+
+Responsibilities include, but are not limited to the following:
+
+• Work in an Agile/Scrum team that analyzes, develops, designs, maintains, and tests software for the organization’s products and systems.
+
+• Teamwork in a multi-site, world-wide development environment
+
+• Finding, tracking, and repairing device software defects
+
+• Performs system integration of software and hardware to maintain throughput and program consistency.
+
+Preferred Skills:
+
+• Must be pursuing a Bachelors or Masters Degree in Computer Science or Software Engineering
+
+• Familiar with C#/.NET on Windows platforms/C++/Java
+
+• Experience in the following is a plus:
+
+• Database: SQL
+
+• UI: WPF
+
+• Data model: Entity Framework
+
+• System Communications: CoreWCF, REST, OpenSSL
+
+• Dev Environment: Visual Studio 2017 or greater
+
+• Code Source Repository: Git (BitBucket/GitHub)
+
+• Work Tracking: Jira (Atlassian)
+
+• Documentation: Google Suite, Confluence (Atlassian)
+
+• Strong communication and problem solving skills.
+
+Basic Requirements
+
+• Candidate's Graduation date must occur on or after December 2027.
+
+• Candidate must be pursuing a Bachelor’s Degree or Master’s Degree in one of the following degree programs: Computer Science, Software Engineering or Computer Engineering.
+
+• Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

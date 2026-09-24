@@ -1,0 +1,55 @@
+Location: Ottawa, ON.
+
+Our Team:
+
+Semtech’s Signal Integrity Products group designs high performance optical networking product platforms that enable hyperscale data center applications, enterprise networking, wireless infrastructure including 5G networks, and passive optical network/Fibre-to-the-X markets.
+
+To put it simply, whenever you use your computer to browse the web or use your smartphone to make a video call, most likely, your data is passing through one of many high-speed mixed-signal chips designed by the IC teams at Semtech. Our experience and expertise ensures we are always pushing the boundaries of networking speed, ensuring the best experience for our end users – you!
+
+Join us, and together we will continue to build a faster, better, and more secure online world for everyone.
+
+Job Summary:
+
+As a member of our Digital Design group, you will have exposure to all areas of digital development, including definition, design, verification and implementation. As a member of the project team, you will provide high quality work and be accountable for helping the team meet its project milestones and objectives.
+
+Our approach to internship is to make the successful candidate an integral part of our team. We understand that it is best to learn through direct involvement and we will provide you with tasks that enable you to learn and to be productive at the same time. The more you learn the more complex your tasks will become. The internship program is an important part of our recruiting strategy.
+
+Responsibilities:
+
+• As our Digital Design Intern, you will be involved with:
+
+• Design, development and verification of digital circuits for use in our data communications products.
+
+• Design, layout, simulation, and verification of the digital blocks using the latest State of the Art CAD tools to implement digital designs (including Synthesis, DFT insertion, and STA/timing closure)
+
+• Semtech’s dynamic team environment and senior designers who will provide mentoring and guidance throughout the internship term.
+
+• This position is for a 12 – 16-month student Digital IC design internship at Semtech Canada with the Signal Integrity Products Group (SIP) in our Ottawa Design Centre.
+
+Minimum Qualifications:
+
+• Good understanding of digital electronic circuit fundamentals as evidenced through strong academic accomplishments in these areas
+
+• Ability to learn quickly and work independently or in a team environment
+
+• Strong analytical and problem-solving skills
+
+• Knowledge and familiarity with SystemVerilog, Verilog, or VHDL would be an asset
+
+• Exposure to CAD tools used in the digital design flow would be an asset
+
+• Experience with scripting languages such as Python would be an asset
+
+• Desired start date May 2027, 12 – 16-month term
+
+Career Growth Philosophy
+
+At Semtech, we seek innovation and leadership from each and every member of our team. Our goal is to ensure that our talented professionals are equipped with support, resources, and the opportunity to excel. Our pay-for-performance philosophy provides recognition and prestige coupled with a competitive compensation package.
+
+The intent of this job description is to describe the major duties and responsibilities performed by incumbents of this job. Incumbents may be required to perform job-related tasks other than those specifically included in this description.
+
+All duties and responsibilities are essential job functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities.
+
+We may leverage Artificial Intelligence (AI) tools to enhance efficiency during candidate screening, assessment, and recruitment. Final hiring decisions remain with our Hiring Teams, not AI systems.
+
+A reasonable estimate of the pay range for this position is $26 - $28.5 CAD per/hr. There are several factors taken into consideration in determining base salary, including but not limited to: job-related qualifications, skills, education and experience, as well as job location and the value of other elements of an employee’s total compensation package.

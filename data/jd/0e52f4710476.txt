@@ -1,0 +1,79 @@
+LiveRamp is the leading data connectivity platform. We believe connected data has the power to change the world. Our platform powers insights and experiences centered around the needs of real people, and in ways that keep the Internet open for all. LiveRampers thrive on building together with curiosity and humility—and have a good bit of fun along the way. We’re always looking for smart, kind, and creative people to grow our team and impact.
+
+Mission: LiveRamp makes it safe and easy for businesses to use data effectively.
+
+Get ready for the best learning experience of your life. You will receive the same orientation training as our full-time engineers, you will be matched with an individual mentor, and you will be committing production code by the end of your first week. In the course of your internship or Co-op, you will be tasked with one or more mission-critical projects and make meaningful contributions to LiveRamp's success. Also, if our previous interns are any guides, you will have a ton of fun in the process!
+
+Internships are 12 weeks long. Should we want to extend you a full-time offer after you graduate, we ask that you would be willing to consider this at the end of your internship.
+
+Co-ops range between 12-24 weeks long. Should we want to extend you a full-time offer after you graduate, we ask that you would be willing to consider this at the end of your Co-op.
+
+Co-Op DevOps Engineer
+
+LiveRamp is the data collaboration platform of choice for the world’s most innovative companies. A groundbreaking leader in consumer privacy, data ethics, and foundational identity, LiveRamp is setting the new standard for building a connected customer view with unmatched clarity and context while protecting precious brand and consumer trust. LiveRamp offers complete flexibility to collaborate wherever data lives to support the widest range of data collaboration use cases—within organizations, between brands, and across its premier global network of top-quality partners.
+
+Hundreds of global innovators, from iconic consumer brands and tech giants to banks, retailers, and healthcare leaders turn to LiveRamp to build enduring brand and business value by deepening customer engagement and loyalty, activating new partnerships, and maximizing the value of their first-party data while staying on the forefront of rapidly evolving compliance and privacy requirements.
+
+You will:
+Design, build, deploy infra tools like kubernetes clusters, networks, databases etc.
+Implement and harden operational tooling for observability (metrics, logs, traces), incident detection, and automated remediation to reduce MTTR and improve system resilience.
+Maintain and enhance CI/CD tooling and terraform scripts to improve the efficiency of deployments and infra automation.
+Automate infrastructure provisioning using Infrastructure as Code (IaC) to enable repeatable, self-service environment creation for engineering teams.
+Collaborate with technical, application, and security stakeholders to deliver reliable, secure database infrastructure.
+Own and participate in on-call responsibilities for Database operations team, triaging and resolving incidents, responding to tickets, and ensuring systems consistently meet defined SLAs for availability, performance, and data quality.
+Make sure DevOps best practices are followed and help internal stakeholder teams to adopt platform capabilities, automation patterns, and operational standards.
+Create runbooks, documentation for the tech stack and tools to operate and support effectively.
+Drive the technical roadmap for emerging data and infrastructure technologies by evaluating options, building proofs of concept (POCs), and authoring solution selection and design documents.
+
+Your team will:
+Build and operate the database infrastructure, tooling, and platforms that power LiveRamp’s core data and onboarding services, with a focus on reliability, security, and scale
+Provide paved roads for service development and deployment, so product teams can onboard quickly to standardized CI/CD, runtime, and observability stacks.
+Define and evolve best practices for operational readiness, production rollouts, configuration management, and runtime governance for database infrastructure.
+Maintain and continuously improve shared environments (staging, performance, and production) to ensure predictable releases and consistent behavior across tiers.
+Act as the escalation point for complex infrastructure and deployment issues, collaborating across teams to debug, root cause, and remediate systemic problems.
+Drive cross-functional initiatives to modernize our platform (for example, container orchestration, secrets management, and cost optimization for cloud resources).
+Build infra for large‑scale database tools, analytics, and AI/ML workloads across LiveRamp using tools like Mysql, SingleStore, Kubernetes, Jenkins and Cloud resources.
+Provide secure, self-service, and cost‑efficient database environments that enable product and data teams to experiment, ship, and scale data collaboration applications quickly.
+Partner closely with application, security, SRE, and platform teams to ensure database and other infra systems meet LiveRamp’s standards for privacy, compliance, reliability, and performance.
+
+About you:
+Interest or experience in DevOps, Site Reliability Engineering (SRE), or infrastructure-focused work and supporting production systems.
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related technical field, or equivalent practical experience.
+Interest or experience with at least one major cloud provider (such as AWS, GCP, or Azure) and the associated networking, security, and managed services.
+Proficiency with Infrastructure as Code tooling (for example, Terraform, CloudFormation, or similar) and configuration management frameworks.
+Interest or experience in designing and operating CI/CD pipelines (for example, GitHub Actions, Jenkins, GitLab CI, or similar) for large-scale, multi-service environments.
+Background in Linux systems, containers, and orchestration platforms (for example, Kubernetes, ECS, or similar).
+Understanding of observability stacks (metrics, logs, tracing) and using them to improve system reliability and performance.
+Proficiency in at least one scripting or programming language commonly used for automation (such as Python, Go, or Bash).
+Demonstrated success collaborating with cross-functional engineering teams, with clear written and verbal communication and a focus on practical outcomes.
+Ability to participate in an on-call rotation and lead incident response in high-availability, production environments.
+Interest or experience in doing POCs by building infra for new tools.
+Strong collaboration and communication skills, including working with cross-functional partners (security, application owners, vendors) and documenting designs and decisions clearly.
+
+Preferred Skills:
+Understanding of SDLC process
+Understanding and experience with programming languages
+Experience with Linux Operating Systems.
+Experience with deployment and monitoring tools.
+Experience in Infrastructure as code (IaC) using Terraform.
+Experience using cloud-based platforms such as AWS, GCP, Azure or similar.
+Experience with a Version Control System (GIT, Subversion, or similar)
+Benefits:
+People: Work with talented, collaborative, and friendly people who love what they do.
+Fun: We host in-person and virtual events such as game nights, happy hours, camping trips, and sports leagues.
+Work/Life Harmony: Flexible paid time off, paid holidays, options for working from home, and paid parental leave.
+
+Location: work in the heart of San Francisco and/or from home (remote-eligible roles)
+More about us:
+LiveRampers are empowered to live our values of committing to shared goals and operational excellence. Connecting LiveRampers to new ideas and to one another is one of our guiding principles—one that informs how we hire, train, and grow our global teams across nine countries and four continents. By continually building inclusive, high belonging teams, LiveRampers can deliver exceptional work, champion innovative ideas, and be their best selves. Click here to learn more about Diversity, Inclusion, & Belonging (DIB) at LiveRamp.
+For All NYC POSTINGS & SF POSTINGS
+The approximate annual base compensation range is $44,000 to $65,000. The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, geography, as well as internal equity among our team.
+LiveRamp is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status. Qualified applicants with arrest and conviction records will be considered for the position in accordance with the San Francisco Fair Chance Ordinance.
+California residents: Please see our California Personnel Privacy Policy for more information regarding how we collect, use, and disclose the personal information you provide during the job application process.
+To all recruitment agencies: LiveRamp does not accept agency resumes. Please do not forward resumes to our jobs alias, LiveRamp employees or any other company location. LiveRamp is not responsible for any fees related to unsolicited resumes.
+
+More about us:
+
+LiveRamp’s mission is to connect data in ways that matter, and doing so starts with our people. We know that inspired teams enlist people from a blend of backgrounds and experiences. And we know that individuals do their best when they not only bring their full selves to work but feel like they truly belong. Connecting LiveRampers to new ideas and one another is one of our guiding principles—one that informs how we hire, train, and grow our global team across nine countries and four continents. Click here to learn more about Diversity, Inclusion, & Belonging (DIB) at LiveRamp.
+
+We use automated decision systems (ADS) as part of our recruitment and hiring process. If you require an accommodation or believe that the use of an ADS may create a barrier to your application or participation in the hiring process due to a disability or other protected characteristic, please let us know. We are committed to providing reasonable accommodations and ensuring an equitable hiring experience for all candidates.
