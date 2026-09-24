@@ -1,0 +1,91 @@
+At Kepler Communications, we're not just imagining the future of on-demand space connectivity - we're leading it!
+ 
+Our mission is to provide real-time on-orbit connectivity for critical missions, enabling a new era of data-driven intelligence and innovation. With 33 satellites launched to date, Kepler operates the first commercial optical data relay constellation, enabling real-time, continuous space communications while supporting advanced on-orbit compute and hosted payload capabilities. 
+ 
+Industry-leading technology is only part of the story. What sets Kepler apart is our team: bold thinkers, skilled builders, and passionate problem-solvers who thrive on pushing the boundaries of what’s possible in space. We believe great ideas come from diverse perspectives, and we’re committed to creating an environment where you can grow, lead, and make a global impact. 
+ 
+If you’re ready to reach higher, move faster, and do work that shapes the future space economy - this is your launchpad. Come build the future with Kepler! 
+ 
+ 
+ 
+What We Offer: 
+- Build and operate real satellites! 
+- Get hands-on with cutting-edge space technology and real-world engineering challenges. 
+- Dedicated mentorship to support your learning and growth. 
+- Fun and collaborative work environment where you'll learn quickly and feel supported. 
+- Team-building events and opportunities to connect across the company. 
+- Fully stocked Toronto office kitchen with snacks, drinks, games, and top-notch kitchen appliances. 
+- Frequent in-office and company-wide events to stay connected and engaged. 
+- Make a direct impact on Kepler's growth and success. 
+- We’re a certified Great Place to Work® seven years in a row. 
+
+
+We invest heavily to deliver the best products to our customers, and so we’re on the hunt for a top-tier FPGA Digital Designer Engineer Intern. The RTL code you write will contribute to our new generation of satellites and earth stations. 
+
+
+Responsibilities
+•
+
+Maintain and add new functionality to our FPGA code base, including code to control and test our SDR (software-defined radio) and SDN (software-defined network);
+
+•
+
+Design custom IP for new features of both Kepler's satellites and ground stations;
+
+•
+
+Add support for new sensors/communication interfaces (such as SPI, I2C, UART);
+
+•
+
+Work with high-speed FPGA interfaces (e.g. JESD204b, 10G Ethernet, Aurora).
+
+Requirements
+•
+
+2+ years in an Electrical or Computer Engineering degree program, or equivalent;
+
+•
+
+Experience with Verilog, SystemVerilog, or VHDL. (You will be working in SystemVerilog).
+
+•
+
+Currently enrolled in an undergraduate program at a Canadian post-secondary institution and returning to studies after the internship;
+
+•
+
+Available for a full-time, 4–16 month internship beginning January 2027;
+
+•
+
+We have a strong preference for candidates who can work from our Toronto office at least 2–3 days per week to support collaboration and team engagement. We recognize that exceptional candidates may require a different arrangement and are open to discussing flexibility where appropriate.
+
+Bonus Points
+•
+
+Experience with DSP (digital signal processing) algorithms;
+
+•
+
+Strong skills with C++ and embedded programming;
+
+•
+
+Strong scripting experience (e.g. bash, Python, Tcl, etc.);
+
+•
+
+Relevant experience through hobbies or a university design team.
+
+Hourly Rate Range: $29.75 to $39.00 CAD
+ 
+Actual total compensation will be determined at the Company’s discretion and is based on a variety of job-related factors, which may include, but are not limited to, relevant knowledge, skills, experience, performance, and education and/or training. The Company encourages all qualified applicants to apply, even if the posted salary range does not align with their expectations, as it does not reflect our total compensation package.
+ 
+Job Type: This is for a current vacancy
+
+
+Employment Equity & Accommodation Statement 
+Kepler Communications is an equal opportunity employer committed to building a diverse and inclusive workplace. We welcome applications from all qualified individuals, including women, Indigenous peoples, persons with disabilities, members of visible minorities, and people of all sexual orientations and gender identities. 
+ 
+If you require accommodation during any stage of the recruitment process, please contact our People & Culture team at accommodation@kepler.space, and we will work with you to meet your needs. 

@@ -1,0 +1,35 @@
+Mill is a waste prevention technology company reimagining what it means to eliminate waste, starting with food. We build smart systems and infrastructure for homes, businesses, and municipalities that transform food scraps from landfill-bound waste into valuable resources, including chicken feed. Tens of thousands of Mill’s residential food recyclers are already helping households divert millions of pounds of food scraps every year, paving the way for our upcoming launch of Mill Commercial—the industry’s first end-to-end solution for managing, understanding, and preventing food waste in commercial environments (e.g. grocery, restaurants, food services). At Mill, we are passionate about building easy-to-use, beautifully designed technologies that keep food in the food system and out of landfills.
+
+As an Electrical Engineering intern at Mill, you’ll be working with a tight-knit, fast-paced team on a novel consumer product. Your day-to-day will include hands-on work with hardware components and lab equipment as well as schematic and layout design tools like Altium. Since we’re a small team, your work and learning will span design, tooling, and testing as we push towards launch. This internship is for someone who wants to learn and be creatively challenged.
+
+Responsibilities
+
+• Work closely with the cross-functional mechanical, systems, and firmware teams on the design and validation of new products
+
+• Run experiments to collect and analyze hardware performance, documenting and validating all results
+
+• Support engineering build activities, partnering with CMs and other teams to track test data and troubleshoot issues
+
+• Work alongside key engineers to root-cause problems and find solutions and workarounds
+
+Minimum Qualifications
+
+• Currently pursuing a bachelor's degree or higher in electrical engineering or related field or can demonstrate equivalent experience
+
+• Fundamental understanding of analog, digital, and power circuit design
+
+• Experience with microcontrollers, sensors, and motor drivers
+
+• Experience with test and measurement equipment like oscilloscopes, signal generators, multimeters, etc
+
+• Experience with Raspberry Pi, Python, or equivalent tools for scripting collection and analysis of data
+
+• Strong analytical and communication skills
+
+Preferred Qualifications
+
+•
+
+• Experience with Altium or other schematic design tools
+
+The estimated base hourly range for this position is $35 to $45, which does not include the value of benefits or a potential equity grant. A wide range of factors are considered in making compensation decisions, including but not limited to skill sets, market conditions, experience and training, licensure and certifications, and business and organizational needs. Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor an employment visa for this role

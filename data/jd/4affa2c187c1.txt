@@ -1,0 +1,27 @@
+This job requisition is posted for our 2027 internship opportunities!
+
+We are searching for a talented individual to join our development team. We are looking for an intern to work with a diverse team of software engineers and analysts to explore and develop solutions in support of AFRL, NASIC, and other Department of Defense and Intelligence Community projects. The candidate will be expected to evolve an existing Modeling & Simulation frameworks (AFSIM) and its codebase based upon customer needs. We are focused on finding innovative, self-starters who can adapt to a fast-paced, high-profile development effort.
+
+The Modeling, Analytics, and Simulation Sciences Operation is heavily focused on support to the Intelligence Community and DoD through specialized software development and M&S tools and infrastructure. We have a unique blend of analysis and modeling capabilities with an understanding of S&TI missions which enables us to provide the Government with innovative solutions to complex software requirements. We are industry leaders in the Air Force Research Lab’s AFSIM modeling and simulation environment and are heavily involved in the Intelligence Community’s TMAP and ITASE MS&A efforts. This opportunity will give the candidate exposure to a wide array of new technologies to include the latest in modeling & simulation, graphic databases, and user interface design. Our dynamic software development teams work collaboratively to develop models of vehicles, sensors, and complex interactions. We utilize analytical tools to aid in understanding test results and solutions and creating graphical representations to relate findings to decision makers.
+
+Radiance Technologies is a rapidly growing employee-owned company with benefits unmatched by most companies in the Dayton area. Employee ownership, generous 401K and profit sharing, health/dental/life/vision insurance benefits, educational reimbursements, competitive salaries, pleasant work environments, and stimulating assignments combine to make Radiance Technologies a great place to work and succeed.
+
+Required Skills
+
+• Currently pursuing a degree in Computer Science or relevant technical degree
+
+• 3.5 GPA or higher. (GPA must be on resume to be considered).
+
+• US citizenship with the ability to obtain a security clearance
+
+• Experience with programming languages such as C++ and Python
+
+• Experience with Microsoft Office tools
+
+Desired Qualifications
+
+• Self-motivated and able to work well within a team
+
+• Experience developing physics-based and logical models
+
+Radiance Technologies is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.

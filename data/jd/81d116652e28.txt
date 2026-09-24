@@ -1,0 +1,61 @@
+WEX is a global commerce platform that has been simplifying the way businesses operate for over 40 years. Our purpose is simple: to reduce administrative burdens, streamline payments, and manage mobility. With a team of over 7,200 professionals across 16 countries.
+
+Our specialties are employee benefits, business payments, and fleet/mobility solutions . We support more than 20 million SaaS accounts, 8 million Health Savings Accounts, and 19+ million vehicles worldwide. We're a growing company with a history of innovation and a focus on our customers, making this a great place to grow your career.
+
+The WEX Summer Internship Program: Learn, Lead, and Make an Impact
+
+Our 13-week paid internship program, running from late May to mid-August, is a chance for you to gain real-world experience and develop your skills. Recruiting begins in September and continues through November at our various locations across the U.S.
+
+You won't just be a bystander; you'll work on impactful projects and contribute to WEX’s mission. We provide mentorship, professional development, and weekly learning experiences to help you build confidence and leadership skills. High-performing interns may even get the chance to lead their own initiatives.
+
+We offer remote, hybrid, and onsite options for flexibility , and our goal is to bring top interns back full-time or offer them extended roles during the school year.
+
+Imagine starting your career with a company that’s building what's next. Your future starts here.
+
+About the Team/Role:
+
+We are seeking an inquisitive, proactive, and analytical Software Engineering Intern to join our Enterprise Applications & Systems Engineering organization. In this role, you will participate in solving a critical enterprise challenge: establishing a customer repository within our core enterprise architecture and CRM (Salesforce) by unifying data funneled through our modern data warehouse (Snowflake).
+
+As our business scales across diverse commercial platforms, customer and account data originates across multiple legacy systems, transactional processing engines, and operational datastores. You will act as both a technical detective and a systems builder—collaborating with senior enterprise architects, software engineers, and business leaders to sleuth out golden record sources, gather requirements for essential customer attributes, and design reusable data ingestion and transformation patterns.
+
+This internship offers hands-on enterprise systems experience, active mentorship from senior engineering leaders, and direct exposure to modern cloud data stacks and CRM architectures.
+
+How you’ll make an impact:
+
+• Investigate Source Systems: Trace data lineage across disparate systems (billing platforms, transactional processors, legacy portals, and operational services) to identify where key customer, account, and relationship attributes truly originate.
+
+• Define Customer Schema: Partner with product managers, business analysts, and functional leads across Sales, Service, and Operations to document requirements for what constitutes the "single source of truth" for customer identity in Salesforce.
+
+• Data Quality & Validation: Perform exploratory data analysis to evaluate consistency, detect schema drift, address duplicate records, and define mapping rules between upstream source models and their desitnations.
+
+• Build for Reusability: Assist in designing and building scalable, modular data extraction, transformation, and ingestion workflows so future source integrations can plug in with minimal custom code.
+
+• Harness Snowflake: Write optimized SQL transformations, views, and data processing routines within Snowflake to clean, normalize, and stage customer datasets for downstream consumption.
+
+• Integrate with Salesforce: Collaborate with Senior Salesforce Developers and Enterprise Architects to map staged Snowflake data into standard and custom Salesforce objects.
+
+• Active Mentorship & Agile Sprints: Participate in daily stand-ups, backlog grooming, and architectural design reviews alongside senior systems engineers.
+
+• Testing & Documentation: Document data dictionaries, entity-relationship diagrams (ERDs), integration flows, and automated validation tests to ensure maintainability.
+
+• AI & Automation Exploration: Leverage AI-assisted developer workflows and modern automation tooling to accelerate querying, schema mapping, and documentation generation.
+
+Experience you’ll bring:
+
+• Educational Foundation: Pursuing a Master’s degree in Computer Science, Machine Learning, Software Engineering, or a related field.
+
+• Analytical Mindset: A natural curiosity and tenacity for digging beneath the surface of complex systems to figure out how data flows, where discrepancies lie, and which source represents the ground truth.
+
+• Passion for Reusable Systems: An instinct to build tools, scripts, and data models that solve problems systematically rather than with one-off manual patches.
+
+• SQL & Relational Foundations: Solid academic or project experience writing structured SQL queries (joins, aggregations, window functions) and understanding relational database principles (foreign keys, indexing, entity relationships).
+
+• Scripting & Programming Fundamentals: Working knowledge of at least one programming or scripting language (e.g., Python, Java) and standard version control workflows (Git/GitHub).
+
+• Rapid Platform Learner: While prior hands-on experience with Snowflake or Salesforce is a plus, a demonstrable aptitude and enthusiasm to learn both enterprise platforms quickly is paramount.
+
+• Clear Technical Communication: Ability to translate complex data structures into plain language when interviewing stakeholders and gathering requirements.
+
+The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the "About Us" section.
+
+Pay Range: $30.00 - $45.00

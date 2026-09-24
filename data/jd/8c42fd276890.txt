@@ -1,0 +1,83 @@
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+About Motorola Solutions
+
+At Motorola Solutions, our mission is simple: Solving for safer. We build and connect technologies that help protect people, property, and places across the globe. Our solutions foster the collaboration critical for safer communities, schools, hospitals, and businesses. Connect with a career that matters, and help us build a safer future.
+
+The Team: Systems Integration (Elgin, IL)
+
+Our Supply Chain organization is a fast-paced, dynamic environment delivering world-class communications solutions. You will be joining the Systems Integration team at the Elgin Experience Center—the critical bridge where customer needs and technological solutions converge. Here, our engineering team:
+
+- Stages systems with technology innovations which give Motorola Solutions a competitive edge in quality, speed, and delivery.
+- Hosts hundreds of customers annually to finalize and test designs for mission-critical emergency call-handling solutions.
+- Partners with field teams to deploy infrastructure that directly supports first responders and private enterprises.
+
+Job Description
+
+The Role
+
+As an Engineering Intern, you will work in a people-first culture focused on expanding human potential. You will collaborate with cross-functional teams to build, integrate, and stage complex infrastructure ecosystems. We look for innovative thinkers who are driven, accountable, and passionate about solving hands-on technical problems.
+
+Key Responsibilities
+
+• Infrastructure Deployment: Execute the system staging process to build, image, deploy, and maintain robust infrastructure footprints.
+
+• Virtualization & OS: Provision and support VMware vSphere and Red Hat KVM virtualization environments; construct and manage unified Microsoft Windows Server architectures, Active Directory, and Linux operating systems.
+
+• Network & Security: Build, connect, and troubleshoot Cisco networking equipment (switches and routers); deploy enterprise Fortinet firewall solutions to optimize defense, traffic separation, and information flows.
+
+• Communications Tech: Integrate analog, digital, and SIP-based audio processing technologies to support real-time critical communication feeds.
+
+• Root-Cause Analysis: Analyze system behaviors and isolate performance anomalies across multi-vendor hardware, software, virtualization, and networking stacks.
+
+• Project Ownership: Complete a dedicated summer continuous-improvement project, owning all aspects from ideation to execution and presenting your findings to leadership .
+
+Preferred Skills
+
+• AI & Tech Fluency: Familiarity with generative AI tools for coding efficiency, data analysis, or process automation.
+
+• Data-Driven Mindset: Experience with data analysis and statistical concepts to identify trends, interpret data, and drive continuous improvements.
+
+• Communication & Collaboration: Strong ability to explain complex technical issues or methodologies clearly to cross-functional, non-technical stakeholders.
+
+• Structured Problem-Solving: Ability to approach technical challenges logically, prioritize tasks effectively, and drive results in a team setting.
+
+The Intern Experience: What We Offer
+
+• Leadership Exposure: Participate in senior leadership meetings, gaining direct insights on career growth and networking within a global organization.
+
+• Mentorship: Work 1:1 with experienced staff engineers who are invested in your technical development.
+
+• Real-World Impact: Build the actual systems that keep first responders and communities safe.
+
+• Career Pathways: Gain experience that positions you for future full-time engineering opportunities within Motorola Solutions.
+
+This position is located on-site in Elgin, Illinois.
+
+Basic Requirements
+
+• Working towards a Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, IT Networking, or a related discipline.
+
+• Must have an expected graduation date between 12/2028 and 6/2030.
+
+• Legal authorization to work in the U.S. indefinitely is required. Employer work permit sponsorship is not available for this position.
+
+Travel Requirements
+None
+
+Relocation Provided
+None
+
+Position Type
+Intern
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

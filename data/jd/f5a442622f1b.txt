@@ -1,0 +1,53 @@
+Mill is a waste prevention technology company reimagining what it means to eliminate waste, starting with food. We build smart systems and infrastructure for homes, businesses, and municipalities that transform food scraps from landfill-bound waste into valuable resources, including chicken feed. Tens of thousands of Mill’s residential food recyclers are already helping households divert millions of pounds of food scraps every year, paving the way for our upcoming launch of Mill Commercial—the industry’s first end-to-end solution for managing, understanding, and preventing food waste in commercial environments (e.g. grocery, restaurants, food services). At Mill, we are passionate about building easy-to-use, beautifully designed technologies that keep food in the food system and out of landfills.
+
+The role
+
+We're looking for a candidate who wants hands-on experience applying their research inside a fast-moving company. As a Computer Vision Intern, you'll work directly with Mill's Computer Vision team on real production problems — from dataset curation and model training to the pipelines and experiment tooling that make our CV systems reproducible and fast to iterate on.
+
+You'll be mentored by senior members of our Computer Vision team and see your work reach real devices and users. This is a hybrid role based in San Bruno, CA .
+
+What you'll work on
+
+• Build and improve computer vision models — detection, segmentation, and classification — for material and food recognition and related tasks
+
+• Curate, explore, and QA large image/video datasets, surfacing failure modes, duplicates, and labeling issues
+
+• Develop and scale training pipelines and experiment-tracking/reporting so experiments are reproducible and results are easy to compare — i.e., help build the "experiment harness" the team relies on
+
+• Design and run rigorous model evaluations and contribute to how we measure progress
+
+• Collaborate with engineering and data teams to move promising results toward production
+
+• Document your methods and share findings with the team
+
+What you'll bring
+
+• Currently pursuing (or recently completed) a Degree in Computer Vision, Machine Learning, Robotics or a related field
+
+• Strong programming in Python and hands-on experience with a deep-learning framework
+
+• Solid grounding in modern computer vision (object detection, segmentation, representation learning, etc.)
+
+• Experience training and evaluating models on real datasets, and comfort with the messiness of real-world data
+
+• A genuine interest in translating research skills into practical, shipped systems
+
+Nice to have
+
+• Experience with MLOps / experiment-tracking tooling ( ClearML , Weights & Biases, MLflow)
+
+• Experience with dataset-management and curation tooling ( FiftyOne / Voxel51 , CVAT, Roboflow)
+
+• Familiarity with data/training pipelines, cloud (AWS/GCP), and Docker/Kubernetes
+
+• Publications or open-source contributions in CV/ML
+
+Logistics
+
+• Location: San Bruno, CA — hybrid
+
+• Duration: [e.g., 3–6 months, flexible around your academic schedule]
+
+• Start date: immediate
+
+The estimated base hourly range for this position is $35 to $45, which does not include the value of benefits or a potential equity grant. A wide range of factors are considered in making compensation decisions, including but not limited to skill sets, market conditions, experience and training, licensure and certifications, and business and organizational needs. Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor an employment visa for this role
