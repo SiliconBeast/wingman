@@ -1,0 +1,67 @@
+Business Unit/Role Specific Information
+
+The Credit and Fraud Risk (CFR) team at American Express employs 3,500 global professionals focused on managing credit, fraud, and banking risk, optimizing risk trade-offs while delivering exceptional customer experiences. CFR’s work spans the entire customer lifecycle, supporting core processes like credit underwriting, fraud detection, servicing, and product development while also maintaining regulatory compliance and operational integrity. CFR leverages advanced analytics, data science, and AI/ML techniques to drive risk modeling, personalize decisions, and enhance customer experiences
+
+How will you make an impact in this role?
+
+The Data Science Intern will contribute to the development of predictive models and analytical solutions that inform key business decisions across credit, fraud, and marketing. By applying statistical, machine learning, and AI techniques to complex datasets, they will generate insights that enhance customer experience, strengthen risk management, and support innovation across the enterprise.
+
+As an intern your responsibilities can include:
+
+•
+Independently lead an analytical project or workstream from problem definition through recommendation and final presentation.
+
+•
+Query, analyze, and derive insights from large and complex datasets using tools such as SQL, Hive, Python, and other analytical technologies.
+
+•
+Build, test, and evaluate predictive models using machine learning, statistical techniques, and advanced analytical methods.
+
+•
+Translate ambiguous business challenges into structured analytical approaches and actionable recommendations.
+
+•
+Leverage large-scale data assets and/or develop GenAI-enabled solutions to address business challenges and improve decision-making.
+
+•
+Partner directly with business stakeholders to understand objectives, align on solutions, and communicate key findings.
+
+•
+Develop and present recommendations that drive business outcomes, exercising independent judgment and accountability throughout project execution.
+
+Minimum Qualifications:
+
+•
+Currently enrolled in a Graduate or PhD degree program with an expected graduation date between December 2027 and June 2028.
+
+•
+Pursuing a Master’s PhD degree program in Computer Science, Statistics, Data Science, Mathematics, Artificial Intelligence, or a related quantitative field.
+
+•
+3+ years of professional experience in analytics, data science, quantitative research, machine learning, software engineering, or a related field.
+
+•
+Demonstrated ability to independently manage analytical projects and deliver results with limited direction.
+
+•
+Proficiency in Python and experience applying statistical, machine learning, or AI techniques to solve business or research problems.
+
+•
+Experience working with large datasets using SQL, Hive, or similar technologies and/or developing GenAI, NLP, LLM, or AI-powered solutions.
+
+•
+Strong analytical, communication, presentation, and problem-solving skills.
+
+Preferred Qualifications
+
+•
+Experience presenting analytical insights and recommendations to stakeholders and influencing business decisions.
+
+•
+Published research, patents, academic publications, conference presentations, or other significant analytical project work.
+
+Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. From delivering differentiated products to providing world-class customer service, we operate with a strong risk mindset, ensuring we continue to uphold our brand promise of trust, security, and service.
+
+As part of Team Amex, you’ll experience our powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.

@@ -1,0 +1,71 @@
+At American Express, our mission is to deliver the world’s best customer experience every day. At the heart of this mission is our Information Security organization, enabling exceptional experiences built on a foundation of trust, service, and security. We leverage advanced technologies and data-driven insights to stay ahead of an evolving threat landscape. We foster a culture of passion, curiosity, and courage—empowering you to innovate, grow, and help shape the future of a Fortune 100 company.
+Trust. Service. Security.
+
+Business Unit/Role Specific Information
+
+The Enterprise Technology Services organization partners with every part of the American Express business to power the company’s growth and innovation with trust and efficiency, and drive competitive differentiation with speed. We support the delivery and operations of technology, digital, and data capabilities, platforms, and services globally. Specifically, our team is responsible for the company’s technology engineering, architecture, and infrastructure, providing 24x7 support to ensure an uninterrupted, high-quality experience for customers and colleagues. We also provide product management for core enterprise platforms, and lead technology risk and information security, enterprise data governance and platforms, digital product and design, and enterprise AI platforms on behalf of the company.
+
+Role Description
+At American Express, we empower future technologists to learn, innovate, and make an impact from day one. As a Cybersecurity Intern in Enterprise Technology Services, you’ll join a 10-week Summer Internship Program and contribute to work that helps protect American Express information systems, customer data, colleague experiences, and digital assets.
+
+Cybersecurity teams help identify, reduce, monitor, and respond to technology and information security risks. In this role, you may support cybersecurity operations, secure architecture, identity and access management, endpoint protection, security monitoring, application security, documentation, and AI-enabled cybersecurity workflows with guidance from peers and leaders.
+
+You’ll collaborate with cybersecurity teams, product partners, software development teams, operations teams, and business stakeholders to learn how security controls, secure development practices, and threat detection capabilities are designed, implemented, documented, and continuously improved.
+
+Key Responsibilities:
+
+• Supports in monitoring security systems and events using a variety of tools, alerts, and logs to identify potential threats and vulnerabilities, ensuring timely detection and prevention of security or operational issues
+
+• Triages and investigates security or operational issues to determine root causes, impacts, and potential mitigation strategies, helping to prevent future incidents and minimize damage
+
+• Support secure network, endpoint, identity, and access management activities with guidance from peers and leaders.
+
+• Assist with security documentation, assessment findings, remediation tracking, and reporting to support compliance and security posture improvements.
+
+• Collaborate with software development and product teams to learn how security is integrated into the software development lifecycle and secure coding practices.
+
+• Conduct research on emerging cyber threats, security technologies, AI-enabled security risks, and control approaches to support team knowledge and decision-making.
+
+• Use AI-enabled cybersecurity tools to support threat detection, alert triage, analysis, documentation, and investigation activities while validating outputs before escalation or implementation.
+
+• Assist with security control implementation and monitoring approaches for cloud-based, AI-enabled, or enterprise technology services under guidance.
+
+• Apply structured prompt design techniques when using AI agent-enabled security tools, including clear context, objectives, constraints, and security requirements.
+
+Minimum Qualifications
+
+• Must have earned a Bachelor’s degree in Cybersecurity, Computer Science, Information Systems, Computer Engineering, Engineering, or another technical field before the full-time start date.
+
+• Students must have a graduation date between December 2027 and June 2028.
+
+• Foundational understanding of cybersecurity, information security, application security, network security, cloud security, or technology risk concepts.
+
+• Foundational knowledge of network protocols, security fundamentals, identity and access management, data privacy, data protection, or secure software development concepts.
+
+• Interest in scripting or automation using languages such as Python, Bash, PowerShell, or similar technologies.
+
+• Strong communication, collaboration, analytical thinking, discretion, attention to detail, and learning agility with the ability to work effectively in a team environment.
+
+Preferred Qualifications
+
+• Coursework, projects, internships, labs, competitions, research, or extracurricular experience in cybersecurity, information security, artificial intelligence, machine learning, software development, cloud, data, networking, or technology risk.
+
+• Awareness of security standards, regulatory compliance, data privacy, data protection, security governance, and risk management concepts.
+
+• Familiarity with security monitoring, threat detection, vulnerability management, incident response, endpoint protection, network security, or identity and access management concepts.
+
+• Exposure to security tools, platforms, or operational processes used to investigate alerts, analyze threats, document findings, or support remediation activities.
+
+• Interest in application security, secure coding, DevSecOps, cloud security, IAM, data security, network security, or AI security.
+
+• Awareness of AI-enabled cybersecurity capabilities and emerging risks such as prompt injection, model misuse, data exposure, AI-assisted security operations, and automation-enabled analysis.
+
+• Interest in cybersecurity certifications or continued learning; certifications are not required for early-career consideration.
+
+• Strong problem solving, curiosity, ownership, professionalism, ethical judgment, and comfort learning new technologies in a fast-paced environment.
+
+Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. From delivering differentiated products to providing world-class customer service, we operate with a strong risk mindset, ensuring we continue to uphold our brand promise of trust, security, and service.
+
+As part of Team Amex, you’ll experience our powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.

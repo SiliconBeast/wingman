@@ -1,0 +1,79 @@
+Business Unit / Role Specific Info
+
+The Enterprise Technology Services organization partners with every part of the American Express business to power the company’s growth and innovation with trust and efficiency, and drive competitive differentiation with speed. We support the delivery and operations of technology, digital, and data capabilities, platforms, and services globally. Specifically, our team is responsible for the company’s technology engineering, architecture, and infrastructure, providing 24x7 support to ensure an uninterrupted, high-quality experience for customers and colleagues. We also provide product management for core enterprise platforms, and lead technology risk and information security, enterprise data governance and platforms, digital product and design, and enterprise AI platforms on behalf of the company.
+
+At American Express, we empower future technologists to learn, innovate, and make an impact from day one. As a Data Engineer Intern in Enterprise Technology Services, you’ll join a 10-week Summer Internship Program and contribute to real-world data engineering initiatives that help teams build reliable, scalable, and well-governed data solutions.
+
+Data Engineers help make data available, trustworthy, and useful for business, product, analytics, and technology teams. In this role, you may support data requirements, data modeling, data pipelines, database systems, big data patterns, cloud-native data tooling, and production support activities with guidance from peers and leaders. You’ll gain exposure to data architecture, database systems, modern data platforms, data pipelines, and agile engineering practices.
+
+You’ll collaborate with engineers, product partners, data practitioners, architects, and business stakeholders to learn how enterprise data systems are designed, developed, documented, supported, monitored, and continuously improved.
+
+About the Team
+
+Enterprise Technology Services teams build and support technology that enables trusted, secure, and customer-first experiences across American Express. Data Engineering teams help design, integrate, optimize, and maintain the systems and pipelines that move data across platforms and products.
+
+As a Data Engineer Intern, you’ll contribute at an early career level while learning how data requirements, architecture, database infrastructure, Agile delivery, data quality, lineage, governance, and responsible AI-enabled engineering practices come together in an enterprise environment.
+
+What type of work can you expect? How will you make an impact in this role?
+
+• Review data requirements, sources, flows, and models with guidance to support integration and alignment with data architecture.
+
+• Support the design, development, testing, and improvement of data pipelines, database infrastructure, and integration patterns.
+
+• Assist with database development and support across relational, non relational, NoSQL, Big Data, and cloud native data platforms
+
+• Apply foundational Big Data concepts such as partitioning, indexing, storage patterns, performance tuning, and scalable processing under guidance.
+
+• Collaborate with product, business, architecture, and engineering partners in an Agile team while following development and documentation standards.
+
+• Use AI enabled tools for development, troubleshooting, documentation, testing, and code validation while validating AI generated recommendations before implementation.
+
+• Support monitoring, observability, data preparation, and continuous improvement activities that strengthen pipeline reliability, data quality, and engineering productivity.
+
+Minimum Qualifications
+
+• Currently enrolled in a full-time Bachelor’s degree program in Computer Science, Computer Engineering, Information Systems, Data Engineering, Data Science, Engineering, or another technical field.
+
+• Foundational knowledge of SQL and at least one programming language such as Python or Java.
+
+• Foundational understanding of computer science concepts such as data structures, algorithms, debugging, testing, and problem-solving.
+
+• Familiarity with data requirements, models, pipelines, database systems, storage formats, and architecture patterns support business and product goals.
+
+• Demonstrated interest in data engineering, databases, data platforms, analytics, cloud data tooling, Big Data, or software engineering.
+
+• Strong communication, collaboration, organization, and learning agility with the ability to work effectively in a team environment.
+
+Preferred Qualifications
+
+• Bachelor’s degree candidates with an expected graduation date between December 2027 and June 2028.
+
+• Coursework, projects, internships, hackathons, research, or extracurricular experience involving SQL, Python, Java, data pipelines, databases, APIs, analytics, or data engineering concepts.
+
+• Knowledge of relational and non-relational database concepts such as data modeling, indexing, partitioning, replication, high availability, encryption, performance tuning, and data maintenance.
+
+• Familiarity with Big Data, SQL, or cloud-native data platforms such as HBase, Hive, MongoDB, Cassandra, Redis, Couchbase, BigQuery, Spanner, PostgreSQL, Oracle, MS SQL Server, DB2, or similar tools.
+
+• Awareness of distributed systems, multi-tiered architectures, scalable storage patterns, online transaction processing, and online analytical processing systems.
+
+• Exposure to data modeling, data maintenance, access algorithms, and documentation practices
+
+• Knowledge of database management system products and ecosystem - e.g., storage formats, access algorithms, data management processes, administration, data maintenance, replication, high availability, encryption, etc
+
+• Basic exposure to cloud platforms such as Google Cloud Platform (GCP), AWS, or Azure through coursework, certifications, or personal projects.
+
+• Interest in data preparation practices that support analytics, business intelligence, machine learning, AI applications, reporting, or data-driven decision-making.
+
+• Familiarity with Agile, Scrum, Test-Driven Development, or related software delivery practices.
+
+• Knowledge on AI assisted engineering tools and responsible AI/data governance principles, including validation, privacy, lineage, data quality, security, and protection of sensitive information.
+
+• Strong analytical thinking, attention to detail, proactive problem solving, ownership, resilience, and comfort learning new technologies in a fast-paced environment.
+
+Our team reviews applications on a rolling basis. We appreciate your patience while we consider your application and will contact qualified candidates regarding next steps.
+
+Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. From delivering differentiated products to providing world-class customer service, we operate with a strong risk mindset, ensuring we continue to uphold our brand promise of trust, security, and service.
+
+As part of Team Amex, you’ll experience our powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.

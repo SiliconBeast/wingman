@@ -1,0 +1,131 @@
+In this Electro-Acoustics Engineering Co-Op, you’ll work side-by-side with experienced design, development, and research engineers to help create the next generation of professional loudspeakers and audio systems. Over two consecutive semesters, you’ll get hands-on experience with the entire product-development process—from the first prototype and lab measurement to analysis, troubleshooting, refinement, and ultimately bringing a market-leading product to life.
+
+This isn’t a co-op where you spend your days watching from the sidelines. You’ll be in the lab, building, measuring, analyzing data, and solving problems.
+
+Your work may revolve around a primary engineering project, but you can expect plenty of variety along the way. Every day can bring a new technical challenge, experiment, or opportunity to learn something different.
+
+What You’ll Do
+
+Get Hands-On in the Lab
+
+You’ll work directly with loudspeakers, test equipment, prototypes, and the systems used to evaluate professional audio products.
+
+• Constructing and modifying prototype loudspeaker systems.
+
+• Performing acoustical, electrical, mechanical, thermal, and materials testing.
+
+• Designing and building new test systems, including hardware, software, data acquisition, and measurement setups.
+
+• Maintaining, troubleshooting, and repairing existing test equipment and systems.
+
+• Soldering, wiring, assembling components, and making mechanical repairs.
+
+• Assembling loudspeaker cabinets and moving loudspeaker systems between test rooms and facilities.
+
+• Performing acoustic measurements using microphones, anechoic chambers, impedance measurement systems, and other specialized equipment.
+
+• Setting up experiments and figuring out creative ways to measure things that don't have an obvious measurement method.
+
+Analyze, Simulate & Solve Problems
+
+Great audio engineering isn't just about hearing the difference—it’s about understanding why there is a difference.
+
+• Analyze acoustic, electrical, mechanical, and electro-magnetic test data.
+
+• Use simulation tools to predict and understand loudspeaker performance.
+
+• Troubleshoot unexpected test results and determine their root causes.
+
+• Create and modify mechanical designs using CAD.
+
+• Produce mechanical drawings and documentation.
+
+• Support product development, engineering validation, and industrialization activities.
+
+• Research electro-acoustic technologies and investigate new approaches to loudspeaker design.
+
+• Research international standards and industry validation methods.
+
+• Use programming and data-analysis tools to automate measurements, process data, and make engineering decisions.
+
+What You’ll Learn
+
+By the end of the co-op, you’ll have experience with far more than textbooks and classroom theory. You’ll gain exposure to the complete professional loudspeaker development process and learn how engineering concepts become real products.
+
+• Loudspeaker design: Thiele/Small parameters and their application to loudspeaker systems.
+
+• Signal processing: Analog and digital filters, Fourier analysis, frequency- and time-domain analysis, digital signal processors, and frequency-response manipulation.
+
+• Programming & automation: MATLAB, Simulink, LabVIEW, Python, and related engineering tools.
+
+• Electro-acoustic engineering: Understanding the interaction between electrical, mechanical, and acoustic systems.
+
+• Simulation: Acoustic, mechanical, and electro-magnetic modeling.
+
+• Crossover design: Passive 2-way and 3-way loudspeaker crossover networks.
+
+• Thermal sciences: Heat transfer, fluid dynamics, and thermal behavior of audio components.
+
+• Mechanical design: CAD, assemblies, drawings, prototyping, and basic woodworking.
+
+• Test & measurement: Microphones, impedance measurement, data acquisition, anechoic measurements, and laboratory test methods.
+
+• Professional audio systems: PA systems, mixers, effects, DJ equipment, live bands, and sound reinforcement.
+
+What We’re Looking For
+
+We’re looking for students who are curious, hands-on, analytical, and genuinely excited about audio.
+
+Strong candidates will have experience or coursework in several of the areas above. You don't need to know everything on day one—we expect you to learn. What matters most is that you’re excited to understand how things work, why they work, and how to make them better.
+
+Particularly valuable qualifications include:
+
+• Engineering students at a Sophomore, Junior, or Senior level
+
+• Familiarity with Thiele/Small parameters and loudspeaker design.
+
+• Programming experience with MATLAB, Simulink, LabVIEW, Python, or similar tools.
+
+• Experience with live sound reinforcement, PA systems, DJ equipment, mixers, effects, or live music.
+
+• Strong critical listening skills and an interest in music production, recording, mixing, mastering, or loudspeaker evaluation.
+
+• Knowledge of signal processing and frequency/time-domain analysis.
+
+• Experience designing passive crossover networks.
+
+• Familiarity with thermal sciences, heat transfer, or fluid dynamics.
+
+• CAD experience and an interest in mechanical design.
+
+• Hands-on experience with woodworking, hand tools, soldering, wiring, or building things.
+
+• An analytical mindset and the ability to turn a confusing test result into a solvable engineering problem.
+
+Most Important: Bring Your Passion for Audio
+
+We're especially interested in students who don't just love music or audio—they're curious about it.
+
+Come spend two semesters with us, and leave with the experience of having helped create something!
+
+The U.S. hourly range for this full-time position is $25.00-27.00 per hour. Within the range, individual pay is determined based on several factors, including, but not limited to, work experience and job knowledge, complexity of the role, job location, etc.
+
+In addition to base salary, full-time employees are eligible to participate in Keenfinity Group's (US) Health and Welfare Benefit Plans—including medical, dental, vision, disability, and life insurance—as well as the company’s 401(k) plan, subject to the terms and conditions of the respective plan documents. Full-time employees are eligible to participate in Keenfinity Group’s paid time off and sick leave programs in accordance with applicable policies.
+
+• Reasonable accommodations may be made, to the extent they do not pose an undue hardship, to enable qualified individuals with covered disabilities to perform essential functions.
+
+• Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization is not available.
+
+• All of your information will be kept confidential according to EEO guidelines.
+
+At Keenfinity we don’t just build innovative solutions — we shape a smarter, more connected world through technology. We value different backgrounds, ideas, and experiences and we’re committed to growing, learning, and celebrating success as one team. Everyone is welcome here — we foster an environment where everyone is respected, valued, and encouraged to be their authentic self.
+
+Keenfinity is an equal opportunity employer, offering equal opportunities for all. We welcome applications from people with disabilities and can offer support, if needed. When everyone has a chance to contribute, we all do better.
+
+#Electro-Voice Dynacord
+
+The Audio Business Division of Electro-Voice Dynacord LLC is headquartered in Burnsville, Minnesota. Our product segments include Critical Communications Systems, Pro Sound, and Public Address & Conferencing.  With our premium brands: Dynacord, Electro-Voice, RTS and Telex , we are committed to delivering innovative solutions that shape the future of sound.
+
+At KEENFINITY, we are a globally leading provider of innovative and professional security and communication solutions. With over 4,200 employees in over 50 countries worldwide, our ambition is clear: we offer more than just technology – we secure, connect, and amplify the moments that matter in life.
+
+Next to our passion for technology we’re very passionate about our work environment. Based on values such as trust, appreciation, and accountability we all work together to shape the future – boldly, customer-focused and with a strong team spirit.

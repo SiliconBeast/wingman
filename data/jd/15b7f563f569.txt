@@ -1,0 +1,118 @@
+Job descriptions may display in multiple languages based on your language selection.
+
+What we offer:
+
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+
+Group Summary:
+
+Transforming mobility. Making automotive technology that is smarter, cleaner, safer and lighter. That’s what we’re passionate about at Magna Electronics, and we do it by creating world-class Electronic systems. We are a premier supplier for the global automotive industry with full capabilities in design, development, testing and manufacturing of complex Electronic systems. Our name stands for quality, environmental consciousness, and safety. Innovation is what drives us and we drive innovation. Dream big and create the future of mobility at Magna Electronics.
+
+Job Responsibilities:
+
+About the Role:
+
+As an ADAS Functions Software Development Working Student, you will work closely on cutting-edge ADAS driving functions such as Braking, Lateral Control, and Adaptive Cruise Control (ACC), as well as Perception Functions and customer-delivered software modules integrated into the MCU environment.
+
+Your Main Responsibilities:
+
+•
+Contribute to the development and enhancement of advanced driving, perception, and customer-focused software functions.
+
+•
+Analyze, optimize, and support software development tools such as ARXML Converter and Contract Header Generator used within the CFB environment.
+
+•
+Help shape and expand a common software repository for next-generation Driving Functions.
+
+•
+Support the setup, maintenance, and continuous improvement of development hardware benches and Hardware-in-the-Loop (HIL) environments.
+
+Who we are looking for:
+
+•
+Strong programming skills in Embedded C with a passion for software development.
+
+•
+Practical experience with Git and GitHub in collaborative development environments.
+
+•
+Solid Python programming skills and interest in automation and tool development.
+
+•
+Strong analytical thinking and problem-solving capabilities.
+
+•
+Confident communication skills in English, both written and spoken; German is a plus.
+
+•
+Curiosity, initiative, and a strong desire to continuously learn and grow.
+
+•
+A collaborative mindset and enthusiasm for working with international teams across Europe, Asia, and the USA.
+
+•
+Ability to manage multiple priorities in a dynamic and fast-paced environment.
+
+•
+Self-motivated working style combined with strong teamwork abilities.
+
+•
+High level of commitment, energy, and willingness to take on new challenges.
+
+Your preferred qualifications:
+
+•
+Basic knowledge of AUTOSAR OS, RTE, and CDD configurations.
+
+•
+Hands-on experience with EB tresos tools and AUTOSAR Builder.
+
+•
+Understanding of AUTOSAR Application Software Component (APP SWC) configurations.
+
+•
+Experience with software debugging using WINIDEA and/or TRACE32.
+
+•
+Familiarity with software build environments and tools such as Make and CMake.
+
+Site Benefits:
+
+•
+Collegial, supportive, and friendly working atmosphere with a "Duz" culture
+
+•
+Attractive and performance-oriented compensation package
+
+•
+Prospects and opportunities for personal and professional development through various training offers.
+
+•
+Individual work arrangements through flexible working hours and opportunities to use "Office Work" and "Mobile Work" personally.
+
+•
+Corporate benefits program
+
+•
+International and diverse environment and open-door culture
+
+Awareness, Unity, Empowerment:
+
+At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email or traditional mail to comply with GDPR requirements and your local Data Privacy Law.
+
+AI-Assisted Screening Disclosure
+
+As part of our commitment to a fair, consistent, and efficient recruitment process, we may use artificial intelligence (AI) tools to assist in the initial screening of applications submitted through our Workday system. These tools help identify qualifications and experience that align with the role requirements. Please note that AI is used solely to support our recruiters. Final decisions are always made by the hiring manager and the hiring team. Importantly, no applicant data is shared externally through these AI tools. All information remains securely within our systems and is handled in accordance with our privacy and data protection policies.
+
+Under conditions defined by applicable law, you may have the right to request an explanation of how AI is used to support decision-making.
+
+If you have any questions or concerns about this process, feel free to contact our Talent Attraction team.
+
+Worker Type:
+
+Student / Co-Op
+
+Group:
+
+Magna Electronics

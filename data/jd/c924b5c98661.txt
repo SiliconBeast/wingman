@@ -1,0 +1,99 @@
+Business Unit / Role Specific Information
+
+At American Express, Finance Data Science & Analytics applies advanced modeling, machine learning, artificial intelligence, and statistical techniques to help the organization make scientifically grounded decisions around growth, risk, profitability, and enterprise strategy. Finance Decision Scientists work at the intersection of Finance, Business, Risk, and Technology to develop predictive models, analytical frameworks, and data-driven insights that inform senior management decisions and improve how we forecast, optimize, and manage the business.
+
+This internship is designed for candidates who want to build and apply modeling capabilities to real-world business problems. Interns will work with large-scale datasets, develop and test predictive models, translate business questions into technical modeling approaches, and communicate insights in a clear, structured way. The role requires strong quantitative problem-solving, hands-on programming, and the ability to connect model outputs to business strategy and decision-making.
+
+Team Responsibilities Include
+
+•
+Develop predictive models and analytical frameworks that forecast key top-line and financial metrics, supporting both short-term execution and long-term strategic planning.
+
+•
+Apply machine learning, statistical modeling, and advanced analytics to identify drivers of business performance, risk, customer behavior, and enterprise value.
+
+•
+Build, validate, and interpret models that inform decisions related to growth, profitability, credit performance, fraud, recessionary preparedness, and balance sheet management.
+
+•
+Translate complex business problems into structured analytical questions, modeling approaches, and measurable outcomes.
+
+•
+Partner with Finance, Business, Risk, and Technology teams to embed model-driven insights into strategic decision-making.
+
+•
+Communicate modeling methodology, assumptions, results, and business implications through clear documentation and executive-ready presentations.
+
+How will you make an impact in this role?
+
+As an intern your responsibilities can include:
+
+•
+Query, transform, and analyze large datasets using SQL, Python, and related analytical tools.
+
+•
+Build, test, and refine predictive models using statistical and machine learning techniques such as regression, classification, clustering, decision trees, and other supervised or unsupervised methods.
+
+•
+Evaluate model performance, improve predictive accuracy, and document modeling choices, assumptions, limitations, and rationale.
+
+•
+Apply Python or R to conduct exploratory data analysis, feature engineering, model development, automation, and validation.
+
+•
+Translate Finance and business objectives into technical requirements, analytical plans, and modeling solutions.
+
+•
+Develop insights from model outputs and explain implications for business strategy, risk management, financial planning, or operational decision-making.
+
+•
+Create a clear final presentation that communicates the project’s purpose, modeling approach, key findings, limitations, and business impact.
+
+Minimum Qualifications
+
+•
+Currently enrolled in a full-time graduate degree program in Data Science, Statistics, Computer Science, Applied Mathematics, Engineering, Quantitative Finance, Artificial Intelligence, Physics, or a related quantitative field.
+
+•
+Expected graduation date between December 2027 and June 2028.
+
+•
+3 plus years of prior relevant full-time work experience.
+
+•
+Coursework, research, internship, or project experience involving predictive modeling, machine learning, statistical analysis, optimization, or applied data science.
+
+•
+Demonstrated ability to use programming and quantitative methods to solve ambiguous, real-world problems.
+
+Preferred Qualifications
+
+•
+Predictive modeling, machine learning, and statistical analysis experience.
+
+•
+Python or R programming for data analysis, modeling, automation, and validation.
+
+•
+SQL proficiency and experience working with large datasets.
+
+•
+Understanding of feature engineering, model training, validation, performance measurement, and interpretation.
+
+•
+Strong quantitative problem-solving skills and attention to detail.
+
+•
+Ability to explain modeling approaches and business implications to technical and non-technical audiences.
+
+•
+Understanding of LLM-based AI systems and the ability to effectively leverage them for optimized workflow
+
+•
+Power BI or other visualization experience helpful for communicating insights
+
+Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. From delivering differentiated products to providing world-class customer service, we operate with a strong risk mindset, ensuring we continue to uphold our brand promise of trust, security, and service.
+
+As part of Team Amex, you’ll experience our powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.

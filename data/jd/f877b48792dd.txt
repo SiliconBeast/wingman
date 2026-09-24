@@ -1,0 +1,53 @@
+About Marvell
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+
+Your Team, Your Impact
+As part of the Cloud Switch / Design Verification team at Marvell, you will help verify complex semiconductor solutions that power next-generation cloud data center switching silicon. Our Switch group builds the switching systems that is used by hyperscale customers, so the quality of our verification work directly determines whether these chips work correctly in production.
+
+What You Can Expect
+
+• Use industry-standard verification tools and methodologies — Verilog/SystemVerilog, UVM, and C — to verify SoC designs.
+
+• Help design, implement, and maintain UVM testbench components and other verification collateral to support functional verification.
+
+• Develop simulation test environments and components such as testbenches, checkers, and monitors.
+
+• Analyze design specifications to help build test plans, develop test cases, run simulations, and analyze results against coverage goals.
+
+• Use problem-solving skills to debug failing simulations, work with designers to resolve issues, and analyze functional/code coverage.
+
+• Automate data collection and analysis using Python or other scripting languages.
+
+What We're Looking For
+
+• Currently pursuing a Bachelor's or Master's degree in Electrical/Computer Engineering, Computer Science.
+
+• Coursework or project experience with Verilog/SystemVerilog; familiarity with UVM-based verification methodologies is a plus.
+
+• Understanding of digital logic design, finite state machines, and computer architecture fundamentals.
+
+• Working knowledge of C/C++ and scripting languages (Python, Perl, or Tcl).
+
+• Comfortable working in a Linux environment.
+
+• Strong communication and problem-solving skills; enthusiasm for learning new verification methodologies.
+
+&#xa;&#xa;
+Additional Compensation and Benefit Elements
+
+With competitive compensation and great benefits, you will enjoy our workstyle within an environment of shared collaboration, transparency, and inclusivity. We’re dedicated to giving our people the tools and resources they need to succeed in doing work that matters, and to grow and develop with us. For additional information on what it’s like to work at Marvell, visit our Careers page.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Interview Integrity
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
+#LI-NR1
