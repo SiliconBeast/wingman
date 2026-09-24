@@ -1,0 +1,97 @@
+Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe— large enterprises, sovereign governments, and the US military. With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts.
+
+Astranis is the preferred satellite communications partner for buyers with stringent requirements for uptime, data security, network visibility, and customization. Astranis has raised over $750 million from some of the world’s best investors, from Andreessen Horowitz to Blackrock and Fidelity, and employs a team of 450 engineers and entrepreneurs. Astranis designs, builds, and operates its satellites out of its 153,000 sq. ft. headquarters in Northern California, USA.
+
+FPGA Intern (Summer 2027)
+
+Internships at Astranis typically last for twelve weeks, and are hourly roles designed for students who are currently enrolled at a four-year university.
+
+As an Intern, you will have an amazing opportunity to work on hard problems — we pride ourselves on giving everyone at Astranis a chance to do meaningful work on challenging projects, no matter their seniority. Many past interns have designed and tested hardware/software that is heading to space on our first satellite, and many of them are now full-time employees at Astranis.
+
+If you have already graduated from a four-year university, please apply to be an Associate Engineer.
+
+Role:
+
+• RTL Development for FPGA targeted applications
+
+• Work with multiple FPGAs and toolchains
+
+• Interface FPGAs with a variety of peripherals including high speed data converters, memories, MCUs
+
+• Write software to interface and test RTL in hardware
+
+• Collaborate closely with electrical and software engineers
+
+Requirements:
+
+• US Citizenship or Green Card (This is a legal requirement; no exceptions)
+
+• Currently pursuing a B.S. or M.S. in electrical engineering, computer science, computer engineering, or equivalent
+
+• A passion for hardware development, including working in a fast-paced environment and hands-on design and development
+
+• Experience in designing, implementing, and testing high throughput systems implemented on FPGAs
+
+• Proficiency with Verilog/SystemVerilog for synthesis
+
+• Don't meet them all? Not a problem. Please apply even if you do not meet all these criteria.
+
+Bonus:
+
+• Experience with UVM and advanced SystemVerilog verification
+
+• Experience with Xilinx FPGAs
+
+• Experience with Vivado IDE, TCL
+
+• Familiarity with system level estimates and implications of power, thermal, and real estate
+
+• Experience with high speed data converters (ADCs, DACs, JESD204B)
+
+• Experience with circuit level debugging
+
+• Experience with digital communication theory and implementation, such as LDPC implementations
+
+• Experience with space-based systems
+
+• Experience with modern communication systems (RF, IF/IQ, time/freq domains, modulation)
+
+• Experience in at least 1 domain beyond logic design. This could be DSP/radio design, software, hi-rel design (e.g. fault analysis & recover), etc.
+
+The base pay for this position is $29.00 per hour.
+
+Base Hourly Pay
+
+$29 — $29 USD
+
+U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required
+
+(To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+
+Our mission and products are built for everyone, regardless of gender, race, creed, or background. We believe in a diverse and inclusive workplace, and we invite all people to join our team and bring their unique perspectives to make us stronger.
+
+SMS Terms of Service
+
+1. When you opt in to receive SMS messages from Astranis Space Technologies Corp. , we may send you messages related to your job application, including updates, interview coordination, and other recruiting communications.
+2. You can cancel the SMS service at any time by replying with any of the following industry standard keywords:
+
+a. STOP
+b. STOPALL
+c. OPTOUT
+d. CANCEL
+e. END
+f. QUIT
+g. UNSUBSCRIBE
+h. REVOKE
+
+3. After you opt out, we may send one final text message confirming that you have been unsubscribed. No further recruiting SMS messages will be sent unless you opt in again.
+4. To opt back in, reply with any of the following industry standard keywords:
+
+a. START
+b. UNSTOP
+c. YES
+
+5. For help, reply HELP or contact us at EMAIL or PHONE NUMBER.
+6. Carriers are not liable for delayed or undelivered messages.
+7. Message and data rates may apply. Message frequency may vary. Contact your wireless provider for details.
+8. For more information on how we handle your data, please review our Privacy Policy at: https://www.astranis.com/legal/privacy .

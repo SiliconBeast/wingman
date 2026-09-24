@@ -1,0 +1,59 @@
+About Graphcore
+
+Graphcore is a global leader in artificial intelligence computing systems. We design advanced semiconductors and data center hardware that deliver the specialized processing power needed to advance AI while improving the efficiency required for broad adoption.
+
+As part of SoftBank Group, Graphcore belongs to a family of companies developing some of the world’s most transformative technologies. Our new AI Engineering Campus in Austin will play a central role in building the future of AI computing.
+
+The Opportunity
+
+We are seeking a system validation engineering intern to help drive server blade and rack validation efforts for next-generation AI infrastructure hardware systems. This role focuses on post-silicon system validation across the full lifecycle of server hardware systems, ensuring functional and performance meets product objectives. You will help drive end-to-end blade and rack validation including development, execution, and debug while collaborating across silicon, firmware, systems, and platform teams.
+
+The Blade and Rack Validation team is responsible for ensuring system readiness and quality at scale. The team works cross-functionally with firmware, silicon, and system engineering teams to validate complex AI compute platforms.
+
+What You’ll Do
+
+· Help drive and execute post-silicon validation goals of AI compute blades and racks including testcase planning, development, and automation
+
+· Help drive validation testcase execution and system debug against program achievements and report validation progress and risks.
+
+• Drive provisioning and integration of system components (SoC FW, BMC, RMC, OS) for rack-level readiness
+
+• Triage test failures, collect debug data, and collaborate on root cause analysis.
+
+• Track validation coverage and continuously improve test processes and infrastructure.
+
+What You’ll Bring
+
+• Working towards a Bachelor's or master's degree in Computer Engineering, Electrical Engineering or related field.
+
+• Passion to learn and gain experience in large-scale server or AI infrastructure hardware validation environments.
+
+• Exposure on hardware validation or debug based of x86 or ARM architecture-based server systems, rack, or embedded validation.
+
+• Understanding of key concepts related CPU/GPU, memory, IO, and BIOS testing.
+
+• Experience with Linux/server OS and automation using Python/Bash.
+
+• Experience with CI/CD pipelines and large-scale test automation infrastructures.
+
+• Working in lab environments.
+
+Preferred Qualifications
+
+• Knowledge of concepts of BMC, IPMI, Redfish.
+
+• Familiarity with OpenBMC and processes for verifying firmware functionality.
+
+• Experience with test and asset management tools.
+
+These qualifications are helpful, not mandatory. We encourage you to apply even if you do not meet every preferred qualification.
+
+Equal Opportunity and Accommodations
+
+Graphcore is an equal opportunity employer. We consider qualified applicants without regard to race, color, religion, creed, sex, pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, disability, genetic information, veteran status, or any other status protected by applicable law.
+
+Graphcore is committed to an inclusive and accessible hiring process. If you need a reasonable accommodation to participate in the application or interview process, please let the recruiting team know.
+
+Candidate Privacy
+
+Personal information submitted during the recruiting process will be handled in accordance with Graphcore’s applicable candidate privacy notices.

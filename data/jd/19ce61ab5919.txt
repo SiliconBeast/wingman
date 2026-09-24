@@ -1,0 +1,122 @@
+Job Description
+
+About Digital Products
+
+Digital Products owns the definition, development, and delivery of GM’s digital products and the customer experiences delivered through mobile applications, back-office platforms, and connected services. The organization brings together OnStar & Customer Experience Platforms and Digital Vehicle Experience and works closely with Vehicle Products to deliver digital contributors to the vehicle experience.
+
+Digital Products is an exciting place to begin your career because interns can work on real products, services, tools, and experiences that connect customers with GM. You will learn from experienced professionals, collaborate across product and engineering teams, and gain exposure to how digital products are built, tested, launched, and improved.
+
+About the opportunity
+
+Digital Products is looking for Software Engineer Interns and Software Test Engineer Interns who are excited to build reliable digital products and the systems that support them. Depending on the team, you may contribute to application development, automation, data and integration services, software delivery, test tools, or lab and validation infrastructure.
+
+Assignments are connected to real team priorities and may include design, coding, testing, troubleshooting, documentation, and continuous improvement across the development lifecycle.
+
+Potential Team & Areas of Work
+
+Opportunities may be aligned to the following groups and product areas from the Digital Products intern intake:
+
+• Consumer Digital Experiences (CDE): Mobile, Vehicle Commerce, Brand Services, and Loyalty
+
+• Emerging and Strategic Businesses (ESB): GM Fleet
+
+• OnStar Sales, Activation and Experience (OnStar SAE): Carrier & Vehicle Experience Services, Commerce, Global Contact Centers & OnStar Safety, and OnStar AI Engineering
+
+• Physical and Virtual Test Platforms: Virtual Test Infrastructure, Virtualization Tools, Vehicle Reflash, Infotainment Lab Operations, HIL simulation integration, and lab operations
+
+• Vehicle Software Integrity and Delivery: Calibration Management Tools, Greylock, Wired Programming, and VCAM
+
+• Digital Vehicle Experience (DVE): Software engineering and software test opportunities supporting digital vehicle experiences
+
+Potential Skills & Contributions
+
+• Build or enhance software features, services, APIs, tools, or automation
+
+• Write unit, integration, or end-to-end tests and help improve software quality
+
+• Analyze data, investigate defects, and support troubleshooting or root-cause analysis
+
+• Contribute to technical designs, requirements, documentation, or delivery plans
+
+• Support software delivery, diagnostics, reflash, validation, lab tooling, or test infrastructure
+
+• Collaborate with engineers, product managers, designers, analysts, technicians, and business partners
+
+Required Qualifications
+
+• Currently pursuing a Bachelor's Degree in Computer Science, Computer Engineering, Data Science, Information Systems, Mechanical Engineering, or related field.
+
+• Must have at least one additional quarter/semester of school remaining following the completion of the internship
+
+• Availability to work full-time, 40 hours per week, during the 12 week summer internship period between May–August or June–September 2027
+
+• Coursework, project, club, research, or prior experience demonstrating programming or software development
+
+• Ability to communicate clearly, work collaboratively, and learn new technologies
+
+• Interest in building reliable, customer-focused digital products
+
+• Ability to work onsite at the assigned GM location with the manager and team
+
+Preferred Experience
+
+• Candidates are not expected to meet every qualification listed below. Depending on the needs of a specific Digital Product team, a combination of these skills and areas of knowledge may be relevant.
+
+• Currently pursuing a Master’s Degree in Computer Science, Computer Engineering, Data Science, Information Systems, Mechanical Engineering, or related field.
+
+• Experience with one or more programming languages such as Java, JavaScript/TypeScript, Python, C#, C++, or SQL
+
+• Exposure to software testing, automation, APIs, databases, Git, CI/CD, observability, or integration tools
+
+• Experience with mobile development, web development, backend services, data engineering, Salesforce, MuleSoft, or test platforms
+
+• A class project, personal project, internship, portfolio, or code sample that demonstrates problem-solving
+
+Compensation:
+
+• The monthly salary range for this role is $6,400-$10,300 per month.
+
+• GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of relocation benefits, please apply using the permanent address you would move from.
+
+What You’ll Get From Us (Benefits):
+
+• Paid US GM Holidays
+
+• GM Family First Vehicle Discount Program
+
+• Result-based potential for growth within GM
+
+• Intern events to network with company leaders and peers
+
+Work Arrangement:
+
+• Start dates for this internship role are May 24th and June 14th of 2027.
+
+• Assignments will be based on team placement to ensure interns are located with their working team and leader.
+
+• Hybrid:  This role is categorized as hybrid. This means the successful candidate is expected to report to their designated work location three times per week, at minimum. 
+
+&#xa;&#xa;&#xa;&#xa;
+About GM
+
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us
+
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.
+
+Benefits Overview
+
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources .
+
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws.
+
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire .
+
+Accommodations
+
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.

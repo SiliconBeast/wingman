@@ -1,0 +1,68 @@
+We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients.
+
+At CIBC, we embrace your strengths and your ambitions, so you are empowered at work. Our team members have what they need to make a meaningful impact and are truly valued for who they are and what they contribute.
+
+To learn more about CIBC, please visit CIBC.com
+
+What you'll be doing
+
+Technology at CIBC is focused on building secure, reliable, and innovative solutions that support our clients and the business. As a Software Engineer Intern, you'll contribute to hands-on assignments that support the development and enhancement of software applications across the organization. You'll help develop, code, test, and debug end-to-end solutions, while participating in technical design, development, and integration activities across platforms. You'll collaborate with technology and business partners to identify issues, ask thoughtful questions, and support effective solutions in a fast-paced environment. Throughout the internship, you'll gain exposure to banking products, services, regulatory requirements, and CIBC's core systems and processes. You'll also complete training, apply your learning in daily work, and build your technical, analytical, and communication skills through mentorship and development opportunities.
+
+At CIBC we enable the work environment most optimal for you to thrive in your role. Details on your work arrangement (proportion of on-site and remote work) will be discussed at the time of your interview.
+
+How you'll succeed
+
+• Software development - Contribute to the development, coding, testing, and debugging of applications and system enhancements across the software development life cycle.
+
+• Technical collaboration - Partner with technology and business teams to support design, development, and integration activities for cross-functional, multi-platform applications.
+
+• Problem solving - Review and analyze programming systems, identify issues, and help implement effective solutions with attention to quality and detail.
+
+• Risk and compliance - Support adherence to regulatory, information security, and internal policy requirements in all aspects of application management.
+
+• Learning and growth - Participate in training, mentorship, community outreach, and leadership development opportunities, and apply new knowledge to your day-to-day work.
+
+Who you are
+
+• You're pursuing a relevant degree. You're currently a junior or senior enrolled in Computer Science, Information Technology, Software Engineering, or a related field, with an expected graduation date between December 2026 and June 2027.
+
+• You have foundational technical knowledge. You bring an understanding of the software development life cycle, databases such as Oracle and Structured Query Language (SQL), batch processing, and file transfer and network security concepts such as File Transfer Protocol (FTP), Secure File Transfer Protocol (SFTP), and firewalls.
+
+• You're building programming skills. You have experience with programming languages such as Python, and you're comfortable learning new tools and technologies.
+
+• You're digitally curious and adaptable. You stay open to new technologies and trends, and knowledge of artificial intelligence or security tools and concepts is considered an asset.
+
+• You're a strong collaborator. You communicate clearly, build positive relationships, and work effectively with teammates and partners in a dynamic environment.
+
+• Values matter to you. You bring your real self to work, and you live our values - trust, teamwork, and accountability.
+
+At CIBC, we offer a competitive total rewards package.  This role has an expected hourly rate of $36 - $40 per hour for the State of Illinois market based on experience, qualifications, and location of the position. CIBC offers a full range of benefits and programs to meet our intern's needs; including 401(k) contribution, Paid Time Off (including Sick Leave and Vacation), and Holidays, in addition to other special perks reserved for our team members.  
+
+*This position does not offer visa sponsorship
+
+California residents — your privacy rights regarding your actual or prospective employment
+
+At CIBC, your goals are a priority. We start with your strengths, ambitions and strive to create opportunities to tap into your potential.
+
+What you need to know
+
+•
+CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation, please contact Mailbox.careers-carrieres@cibc.com
+
+•
+You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit .
+
+•
+We may ask you to complete an attribute-based assessment and other skills tests (such as simulation, coding, MS Office). Our goal for the application process is to get to know more about you, all that you have to offer, and give you the opportunity to learn more about us.
+
+Job Location
+IL-Chicago, 70 W Madison St Fl 8
+
+Employment Type
+Temporary (Fixed Term)
+
+Weekly Hours
+40
+
+Skills
+Software Engineering
