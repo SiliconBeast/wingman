@@ -1,0 +1,49 @@
+AQR Capital Management
+
+AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998.
+
+At AQR, our employees share a common spirit of academic excellence, intellectual honesty, and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of collaboration and believe transparency and openness to new ideas leads to innovation.
+
+The Internship Program
+
+Our 10-week summer program puts real work of the firm in your hands. You will work alongside brilliant people, gain insights and know-how from our Quanta Academy Summer Term curriculum, and experience what it’s like to work at the pinnacle of global, systematic investing.
+
+Learning is the cornerstone of our culture and plays an active role in the internship experience — through daily collaboration and interaction with employees at all levels, in workshops and classes, and most significantly by working on projects that matter to the many clients we serve. Our unique AQR Quanta Academy: Summer Term learning series, a structured program, consists of over 40 hours of educational, skill-building and networking events.
+
+The Team
+
+The Portfolio Implementation, Trading and Portfolio Finance team is responsible for the construction, optimization, and management of AQR’s systematic portfolios as well as for the efficient trade execution and financing of AQR’s investment strategies. The department comprises portfolio implementation, trading, and financing specialists.
+
+Portfolio Implementation specialists work closely with multiple groups across the firm to bring to market new systematic investment strategies and refine existing ones, across a broad range of investment mandates and across global markets. The Portfolio Implementation team, together with the researchers, shares the responsibility over the investment and risk management of AQR’s portfolios, in a collaborative and intellectually stimulating environment.
+
+Your Role
+
+A successful Portfolio Implementation Summer Analyst will become intimately familiar with global financial markets, financial economics, asset management, quantitative investing and AQR’s investment philosophy. This role offers the opportunity to work with senior investment professionals within the firm and exposes the candidate to all aspects of portfolio management, in particular:
+
+• Portfolio Construction: optimize portfolios based on model views, market frictions, and investment guidelines
+
+• Portfolio Implementation Research: research and improve portfolio construction and optimization techniques
+
+• Model Research: play an integral role in the implementation and improvement of new and existing systematic signals
+
+• Analytics: manipulate and analyze large datasets to identify patterns in the performance and characteristics of AQR’s portfolios
+
+Mentorship and constructive performance review will be a focus throughout your time as you work towards earning a full-time role.
+
+What You’ll Bring
+
+• December 2027 or Spring 2028 graduate in a quantitative field (e.g. Finance, Economics, Computer Science, Math, Engineering, etc.) with a desire to work in the financial services industry
+
+• Pursuing either a Bachelor's or Master's degree
+
+• Strong technical aptitude with demonstrated experience and knowledge of programming languages (Python, MATLAB, R) and SQL
+
+• Exceptional problem solving and quantitative skills (Calculus, Linear Algebra, Statistics)
+
+• Excellent communication skills
+
+• Commitment to intellectual integrity, self-drive, maturity, and ability to collaborate
+
+• Detail-orientation, ability to multi-task
+
+AQR is an Equal Opportunity Employer. EEO/VET/DISABILITY

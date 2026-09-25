@@ -1,0 +1,39 @@
+Location: New York, fully in-office (no remote work)
+
+Dates: 14th June 2027 – 22nd August 2027
+
+Join Marshall Wace for the summer and experience first-hand what it means to be a member of the highly innovative and fast-paced technology team that powers one of the world's largest hedge funds. Interns in this programme will be given projects that both provide real-world engineering experience and drive our business forward. Technology touches every aspect of MW, and interns will have the opportunity to build systems that enable success in domains throughout the business. These domains include our systematic and fundamental investment strategies, firmwide technology platform, trading and order execution, AI-powered automation and enhancements of workflows, and many others.
+
+Prior to the start of the internship, our various tech teams will propose potential projects for interns. We select the projects that are the most valuable to the firm and that stand to provide the most engaging and valuable experience. Interns are then assigned to selected projects in pairs, reporting to a senior engineer. Throughout the internship, interns receive comprehensive support from our teams. In addition to direct mentorship by their managers, this support includes regular seminars on the many segments of the MW tech estate, informational sessions on other areas of the business with senior leaders, social events, and opportunities to engage in the firm’s charitable activities. All of this is in service of our goal to provide our interns with extensive professional and technical development and a broad understanding of our business and of the finance industry at large.
+
+Examples of past projects:
+
+• A backtesting framework for our quantitative trading system
+
+• Horizontally distributed autonomous coding agents
+
+• AI-driven user behaviour analytics platform
+
+What are we looking for?
+
+This internship is ideal for an innovative problem solver who can demonstrate inventive and creative use of technology. Successful participants may have the opportunity to return full time as a member of our Technology Graduate Programme when they complete their studies.
+
+We don’t specifically look for those working towards a computer science degree, but we do look for those who are high-achieving academically and have actively developed technical, software engineering skills. This could be through coursework, previous internships, research, or even just the pursuit of a passion for technology in their free time.
+
+Finally, we also believe that the right person is more than just a technical expert. We place real value on collaboration, entrepreneurialism, and strong communication skills. The structure of the technology organisation here is such that every engineer must own their work end to end. That means successful interns, and full-time team members, will play an active role in identifying opportunities for impact through technology, designing the solution to capture that potential, building it, and working directly with stakeholders throughout the firm to align engineering efforts with value creation.
+
+Why join us?
+
+Technology is at our core. It’s industry-defining and best-in-class, but we are striving for even more. You’ll have the opportunity to work with cutting-edge technologies while learning from some of the best technicians in the business. As a technology intern, this is a chance to accelerate your skill set and gain invaluable real-world experience.
+
+Progression at Marshall Wace
+
+The aim of our internships is to convert the best performers into graduates. The rotational format of our graduate program then allows you to explore various roles within the Technology team before determining the best fit for you. Upon completing your rotations, you have the flexibility to advance to the team that aligns most with your interests and strengths.
+
+After completing the program, the progression paths are not rigidly defined. There is no predetermined ladder for you to climb. Instead, your personal growth may involve taking on more challenging projects, mentoring a team or new hires, or even pursuing opportunities for international assignments. Your individual development path is open for exploration, and you can collaborate with your management to shape what your future growth looks like.
+
+Marshall Wace is an equal opportunity employer. Individuals seeking employment are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, sexual orientation, or any other category protected by applicable law.
+
+Note: we request that you only apply to the one role you are most interested in. This includes both the position itself and the location. Duplicate applications will cause delays in processing your application .
+
+In accordance with New York State and New York City pay transparency laws, the annual base salary for this position is $150,000 (pro rata for the internship period). Actual compensation may vary based on factors such as experience, qualifications, and location. This role may also be eligible for a discretionary bonus and benefits.

@@ -1,0 +1,49 @@
+Old Mission is a global proprietary trading firm that leverages state-of-the-art technology and research to identify and execute profitable trading strategies across multiple asset classes around the world. Our offices in Chicago, New York, and London are all composed of naturally-curious individuals who thrive in a team environment and constantly strive for improvement.
+
+About the Position
+
+Our internship program is geared for current students who want to work alongside our talented software engineers creating impactful solutions to further the firm's market initiatives. We are a smaller firm, which means you'll get to know the people you're working with and they'll get to know you. Responsibilities include supporting the development of C++ based trading applications and tools. You will be given hands-on projects that contribute to the firm's daily activities, giving you real exposure to how our business runs, not just observation. In this role, you'll have the opportunity to learn more about creative programming and the tools needed to support electronic trading. If you're looking to make an immediate contribution this summer and get a firsthand look at building out our business, feel free to apply today!
+
+What you will get to do
+
+• Gain exposure to how trading works, from the underlying theory to the systems and tools we build around it
+
+• Regular sessions with senior engineers covering the fundamentals of the systems and tools we use
+
+• Get direct feedback from the engineers you're working alongside, learning in real time
+
+• Work directly with engineers, traders, and other teams on projects that matter to the firm day to day
+
+Required Skills
+
+• Currently pursuing a bachelor's or master's in Computer Science, Computer Engineering, or a similar technical field
+
+• Minimum 3.0 GPA
+
+• A strong work ethic and ability to adapt quickly in a fast-paced environment
+
+• At least junior standing, with a graduation date of December 2027 or May 2028
+
+• Comfortable with one or more of C++, Python or TypeScript
+
+• A solid grasp of computer science fundamentals: data structures, algorithms, systems
+
+• Genuine interest in markets and how software supports them
+
+• Ability to start the internship on June 1, 2027
+
+• No finance experience is required
+
+Benefits and Perks
+
+• Fully stocked kitchen; free breakfast and lunch every day on-site
+
+• Corporate housing at no cost to you
+
+• Access to people across the firm — traders, researchers, and engineers
+
+Base Salary Range
+
+$150,000 - $200,000 - Salaries are based on numerous factors such as skills, experience, and education. For more information, reach out to your recruiter.
+
+Old Mission is not accepting unsolicited resumes from any staffing/search firms. All resumes submitted by staffing/search firms to any employee at Old Mission via-email, the Internet or directly without a valid signed search agreement will be deemed the sole property of Old Mission, and no fee will be paid in the event the candidate is hired by Old Mission.

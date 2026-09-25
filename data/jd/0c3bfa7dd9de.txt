@@ -1,0 +1,53 @@
+Aquatic was founded with a shared passion for tackling some of the most complex challenges in one of the world’s most competitive arenas—global financial markets. From the very beginning, we have been driven by a deep commitment to applying cutting-edge scientific research and technological innovation to deliver unparalleled performance. Our journey is one of continuous growth and exploration, marked by a spirit of curiosity and relentless drive for excellence.
+
+As a Quantitative Research Intern, you will collaborate closely with a team to develop and implement quantitative trading signals, models, and strategies. Our role offers the opportunity to design, implement, and evaluate research systems components using rigorous statistical methodologies. As part of the team, you will gain exposure to diverse research areas, accelerating your expertise in quantitative finance.
+
+Requirements:
+
+• Active student pursuing a BS, MS, or PhD in mathematics, statistics, machine learning, physics, computer science, or other scientific disciplines with an expected graduation date between Fall 2027 and Summer 2028.
+
+• Demonstrated proficiency in quantitative analysis and problem-solving
+
+• Proficiency in Python programming
+
+• Prior experience tackling data-intensive challenges, conducting and completing statistical or applied mathematical research
+
+• Successful participation in mathematical competitions is a plus e.g., IMO, Putnam
+
+• Prior experience in a quantitative role within a trading environment a plus
+
+Desired qualities:
+
+• Intellectually curious, creative, and rigorous
+
+• Willingness to challenge assumptions and revise opinions in the face of compelling evidence
+
+• Self-motivated and highly productive, with a strong sense of urgency and accountability
+
+• Willing to take ownership of one’s work, working both independently and within a small team
+
+• Meticulous attention to detail
+
+• Ability to manage and prioritize multiple threads of work
+
+• Able to work across disciplines
+
+• Excellent communication and collaboration skills
+
+• Comfortable providing and receiving actionable feedback in a collaborative team setting
+
+Benefits:
+
+• Benefits: For full-time employees, fully paid medical, dental, and vision for employees and dependents, competitive 401k plan, employer-paid life & disability insurance
+
+• Perks: Wellness programs, casual dress, snacks, lunch, game room, team and company events
+
+• Development: Open environment to maximize learning and knowledge sharing
+
+• Time: Generous PTO, paid holidays, competitive paid caregiver leaves
+
+Aquatic Capital
+
+This role represents a unique opportunity to join a quantitative investment manager in its early stage of growth. The firm’s culture will be shaped by collaboration, meritocracy, ambition, and calm determination.
+
+Aquatic is a proud equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.

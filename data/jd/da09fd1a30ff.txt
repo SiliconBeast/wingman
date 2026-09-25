@@ -1,0 +1,57 @@
+Eligibility: Current Bachelor's, Master's, or PhD students pursuing degrees in rigorous, highly technical fields (e.g., Computer Science, Computer Engineering) who are eligible for full-time roles starting in 2028 or 2029.
+
+Program Length: 10 Weeks (Early June – Mid August)
+
+Application Process: Please apply directly through this posting. Applications are reviewed and candidates will progress on a rolling basis. You can anticipate receiving feedback on your application within 3 weeks.
+
+PDT Partners – a quantitative investment manager - is seeking talented engineering students for Software Engineering focused internships. We are looking for interns who can add to a company that values creativity, energy, and collaborative problem solving.
+
+Throughout our 10-week program, students work closely with supportive senior developers on individual projects, receive hands-on personalized mentorship, and contribute to PDT's culture through both intern and company wide social events.
+
+Why join us?
+PDT Partners has a 30+ year track record and a reputation for excellence. Our goal is to be the best quantitative investment manager in the world—measured by the quality of our products, not their size. Our people come from diverse disciplines, are intellectually extraordinary and our community is close-knit, down-to-earth and collaborative.
+
+Internship Projects
+Software Engineers at PDT are responsible for building and maintaining the technology the enables all parts of the trading life cycle. As a software engineering intern, you will work closely with expert developers on technically challenging projects to design, develop, debug, and test our software components for large handling of financial data, real-time events, and batch processing.
+
+Depending on the specific project, you may:
+
+• Face problems that don't have well-defined solutions - creativity will be essential to come up with the best possible answers, including ones that explore new technologies
+
+• Learn about financial markets and quantitative trading
+
+• Build an understanding of various trading technologies and make contributions to them
+
+• Develop tooling used for infrastructure management
+
+• Contribute to the infrastructure and maintenance of large-scale data sets
+
+The internship offers opportunities to correctly apply new idioms, techniques, and algorithms in select areas, which may include:
+
+• Program correctness - resource management, exception safety, reentrancy/thread safety
+
+• Maintainability - portability, good coding practices, adherence to coding standards, unit testing, documentation
+
+• Efficiency - optimal data structures/algorithms, understanding of high-/low- level implications and trade-offs in design choices, parallelization
+
+Below is a list of skills and experiences we think are relevant. Even if you don’t think you’re a perfect match, we still encourage you to apply because we are committed to developing our people.
+
+• Excellent academic background from a rigorous computer science or engineering program graduating in Fall 2027 or later
+
+• Strong programming skills with a deep understanding of data structures and algorithms
+
+• Fast-learner, intellectually curious, problem-solving approach
+
+• Proactive with sense of urgency
+
+• Strong verbal and written communication skills
+
+• Interest in working in a world-class, professional environment
+
+• Committed to improvement and keen to apply constructive feedback
+
+The salary for this role is $180,000.  This amount is not inclusive of any potential bonus amounts.  
+
+PRIVACY STATEMENT: For information on ways PDT may collect, use, and process your personal information, please see PDT’s privacy notices.
+
+NOTE: PDT does not currently offer a quantitative research internship program. However, we hire for full-time quantitative research roles on a rolling basis. Click here to learn more and apply.
