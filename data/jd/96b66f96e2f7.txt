@@ -1,0 +1,51 @@
+Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .
+
+This is a 12-week internship during summer 2027.
+
+Join the Payments Risk Management team as a Fraud Risk Intern based in New York. This team sits at the intersection of payments, product, and security, working to protect Coinbase customers from fraud across critical payment rails like ACH, card, and real-time payments. You'll work alongside risk professionals and product teams to strengthen fraud controls, surface actionable insights from transaction data, and help maintain a seamless user experience while keeping bad actors off the platform.
+
+What you'll do:
+
+• Write SQL queries and build dashboards to detect anomalous behavior, analyze risk trends, and support ongoing monitoring of payment fraud signals
+
+• Synthesize data findings into clear narratives and present recommendations to Payments Risk leadership
+
+• Partner with Product, Data Science, and Engineering stakeholders to develop and pressure-test risk management strategies
+
+• Evaluate existing rules and controls for effectiveness, flagging high false-positive rates and recommending improvements
+
+• Collaborate with Customer Experience and Risk Analytics teams to implement learnings that improve the user journey without introducing incremental risk
+
+• Document and improve operational processes and procedures for the risk team
+
+Required Skills and Experience:
+
+• Currently pursuing a degree or certificate in a technology, finance, or analytics-related discipline, or equivalent experience
+
+• 1+ years of hands-on SQL experience through coursework, projects, or prior internships
+
+• Demonstrated ability to translate data into clear, structured recommendations (e.g., class projects, case competitions, or prior work)
+
+• Familiarity with dashboarding tools such as Tableau, Looker, or similar (coursework or personal projects acceptable)
+
+• Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality
+
+Position ID: P78082
+
+#LI-Hybrid
+
+Pay Transparency Notice: Depending on your work location, the target hourly rate for this position can range as detailed below.
+
+Hourly Rate:
+
+$40 — $40 USD
+
+• Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+
+• Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.
+
+• US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation.
+
+• Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial .
+
+• Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes .

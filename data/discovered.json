@@ -1,5 +1,5 @@
 {
- "run": 12,
+ "run": 13,
  "boards": {
   "wd:bah/bah_jobs": {
    "first": "2026-09-21",
@@ -50,13 +50,6 @@
    "roles": 28,
    "last": "2026-09-24"
   },
-  "wd:myview/paradox_careers": {
-   "first": "2026-09-21",
-   "name": "Loblaw Companies",
-   "value": "https://myview.wd3.myworkdayjobs.com/paradox_careers",
-   "roles": 26,
-   "last": "2026-09-24"
-  },
   "greenhouse:testnisc": {
    "first": "2026-09-21",
    "name": "National Information Solutions Cooperative",
@@ -68,6 +61,13 @@
    "first": "2026-09-21",
    "name": "Clearwater Analytics",
    "value": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers",
+   "roles": 25,
+   "last": "2026-09-24"
+  },
+  "wd:myview/paradox_careers": {
+   "first": "2026-09-21",
+   "name": "Loblaw Companies",
+   "value": "https://myview.wd3.myworkdayjobs.com/paradox_careers",
    "roles": 25,
    "last": "2026-09-24"
   },
@@ -155,13 +155,6 @@
    "roles": 20,
    "last": "2026-09-24"
   },
-  "wd:cox/cox_external_career_site_1": {
-   "first": "2026-09-21",
-   "name": "Cox",
-   "value": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
-   "roles": 20,
-   "last": "2026-09-24"
-  },
   "wd:fnbcorp/fnbcorp": {
    "first": "2026-09-21",
    "name": "First National Bank",
@@ -190,6 +183,13 @@
    "first": "2026-09-21",
    "name": "Brunswick",
    "value": "https://brunswick.wd1.myworkdayjobs.com/search",
+   "roles": 19,
+   "last": "2026-09-24"
+  },
+  "wd:cox/cox_external_career_site_1": {
+   "first": "2026-09-21",
+   "name": "Cox",
+   "value": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
    "roles": 19,
    "last": "2026-09-24"
   },
@@ -410,13 +410,6 @@
    "roles": 13,
    "last": "2026-09-24"
   },
-  "wd:thehartford/careers_external": {
-   "first": "2026-09-21",
-   "name": "The Hartford",
-   "value": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
-   "roles": 13,
-   "last": "2026-09-24"
-  },
   "wd:usfoods/usfoodscareersexternal": {
    "first": "2026-09-21",
    "name": "US Foods",
@@ -508,6 +501,13 @@
    "roles": 12,
    "last": "2026-09-24"
   },
+  "wd:thehartford/careers_external": {
+   "first": "2026-09-21",
+   "name": "The Hartford",
+   "value": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+   "roles": 12,
+   "last": "2026-09-24"
+  },
   "wd:wellington/external": {
    "first": "2026-09-21",
    "name": "Wellington Management",
@@ -592,13 +592,6 @@
    "roles": 10,
    "last": "2026-09-24"
   },
-  "ashby:northwoodspace": {
-   "first": "2026-09-21",
-   "name": "Northwood Space",
-   "value": "https://jobs.ashbyhq.com/NorthwoodSpace",
-   "roles": 10,
-   "last": "2026-09-24"
-  },
   "ashby:talos-trading": {
    "first": "2026-09-21",
    "name": "Talos",
@@ -652,6 +645,13 @@
    "first": "2026-09-21",
    "name": "Allen Control Systems",
    "value": "https://jobs.ashbyhq.com/allen-control-systems",
+   "roles": 9,
+   "last": "2026-09-24"
+  },
+  "ashby:northwoodspace": {
+   "first": "2026-09-21",
+   "name": "Northwood Space",
+   "value": "https://jobs.ashbyhq.com/NorthwoodSpace",
    "roles": 9,
    "last": "2026-09-24"
   },
@@ -1043,17 +1043,17 @@
    "roles": 7,
    "last": "2026-09-24"
   },
-  "wd:commercebank/commercejobs": {
-   "first": "2026-09-21",
-   "name": "Commerce Bank",
-   "value": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs",
-   "roles": 7,
-   "last": "2026-09-24"
-  },
   "wd:corteva/corteva": {
    "first": "2026-09-21",
    "name": "Corteva",
    "value": "https://corteva.wd5.myworkdayjobs.com/corteva",
+   "roles": 7,
+   "last": "2026-09-24"
+  },
+  "wd:danaher/danaherjobs": {
+   "first": "2026-09-21",
+   "name": "Danaher",
+   "value": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
    "roles": 7,
    "last": "2026-09-24"
   },
@@ -1253,13 +1253,6 @@
    "roles": 6,
    "last": "2026-09-24"
   },
-  "greenhouse:visiersolutionsinc": {
-   "first": "2026-09-21",
-   "name": "Visier Solutions",
-   "value": "https://job-boards.greenhouse.io/visiersolutionsinc",
-   "roles": 6,
-   "last": "2026-09-24"
-  },
   "greenhouse:voloridgeinvestmentmanagement": {
    "first": "2026-09-21",
    "name": "Voloridge",
@@ -1350,17 +1343,17 @@
    "roles": 6,
    "last": "2026-09-24"
   },
+  "wd:commercebank/commercejobs": {
+   "first": "2026-09-21",
+   "name": "Commerce Bank",
+   "value": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs",
+   "roles": 6,
+   "last": "2026-09-24"
+  },
   "wd:costar/costar_campus": {
    "first": "2026-09-21",
    "name": "CoStar Group",
    "value": "https://costar.wd1.myworkdayjobs.com/Costar_Campus",
-   "roles": 6,
-   "last": "2026-09-24"
-  },
-  "wd:danaher/danaherjobs": {
-   "first": "2026-09-21",
-   "name": "Danaher",
-   "value": "https://danaher.wd1.myworkdayjobs.com/danaherjobs",
    "roles": 6,
    "last": "2026-09-24"
   },
@@ -1557,6 +1550,13 @@
    "first": "2026-09-21",
    "name": "Olsson",
    "value": "https://job-boards.greenhouse.io/olsson",
+   "roles": 5,
+   "last": "2026-09-24"
+  },
+  "greenhouse:visiersolutionsinc": {
+   "first": "2026-09-21",
+   "name": "Visier Solutions",
+   "value": "https://job-boards.greenhouse.io/visiersolutionsinc",
    "roles": 5,
    "last": "2026-09-24"
   },
@@ -2115,10 +2115,10 @@
    "roles": 4,
    "last": "2026-09-24"
   },
-  "wd:canadiantirecorporation/enterprise_external_careers_site": {
-   "first": "2026-09-21",
-   "name": "Canadian Tire",
-   "value": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site",
+  "wd:cat/solarturbines": {
+   "first": "2026-09-24",
+   "name": "Solar Turbines (Caterpillar)",
+   "value": "https://cat.wd5.myworkdayjobs.com/SolarTurbines",
    "roles": 4,
    "last": "2026-09-24"
   }
