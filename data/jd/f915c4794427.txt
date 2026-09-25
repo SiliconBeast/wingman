@@ -1,0 +1,63 @@
+Public Investments – Quantitative Analyst Internship (undergraduate-level)
+
+Job Description
+
+Northwestern Mutual's Public Investment Department seeks a Quantitative Analyst Intern to join us for the summer of 2027 and play a pivotal role in building out tools and conducting analyses that help shape our investment processes. We manage over $130 billion in fixed income assets, and you will collaborate directly with Portfolio Managers, Traders, and Credit Analysts to develop cutting-edge solutions.
+
+Principal Responsibilities:
+
+You'll have the opportunity to leverage your unique strengths and interests within a flexible role that spans data, modeling, visualization, and applications. Your activities will center around driving investment performance through innovative improvements to our investment processes, such as relative value analysis, portfolio construction, trading tools, risk measurement, and more.
+
+• Build & maintain data models: Collaborate with data engineers to onboard new data sources, design and implement dbt SQL models for data cleaning and integration, and write robust data quality tests to ensure data integrity.
+
+• Develop interactive data visualizations: Create insightful dashboards and applications using Tableau and Streamlit to effectively communicate data and model outputs to the department’s investment professionals.
+
+• Design and implement machine learning models: Utilize machine learning and AI techniques to develop predictive models, optimize model parameters, research new signals, and deploy models into the Snowflake production environment.
+
+• Apply quantitative methods: Leverage quantitative methods such as portfolio optimization, Monte Carlo simulation, risk measurement, and backtesting to enhance various aspects of the investment process.
+
+• Collaborate effectively: Work closely with Portfolio Managers, Traders, and Credit Analysts to better identify attractive investment opportunities through efficient data delivery, advanced models, and intuitive dashboards.
+
+Job Requirements:
+
+• Progress towards a Bachelor’s degree in a quantitative field (e.g., Quantitative Finance, Computer/Data Science, Finance, Mathematics).
+
+• Strong development skills in languages such as SQL, Python, Streamlit, dbt, etc.
+
+• Excellent data manipulation and data visualization skills.
+
+• Experience with software development practices such as version control and CI/CD pipelines is preferred.
+
+• Experience using Bloomberg and BlackRock Aladdin is a plus.
+
+Interpersonal Skills
+
+• Passion for the art and science of investing.
+
+• Effective oral and written communication skills.
+
+• Demonstrated analytical and problem-solving ability.
+
+• High degree of self-motivation, passion, and a drive to learn.
+
+About the Internship Program
+Internship candidates can expect a fulltime onsite internship program, running from June 2027 to August 2027. Carefully selected from universities across the country, our interns bring distinctive ideas and perspectives to our organization. Our employees are passionate about building our emerging talent and future leaders. In addition to their day-to-day tasks, interns participate in professional development workshops, senior leadership Q&A's, volunteer initiatives, networking/social events, and more!
+
+About the Public Investment Department
+
+Northwestern Mutual’s Public Investments Department manages over $130 billion in investment grade and high yield fixed income assets backing NM’s General Account insurance products and retirement plan assets, and oversees about half of the company’s total General Account assets. The team actively manages these assets with a goal of generating long-run total returns in excess of benchmarks to drive policyholder value. This role will be within the Quantitative Research & Analytics team.
+
+Compensation Range:
+
+Pay Range - Start:
+
+$16.50
+
+Pay Range - End:
+$30.00
+
+We believe in fairness and transparency. It’s why we share the salary range for most of our roles. Internship salaries are determined based on academic tenure and major. The standard pay structure is listed.
+
+Build a strong career foundation with a best-in-class company that puts our clients' interests at the center of all we do. Get started now!
+
+Northwestern Mutual is an equal opportunity employer that welcomes talented individuals of all backgrounds. We are committed to creating and maintaining an environment in which each employee can contribute creative ideas, seek challenges, assume leadership and continue to focus on meeting and exceeding business and personal objectives.

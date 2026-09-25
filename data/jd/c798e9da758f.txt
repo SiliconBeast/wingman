@@ -1,0 +1,81 @@
+About Us
+
+American Century Investments® is a leading global asset manager with over 65 years of experience helping a broad base of clients achieve their financial goals. Our expertise spans global equities and fixed income, multi-asset strategies, ETFs, and private investments.
+
+Privately owned and independent, we focus solely on investment management. But there’s an unexpected side to us, too. We direct 40% of our dividends every year—over $2 billion since 2000—to the Stowers Institute for Medical Research. Our ongoing financial support drives the Institute’s breakthrough work and mission of defeating life-threatening diseases like cancer and Alzheimer’s. So, the better we do for our clients, the more we can do for everyone.
+
+All who work here around the globe are inspired every day by the unique difference our hard work can make in so many lives. It shows in the curiosity we bring to every initiative, the deep relationships we build with our clients, and the way we treat each other in the hallway. If you’re excited to learn more about us, we can’t wait to learn more about you.
+
+Role Summary
+
+Are you passionate about technology and software development?
+
+We are seeking talented Software Developer Interns who enjoy coding and has an interest in HTML, JavaScript, Python, Java, SQL, and cloud technologies. In this role, you'll work on meaningful projects, collaborate with experienced developers, and gain hands-on experience building solutions in a dynamic and innovative environment.
+
+Our IT teams partner across every area of the business, supporting Investment Management, Sales, Client Service, and Corporate Functions. We leverage a mix of cloud-based and on-premises technologies, including commercial software, internally developed applications, and enterprise infrastructure, to deliver solutions that drive business success. As an AI-forward organization, American Century Investments is embracing emerging technologies to enhance the way we design, build, and support software solutions.
+
+This program is for currently enrolled undergraduate rising seniors who will graduate in December 2027 - Spring 2028. The deadline to apply is November 1, 2026.
+
+• Location: this onsite position will be based out of our Kansas City, MO office.
+
+• Program dates: June 2nd – August 6th (10 weeks).
+
+• Work schedule: 40 hours/week - Monday – Friday (8 am – 5 pm).
+
+This position is not eligible for visa sponsorship. Applicants must be authorized to work in the U.S. without visa sponsorship, now or in the future.
+
+How You Will Make an Impact
+
+• Develop and maintain software applications (using Python, Java and JavaScript).
+
+• Work with SQL databases or with API's to design, implement, and optimize queries.
+
+• Assist in the deployment and management of cloud-based applications.
+
+• Collaborate with cross-functional teams to deliver high-quality software solutions.
+
+• Have the opportunity to explore how AI can improve the software development lifecycle, drive innovation, and create business value while gaining hands-on experience working on impactful technology projects.
+
+• Participate in code reviews and contribute to the improvement of our development processes.
+
+What You Bring to the Team (Required)
+
+• Currently pursuing a bachelor’s degree in Computer Science, Software Engineering, or a related field.
+
+• Expected graduation between December 2027 and Spring 2028.
+
+• Proficiency in JavaScript, Python and Java programming languages.
+
+• Familiarity with SQL and cloud technologies (e.g., AWS, Azure).
+
+• Strong problem-solving skills and attention to detail.
+
+• Excellent communication and teamwork abilities.
+
+• Demonstrates the American Century Investments Winning Behaviors: Client Focused, Courageous and Accountable, Collaborative, Curious and Adaptable, Competitively Driven.
+
+What We Offer
+
+• Competitive pay and 401k eligibility for employee contributions.
+
+• Mentor Program - during your time with us you will be assigned a dedicated mentor to provide career coaching and mentoring.
+
+• Access to our Business Resource Groups (Emerging Professionals, Pride, Mosaic, Green Team, and others.)
+
+• Casual dress code - be comfortable and express your unique self.
+
+• A robust social and philanthropic calendar of events hosted just for Interns!
+
+Additional Requirements
+
+Employees are required to be in the office on a scheduled frequency. Adherence to this schedule is essential to fulfilling the expectations of the role.
+
+American Century Investments is committed to complying with the Americans with Disabilities Act and all other applicable Equal Employment Opportunity laws and regulations. As such, American Century strives to provide a reasonable accommodation to any qualified individual under the ADA to perform essential job functions.
+
+We encourage people of all backgrounds to join us on our mission. If you require reasonable accommodation for any aspect of the recruitment process, please send a request to HR-Talent_Acquisition@americancentury.com. All requests for accommodation will be addressed as confidentially as practicable.
+
+American Century Investments believes all individuals are entitled to equal employment opportunity and advancement opportunities without regard to race, religious creed, color, sex, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, gender, gender identity, gender expression, age for individuals forty years of age and older, military and veteran status, sexual orientation, and any other basis protected by applicable federal, state and local laws. ACI does not discriminate or adopt any policy that discriminates against an individual or any group of individuals on any of these bases.
+
+#LI-Onsite
+
+American Century Proprietary Holdings, Inc. All rights reserved.

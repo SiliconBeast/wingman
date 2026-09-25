@@ -1,0 +1,17 @@
+Xantium is seeking Quantitative Developer Interns for our New York and London offices for Summer 2027. Candidates must be in their penultimate year, studying Computer Science. Quantitative Developer Interns will work closely with our team of Quantitative Developers and Researchers on projects powering our quantitative trading.
+
+Examples of recent projects by our full-time Quantitative Developers:
+
+• Providing fast market data to a trading system
+
+• Building an integrated research and execution framework for fast predictors
+
+• Creating simulation and research frameworks in a cloud environment
+
+• Providing a robust research framework for a new asset class
+
+Our tech stack is a blend of Python and C++ that runs both on-prem and in the cloud.
+
+If working in a dynamic, nimble environment within a flat, meritocratic organization excites you, please get in touch. What could we achieve together? Let’s find out.
+
+Compensation: Quantitative Developer Interns in New York can expect to earn $16,000 to $19,000+ per month, plus relocation.

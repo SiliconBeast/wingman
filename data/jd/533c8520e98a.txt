@@ -1,0 +1,85 @@
+About Graphcore
+
+Graphcore is a global leader in artificial intelligence computing systems. We design advanced semiconductors, software, and data center systems that provide the specialized processing power needed to advance AI while improving the efficiency required for broad adoption.
+
+As part of SoftBank Group, Graphcore belongs to a family of companies developing transformative technologies. Our U.S. engineering teams contribute to the hardware and software platforms that support the next generation of AI systems.
+
+The Opportunity
+
+We are looking for a computer engineering, electrical engineering, or computer science student or recent graduate to join the BMC Development team as a Firmware Engineering Intern. You will work with experienced engineers on low-level and embedded firmware that supports the operation, control, and manageability of advanced compute systems.
+
+This internship provides hands-on experience in firmware development, test automation, engineering experiments, and lab-based system testing in a Linux development environment. You will own clearly defined technical tasks with guidance from the team and contribute to production-quality engineering work.
+
+• Type: 12-week summer internship
+
+• Timing: May - August (exact dates to be confirmed)
+
+• Commitment: Full-time
+
+What You Will Do
+
+• Contribute to the design, implementation, and testing of system and embedded firmware.
+
+• Develop and maintain firmware and supporting software in C, C++, or Python.
+
+• Support firmware development and debugging in a Linux-based engineering environment.
+
+• Create automated tests and scripts that improve firmware validation, test coverage, and engineering efficiency.
+
+• Contribute to continuous integration and delivery workflows for firmware development and testing.
+
+• Plan and conduct well-defined engineering experiments, record results accurately, and draw conclusions from test data.
+
+• Support lab setup, system configuration, hardware bring-up, and firmware testing.
+
+• Use debugging and diagnostic techniques to investigate firmware behavior and hardware-software interactions.
+
+• Work with engineers across firmware, hardware, silicon, systems, and software teams to reproduce and resolve technical issues.
+
+• Document test procedures, experimental results, software changes, and technical findings.
+
+• Follow established engineering and coding practices, participate in reviews, and communicate progress or blockers clearly.
+
+What You Will Bring
+
+• Current enrollment in, or recent completion of, a degree in computer engineering, electrical engineering, computer science, or a closely related field.
+
+• Foundational programming skills in C, C++, or Python.
+
+• An understanding of computer architecture, embedded systems, firmware, or low-level software concepts.
+
+• Familiarity with Linux environments and command-line development tools.
+
+• Interest in hands-on firmware development, debugging, testing, and hardware-software interaction.
+
+• A logical approach to problem-solving and engineering investigation.
+
+• Ability to document technical work, explain findings clearly, collaborate with engineers, and respond constructively to feedback.
+
+• Curiosity and willingness to learn new technologies, tools, and engineering methods.
+
+Preferred Qualifications
+
+• Academic, personal, or project experience developing embedded software or firmware.
+
+• Experience with microcontrollers, embedded processors, system-level firmware, or hardware bring-up.
+
+• Experience using lab equipment or conducting hardware-based engineering experiments.
+
+• Experience with automated testing or scripting in Python.
+
+• Familiarity with Git or another version-control system.
+
+• Awareness of continuous integration and delivery practices.
+
+These qualifications are helpful, not required. We encourage you to apply even if you do not meet every preferred qualification.
+
+Equal Opportunity and Accommodations
+
+Graphcore is an equal opportunity employer. We consider qualified applicants without regard to race, color, religion, creed, sex, pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, disability, genetic information, veteran status, or any other status protected by applicable law.
+
+Graphcore is committed to an inclusive and accessible hiring process. If you need a reasonable accommodation to participate in the application or interview process, please let the recruiting team know.
+
+Candidate Privacy
+
+Personal information submitted during the recruiting process will be handled in accordance with Graphcore's applicable candidate privacy notices.

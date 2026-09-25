@@ -1,0 +1,91 @@
+2027 Business Technology Solutions (BTS) Internship
+
+Envision spending your summer working with energetic colleagues and inspirational leaders, all while gaining world-class experience in one of the most dynamic organizations in the pharmaceutical industry. This is a reality for Business Technology Solutions (BTS) Interns at AbbVie.
+
+The Cloud Engineering Intern will help keep AbbVie's business platforms running and evolving — supporting, designing, and delivering technical solutions end to end. Specific responsibilities could include:
+
+•
+Troubleshoot issues and resolve incidents to keep platforms running smoothly
+
+•
+Partner with business and IT teams to deliver enhancements and integrations
+
+•
+Support the improvement of platform performance, scalability, and reliability
+
+•
+Help track milestones, coordinate teams, and support on-time delivery
+
+•
+Maintain documentation, support testing and deployment, and follow IT governance requirements
+
+•
+Assess risk and support cybersecurity and data protection with business, vendor, and technical teams
+
+This is an 11-week onsite internship. The majority of BTS Interns will be placed in Lake County, IL, though there is a possibility of being placed within any U.S. AbbVie or Allergan Aesthetics location. While location preferences are considered, placements will ultimately be based on business need.
+
+Minimum Qualifications:
+
+•
+Pursuing a Bachelor's degree in Computer Science, Computer Engineering, AI or related majors with a minor or concentration in one of the above fields
+
+•
+Graduation date between December 2027 – June 2028
+
+•
+Must be enrolled in university the semester following your internship and graduate within 1-year post internship
+
+Preferred Qualifications:
+
+•
+Familiarity with cloud platforms (AWS, Azure, GCP) and DevOps tooling (Docker, Kubernetes, Jenkins, CI/CD)
+
+•
+Working knowledge of architecture and how structure and solutions fit together
+
+•
+Experience with low-code platforms (Pega, OutSystems) and troubleshooting/configuring platforms such as ServiceNow, UKG Pro WFM, or Workday Time Tracking/Absence
+
+•
+Experience with XML, XSLT, WebServices, and Dell Boomi
+
+•
+Previous internship or related experience
+
+•
+Technical and business insight, strong analytical skills, and creative problem-solving abilities
+
+•
+Proven track record of teamwork, adaptability, innovation, initiative, and integrity
+
+•
+Excellent communication, leadership, and project management skills
+
+•
+Cumulative GPA of 3.00 or higher
+
+Benefits and Amenities:
+
+• Competitive pay
+
+• Relocation support for eligible students
+
+• Select wellness benefits and paid holiday / sick time
+
+Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​
+
+​The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future.​
+
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law.
+
+AbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community.  Equal Opportunity Employer/Veterans/Disabled.
+
+US & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html
+
+US & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:
+
+https://www.abbvie.com/join-us/reasonable-accommodations.html
+
+About AbbVie
+
+AbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com . Follow @abbvie on LinkedIn, Facebook , Instagram , X and YouTube.

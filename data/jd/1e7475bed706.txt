@@ -1,0 +1,36 @@
+Business Unit
+
+What the Role Entails
+With over 20 years of research and experience in audio and video technology, Tencent Cloud launched Tencent Cloud Media Service, a new international audio and video brand, in 2022. It provides a one-stop media solution, the basic media processing infrastructure named MPS, including industry-leading encoder, Media enhancement based on AI technology and cloud real-time rendering and transmission technology, etc. Tencent Cloud Media Service also provides complete live streaming solutions for different industries, including OTT, e-commerce, entertainment, e-sports, and sports events, etc. Through comprehensive audio and video SDKs and PaaS services. Overall, Tencent Cloud Media Service offers low-cost, efficient, and innovative solutions for the businesses of global customers.
+
+• Work closely with the regional sales team as the point of contact for customers in the field of audio and video. Provide technical support for pre-sales technical consultation and PoC verification services, maintain customer relationships, and assist the business team in achieving their goals.
+
+• Support the regional architecture team in analyzing customers' media business technology architecture and identifying their needs and values in audio and video scenarios. Provide industry solutions and case studies for international markets, such as OTT, social media, gaming, education, and business.
+
+• Understand industry solutions and combine customers' business and technical requirements with the features of Tencent's audio and video products. Help customers achieve their goals and values. Effectively communicate the customer requirements and industry requirements to product development team.
+
+• Actively participate in public online and offline product/industry presentations to share Tencent's media product capabilities, industry experience, and insights. Enhance the influence of Tencent Cloud Media Service, strengthen and establish Tencent's industry customer network in the field of media services.
+
+• Actively collaborate with the channel and marketing teams to support Tencent Cloud's regional ecosystem partners, including channel empowerment training, participating in workshops, and Media Demo Day.
+
+Who We Look For
+
+• Currently pursuing or recently completed a bachelor’s degree (or higher) in Computer Science, IT, Cloud Computing, or a related field. Relevant coursework, projects, or internships in cloud computing are a plus.
+
+• Familiarities with the audio and video field, such as live streaming, video on demand, encoding/decoding, and network transmission.
+
+• Strong customer-oriented work skills and a good sense of customer service, with the ability to communicate with technical decision-makers.
+
+• Experience in related industries or working with public clouds is a plus.
+
+• Excellent cross-cultural communication skills are preferred.
+
+Location State(s)
+
+US-California-Palo Alto, US-Washington-Bellevue
+
+The expected base pay range for this position in the location(s) listed above is $27.12 to $51.93 per hour. Actual pay may vary depending on job-related knowledge, skills, and experience.&#xa;This position will be eligible for 1 hour of paid sick leave for every 30 hours worked and up to 13 paid holidays throughout the calendar year. Subject to the terms and conditions of the applicable plans then in effect, full-time interns are also eligible to enroll in the Company-sponsored medical plan.
+
+Equal Employment Opportunity at Tencent
+
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.

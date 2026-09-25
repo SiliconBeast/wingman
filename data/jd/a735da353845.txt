@@ -1,0 +1,87 @@
+Overview
+
+We are looking for talented and passionate college students for the summer to join our Barrios team in support of work we do for government and commercial industries in human spaceflight. This is a unique opportunity for a college student (Sophomore by credit or higher) to have an internship supporting missions to low-Earth orbit, the Moon, and to Mars and beyond. This position will be in our Digital Solutions department, supporting one of the various Barrios disciplines, conducting digital infrastructure support and or supporting application and data development across multiple disciplines. The goal of this internship is to introduce the successful candidate to multiple digital solutions disciplines while performing a project in a designated area that is integral to achieving mission success. Each candidate will present an out-brief at the end of the internship.
+
+Note: We will be accepting applications from September 28th until November 6th. Interviews will begin no earlier than October 21st.
+
+**An unofficial transcript is required at the time of application. Please upload your transcript in addition to a resume .**
+
+Responsibilities
+
+Specific tasking may include, but is not limited to projects in the following areas:
+
+• Software development and engineering support of tool suites
+
+• Support requirements collection and management
+
+• AI Sciences and development
+
+• Data engineering
+
+• Data analysis
+
+• Integration and presentation
+
+• Problem resolution
+
+• Process improvements and continued innovation
+
+• Perform other duties as required
+
+Qualifications
+
+Required Education/Experience/Skills:
+
+• Students must be actively pursuing a bachelor's or advanced degree in Computer Science or Computer Engineering; Software Development or Software Engineering; AI Sciences; Data Science; or similar computational degree from an accredited college of university.
+
+• Sophomore credit equivalency (30-59) credit hours at the time of application) with a GPA of 3.0 or higher.
+
+• Front End (UI/UX) and or Back-End (Database, Server) Computer programming and development skills.
+
+• Proficient in Microsoft Office (Word, PowerPoint, Excel, Outlook, SharePoint)
+
+• Excellent communication skills (in both written and verbal), integration, coordination and presentation skills.
+
+• Excellent interpersonal and team working skills.
+
+• Demonstrated ability to work well in a team and independently.
+
+Preferences:
+
+• Experience with Front End development experience ((REACT, UX design, Digital Art and Design, Adobe Illustrator/Photoshop, JavaScript, Typescript, etc.).
+
+• Project or other leadership experience (in school, extracurricular, or internship), innovation or process improvement skills, ability to demonstrate technical understanding of complex situations and communicate to appropriate audience.
+
+Essential Requirements
+
+• Must be a U.S. Citizen and successfully complete a U.S. government background investigation.
+
+• Applicant selected may be subject to government security investigation and must meet eligibility requirements for access to classified information.
+
+• Work may involve sitting for extended periods.
+
+• May require lifting and carrying up to 25 lb.
+
+• Must have sufficient mobility to enter areas of test facilities where necessary.
+
+• Generally, an office environment but can involve inside or outside work depending on task.
+
+• Standard office equipment (PC, telephone, fax, etc.)
+
+• Regular attendance in accordance with established work schedule is critical.
+
+• Ability to work outside normal schedule and adjust schedule to meet peak periods and surge requirements when required.
+
+• Must be able to work in a team atmosphere.
+
+• Must put forward a professional behavior that enhances productivity and promotes teamwork and cooperation.
+
+• Grooming and dress must be appropriate for the position and must not impose a safety risk/hazard to the employee or others.
+
+• This position may require some commuting and traveling to other installations as needed.
+
+Don’t miss out on this great opportunity; for immediate consideration, apply now!
+
+Barrios Technology is a drug-free workplace, which is imperative to the health and safety of all employees and is required as a condition of receiving contracts from federal agencies. Please remember that regardless of the legalization of marijuana in several states, possession and use continues to be illegal under the federal Controlled Substances Act. This includes the use of some CBD products. A post-offer, pre-employment drug test is a condition of employment.
+
+Barrios Technology is an Equal Employment Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.

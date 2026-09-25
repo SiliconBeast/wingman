@@ -1,0 +1,237 @@
+Software Engineering Intern
+Are you currently a college student looking to start your career in software engineering? Do you want hands-on experience working with real production systems while learning from experienced engineers? Nucleus Security is seeking a Software Engineering Intern with an interest in full stack development to join our Engineering organization.
+
+Location
+AUS Remote
+Department
+Engineering
+Employment Type
+Internship (Paid)
+Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+About Nucleus Security
+Nucleus Security helps organizations manage and prioritize vulnerabilities at scale by unifying data from scanners, cloud platforms, and other security tools. Our platform ingests, normalizes, and acts on large volumes of security data to help customers improve their security posture efficiently.
+
+Role Overview
+As a Software Engineering Intern, you will work alongside experienced engineers to contribute to systems that support integrations, workflows, APIs, and internal tooling across the Nucleus platform. This internship is designed for students who are still in college and intend to begin their careers in software engineering.
+
+You will contribute to real code used by production systems while working on carefully scoped projects that prioritize learning, code quality, and maintainability. No prior professional software engineering experience is required.
+
+What You’ll Work On
+Depending on team needs and your interests, you may:
+
+• Leverage AI to build new features and fix bugs in a Cyber Security Vulnerability Management Platform
+
+• Build out new components for our ReactJS frontend.
+
+• Work with third party REST APIs to build new ETL integrations.
+
+• Write and improve automated tests to increase reliability and confidence.
+
+• Debug issues and learn how to diagnose problems in distributed systems.
+
+• Collaborate in code reviews and technical discussions with your team.
+
+Required Qualifications
+
+• Have previous internship, co-op, or equivalent experience in software engineering or a related field.
+
+• Be currently enrolled in a college or university program with plans to graduate on or before June 2027.
+
+• Be pursuing a degree in computer science, software engineering, or a related field.
+
+• Be interested in starting a career in software engineering.
+
+• Be willing to learn, ask questions, and receive feedback.
+
+• Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+Nice to Have (Not Required)
+
+• Experience with PHP and modern PHP practices.
+
+• Experience with Python and modern Python practices.
+
+• Experience with React and Typescript.
+
+• Experience with relational databases such as MySQL.
+
+• Familiarity with REST APIs, JSON, and HTTP.
+
+• Experience writing or debugging unit tests.
+
+• Basic familiarity with Git, Linux, or CI/CD concepts.
+
+• Experience working in an Agile development environment.
+
+• Interest in cybersecurity, integrations, or developer tooling.
+
+Internship Experience & Outcomes
+Throughout the internship, you will work on one or more well-scoped projects under the guidance of a mentor. At the conclusion of the internship, you will present to the engineering team what you worked on, the problems you tackled, and what you learned.
+Why Nucleus?
+
+• At Nucleus Security, you will:
+
+Gain hands-on experience working on real-world software systems.
+Learn professional engineering practices in a supportive, mentorship-driven environment.
+Collaborate with a high-performing, distributed engineering team.
+Work remotely with flexibility and a strong emphasis on learning and growth.
+Nucleus Security is committed to building a diverse and inclusive workplace. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+Software Engineering Intern
+Are you currently a college student looking to start your career in software engineering? Do you want hands-on experience working with real production systems while learning from experienced engineers? Nucleus Security is seeking a Software Engineering Intern with an interest in full stack development to join our Engineering organization.
+
+Location
+AUS Remote
+Department
+Engineering
+Employment Type
+Internship (Paid)
+Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+About Nucleus Security
+Nucleus Security helps organizations manage and prioritize vulnerabilities at scale by unifying data from scanners, cloud platforms, and other security tools. Our platform ingests, normalizes, and acts on large volumes of security data to help customers improve their security posture efficiently.
+
+Role Overview
+As a Software Engineering Intern, you will work alongside experienced engineers to contribute to systems that support integrations, workflows, APIs, and internal tooling across the Nucleus platform. This internship is designed for students who are still in college and intend to begin their careers in software engineering.
+
+You will contribute to real code used by production systems while working on carefully scoped projects that prioritize learning, code quality, and maintainability. No prior professional software engineering experience is required.
+
+What You’ll Work On
+Depending on team needs and your interests, you may:
+
+• Leverage AI to build new features and fix bugs in a Cyber Security Vulnerability Management Platform
+
+• Build out new components for our ReactJS frontend.
+
+• Work with third party REST APIs to build new ETL integrations.
+
+• Write and improve automated tests to increase reliability and confidence.
+
+• Debug issues and learn how to diagnose problems in distributed systems.
+
+• Collaborate in code reviews and technical discussions with your team.
+
+Required Qualifications
+
+• Have previous internship, co-op, or equivalent experience in software engineering or a related field.
+
+• Be currently enrolled in a college or university program with plans to graduate on or before June 2027.
+
+• Be pursuing a degree in computer science, software engineering, or a related field.
+
+• Be interested in starting a career in software engineering.
+
+• Be willing to learn, ask questions, and receive feedback.
+
+• Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+Nice to Have (Not Required)
+
+• Experience with PHP and modern PHP practices.
+
+• Experience with Python and modern Python practices.
+
+• Experience with React and Typescript.
+
+• Experience with relational databases such as MySQL.
+
+• Familiarity with REST APIs, JSON, and HTTP.
+
+• Experience writing or debugging unit tests.
+
+• Basic familiarity with Git, Linux, or CI/CD concepts.
+
+• Experience working in an Agile development environment.
+
+• Interest in cybersecurity, integrations, or developer tooling.
+
+Internship Experience & Outcomes
+Throughout the internship, you will work on one or more well-scoped projects under the guidance of a mentor. At the conclusion of the internship, you will present to the engineering team what you worked on, the problems you tackled, and what you learned.
+Why Nucleus?
+
+• At Nucleus Security, you will:
+
+Gain hands-on experience working on real-world software systems.
+Learn professional engineering practices in a supportive, mentorship-driven environment.
+Collaborate with a high-performing, distributed engineering team.
+Work remotely with flexibility and a strong emphasis on learning and growth.
+Nucleus Security is committed to building a diverse and inclusive workplace. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+Software Engineering Intern
+Are you currently a college student looking to start your career in software engineering? Do you want hands-on experience working with real production systems while learning from experienced engineers? Nucleus Security is seeking a Software Engineering Intern with an interest in full stack development to join our Engineering organization.
+
+Location
+AUS Remote
+Department
+Engineering
+Employment Type
+Internship (Paid)
+Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+About Nucleus Security
+Nucleus Security helps organizations manage and prioritize vulnerabilities at scale by unifying data from scanners, cloud platforms, and other security tools. Our platform ingests, normalizes, and acts on large volumes of security data to help customers improve their security posture efficiently.
+
+Role Overview
+As a Software Engineering Intern, you will work alongside experienced engineers to contribute to systems that support integrations, workflows, APIs, and internal tooling across the Nucleus platform. This internship is designed for students who are still in college and intend to begin their careers in software engineering.
+
+You will contribute to real code used by production systems while working on carefully scoped projects that prioritize learning, code quality, and maintainability. No prior professional software engineering experience is required.
+
+What You’ll Work On
+Depending on team needs and your interests, you may:
+
+• Leverage AI to build new features and fix bugs in a Cyber Security Vulnerability Management Platform
+
+• Build out new components for our ReactJS frontend.
+
+• Work with third party REST APIs to build new ETL integrations.
+
+• Write and improve automated tests to increase reliability and confidence.
+
+• Debug issues and learn how to diagnose problems in distributed systems.
+
+• Collaborate in code reviews and technical discussions with your team.
+
+Required Qualifications
+
+• Have previous internship, co-op, or equivalent experience in software engineering or a related field.
+
+• Be currently enrolled in a college or university program with plans to graduate on or before June 2027.
+
+• Be pursuing a degree in computer science, software engineering, or a related field.
+
+• Be interested in starting a career in software engineering.
+
+• Be willing to learn, ask questions, and receive feedback.
+
+• Due to business and regulatory requirements, we are only able to hire Australian citizens at this time.
+
+Nice to Have (Not Required)
+
+• Experience with PHP and modern PHP practices.
+
+• Experience with Python and modern Python practices.
+
+• Experience with React and Typescript.
+
+• Experience with relational databases such as MySQL.
+
+• Familiarity with REST APIs, JSON, and HTTP.
+
+• Experience writing or debugging unit tests.
+
+• Basic familiarity with Git, Linux, or CI/CD concepts.
+
+• Experience working in an Agile development environment.
+
+• Interest in cybersecurity, integrations, or developer tooling.
+
+Internship Experience & Outcomes
+Throughout the internship, you will work on one or more well-scoped projects under the guidance of a mentor. At the conclusion of the internship, you will present to the engineering team what you worked on, the problems you tackled, and what you learned.
+Why Nucleus?
+
+• At Nucleus Security, you will:
+
+Gain hands-on experience working on real-world software systems.
+Learn professional engineering practices in a supportive, mentorship-driven environment.
+Collaborate with a high-performing, distributed engineering team.
+Work remotely with flexibility and a strong emphasis on learning and growth.
+Nucleus Security is committed to building a diverse and inclusive workplace. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.

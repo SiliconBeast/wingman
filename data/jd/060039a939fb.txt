@@ -1,0 +1,77 @@
+SOFTWARE ENGINEERING INTERN (SUMMER 2027)
+
+Freeform is deploying software-defined, autonomous metal 3D printing factories around the world, bringing the scalability of software to physical production. Our proprietary technology stack leverages advanced sensing, real-time controls, and data-driven learning to produce digitally verified, flawless parts at unprecedented speed and cost. Our mission is to make the transformative power of 3D printing available to all industries at scale and unlock the future of innovation. 
+
+As a Software Engineering Intern at Freeform, you’ll help build the core software systems that power our autonomous metal 3D printing factories. You’ll work with a talented engineering team from some of the world’s most innovative companies across a range of projects to develop and maintain mission-critical infrastructure - including controls, high speed data acquisition, and geometry processing pipelines - that enable high-speed, high-quality, and fully automated production. This is a hands-on role where you’ll contribute to real-world solutions that bridge software and hardware, and gain exposure to a fast-paced, multidisciplinary engineering environment. You’ll be encouraged to take a first-principles approach to problem solving, explore new technical domains, and collaborate across teams to help bring complex systems to life.
+
+3D printing experience is not required to be successful here - rather we look for smart, motivated, collaborative engineers who love solving hard problems and creating amazing technology!
+
+Responsibilities:
+
+• Support the design and development of software for advanced, production-scale metal 3D printing systems
+
+• Collaborate with process, control, and mechanical engineers to help integrate control algorithms into production software
+
+• Assist in improving and scaling high-rate data acquisition, storage, and retrieval systems
+
+• Contribute to the development of the software pipeline that converts customer part geometries into machine-ready print instructions
+
+Basic Qualifications:
+
+• Currently enrolled in a bachelor’s degree in computer science, computer engineering, or electrical engineering from an ABET accredited university or college
+
+• Internship or engineering club experience such as FSAE, Baja SAE, solar car, rocket club, robotics club, or similar programming with C/C++ or Rust
+
+Nice to Have:
+
+• Advanced degree (Master's or PhD) in computer science, computer engineering, or electrical engineering
+
+• Experience interfacing with microcontrollers, FPGA, or GPU computing hardware
+
+• Experience developing embedded or real-time software systems
+
+• Experience writing software for industrial automation systems, robotics, or related hardware
+
+• Experience working in a Linux environment
+
+• Comfortable working in fast-paced, ambiguous environments and iterating quickly (comfortable building the plane as we fly it)
+
+• Strong communicator who collaborates across disciplines and proactively seeks support when needed
+
+• Willing to take ownership of tasks big and small, with a hands-on, problem-solving mindset
+
+• Strong work ethic with a refuse-to-fail mindset
+
+• Demonstrated indicators of excellence and/or achieving success against adversity (i.e. top academic performance, leadership in engineering clubs, first-generation college student, or other examples of resilience and achievement)
+
+Location:
+
+• We are located in Hawthorne, CA in a 35,000 square foot, state-of-the-art facility featuring large open spaces for team collaboration, R&D, and production, as well as easy access to the 405, 105, and 110 freeways. Our facility is in the heart of Los Angeles' vibrant emerging tech ecosystem alongside many other high growth startups and enterprises.
+
+What We Offer:
+
+• We have an inclusive and diverse culture that values collaboration, learning, and making deliberate data-driven decisions
+
+• We offer a unique opportunity to be an early and integral member of a rapidly growing company that is scaling a world-changing technology
+
+• Compensation and Benefits
+
+• The compensation for this role:
+
+• Engineering Intern/Undergraduate: $34/hour
+
+• Engineering Intern/Masters: $36/hour
+
+• Engineering Intern/PhD: $38/hour
+
+• Relocation assistance
+
+• Free daily catered lunch and dinner, and fully stocked kitchenette
+
+• Casual dress, flexible work hours, and regular catered team building events
+
+• Freeform is an Equal Opportunity Employer that values diversity; employment with Freeform is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+
+What To Expect:
+
+• Thank you for your interest in our internship opportunity! We truly appreciate your application and enthusiasm to join our team. Please note that our interview process will begin after we attend university career fairs in early fall. The process will include 2-3 rounds of virtual interviews. We anticipate wrapping up the interview process by late Fall.

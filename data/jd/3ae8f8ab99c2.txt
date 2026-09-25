@@ -1,0 +1,66 @@
+Software Engineering Internship or Co-op
+
+When you join the Precision Automation and Robotics evolution at Aerotech , located near Pittsburgh, PA in RIDC Park, O’Hara Township, you will join a company that is small enough that everyone makes a difference, and large enough to work with today’s latest and greatest technology. You will gain exceptional experience with a balance of learning , hands-on training, and opportunities to work on projects that matter . You will participate in our total rewards internship program that includes:
+
+• Extending your education from your classroom to practical applications.
+
+• Access to leading engineers in the field of automation and robotics.
+
+• Participation with other interns and assigned mentors exploring various projects, career paths, company luncheons and activities.
+
+• Competitive compensation and flexible schedules, supporting your professional and educational goals.
+
+You will help to improve lives with our innovative solutions that enable advanced manufacturing operations worldwide. Demand for Aerotech’s advanced technology products continues to thrive, so we continue to expand!
+
+Join the Aerotech Precision Automation and Robotics Careers evolution and Take Control of Your Career !
+
+Position Summary
+As a co-op or intern within our Software Engineering department, you will have the opportunity to join either the Enterprise Development Team or the Application Development Team. You will gain hands-on experience by carrying out the same day-to-day responsibilities as a full-time, entry-level engineer. A description of each team is provided below:
+
+• The Enterprise Development Team (EDT):
+
+• Focuses on the software applications, enterprise libraries, and data-driven database solutions that improve business/manufacturing efficiency, management decision making, and other strategic objectives. Experience with Enterprise Resource Planning (ERP) software, Business Intelligence (BI), data analytics, and/or DevOps is a plus but not a requirement. Day-to-day programming involves C#, advanced SQL, BI dashboards/SSRS reporting, Python, and some JavaScript.
+
+• The Application Development Team (ADT):
+
+• Focuses on the applications and front-end features/functionality of Aerotech’s motion control software. This involves both the design and implementation of user interfaces with a focus on user experience, and the coding that interfaces with the lower levels of the software stack. Day-to-day programming involves C# coding and WPF UI development.
+
+Note: Internships typically last approximately three (3) months within a single summer.
+
+Essential Functions
+
+• Develops new or modifies existing enterprise, library, or application level software under the supervision of experienced engineers
+
+• Debugs software problems involving Aerotech or third-party software products
+
+• Conducts tests to verify the implementation of new software features and validate use cases
+
+• Documents and organizes test results for review by senior engineers
+
+Minimum Qualifications
+
+• Eligible students are those currently enrolled in a Bachelor of Science (BS) or Master of Science (MS) degree program in Computer Engineering, Software Engineering, Computer Science, Data Analytics, Data Science, or Information Science from an ABET accredited college or university
+
+• Must maintain a GPA of 3.25 or above.
+
+• Currently accepting applications for Sophomores, Juniors and Seniors that plan to attend graduate school, and current Graduate students.
+
+• Strong understanding of geometry, basic calculus, and/or data structures preferred
+
+• Thorough knowledge of an object-oriented (e.g., C++, C#, Java) programming language
+
+• Must be authorized to work in the US without employer sponsorship. Aerotech does not provide U.S. work authorization sponsorship for this position. OPT and CPT visa holders are not eligible for employment if they will need work authorization sponsorship at any time in the future.
+
+*** Note: This is a paid internship, but Aerotech does not provide additional relocation or housing assistance for this position.***
+
+Must be authorized to work in the US currently and in the future without employer sponsorship.
+
+Aerotech is committed to the concept and practice of equal employment opportunity and affirmative action. The Company's policy is to provide equal employment opportunity to all qualified applicants and employees regardless of their race, color, religion, age (40 or over), sex, national origin, disability, or veteran status. This policy applies to recruiting and hiring, training, promotion, compensation, benefits, transfer, layoff, and termination. The Company makes and will continue to make all employment decisions in a non-discriminatory manner.
+
+The Company is collecting the information requested in this employment application for purposes of evaluating your suitability for hire by the Company. The Company will share the information that you provide in this employment application only with Company management officials who are involved in the hiring process or who are otherwise involved in making employment-related decisions on behalf of the Company.
+
+Aerotech, Inc. is providing this notice to applicants regarding our use of Automated Decision-Making Technology (ADMT) . We use these tools to assist in evaluating job applications and identifying qualified candidates for our open positions.
+
+We utilize ADMT for initial screening purposes through automated "knockout questions" to determine if a candidate meets the minimum mandatory requirements for a role.
+
+You have the right to opt-out of ADMT by applying using the following link: General Application without ADMT

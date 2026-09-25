@@ -1,0 +1,71 @@
+Position: Operations Analytics Co-op/Intern
+Number of Position(s): 3
+Duration: 4 Months (with potential extension for Summer 2027)
+Date: January - April 2027
+Location: Onsite, Ottawa, ON, Canada
+
+EDUCATIONAL RECOMMENDATIONS
+
+Currently a candidate for a Bachelor's or Master's degree in Engineering, Computer Science, Data Science, Business Analytics, Information Systems, or a related field with an accredited school in Canada.
+
+What you will do:
+
+• Support day-to-day operational activities and process optimization initiatives.
+
+• Analyze operational and business data using Excel and Power BI to develop dashboards, reports, and performance metrics.
+
+• Design and develop demand planning reports using Power BI, Excel, and Power Automate to support staffing forecasts and resource planning activities.
+
+• Build automated reporting solutions that provide actionable insights across regions and user profiles for operational performance reviews.
+
+• Assist in developing and applying AI-based solutions for data analysis, automation, forecasting, and operational optimization.
+
+• Collaborate with engineering, product, and business teams on data-driven projects and continuous improvement initiatives.
+
+• Prepare presentations, reports, and executive summaries to communicate insights and recommendations to stakeholders.
+
+• Maintain documentation and ensure the accuracy, consistency, and integrity of operational data across systems.
+
+You Must Have:
+
+• Knowledge of Artificial Intelligence and Machine Learning concepts gained through coursework, projects, or practical experience.
+
+• Experience using Power BI for dashboard creation, reporting, or data visualization.
+
+• Strong Microsoft Excel skills, including data analysis, pivot tables, and advanced formulas.
+
+• Strong analytical and problem-solving skills with the ability to interpret complex datasets.
+
+• Ability to work independently while collaborating effectively within a team environment.
+
+• Strong attention to detail, organizational skills, and a commitment to data accuracy.
+
+• Excellent communication skills with the ability to present findings clearly to technical and non-technical audiences.
+
+It Would Be Nice If You Also Had:
+
+• Experience with Python, SQL, or similar data analysis and automation tools.
+
+• Familiarity with operational processes and workflows in a technology-driven environment.
+
+• Prior internship, co-op, academic project, or consulting experience related to operations, analytics, business intelligence, or process improvement.
+
+• Experience with Power Automate or other workflow automation tools.
+
+• Exposure to forecasting, demand planning, or business performance reporting.
+
+• Familiarity with AI-driven analytics, automation, or predictive modeling techniques.
+
+Advancing connectivity to secure a brighter world.
+
+Nokia is a global leader in connectivity for the AI era. With expertise across fixed, mobile and transport networks, powered by the innovation of Nokia Bell Labs, we’re advancing connectivity to secure a brighter world.
+
+Learn more about life at Nokia .
+
+Our recruitment process
+
+We act inclusively and respect the uniqueness of people. Our employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law. We are committed to a culture of inclusion built upon our core value of respect.
+
+If you’re interested in this role but don’t meet every listed requirement, we still encourage you to apply. Unique backgrounds, perspectives, and experiences enrich our teams, and you may be just the right candidate for this or another opportunity.
+
+The length of the recruitment process may vary depending on the specific role's requirements. We strive to ensure a smooth and inclusive experience for all candidates. Discover more about the recruitment process at Nokia .

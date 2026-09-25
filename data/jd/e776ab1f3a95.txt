@@ -1,0 +1,97 @@
+Black Cape
+
+Title: Skillbridge Internship - Software Engineer (**ALL LEVELS)
+
+**MUST be willing to get the TS/SCI CI Poly, if you do not already have one***
+Will consider Secret clearances and above.
+
+Location: Arlington, VA (Ballston area) - Black Cape HQ
+
+We are ONLY Hiring SkillBridge Interns for the DMV (Washington, DC, Maryland, Virginia) area at this time for our HQ Arlington, VA office. Once you convert to an FTE (Full Time Employee), we also would like you to stay in the DMV area in order to be able to go to a Customer Site 3 - 5 days per week. We have had almost a 100% conversion rate of SkillBridge Interns to FTE's, which is Awesome!
+
+In Office Expectations: Internship would be in office 3-4 days per week. Might fluctuate based on Team Lead's Needs.
+
+SKILLBRIDGE INTERNSHIP REQUIREMENTS:
+
+Black Cape is seeking technologists who are actively using their software development skills and/or have a computer science background.
+
+We are a Veteran-Owned Small Business with expertise in developing Mission Applications and applying Machine Learning and Artificial Intelligence to hard problems in the Government and Commercial Sectors.
+
+Black Cape offers customized Internships designed to support the lifecycle of technology projects from inception to development, to leadership, to customer-interfacing, to transition. We are seeking candidates with a completed Bachelor of Science degree or candidates who are close to completion of a BS degree and/or a coding Bootcamp. A completed Associates degree may also be considered. Technical degrees are preferred (e.g., Computer Science, Electrical Engineering, Mechanical Engineering, Mathematics, Physics, Computer Information Systems, etc.).
+
+We know this is a Skillbridge internship program that bridges the gap from your military training to practical application in the civilian technical world, but we have found that candidates with three to six months (or more) of technical experience usually thrive best in our program. This could come in the form of military experience using Data Science, Software Development, DevOps, Cloud Computing, or other related skills.
+
+We are a company that prides itself on IMPACTFUL work for the Federal government, but we also have a Fun work culture centered around Team bonding and Team Building, serving the professional development of our teammates – and the greater good!
+
+Black Cape has offices in Arlington, VA (HQ), and Austin, TX, and has small presences in Charlottesville, VA, Colorado Springs, CO, Honolulu, HI, Tampa, FL and Miami, FL.
+
+We are ONLY Hiring SkillBridge Interns for the DMV (Washington, DC, Maryland, Virginia) area at this time for our HQ Arlington, VA office. Once you convert to an FTE (Full Time Employee), we also would like you to stay in the DMV area in order to be able to go to a Customer Site 3 - 5 days per week. We have had almost a 100% conversion rate of SkillBridge Interns to FTE's.
+
+We cannot offer fully remote internships at this time.
+
+We look forward to hearing from you and hopefully shepherding you through our interview process!
+
+About the company :
+Want to be a part of a LOYAL, Intelligent, Talented, Dynamic & FUN Team from the ground up and help build something GREAT??
+
+• Then, you should consider Us!
+
+• We work with Intelligence Community to accomplish their goals!
+
+• Come join us in creating cloud-native web applications, advanced data analysis tools, and new machine learning capabilities.
+
+Be a part of a team that is making an IMPACT on the world and its safety and HAVE FUN while doing so!
+
+Black Cape is a unique technology company with a focus on Machine Learning, AI, Cloud and BIG Data work and Services and Products positioned for Federal Government customers and some Commercial Customers.
+
+This Start-Up (Black Cape) is a new company developed by Proven Success Stories.
+Former successful companies of these Founders supported many programs as both a prime and a subcontractor and created a strong reputation working with top tier partners, in every major Intelligence Agency.
+
+We are a COOL and FUN crew that works hard and plays maybe even a little harder!! Our Core Team is an impressive bunch with exceptional leadership at the helm!
+
+Black Cape provides full-stack software development and software integration capabilities for traditional, cloud, and hybrid-cloud environments.
+
+We are doing AI technology, Machine Learning and Cloud technology- that will IMPACT the greater good and the world's safety!!
+
+Our team develops and implements technical solutions on an aggressive schedule across the US Intelligence Community (IC) and the Department of Defense (DoD). Our experienced and highly skilled engineers and analysts apply proven and repeatable technical and analytical approaches and frequent interaction with end users to produce and deploy the appropriate capabilities.
+
+We also bring experience in building and deploying machine learning models and artificial intelligence applications using Google TensorFlow and Python scikit-learn. This company model combines lessons learned from developing and deploying multiple applications to production on JWICS and Amazon Web Services (AWS) with commercial best practices in DevOps and Agile development. Our combination of practical experience and commercial practices is optimized to reduce risk and ensure successful capability delivery.
+
+What we are hiring : (when Skillbridge Interns CONVERT to Full Time Employees)
+
+Exceptional Full Stack, Language Agnostic coding Experts!!
+We are considering Mid-Senior Level software engineers.
+
+We are expanding and need to hire motivated engineers to help build innovative solutions for our customers. The ideal candidate needs limited direction and is passionate about technology. A willingness and desire to pick up new technologies or languages quickly is a must.
+
+Interested in working as part of a multi-disciplinary team with other enthusiastic engineers?
+
+Come join us in creating cloud-native web applications, advanced data analysis tools, and new machine learning capabilities.
+
+Required Technical Skills :
+
+• 6 months - 1 year+ of some level of Technical experience (hopefully in software) needed for MOST of our opportunities
+
+• Proficient in at least ONE Object-Oriented language like Java, Python, C# or C++ - NOT All, just ONE OO language
+
+• Experience with at least ONE MVC framework, perhaps including Spring, Django, Flask or Rails
+
+• Experience with at least ONE relational database, such as MySQL, PostgreSQL or sqlite3
+
+• Experience working with Linux distributions like Ubuntu, RedHat, or CentOS
+
+• Working knowledge of web application basics like HTTP, HTML, REST, CSS, and JavaScript
+
+Preferred Technical Skills:
+
+• Proficient in at least one scripting language like Python or Perl
+
+• Familiar with web server configuration on NGINX, Apache, or similar
+
+• Familiar with a JavaScript framework like Backbone, Angular, Ember or Vue.js
+
+• Familiar with Bootstrap and Less
+
+• Experience with NoSQL storage like ElasticSearch, Accumulo, MongoDB, HBase is a plus.
+
+Great Benefits | 401K | Competitive Salary | Generous Time Off | Exceptional Team-Building & Fun Company Events | Mentorship & Professional Development Programs | Tuition Reimbursement | Parental Policy
