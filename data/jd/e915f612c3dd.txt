@@ -1,0 +1,65 @@
+About Us
+
+The first baby boomers turn 80 this year. Over the next decade, the population most likely to need daily care will grow faster than the buildings, the staff, or the systems available to serve it.
+
+Sage is the care intelligence platform for senior living and skilled nursing. We connect the hardware senior care runs on, including nurse call, fall management, and wander management, with software caregivers actually use. That consistent use is what produces reliable data, and reliable data is what gives operators a true picture of how their communities are running.
+
+Sage is a collaborative team of ambitious, multi-disciplinary entrepreneurs on a mission to reinvent senior care with a modern operating system for caregivers. Millions of people depend on this care getting better, and we move with the urgency that deserves.
+
+About this Role
+
+As a Software Engineering Intern on the Edge team, you will work at the boundary between physical systems installed in senior living communities and the cloud infrastructure that powers the Sage platform. Our edge fleet includes thousands of deployed devices: gateways, sensors, pendants and more that must run reliably in buildings we don't control, on networks we don't manage, for residents who depend on them in emergencies.
+
+This internship runs Monday, June 7, 2027 to Friday, August 13, 2027. You can also visit our website for more information about our internship program.
+
+You will ship production code during your internship. You'll be paired with a senior engineer as your mentor, embed on the team, and present your work to the engineering organization at the end of the summer. Projects may include such work as fleet diagnostic tooling, device telemetry pipelines, or automation that replaces manual operational work.
+
+What You'll Do
+
+• Design, build, and ship a summer project that solves a real problem for the Edge team, with guidance from your mentor
+
+• Write backend services in Java that interact with a fleet of thousands of on-premise devices
+
+• Work with Linux-based edge devices: flashing, configuring, debugging, and learning how software behaves when the network is unreliable
+
+• Build tooling that improves fleet observability and helps the team remotely diagnose hardware and connectivity issues
+
+• Participate in code reviews and design discussions alongside the full engineering team
+
+• Learn how a production IoT system spanning LoRaWAN, BLE, and cloud services actually operates at scale
+
+Minimum Qualifications
+
+• Currently pursuing a degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field
+
+• Solid programming fundamentals in Java, Python, or another object-oriented language, with willingness to work in Java
+
+• Familiarity with Linux and comfort in a terminal
+
+• Curiosity about how software meets hardware: networking, radios, embedded systems, or IoT (coursework and personal projects count)
+
+• Bias toward tinkering: you've taken something apart, built something scrappy, or debugged something the hard way
+
+• Clear communication and eagerness to ask questions
+
+Preferred Qualifications
+
+• Coursework or projects in embedded systems, networking, or RF communication
+
+• Experience with AWS or any cloud platform
+
+• A personal project involving a Raspberry Pi, Arduino, microcontroller, or home automation
+
+• Interest in healthcare technology or building for underserved users
+
+Compensation
+
+Our headquarters are located near New York City's Union Square. We believe in cross team collaboration. We think good ideas can come from anyone, and we've designed our processes to encourage participation from all. While we take our mission seriously, we don't take ourselves too seriously. We like to host offsites, outings, and team meals where we can connect as people, not just as colleagues. We offer office lunch and a fully stocked snack bar. While we are an in-office culture, we allow up to 2 remote days per week.
+
+This role is paid at $50/hour. As an internship position, it is not eligible for our standard employee benefits package (health insurance, stock options, PTO, etc.).
+
+EEO Statement
+
+Sage is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.
+
+This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Sage makes hiring decisions based solely on qualifications, merit, and business needs at the time.

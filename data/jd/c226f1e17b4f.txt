@@ -1,0 +1,95 @@
+Embedded Hardware Intern (Summer 2027)
+
+The Company
+
+Zurn Elkay Water Solutions Corporation is a thriving, values-driven company focused on doing the right things. We’re a fast growing, publicly traded company (NYSE: ZWS), with an enduring reputation for integrity, giving back, and providing an engaging, inclusive environment where careers flourish and grow.
+
+Named by Newsweek as One of America’s Most Responsible Companies and an Energage USA Top Workplace, at Zurn Elkay Water Solutions Corporation, we never forget that our people are at the center of what makes us successful. They are the driving force behind our superior quality, product ingenuity, and exceptional customer experience. Our commitment to our people and their professional development is a recipe for success that has fueled our growth for over 100 years, as one of today’s leading international suppliers of plumbing and water delivery solutions.
+
+Headquartered in Milwaukee, WI, Zurn Elkay Water Solutions Corporation employs over 2800 employees worldwide, working from 24 locations across the U.S., China, Canada, Dubai, and Mexico, with sales offices available around the globe. We hope you’ll visit our website and learn more about Zurn Elkay at zurnelkay.com.
+
+If you’re ready to join a company where what you do makes a difference and you have pride in the work you are doing, talk to us about joining the Zurn Elkay Water Solutions Corporation family!
+
+If you are a current employee, please navigate here to apply internally.
+
+Job Description
+
+The Embedded hardware Internship provides practical exposure to circuit design, PCB layout, prototyping, and testing for embedded and IoT systems. The intern will collaborate with experienced engineers on real-world hardware development projects, gaining hands-on experience from concept through validation.
+
+This internship is based in our Milwaukee, WI Headquarters.
+
+Key Accountabilities
+
+•
+Schematic design and PCB layout using industry-standard tools (Altium).
+
+•
+Support prototype board bring-up and debugging.
+
+•
+Perform circuit validation and hardware testing using oscilloscopes, multimeters, and logic analyzers.
+
+•
+Collaborate with firmware engineers for hardware/firmware integration testing.
+
+•
+Document hardware test results, design changes, and lessons learned.
+
+•
+Assist in BOM (Bill of Materials) management and part selection.
+
+•
+Contribute to design reviews and troubleshooting sessions.
+
+Qualifications/Requirements
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or a related field..
+
+•
+Understanding of basic circuit design (analog and digital).
+
+•
+Familiarity with schematic capture and PCB layout tools (Altium).
+
+•
+Knowledge of microcontrollers and electronic components.
+
+•
+Hands-on experience with lab instruments (oscilloscope, power supply, signal generator, etc.).
+
+•
+Familiarity with embedded communication protocols (UART, SPI, I2C, etc.).
+
+•
+Strong problem-solving and troubleshooting abilities.
+
+•
+Ability to work both independently and as part of a team.
+
+•
+Eagerness to learn and apply new technical concepts.
+
+•
+Good written and verbal communication skills.
+
+Capabilities and Success Factors
+
+•
+Being Resilient – Rebounding from setbacks and adversity when facing difficult situations.
+
+•
+Drives Results – Consistently achieving results, even under tough circumstances.
+
+•
+Values Differences – Recognizing the value that different perspectives and cultures bring to an organization.
+
+•
+Cultivates Innovation – Creating new and better ways for the organization to be successful.
+
+•
+Manages Complexity – Making sense of complex, high quantity and sometimes contradictory information to effectively solve problems.
+
+**THIRD PARTY AGENCY: Any unsolicited submissions received from recruitment agencies will be considered property of Zurn Elkay, and we will not be liable for any fees or obligations related to those submissions.**
+
+E qual Opportunity Employer – Minority/Female/Disability/Veteran

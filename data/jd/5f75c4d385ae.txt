@@ -1,0 +1,71 @@
+At Freddie Mac, our mission of Making Home Possible is what motivates us, and it’s at the core of everything we do. Since our charter in 1970, we have made home possible for more than 90 million families across the country. Join an organization where your work contributes to a greater purpose.
+
+At Freddie Mac, you will do important work to build a better housing finance system, and you’ll be part of a team helping to make homeownership and rental housing more accessible and affordable across the nation.
+
+We are accepting applications for this position until 10/16/2026.
+
+Position Overview:
+
+The Single-Family Business Technology Office (BTO) is seeking Software Developer Interns to help deliver technology solutions that support Freddie Mac’s business, modernize cloud capabilities, manage technology risk, and improve delivery speed and resiliency.
+
+Interns will gain firsthand experience through training, mentorship, Agile project work, application development, business intelligence, data visualization, reporting, and emerging technologies.
+
+Our Impact:
+
+• The Single-Family Business Technology Office (BTO) delivers technology solutions that support Freddie Mac’s mission, strengthen business operations, modernize cloud capabilities, manage technology risk, and improve delivery speed and resiliency.
+
+• Our team partners across Single-Family to develop applications, improve data and reporting capabilities, automate processes, and support reliable technology platforms that help the business serve customers effectively.
+
+• Through innovation, collaboration, and responsible use of emerging technologies, BTO helps create scalable solutions that advance Freddie Mac’s housing mission and prepare interns to contribute to meaningful technology work.
+
+Your Impact:
+
+• Refine user stories, assess acceptance criteria, and support sprint work.
+
+• Develop or enhance code, unit tests, automation scripts, dashboards, and reports.
+
+• Assist with production support, root-cause analysis, releases, and bug resolution.
+
+• Collaborate in an Agile team and communicate the business value of technical solutions.
+
+• Use AI-enabled tools responsibly and participate in intern trainings, bootcamps, and hackathons.
+
+Qualifications:
+
+• Pursuing a bachelor’s degree in computer science, Computer Engineering, Information Systems, Software Engineering, Data Analytics, or related field.
+
+• Expected graduation in December 2027 or May 2028; rising juniors preferred, with availability May–August 2027.
+
+• Introductory coding experience with Java, C/C++, Python, Angular/Spring Boot, or similar.
+
+• Exposure to Agile, business tools, reporting, analytics, Tableau, or data visualization preferred.
+
+Keys to Success in this Role:
+
+• Effective communication, collaboration, curiosity, and initiative.
+
+• Interest in learning new technologies and Freddie Mac business processes.
+
+• Ability to explain technical concepts, data, and visualizations to business audiences.
+
+• AI literacy includes effective prompting and validation of AI-generated responses.
+
+Interns are paid a set, non-negotiable rate. The hourly rate for this position is $32/hr.
+
+Current Freddie Mac employees please apply through the internal career site.
+
+We consider all applicants for all positions without regard to gender, race, color, religion, national origin, age, marital status, veteran status, sexual orientation, gender identity/expression, physical and mental disability, pregnancy, ethnicity, genetic information or any other protected categories under applicable federal, state or local laws. We will ensure that individuals are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+A safe and secure environment is critical to Freddie Mac’s business. This includes employee commitment to our acceptable use policy, applying a vigilance-first approach to work, supporting regulatory mandates, and using best practices to protect Freddie Mac from potential threats and risk. Employees exercise this responsibility by executing against policies and procedures and adhering to privacy & security obligations as required via training programs.
+
+CA Applicants: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.
+
+Time-type:Full time
+
+FLSA Status:Non-Exempt
+
+Freddie Mac offers a comprehensive total rewards package to include competitive compensation and market-leading benefit programs. Information on these benefit programs is available on our Careers site.
+
+This position has an annualized market-based salary range of $54,000 - $82,000 . All interns positions are paid at an hourly rate, which can be found in the body of the job description.

@@ -1,0 +1,53 @@
+Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology.
+
+The Technology Product Analyst Intern will work in a dynamic, fast-paced environment as part of the Product team, to understand, define and create industry-changing products. We are looking for someone who is proactive, results driven and excited to work with internal business teams to drive new product development and can contribute to critical high value projects that will define and maintain our products.
+
+Responsibilities:
+
+• Recommends and establishes appropriate KPIs, monitors and analyzes key metrics in order to execute recurring analyses and reporting
+
+• Works as part of the Product Management team to ask the right questions, measure the right things and interpret metrics to tell a meaningful story about product usage and trends
+
+• Independently analyzes and interprets feature usage to suggest enhancements; help us prioritize and maintain urgency of new features
+
+• Helps design tests for beta/pilot/early adopter programs to ensure successful adoption of a new product or feature.
+
+• Understands how user interactions translate to data that provides insights on behavior and defines and creates reports and dashboards with meaningful data interpretations, data segments, filters and flows that communicate product and/or feature performance.
+
+• Employs lean methodology to help define business problems, form hypotheses, test and validate solutions, and continue with the build > measure > learn cycle.
+
+• Executes the discovery phase of the SDLC through identifying possible feature/functionality needs and completing research from both a business need and a value/ROI perspective.
+
+• Maintains and updates documentation on product design and implementation.
+
+• Must a recent graduate or current student pursuing their master's degree in Data Analytics, Mathematics, Engineering, Statistics etc.
+
+• Great problem solving, and analytical skills combined with Strong communication skills (written and verbal)
+
+• Ability to setup, manage and maintain analytics software like Mixpanel, Flurry, Google Analytics, or similar software
+
+• Ability to query SQL databases with an understanding of relational databases and table structures
+
+• Experience with quantitative research methods and displaying results using Tableau or other reporting platforms
+
+• Ability to learn and use product management software, such as JIRA, or other applications.
+
+• Must be able to manage and prioritize multiple tasks and projects
+
+• Knowledge of Agile SCRUM and Lean methodologies preferred
+
+• Prior experience as a business analyst or any other software development role
+
+Benefit Summary:
+
+• Medical
+
+#LI-KK1
+&#xa;&#xa;
+At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.
+
+E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:
+
+• E-verify Participation
+
+• Right to Work

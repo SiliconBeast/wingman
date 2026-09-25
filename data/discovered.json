@@ -1,11 +1,11 @@
 {
- "run": 15,
+ "run": 16,
  "boards": {
   "wd:bah/bah_jobs": {
    "first": "2026-09-21",
    "name": "Booz Allen",
    "value": "https://bah.wd1.myworkdayjobs.com/bah_jobs",
-   "roles": 58,
+   "roles": 55,
    "last": "2026-09-25"
   },
   "oracle:hdjq.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1": {
@@ -47,6 +47,13 @@
    "first": "2026-09-21",
    "name": "Bosch",
    "value": "https://jobs.smartrecruiters.com/BoschGroup",
+   "roles": 28,
+   "last": "2026-09-25"
+  },
+  "wd:marvell/marvellcareers": {
+   "first": "2026-09-21",
+   "name": "Marvell",
+   "value": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
    "roles": 27,
    "last": "2026-09-25"
   },
@@ -64,10 +71,17 @@
    "roles": 25,
    "last": "2026-09-25"
   },
-  "wd:marvell/marvellcareers": {
+  "wd:myview/paradox_careers": {
    "first": "2026-09-21",
-   "name": "Marvell",
-   "value": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+   "name": "Loblaw Companies",
+   "value": "https://myview.wd3.myworkdayjobs.com/paradox_careers",
+   "roles": 24,
+   "last": "2026-09-25"
+  },
+  "wd:tencent/tencent_careers": {
+   "first": "2026-09-21",
+   "name": "Tencent",
+   "value": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers",
    "roles": 24,
    "last": "2026-09-25"
   },
@@ -82,20 +96,6 @@
    "first": "2026-09-21",
    "name": "Fidelity Investments",
    "value": "https://fmr.wd1.myworkdayjobs.com/targeted",
-   "roles": 23,
-   "last": "2026-09-25"
-  },
-  "wd:myview/paradox_careers": {
-   "first": "2026-09-21",
-   "name": "Loblaw Companies",
-   "value": "https://myview.wd3.myworkdayjobs.com/paradox_careers",
-   "roles": 23,
-   "last": "2026-09-25"
-  },
-  "wd:tencent/tencent_careers": {
-   "first": "2026-09-21",
-   "name": "Tencent",
-   "value": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers",
    "roles": 23,
    "last": "2026-09-25"
   },
@@ -127,11 +127,28 @@
    "roles": 22,
    "last": "2026-09-25"
   },
+  "wd:brunswick/search": {
+   "first": "2026-09-21",
+   "name": "Brunswick",
+   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
+   "roles": 21,
+   "last": "2026-09-25"
+  },
   "wd:intelcomgroup/intelcom": {
    "first": "2026-09-21",
    "name": "Intelcom | Dragonfly",
    "value": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom",
    "roles": 21,
+   "last": "2026-09-25"
+  },
+  "jibe:careers.jhuapl.edu": {
+   "first": "2026-09-21",
+   "name": "Johns Hopkins Applied Physics Laboratory",
+   "value": {
+    "ats": "jibe",
+    "url": "https://careers.jhuapl.edu"
+   },
+   "roles": 20,
    "last": "2026-09-25"
   },
   "oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu": {
@@ -148,13 +165,6 @@
    "roles": 20,
    "last": "2026-09-25"
   },
-  "wd:brunswick/search": {
-   "first": "2026-09-21",
-   "name": "Brunswick",
-   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
-   "roles": 20,
-   "last": "2026-09-25"
-  },
   "wd:fnbcorp/fnbcorp": {
    "first": "2026-09-21",
    "name": "First National Bank",
@@ -162,13 +172,17 @@
    "roles": 20,
    "last": "2026-09-25"
   },
-  "jibe:careers.jhuapl.edu": {
+  "wd:gilead/gileadcareers": {
    "first": "2026-09-21",
-   "name": "Johns Hopkins Applied Physics Laboratory",
-   "value": {
-    "ats": "jibe",
-    "url": "https://careers.jhuapl.edu"
-   },
+   "name": "Gilead Sciences",
+   "value": "https://gilead.wd1.myworkdayjobs.com/gileadcareers",
+   "roles": 20,
+   "last": "2026-09-25"
+  },
+  "wd:copart/copart": {
+   "first": "2026-09-21",
+   "name": "Copart",
+   "value": "https://copart.wd12.myworkdayjobs.com/copart",
    "roles": 19,
    "last": "2026-09-25"
   },
@@ -176,13 +190,6 @@
    "first": "2026-09-21",
    "name": "Gordon Food Service",
    "value": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs",
-   "roles": 19,
-   "last": "2026-09-25"
-  },
-  "wd:gilead/gileadcareers": {
-   "first": "2026-09-21",
-   "name": "Gilead Sciences",
-   "value": "https://gilead.wd1.myworkdayjobs.com/gileadcareers",
    "roles": 19,
    "last": "2026-09-25"
   },
@@ -207,17 +214,17 @@
    "roles": 18,
    "last": "2026-09-25"
   },
+  "wd:allegion/careers": {
+   "first": "2026-09-21",
+   "name": "Allegion",
+   "value": "https://allegion.wd5.myworkdayjobs.com/careers",
+   "roles": 18,
+   "last": "2026-09-25"
+  },
   "wd:amgen/careers": {
    "first": "2026-09-21",
    "name": "Amgen",
    "value": "https://amgen.wd1.myworkdayjobs.com/careers",
-   "roles": 18,
-   "last": "2026-09-25"
-  },
-  "wd:copart/copart": {
-   "first": "2026-09-21",
-   "name": "Copart",
-   "value": "https://copart.wd12.myworkdayjobs.com/copart",
    "roles": 18,
    "last": "2026-09-25"
   },
@@ -235,10 +242,10 @@
    "roles": 18,
    "last": "2026-09-25"
   },
-  "wd:leidos/external": {
-   "first": "2026-09-21",
-   "name": "Leidos",
-   "value": "https://leidos.wd5.myworkdayjobs.com/External",
+  "wd:semtech/semtechcareers": {
+   "first": "2026-09-24",
+   "name": "Semtech",
+   "value": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers",
    "roles": 18,
    "last": "2026-09-25"
   },
@@ -249,10 +256,10 @@
    "roles": 17,
    "last": "2026-09-25"
   },
-  "wd:allegion/careers": {
+  "wd:leidos/external": {
    "first": "2026-09-21",
-   "name": "Allegion",
-   "value": "https://allegion.wd5.myworkdayjobs.com/careers",
+   "name": "Leidos",
+   "value": "https://leidos.wd5.myworkdayjobs.com/External",
    "roles": 17,
    "last": "2026-09-25"
   },
@@ -261,6 +268,13 @@
    "name": "Sierra Nevada Corporation",
    "value": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site",
    "roles": 17,
+   "last": "2026-09-25"
+  },
+  "ashby:bedrock-robotics": {
+   "first": "2026-09-21",
+   "name": "Bedrock Robotics",
+   "value": "https://jobs.ashbyhq.com/bedrock-robotics",
+   "roles": 16,
    "last": "2026-09-25"
   },
   "greenhouse:klaviyocampus": {
@@ -319,13 +333,6 @@
    "roles": 14,
    "last": "2026-09-25"
   },
-  "ashby:bedrock-robotics": {
-   "first": "2026-09-21",
-   "name": "Bedrock Robotics",
-   "value": "https://jobs.ashbyhq.com/bedrock-robotics",
-   "roles": 14,
-   "last": "2026-09-25"
-  },
   "wd:alliedsolutions/allied_external": {
    "first": "2026-09-21",
    "name": "Allied Solutions",
@@ -337,6 +344,20 @@
    "first": "2026-09-21",
    "name": "British Columbia Investment",
    "value": "https://bci.wd10.myworkdayjobs.com/BCI_Careers",
+   "roles": 14,
+   "last": "2026-09-25"
+  },
+  "wd:cigna/cignacareers": {
+   "first": "2026-09-21",
+   "name": "Cigna Group",
+   "value": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
+   "roles": 14,
+   "last": "2026-09-25"
+  },
+  "wd:gehc/gehc_externalsite": {
+   "first": "2026-09-21",
+   "name": "GE Healthcare",
+   "value": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
    "roles": 14,
    "last": "2026-09-25"
   },
@@ -354,10 +375,10 @@
    "roles": 14,
    "last": "2026-09-25"
   },
-  "wd:usaa/usaajobswd": {
+  "wd:ttc/toro_external_careers": {
    "first": "2026-09-21",
-   "name": "USAA",
-   "value": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
+   "name": "The Toro Company",
+   "value": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers",
    "roles": 14,
    "last": "2026-09-25"
   },
@@ -375,24 +396,10 @@
    "roles": 13,
    "last": "2026-09-25"
   },
-  "wd:cigna/cignacareers": {
-   "first": "2026-09-21",
-   "name": "Cigna Group",
-   "value": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
-   "roles": 13,
-   "last": "2026-09-25"
-  },
   "wd:flir/flircareers": {
    "first": "2026-09-21",
    "name": "Teledyne",
    "value": "https://flir.wd1.myworkdayjobs.com/flircareers",
-   "roles": 13,
-   "last": "2026-09-25"
-  },
-  "wd:gehc/gehc_externalsite": {
-   "first": "2026-09-21",
-   "name": "GE HealthCare",
-   "value": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
    "roles": 13,
    "last": "2026-09-25"
   },
@@ -424,13 +431,6 @@
    "roles": 13,
    "last": "2026-09-25"
   },
-  "wd:ttc/toro_external_careers": {
-   "first": "2026-09-21",
-   "name": "The Toro Company",
-   "value": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers",
-   "roles": 13,
-   "last": "2026-09-25"
-  },
   "wd:usfoods/usfoodscareersexternal": {
    "first": "2026-09-21",
    "name": "US Foods",
@@ -443,6 +443,13 @@
    "name": "Vermeer",
    "value": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite",
    "roles": 13,
+   "last": "2026-09-25"
+  },
+  "ashby:rivianvw.tech": {
+   "first": "2026-09-21",
+   "name": "Rivian and Volkswagen Group Technologies",
+   "value": "https://jobs.ashbyhq.com/rivianvw.tech",
+   "roles": 12,
    "last": "2026-09-25"
   },
   "greenhouse:genevatrading": {
@@ -508,10 +515,10 @@
    "roles": 12,
    "last": "2026-09-25"
   },
-  "wd:semtech/semtechcareers": {
-   "first": "2026-09-24",
-   "name": "Semtech",
-   "value": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers",
+  "wd:usaa/usaajobswd": {
+   "first": "2026-09-21",
+   "name": "USAA",
+   "value": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
    "roles": 12,
    "last": "2026-09-25"
   },
@@ -529,13 +536,6 @@
    "roles": 11,
    "last": "2026-09-25"
   },
-  "ashby:rivianvw.tech": {
-   "first": "2026-09-21",
-   "name": "Rivian",
-   "value": "https://jobs.ashbyhq.com/rivianvw.tech",
-   "roles": 11,
-   "last": "2026-09-25"
-  },
   "jibe:careers.planview.com": {
    "first": "2026-09-22",
    "name": "Planview",
@@ -546,10 +546,17 @@
    "roles": 11,
    "last": "2026-09-25"
   },
-  "wd:autodesk/ext": {
+  "lever:cesiumastro": {
    "first": "2026-09-21",
-   "name": "Autodesk",
-   "value": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+   "name": "CesiumAstro",
+   "value": "https://jobs.lever.co/CesiumAstro",
+   "roles": 11,
+   "last": "2026-09-25"
+  },
+  "smartrecruiters:abbvie": {
+   "first": "2026-09-21",
+   "name": "AbbVie",
+   "value": "https://jobs.smartrecruiters.com/AbbVie",
    "roles": 11,
    "last": "2026-09-25"
   },
@@ -588,13 +595,6 @@
    "roles": 10,
    "last": "2026-09-25"
   },
-  "lever:cesiumastro": {
-   "first": "2026-09-21",
-   "name": "CesiumAstro",
-   "value": "https://jobs.lever.co/CesiumAstro",
-   "roles": 10,
-   "last": "2026-09-25"
-  },
   "lever:hermeus": {
    "first": "2026-09-21",
    "name": "Hermeus",
@@ -606,13 +606,6 @@
    "first": "2026-09-21",
    "name": "Kitware",
    "value": "https://jobs.lever.co/kitware",
-   "roles": 10,
-   "last": "2026-09-25"
-  },
-  "smartrecruiters:abbvie": {
-   "first": "2026-09-21",
-   "name": "AbbVie",
-   "value": "https://jobs.smartrecruiters.com/AbbVie",
    "roles": 10,
    "last": "2026-09-25"
   },
@@ -714,6 +707,13 @@
    "roles": 9,
    "last": "2026-09-25"
   },
+  "wd:globalhr/private_posting_no_tmp": {
+   "first": "2026-09-21",
+   "name": "RTX",
+   "value": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP",
+   "roles": 9,
+   "last": "2026-09-25"
+  },
   "wd:insulet/insuletcareers": {
    "first": "2026-09-21",
    "name": "Insulet",
@@ -732,6 +732,13 @@
    "first": "2026-09-21",
    "name": "Q2",
    "value": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
+   "roles": 9,
+   "last": "2026-09-25"
+  },
+  "wd:rockwellautomation/external_rockwell_automation": {
+   "first": "2026-09-21",
+   "name": "Rockwell Automation",
+   "value": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
    "roles": 9,
    "last": "2026-09-25"
   },
@@ -813,13 +820,6 @@
    "roles": 8,
    "last": "2026-09-25"
   },
-  "greenhouse:kodiak": {
-   "first": "2026-09-21",
-   "name": "Kodiak Robotics",
-   "value": "https://job-boards.greenhouse.io/kodiak",
-   "roles": 8,
-   "last": "2026-09-25"
-  },
   "greenhouse:nisc": {
    "first": "2026-09-21",
    "name": "National Information Solutions Cooperative",
@@ -862,6 +862,20 @@
    "roles": 8,
    "last": "2026-09-25"
   },
+  "wd:amfam/amfamgroupinterncareers": {
+   "first": "2026-09-22",
+   "name": "American Family Insurance Group",
+   "value": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers",
+   "roles": 8,
+   "last": "2026-09-25"
+  },
+  "wd:autodesk/ext": {
+   "first": "2026-09-21",
+   "name": "Autodesk",
+   "value": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+   "roles": 8,
+   "last": "2026-09-25"
+  },
   "wd:baird/careers": {
    "first": "2026-09-21",
    "name": "Baird",
@@ -894,13 +908,6 @@
    "first": "2026-09-21",
    "name": "Freddie Mac",
    "value": "https://freddiemac.wd5.myworkdayjobs.com/External",
-   "roles": 8,
-   "last": "2026-09-25"
-  },
-  "wd:globalhr/private_posting_no_tmp": {
-   "first": "2026-09-21",
-   "name": "RTX",
-   "value": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP",
    "roles": 8,
    "last": "2026-09-25"
   },
@@ -986,6 +993,13 @@
    "first": "2026-09-21",
    "name": "K2 Space",
    "value": "https://job-boards.greenhouse.io/k2spacecorporation",
+   "roles": 7,
+   "last": "2026-09-25"
+  },
+  "greenhouse:kodiak": {
+   "first": "2026-09-21",
+   "name": "Kodiak Robotics",
+   "value": "https://job-boards.greenhouse.io/kodiak",
    "roles": 7,
    "last": "2026-09-25"
   },
@@ -1115,13 +1129,6 @@
    "first": "2026-09-21",
    "name": "Red Hat",
    "value": "https://redhat.wd5.myworkdayjobs.com/jobs",
-   "roles": 7,
-   "last": "2026-09-25"
-  },
-  "wd:rockwellautomation/external_rockwell_automation": {
-   "first": "2026-09-21",
-   "name": "Rockwell Automation",
-   "value": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
    "roles": 7,
    "last": "2026-09-25"
   },
@@ -1296,6 +1303,13 @@
    "roles": 6,
    "last": "2026-09-25"
   },
+  "wd:americancentury/americancenturyinvestments": {
+   "first": "2026-09-25",
+   "name": "American Century Investments",
+   "value": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments",
+   "roles": 6,
+   "last": "2026-09-25"
+  },
   "wd:ameriprise/ameriprise": {
    "first": "2026-09-21",
    "name": "Ameriprise Financial",
@@ -1317,6 +1331,13 @@
    "roles": 6,
    "last": "2026-09-25"
   },
+  "wd:commercebank/commercejobs": {
+   "first": "2026-09-21",
+   "name": "Commerce Bank",
+   "value": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs",
+   "roles": 6,
+   "last": "2026-09-25"
+  },
   "wd:costar/costar_campus": {
    "first": "2026-09-21",
    "name": "CoStar Group",
@@ -1328,6 +1349,13 @@
    "first": "2026-09-21",
    "name": "Dow Jones",
    "value": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career",
+   "roles": 6,
+   "last": "2026-09-25"
+  },
+  "wd:elkay/elkay_external": {
+   "first": "2026-09-25",
+   "name": "Zurn Elkay Water Solutions",
+   "value": "https://elkay.wd1.myworkdayjobs.com/Elkay_External",
    "roles": 6,
    "last": "2026-09-25"
   },
@@ -1569,13 +1597,6 @@
    "roles": 5,
    "last": "2026-09-25"
   },
-  "oracle:icbpjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/lazardprofessionalcareers": {
-   "first": "2026-09-21",
-   "name": "Lazard",
-   "value": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers",
-   "roles": 5,
-   "last": "2026-09-25"
-  },
   "smartrecruiters:keenfinity": {
    "first": "2026-09-23",
    "name": "Keenfinity",
@@ -1611,17 +1632,17 @@
    "roles": 5,
    "last": "2026-09-25"
   },
-  "wd:biibhr/external": {
-   "first": "2026-09-25",
-   "name": "Biogen",
-   "value": "https://biibhr.wd3.myworkdayjobs.com/external",
-   "roles": 5,
-   "last": "2026-09-25"
-  },
   "wd:boeing/external_careers": {
    "first": "2026-09-21",
    "name": "Boeing",
    "value": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
+   "roles": 5,
+   "last": "2026-09-25"
+  },
+  "wd:cat/solarturbines": {
+   "first": "2026-09-24",
+   "name": "Solar Turbines (Caterpillar)",
+   "value": "https://cat.wd5.myworkdayjobs.com/solarturbines",
    "roles": 5,
    "last": "2026-09-25"
   },
@@ -1636,13 +1657,6 @@
    "first": "2026-09-21",
    "name": "Cambridge Investment Research",
    "value": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site",
-   "roles": 5,
-   "last": "2026-09-25"
-  },
-  "wd:commercebank/commercejobs": {
-   "first": "2026-09-21",
-   "name": "Commerce Bank",
-   "value": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs",
    "roles": 5,
    "last": "2026-09-25"
   },
@@ -1674,13 +1688,6 @@
    "roles": 5,
    "last": "2026-09-25"
   },
-  "wd:equifax/ur_external": {
-   "first": "2026-09-21",
-   "name": "Equifax",
-   "value": "https://equifax.wd5.myworkdayjobs.com/UR_External",
-   "roles": 5,
-   "last": "2026-09-25"
-  },
   "wd:fis/searchjobs": {
    "first": "2026-09-21",
    "name": "Fidelity National Information Services",
@@ -1692,13 +1699,6 @@
    "first": "2026-09-24",
    "name": "Genesys",
    "value": "https://genesys.wd1.myworkdayjobs.com/genesys",
-   "roles": 5,
-   "last": "2026-09-25"
-  },
-  "wd:hcmportal/search": {
-   "first": "2026-09-21",
-   "name": "United Parcel Service",
-   "value": "https://hcmportal.wd5.myworkdayjobs.com/Search",
    "roles": 5,
    "last": "2026-09-25"
   },
@@ -1727,6 +1727,20 @@
    "first": "2026-09-21",
    "name": "Medline",
    "value": "https://medline.wd5.myworkdayjobs.com/Medline",
+   "roles": 5,
+   "last": "2026-09-25"
+  },
+  "wd:myhrabc/global": {
+   "first": "2026-09-25",
+   "name": "Cencora",
+   "value": "https://myhrabc.wd5.myworkdayjobs.com/Global",
+   "roles": 5,
+   "last": "2026-09-25"
+  },
+  "wd:northwesternmutual/corporate-careers": {
+   "first": "2026-09-25",
+   "name": "Northwestern Mutual",
+   "value": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers",
    "roles": 5,
    "last": "2026-09-25"
   },
@@ -1762,6 +1776,13 @@
    "first": "2026-09-21",
    "name": "Thomson Reuters",
    "value": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
+   "roles": 5,
+   "last": "2026-09-25"
+  },
+  "wd:usbank/us_bank_careers": {
+   "first": "2026-09-25",
+   "name": "U.S. Bank",
+   "value": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
    "roles": 5,
    "last": "2026-09-25"
   },
@@ -1926,6 +1947,16 @@
    "roles": 4,
    "last": "2026-09-25"
   },
+  "jibe:careers.trccompanies.com": {
+   "first": "2026-09-25",
+   "name": "TRC Companies",
+   "value": {
+    "ats": "jibe",
+    "url": "https://careers.trccompanies.com"
+   },
+   "roles": 4,
+   "last": "2026-09-25"
+  },
   "jibe:jobs.constellationenergy.com": {
    "first": "2026-09-21",
    "name": "Constellation Energy",
@@ -2013,6 +2044,13 @@
    "roles": 4,
    "last": "2026-09-25"
   },
+  "oracle:icbpjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/lazardprofessionalcareers": {
+   "first": "2026-09-21",
+   "name": "Lazard",
+   "value": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers",
+   "roles": 4,
+   "last": "2026-09-25"
+  },
   "smartrecruiters:llnl": {
    "first": "2026-09-21",
    "name": "Lawrence Livermore National Laboratory (LLNL)",
@@ -2034,24 +2072,10 @@
    "roles": 4,
    "last": "2026-09-25"
   },
-  "wd:americancentury/americancenturyinvestments": {
-   "first": "2026-09-25",
-   "name": "American Century Investments",
-   "value": "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
   "wd:americanfidelity/external": {
    "first": "2026-09-21",
    "name": "American Fidelity",
    "value": "https://americanfidelity.wd5.myworkdayjobs.com/External",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
-  "wd:amfam/amfamgroupinterncareers": {
-   "first": "2026-09-22",
-   "name": "American Family Insurance Group",
-   "value": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers",
    "roles": 4,
    "last": "2026-09-25"
   },
@@ -2090,38 +2114,17 @@
    "roles": 4,
    "last": "2026-09-25"
   },
+  "wd:biibhr/external": {
+   "first": "2026-09-25",
+   "name": "Biogen",
+   "value": "https://biibhr.wd3.myworkdayjobs.com/external",
+   "roles": 4,
+   "last": "2026-09-25"
+  },
   "wd:cadence/external_careers": {
    "first": "2026-09-21",
    "name": "Cadence Design Systems",
    "value": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
-  "wd:cat/solarturbines": {
-   "first": "2026-09-24",
-   "name": "Solar Turbines (Caterpillar)",
-   "value": "https://cat.wd5.myworkdayjobs.com/SolarTurbines",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
-  "wd:chrobinson/chrobinson": {
-   "first": "2026-09-25",
-   "name": "C.H. Robinson",
-   "value": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
-  "wd:coreandmain/coreandmain": {
-   "first": "2026-09-25",
-   "name": "Core & Main",
-   "value": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain",
-   "roles": 4,
-   "last": "2026-09-25"
-  },
-  "wd:countryfinancial/countrycorporateinternships": {
-   "first": "2026-09-25",
-   "name": "COUNTRY Financial",
-   "value": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
    "roles": 4,
    "last": "2026-09-25"
   }

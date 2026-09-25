@@ -1,0 +1,87 @@
+About the Team
+
+Here at BTI360, we’ve built a culture that’s passionate about developing software engineers. Software doesn't build itself. People do.  In fact, teams of people do.  That's why our primary focus is on developing better craftsmen, better teammates, and better technical leaders.  By putting people first, we're not just giving our teammates more opportunities to grow, we're also raising the bar of the software we ship. BTI360 previously has been voted 10 years in a row as a TOP Place to Work by the Washington Business Journal. 
+
+The BTI360 College Hire Program is hiring the next generation of teammates! We're currently hiring the best and brightest interns to work for us during the summer of 2027. This year's program is for students who graduate between December 2027 and May 2028. We work to mentor you and develop your skills in the tools and practices highly desired by our industry. Please note: our expectation is that interns will join BTI360 after graduation in supporting our customers in the Northern Virginia area.
+
+As a member of the BTI360 College Hire Program, you will acquire valuable experience with cutting-edge software development tools and practices and gain leadership skills through mentoring by our senior engineers. Throughout the summer, you and your fellow interns will work as a team to develop an analytic-based web application. While you'll have a product owner to help guide you through the development process, most of the decisions involving design, tech stack, and more are made by you and your team.
+
+Our past projects have included apps specializing in advanced search, sentiment analysis, text analytics and more. The last class built a system that allowed users to easily triage anomalies that were detected while processing news events. They started development in June and by August we're demoing their prototype to our whole team. They got experience using React with Tailwind (UI), Java and Spring Boot (Backend), AWS Neptune (Database), Serverless, various Amazon Web Services (Infrastructure) and more!
+
+Minimum Qualifications:
+
+• Applicants must be US Citizens to meet federal clearance requirements.
+
+• Currently major in Computer Science, Computer Engineering or a related field
+
+• Graduate between December 2027 and May 2028
+
+• Have experience with at least one modern programming language (Java, Python or C/C++)
+
+• Understand Computer Science fundamentals including data structures, object oriented design, algorithms, etc.
+
+• Desire to develop and apply technical and interpersonal skills
+
+• Work well in a team environment
+
+• Possess strong communication skills
+
+• Ability to work in the Northern Virginia area
+
+You will excel in this role if you have also these skills:
+
+• Hold an active U.S. security clearance
+
+• Previous technical internship experience
+
+• Ability to effectively communicate technical concepts, challenges and solutions
+
+Along with Experience or Skills in the Following:
+
+• Continuous Integration (Jenkins)
+
+• Test Driven Development
+
+• DevOps Skills (Kubernetes, Docker)
+
+• Cloud Services (AWS ecosystem)
+
+• Advanced Search Technologies (Solr, ElasticSearch, Lucene)
+
+• SQL and NoSQL Datastores
+
+• UI/Front-End technologies (Angular, React, Tailwind)
+
+• Java Object Oriented Software Development
+
+• Machine Learning / Artificial Intelligence
+
+• Distributed Computing
+
+• Version Control
+
+BTI360 benefits for full-time teammates
+
+• Fully paid healthcare premiums
+
+• Competitive salaries and performance bonuses
+
+• Career development and in-house training
+
+• Tuition Reimbursement
+
+• Up to 5 weeks PTO plus 2 weeks of federal holidays
+
+• 401K dollar for dollar matching up to 6% annually - v ested immediately on day 1
+
+• Giving Back: Serving communities locally and across the globe
+
+• Social Events (happy hours, golf tournament, BTI360 Family Festival and more)
+
+Commitment to Fairness and Inclusion
+
+At BTI360, we believe that unlocking the potential of others is not just a mission—it's the heart of our culture. We are committed to fostering an inclusive environment where every individual can grow each day, lead with humility, and do the right thing. Our core values guide us in developing software that makes a difference, primarily serving national security customers in the Washington, DC metropolitan area.
+
+We are an Equal Opportunity Employer. We do not discriminate against any employee or applicant based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristics. We celebrate fairness and are dedicated to creating an environment of mutual respect and inclusion where everyone can bring their true selves to work.
+
+Join us in a workplace where your contributions are valued, your growth is encouraged, and your potential is unlocked. Together, we develop great software fast and deliver exceptional solutions for our customers.

@@ -1,0 +1,50 @@
+Efficient is developing the world’s most energy-efficient general-purpose computer processor. Efficient’s patented technology uses 100x less energy than state of the art commercially available ultra-low-power processors and is programmable using standard high-level programming languages and AI/ML frameworks. This level of efficiency makes perpetual, pervasive intelligence possible: run AI/ML continuously on a AA battery for 5-10 years. Our platform’s unprecedented level of efficiency enables IoT devices to intelligently capture and curate first-party data to drive the next major computing revolution
+
+About the role
+Efficient Computer is building a new energy-efficient processor architecture from the ground up. As a Silicon Engineering Intern, you'll join our hardware team and work on production silicon, not a sandbox project. Each intern owns a well-scoped project, has a dedicated mentor, and presents results to the engineering team at the end of the internship.
+
+What you'll do
+
+• Help define micro-architecture for blocks and features, and implement RTL in SystemVerilog.
+
+• Turn specs into verification plans, build testbench components, and write and debug tests.
+
+• Run synthesis, place-and-route and timing analysis, and evaluate power, performance and area trade-offs.
+
+• Build and improve design, verification and implementation flows, including automation and AI-assisted tooling.
+
+• Work with architecture, design and verification engineers to find and fix issues before tapeout.
+
+Required qualifications
+
+• Currently pursuing a BS, MS or PhD in Electrical Engineering or Computer Engineering with graduation expected by Summer 2028.
+
+• At least one term of school remaining after summer 2027.
+
+• Coursework or project experience in digital logic design, verification, VLSI/physical design, or EDA tooling.
+
+• Experience with at least one programming or scripting language, such as Python, C/C++, Tcl or Perl.
+
+How to stand out
+
+• Coursework in computer architecture.
+
+• Verilog and System Verilog proficiency
+
+• Experience with synthesis, static timing analysis, or place-and-route tools
+
+• Experience with simulators and waveform debug
+
+• FPGA design experience
+
+• Interest in applying LLMs/agents to engineering workflows.
+
+Details
+
+• Duration: 12 weeks onsite, Summer 2027, then fulltime onsite/ part time onsite/ part time remote in Fall 2027
+
+• Location: On-site in Austin, TX, San Jose, CA or Pittsburgh, PA
+
+Why Join Efficient?
+
+Efficient offers a competitive compensation and benefits package , including 401K match, company-paid benefits, equity program, paid parental leave, and flexibility . We are committed to personal and professional development and strive to grow together as people and as a company.

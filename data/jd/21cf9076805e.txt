@@ -1,0 +1,93 @@
+At Freddie Mac, our mission of Making Home Possible is what motivates us, and it’s at the core of everything we do. Since our charter in 1970, we have made home possible for more than 90 million families across the country. Join an organization where your work contributes to a greater purpose.
+
+We are accepting applications for this position until 10/16/2026
+
+Position Overview:
+
+Are you looking for a company to help prepare you for a successful career? The Multifamily Division within Freddie Mac is searching for talented, curious, and motivated individuals to support the division's technology initiatives, projects, and strategic objectives.
+
+Freddie Mac Multifamily is a dynamic organization, providing interns with opportunities to contribute to real-world software development projects while building both technical and professional skills. As a Software Development Intern, you will gain hands-on experience throughout the software development lifecycle, working alongside experienced engineers to design, build, test, and support applications that help advance Freddie Mac's mission.
+
+Our Impact:
+
+The Multifamily Technology team develops and maintains critical applications and digital solutions that support Freddie Mac's Multifamily business. Our teams leverage modern software engineering practices, Agile methodologies, cloud technologies, and AI-enabled tools to deliver innovative, scalable solutions.
+
+We collaborate closely with business and technology partners to solve complex challenges, improve operational efficiency, and deliver products that support Freddie Mac's role in the housing finance industry.
+
+Your Impact:
+
+• Contribute to real-world software development projects and support initiatives that drive business and technology outcomes.
+
+• Participate in all phases of the software development lifecycle, including design, coding, testing, debugging, documentation, deployment, and support.
+
+• Collaborate with software engineers, business partners, and project teams in an Agile development environment.
+
+• Apply computer science fundamentals to solve technical problems and develop efficient solutions.
+
+• Assist in requirements analysis and application development activities while following software engineering best practices.
+
+• Gain experience with modern development frameworks, cloud technologies, and enterprise applications.
+
+• Participate in Agile ceremonies, including sprint planning, backlog refinement, standups, and retrospectives.
+
+• Utilize AI-enabled tools to automate repetitive tasks, improve efficiency, and enhance software quality while maintaining strong engineering judgment.
+
+• Work with team members to troubleshoot issues, improve application performance, and support scalable solutions.
+
+• Build relationships across the organization and collaborate with employees at all levels, including senior leadership.
+
+Qualifications:
+
+• Pursuing a bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, Information Technology, or a related technical discipline.
+
+• Expected graduation date of December 2027 – May 2028.
+
+• Strong foundation in computer science fundamentals, including object-oriented programming, data structures, algorithms, and software development concepts.
+
+• Experience with one or more programming languages such as Java or similar object-oriented languages.
+
+• Familiarity with modern software development tools and methodologies preferred.
+
+• Exposure to Spring Boot, Angular, AWS, cloud-based applications, or related technologies is a plus.
+
+• Experience contributing to class projects, hackathons, personal projects, or open-source initiatives is highly valued.
+
+Keys to Success in this Role:
+
+• Strong problem-solving and analytical thinking skills.
+
+• Curiosity and a passion for learning new technologies and concepts
+
+• Self-motivation, initiative, and the ability to learn independently.
+
+• Strong written, verbal, and interpersonal communication skills.
+
+• Ability to collaborate effectively within a team-oriented environment.
+
+• Attention to detail and commitment to producing high-quality work.
+
+• Ability to manage priorities and work effectively under tight timelines.
+
+• Adaptability and openness to new tools, technologies, and ways of working.
+
+• Interest in Agile software development and modern engineering practices.
+
+Interns are paid at a set, non-negotiable hourly rate. The hourly rate for this role is $32/hr.
+
+Current Freddie Mac employees please apply through the internal career site.
+
+We consider all applicants for all positions without regard to gender, race, color, religion, national origin, age, marital status, veteran status, sexual orientation, gender identity/expression, physical and mental disability, pregnancy, ethnicity, genetic information or any other protected categories under applicable federal, state or local laws. We will ensure that individuals are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+A safe and secure environment is critical to Freddie Mac’s business. This includes employee commitment to our acceptable use policy, applying a vigilance-first approach to work, supporting regulatory mandates, and using best practices to protect Freddie Mac from potential threats and risk. Employees exercise this responsibility by executing against policies and procedures and adhering to privacy & security obligations as required via training programs.
+
+CA Applicants: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.
+
+Time-type:Full time
+
+FLSA Status:Non-Exempt
+
+Freddie Mac offers a comprehensive total rewards package to include competitive compensation and market-leading benefit programs. Information on these benefit programs is available on our Careers site.
+
+This position has an annualized market-based salary range of $54,000 - $82,000 . All interns positions are paid at an hourly rate, which can be found in the body of the job description.
