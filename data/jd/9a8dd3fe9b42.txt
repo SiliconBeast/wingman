@@ -1,0 +1,108 @@
+NiSource Internship Program Introduction
+
+NiSource is currently seeking a Summer IT - Software Engineer Intern. Successful applicants will become integral members of the department while learning within a team environment, completing meaningful tasks and collaborating with team members and leaders on important projects. This position will be a great opportunity for the candidate desiring to launch their career in this field. Successful applicants will build professional relationships with other interns and all levels of NiSource personnel while participating in rewarding professional development exercises and fun, team-building activities. Interns will obtain a broad overview of NiSource's operations and current events in the utilities industry.
+
+This is a 12-week summer internship program starting in May 2027, for students entering their junior or senior year in fall 2027. The role is based in Columbus, OH or Merrillville, IN. Candidates must reside within 50 miles of the reporting location to be eligible.
+
+Essential Functions
+
+• Enterprise Architecture
+• Enterprise Architecture is responsible for creating the technology strategy and roadmap. This team is responsible for developing standards and guidelines that should be used in planning, designing and implementing Information Technology applications and platforms. This team works collaboratively with other groups to drive the architecture vision for NiSource.
+
+• IT Services
+• The Services supports the delivery of IT Application and Infrastructure services, including hardware and software asset and configuration management, for all NiSource business units. This role works with the Manager of IT Service Integration, Manager of IT Service Governance and other Technology Tower Leads to ensure that Infrastructure and Application Services are fully integrated and delivered within the scope of Service Provider Contracts as reflected by service levels, statements of work and pertinent schedules/exhibits.
+
+• Infrastructure
+• Infrastructure, network delivery, primary responsibility is to provide network technical design leadership and to oversee execution of processes associated incident, problem, change, asset, and configuration management within this technology domain. This includes working with enterprise architects, program managers, IT analysts and managed service providers to effectively manage infrastructure operations and support delivery of Infrastructure projects. It also includes development and periodic review of ITIL based processes and practices to ensure highly available operations and compliance with architecture standards and strategies.
+
+• IT Security
+• The IT Security organization is responsible for the resolution of IT Security incidents; manages preparation & planning for future IT security threats, and follows security trends, threats and vulnerabilities. This role will work on a project to develop and execute a specific cyber incident response scenario exercise and develop a broad-view perspective of the cybersecurity space. Incident response improvement with better Integration of security and IT Operations processes. Work across towers to understand the interrelationships between IT Operations processes, and our company as a whole.
+
+• IT Applications
+
+• The IT Applications Developer Job Family encompasses job responsibilities and accountability for various IT applications development, system administration, and support functions necessary to ensure a stable and reliable application environment for NiSource. The application environment encompasses mission critical information systems such as Gas distribution, Hydro and Electrical Grid control systems, Electronic Measurement and other business critical applications. The job also includes the analysis and development of business applications, system interfaces, and other duties related to application system development lifecycle.
+
+• Business Analytics
+
+• The Business Analytics Intern will leverage their skillset in areas such as data discovery, modeling and visualizing results to identify and discover patterns throughout the business. Through collaboration with business units, this professional will be capable of acquiring, cleansing and structuring data from multiple sources to deliver key analytics based insight to drive business decisions.
+
+Required Qualifications For Position
+
+• Acquiring a degree in data science, computer science, computer engineering, statistics, mathematics
+
+• GPA of 3.0 or higher
+
+• Have completed at least one year of undergraduate study
+
+• Experience with cloud, software development, data analytics, automation, or enterprise technologies
+
+• Keen attention to detail and a quality focused mindset
+
+• Strong oral and written communication skills
+
+• Self-discipline for planning and organizing tasks
+
+• Passionate about data
+
+• History of being able to learn new technology quickly
+
+• Solid skills in utilizing computers, operating systems, mobile devices and software (MS Office Suite, MS Project, and other IT applications).
+
+• Excellent analytical abilities, including process analysis and development, problem-solving and root-cause analysis.
+
+• Ability to work 40 hours per week
+
+• Authorized to work in the United States without requiring sponsorship
+
+Preferred Additional Qualifications for Position
+
+Physical Demands
+
+The preceding description is not designed to be a complete list of all duties and responsibilities required of the position.
+
+As a public utility, NiSource provides essential services to customers 24/7. Emergency needs can arise at various times throughout the year, including during storm season. Employees may be required to support emergency response efforts, which could include working outside normal hours or assisting with tasks outside of typical responsibilities.
+
+Work Authorization
+
+Candidates must be legally authorized to work in the United States and must not require employer sponsorship now or in the future.
+
+Workplace Connection
+We value a workplace where everyone feels respected, included, and able to do their best work. We encourage open dialogue, value different perspectives, and work collaboratively with employees, customers, and partners.
+
+We recognize and respect the unique experiences people bring, including different backgrounds, cultures, and viewpoints. We treat others with professionalism and care, and we each play a part in creating a positive work environment.
+
+Veteran Hiring & Inclusion
+
+NiSource is proud to support veterans, transitioning service members, and military spouses. We value the leadership, teamwork, and mission-focused experience the military community brings, and we are committed to providing an inclusive workplace with opportunities for professional growth and development.
+
+Equal Employment Opportunity
+NiSource is committed to providing equal employment opportunities in each of its companies to all employees and applicants for employment without regard to race, color, religion, national origin or ancestry, veteran status, disability, gender, age, marital status, sexual orientation, gender identity, sex (including pregnancy, lactation, childbirth or related medical conditions), genetic information, citizenship status, or any protected group status as defined by law. Each employee is expected to abide by this principle.
+
+By applying, you may also be considered for other roles that match your skills and experience.
+
+ADA Accommodations
+
+If you need a reasonable accommodation to participate in any stage of the hiring process or to perform the essential functions of the position, please contact OneHR at OneHR@nisource.com or 1-888-640-3320
+
+Safety Statement
+Safety is a core value at NiSource. Employees are expected to follow safety requirements, report hazards, and help maintain a safe environment for themselves and their coworkers.
+
+E-Verify
+
+NiSource participates in the U.S. Department of Homeland Security's E-Verify program. Please review the following notices regarding your rights and responsibilities under U.S. law.
+
+• E-Verify Poster (English and Spanish)
+
+• Right to Work Poster (English and Spanish)
+
+Salary Range*:
+$19.80 - $33.00
+
+*The salary offered to a candidate is based on several factors including but not limited to the candidate’s skills, job-related knowledge, and relevant experience , as well as internal pay equity .
+
+Posting Start Date:
+2026-08-31
+
+Posting End Date (if applicable):
+2026-10-03
+Please note that the job posting will close on the day before the posting end date.

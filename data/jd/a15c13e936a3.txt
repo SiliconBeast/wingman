@@ -1,0 +1,99 @@
+Location: New York Office
+Duration: Summer 2027 (4 weeks)
+Department: DV Securities Liquid Products Group
+
+About DV Securities:
+DV Securities is a registered broker-dealer and a member of both FINRA and FICC, with a core focus on fixed income markets. We are active participants in the U.S. Treasury and agency MBS repo markets, supported by a growing platform that facilitates both principal and riskless principal trading activity.
+
+The firm is rooted in a culture of innovation, excellence, and collaboration. As part of the broader DV ecosystem—a global network of trading firms active across futures, equities, and structured products—DV Securities benefits from the reach and resources of a multi-asset organization with offices in North America, Europe, and Asia.
+
+Joining DV Securities means becoming part of a forward-thinking, agile team that values initiative, adaptability, and a commitment to performance in an ever-evolving financial landscape.
+
+Overview:
+We are seeking a highly motivated Futures & Options Trading Analyst Intern with a strong background in Financial Engineering, Quantitative Finance, Mathematics, or a related field to support our derivatives trading desk. This internship offers hands-on exposure to futures and options markets, quantitative modeling, and real-time trading operations.
+
+The intern will work closely with traders and quantitative researchers to analyze market data, evaluate trading strategies, and assist in risk management activities.
+
+Key Responsibilities:
+
+• Conduct quantitative analysis of futures and options markets across asset classes (equities, rates, FX, commodities)
+
+• Assist in developing and backtesting trading strategies
+
+• Analyze implied volatility, option Greeks, and volatility surfaces
+
+• Monitor market movements, news, and macroeconomic indicators
+
+• Support real-time trading decisions with data-driven insights
+
+• Build dashboards, reports, and analytical tools
+
+• Perform statistical analysis of historical market data
+
+• Assist with position monitoring, P&L tracking, and risk reporting
+
+• Identify pricing anomalies and relative-value opportunities
+
+• Document models, methodologies, and findings
+
+Required Qualifications:
+
+• Currently pursuing a Bachelor’s, Master’s, or PhD in:
+
+• Financial Engineering
+
+• Quantitative Finance
+
+• Mathematics / Applied Mathematics
+
+• Statistics
+
+• Physics
+
+• Computer Science
+
+• Economics (quantitative track)
+
+• Strong understanding of derivatives (futures and options)
+
+• Solid foundation in probability, statistics, and linear algebra
+
+• Proficiency in Python (NumPy, Pandas, SciPy, Matplotlib or similar) or R or C++
+
+• Ability to work with large datasets
+
+• Excellent analytical and problem-solving skills
+
+• Strong communication and teamwork abilities
+
+Preferred Qualifications:
+
+• Knowledge of option pricing models (e.g., Black-Scholes, binomial trees)
+
+• Familiarity with volatility modeling and Greeks
+
+• Experience with time-series analysis or machine learning
+
+• Exposure to financial markets and trading concepts
+
+• Experience with SQL, R, or C++
+
+• Familiarity with Bloomberg or other market data platforms
+
+What You Will Gain:
+
+• Direct exposure to professional trading environments
+
+• Mentorship from experienced traders and quantitative analysts
+
+• Hands-on experience with real market data
+
+• Understanding of risk management and portfolio construction
+
+• Opportunity to contribute to live trading strategies
+
+• Potential pathway to full-time roles
+
+Compensation rate: $18.75/hr
+
+DV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV, and no fee will be paid in the event the candidate is hired by DV. DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.

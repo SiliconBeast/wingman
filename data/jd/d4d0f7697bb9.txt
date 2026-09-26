@@ -1,0 +1,76 @@
+Job Title: Software Engineering Co-op - Summer & Fall 2027
+
+Job Category: Intern/Co-op
+
+Time Type: Part time
+
+Minimum Clearance Required to Start: None
+
+Employee Type: Part-Time On-Call
+
+Percentage of Travel Required: None
+
+Type of Travel: None
+
+* * *
+
+The Opportunity:
+As a Software Engineering Co-op, you will provide prototyping, coding, testing, scripting, and document generation in support of software development activities. You will perform data analysis using proprietary software systems in support of on-going contracts, and develop automation software for program-specific data flows on those contracts. You will also develop breadboard implementations of algorithms in MatLab or Mathematica environments based upon mathematical descriptions of algorithm approaches in order to come up with creative solutions to problems. You will benefit from working side by side with a talented and experienced group of professionals eager to mentor. Ideally, we'd like the candidate to join the team in Summer 2027 and continue through December 2027.
+
+Responsibilities:
+
+• Algorithm prototyping
+
+• Code development in C# and Python
+
+• Software test development
+
+• Requirements, test plan, and release documentation on generation and updates
+
+• Data processing
+
+Qualifications:
+
+Required:
+
+• Completion of at least one year towards a Bachelor's degree in Computer Science, Computer Engineering, Mathematics, Physics or a related field
+
+• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+
+•
+Ability to successfully complete a pre-employment drug screening
+
+• Development of moderate-sized desktop applications in a Windows environment using a C-based language (C++, C#, Java)
+
+• Strong mathematics background including completion of calculus and linear algebra courses
+
+Desired:
+
+• Minimum GPA of 3.0 or higher is preferred, but not required
+
+• Previous internship/co-op or other work experience
+
+-
+
+What You Can Expect:
+
+A culture of integrity.
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+An environment of trust.
+
+CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+A focus on continuous growth.
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+Pay Range :
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+The proposed salary range for this position is:
+$45,900 - $91,900
+
+CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.

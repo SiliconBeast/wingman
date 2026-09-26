@@ -1,0 +1,109 @@
+At Manulife John Hancock, we believe in investing in the future – starting with you. Our AI Internship Program is your launchpad to success, offering the support, structure, and exciting opportunities you need to thrive and make your mark. Our internship program offers more than just experience; you'll join a vibrant community, participate in engaging events, and benefit from personalized mentorship .
+
+As an AI Intern, you’ll gain hands-on experience applying data science and machine learning techniques to solve real-world business problems. You’ll work with modern tools and datasets to explore and prepare data, develop predictive models, and generate insights that drive decision-making. Join a supportive team and experience a values-first culture where your career development and well-being are prioritized alongside your job impact. You’ll receive guidance from experienced practitioners while gaining exposure to the end-to-end lifecycle of data science, machine learning, and emerging AI solutions in an enterprise environment.
+
+We are currently looking for highly motivated students to join us in our Boston, Massachusetts, USA office for a summer internship , running from June 1 st – August 1 2 th , 2027 . This is a hybrid position, where you are expected to be in the office Tuesday–Thursday, with the opportunity to work remotely on Mondays and Fridays.
+
+Position Responsibilities:
+
+•
+Explore, prepare, and validate data while ensuring data quality and consistency for analysis and modeling
+
+•
+Build and evaluate machine learning models using a range of techniques, with thoughtful experiment design and documentation
+
+•
+Support feature engineering, model development, and performance optimization
+
+•
+Prototype generative AI solutions (e.g., prompting, retrieval-based methods) with a focus on safety and effectiveness
+
+•
+Develop reproducible code and workflows for data processing and modeling using tools such as Python and SQL
+
+•
+Communicate insights through clear visualizations, reports, and presentations for both technical and non-technical audiences
+
+Required Qualifications:
+
+•
+Currently pursuing an undergraduate degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related field
+
+•
+Experience with at least one programming language (e.g., Python, R, Java) and familiarity with data manipulation techniques
+
+•
+Familiarity with machine learning concepts and tools (e.g., scikit-learn, PyTorch , or similar frameworks)
+
+•
+Experience working with SQL or other data querying languages
+
+•
+Understanding of version control systems (e.g., Git) and collaborative coding practices
+
+•
+Interest in machine learning, data science, and emerging AI technologies
+
+Preferred Qualifications:
+
+•
+Exposure to machine learning techniques such as regression, tree-based models, neural networks, or time series methods
+
+•
+Familiarity with generative AI concepts (e.g., prompt engineering, retrieval-augmented generation)
+
+•
+Experience with cloud platforms (e.g., AWS, Azure, or Google Cloud) or data tools (e.g., Databricks, Spark)
+
+•
+Exposure to data visualization tools (e.g., Power BI, Tableau) and ability to present insights clearly
+
+•
+Strong problem-solving and communication skills, with the ability to apply technical solutions to business challenges
+
+When you join our team:
+
+•
+We’ll empower you to learn and grow the career you want. 
+
+•
+We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words. 
+
+•
+As part of our global team, we’ll support you in shaping the future you want to see. 
+
+•
+As part of our internship program, you will gain early access to Manulife John Hancock’s premier early talent program, GRO, tailored to graduating students! This program is designed to launch your career with the support, structure, and opportunities you need to thrive.
+
+Application instructions:
+
+•
+Submit your resume, cover letter, academic transcript, and work term evaluation (if any) in one PDF file .
+
+Please note the salary range is expected to be between $54,600 USD to $72,150 USD .
+
+The actual salary will vary depending on local market conditions, geography, and relevant job-related factors such as knowledge, skills, qualifications, experience, and education/training. The annual salary will be pro-rated based on the length of the work-term
+
+#LI-Hybrid
+
+#LI-JH
+
+This posting supports an ongoing hiring initiative for existing and/or future vacancies.
+
+We use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and process the information you provide to us or third parties in the application process. For more information, please refer to our personal information collection statement .
+
+About Manulife and John Hancock
+
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html .
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com .
+
+Working Arrangement
+
+Know Your Rights I Family & Medical Leave I Employee Polygraph Protection I Right to Work I E-Verify
+
+Company: John Hancock Life Insurance Company (U.S.A.)

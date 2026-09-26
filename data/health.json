@@ -4,48 +4,48 @@
   "n": 117,
   "m": 54,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.0
+  "secs": 1.9
  },
  "ASML": {
   "ok": true,
-  "n": 509,
+  "n": 508,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 23.3
+  "secs": 24.5
  },
  "Airbnb": {
   "ok": true,
   "n": 158,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Akuna Capital": {
   "ok": true,
   "n": 42,
   "m": 8,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.6
  },
  "Altera": {
   "ok": true,
   "n": 183,
   "m": 2,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 7.0
  },
@@ -54,48 +54,48 @@
   "n": 327,
   "m": 50,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 4.5
+  "secs": 5.6
  },
  "American Express": {
   "ok": true,
-  "n": 311,
+  "n": 310,
   "m": 61,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 8.0
+  "secs": 8.6
  },
  "Analog Devices": {
   "ok": true,
   "n": 622,
   "m": 23,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 32.2
+  "secs": 33.3
  },
  "Anduril": {
   "ok": true,
-  "n": 2377,
+  "n": 2374,
   "m": 17,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 45.0
+  "secs": 0.2
  },
  "Anthropic": {
   "ok": true,
-  "n": 620,
+  "n": 619,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -104,28 +104,28 @@
   "n": 681,
   "m": 20,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 41.9
+  "secs": 44.9
  },
  "Aptiv": {
   "ok": true,
   "n": 472,
   "m": 13,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 34.0
+  "secs": 31.8
  },
  "Arista Networks": {
   "ok": true,
   "n": 108,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.8
  },
@@ -134,68 +134,68 @@
   "n": 5,
   "m": 3,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "Astranis": {
   "ok": true,
-  "n": 162,
-  "m": 53,
+  "n": 166,
+  "m": 54,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Autodesk": {
   "ok": true,
   "n": 27,
   "m": 7,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 3.6
+  "secs": 3.8
  },
  "BMO": {
   "ok": true,
   "n": 536,
-  "m": 30,
+  "m": 29,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 43.6
+  "secs": 43.4
  },
  "BlackBerry": {
   "ok": true,
   "n": 0,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.2
+  "secs": 2.3
  },
  "Blue Origin": {
   "ok": true,
   "n": 713,
   "m": 49,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 37.1
+  "secs": 35.5
  },
  "Boeing": {
   "ok": true,
-  "n": 29,
+  "n": 28,
   "m": 20,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 2.5
  },
@@ -204,78 +204,78 @@
   "n": 349,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 32.3
+  "secs": 30.4
  },
  "CIBC": {
   "ok": true,
   "n": 62,
   "m": 28,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 8.7
+  "secs": 8.5
  },
  "Cadence": {
   "ok": true,
   "n": 19,
   "m": 4,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.9
+  "secs": 1.7
  },
  "Capital One": {
   "ok": true,
   "n": 551,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 21.1
+  "secs": 20.3
  },
  "Ciena": {
   "ok": true,
   "n": 146,
   "m": 13,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 11.7
+  "secs": 10.7
  },
  "Cisco": {
   "ok": true,
   "n": 631,
   "m": 27,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 23.5
+  "secs": 25.0
  },
  "Cloudflare": {
   "ok": true,
   "n": 395,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Cohere": {
   "ok": true,
   "n": 147,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -284,8 +284,8 @@
   "n": 210,
   "m": 26,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -294,248 +294,248 @@
   "n": 165,
   "m": 10,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 15.8
  },
  "Databricks": {
   "ok": true,
   "n": 888,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 5.9
+  "secs": 0.1
  },
  "Datadog": {
   "ok": true,
   "n": 449,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 2.2
  },
  "Dell": {
   "ok": true,
   "n": 169,
   "m": 13,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 4.3
+  "secs": 3.7
  },
  "Desjardins": {
   "ok": true,
-  "n": 225,
+  "n": 219,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 13.0
+  "secs": 11.8
  },
  "DoorDash": {
   "ok": true,
   "n": 457,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 2.9
  },
  "DoorDash Canada": {
   "ok": true,
   "n": 34,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Etched": {
   "ok": true,
   "n": 109,
   "m": 16,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.3
+  "secs": 0.2
  },
  "Faire": {
   "ok": true,
   "n": 76,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Figma": {
   "ok": true,
   "n": 163,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Five Rings": {
   "ok": true,
   "n": 16,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Ford": {
   "ok": true,
-  "n": 321,
+  "n": 326,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 13.2
+  "secs": 13.4
  },
  "Garmin": {
   "ok": true,
   "n": 42,
   "m": 39,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.4
+  "secs": 0.6
  },
  "General Motors": {
   "ok": true,
-  "n": 583,
+  "n": 576,
   "m": 46,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 46.6
+  "secs": 45.5
  },
  "Hewlett Packard Enterprise": {
   "ok": true,
   "n": 677,
   "m": 19,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 52.4
+  "secs": 46.5
  },
  "Honeywell": {
-  "ok": true,
+  "ok": false,
   "n": 405,
   "m": 22,
-  "err": null,
-  "at": "2026-09-25T23:21:04Z",
+  "err": "RetryError: HTTPSConnectionPool(host='ibqbjb.fa.ocs.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=Honeywell,limit=50,offset=0,keyword=intern,sortB",
+  "at": "2026-09-26T05:09:38Z",
   "last_ok": "2026-09-25T23:21:04Z",
-  "fails": 0,
+  "fails": 1,
   "secs": 10.9
  },
  "Hudson River Trading": {
   "ok": true,
-  "n": 86,
+  "n": 87,
   "m": 5,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "IMC Trading": {
   "ok": true,
   "n": 175,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 1.1
  },
  "Intact": {
   "ok": true,
-  "n": 213,
-  "m": 25,
+  "n": 190,
+  "m": 8,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 21.0
+  "secs": 18.4
  },
  "Intel": {
   "ok": true,
   "n": 513,
   "m": 23,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 38.3
+  "secs": 41.2
  },
  "JPMorgan Chase": {
   "ok": true,
   "n": 418,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 7.9
+  "secs": 8.4
  },
  "Jane Street": {
   "ok": true,
   "n": 228,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 18.4
  },
  "KLA": {
   "ok": true,
   "n": 59,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 3.9
+  "secs": 4.7
  },
  "Kepler Communications": {
   "ok": true,
   "n": 19,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.9
+  "secs": 0.5
  },
  "Keysight": {
   "ok": true,
   "n": 62,
   "m": 36,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.6
  },
@@ -544,337 +544,337 @@
   "n": 66,
   "m": 1,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.2
  },
  "Lyft": {
   "ok": true,
-  "n": 177,
+  "n": 175,
   "m": 15,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Magna": {
   "ok": true,
   "n": 642,
   "m": 66,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 42.9
+  "secs": 42.2
  },
  "Manulife": {
   "ok": true,
-  "n": 561,
-  "m": 84,
+  "n": 559,
+  "m": 83,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 49.4
+  "secs": 50.0
  },
  "Marvell": {
   "ok": true,
   "n": 43,
   "m": 18,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.8
+  "secs": 2.7
  },
  "Mastercard": {
   "ok": true,
   "n": 48,
   "m": 14,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 7.4
+  "secs": 8.2
  },
  "Microchip": {
   "ok": true,
   "n": 453,
   "m": 8,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 27.9
+  "secs": 29.2
  },
  "Micron": {
   "ok": true,
   "n": 431,
   "m": 39,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 24.6
+  "secs": 26.8
  },
  "Microsoft": {
   "ok": false,
   "err": "HTTPError: 403 Client Error: Forbidden for url: https://apply.careers.microsoft.com/api/apply/v2/jobs?domain=microsoft.com&query=intern&start=0&num=50&sort_by=timestamp",
-  "at": "2026-09-25T23:21:04Z",
-  "fails": 16
+  "at": "2026-09-26T05:09:38Z",
+  "fails": 17
  },
  "Motorola Solutions": {
   "ok": true,
   "n": 639,
   "m": 27,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 37.9
+  "secs": 35.4
  },
  "NVIDIA": {
   "ok": true,
   "n": 707,
   "m": 36,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 45.6
+  "secs": 45.8
  },
  "NXP": {
   "ok": true,
   "n": 589,
   "m": 73,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 43.8
+  "secs": 44.6
  },
  "Netflix": {
   "ok": false,
   "err": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://netflix.wd1.myworkdayjobs.com/wday/cxs/netflix/Netflix/jobs",
-  "at": "2026-09-25T23:21:04Z",
-  "fails": 16
+  "at": "2026-09-26T05:09:38Z",
+  "fails": 17
  },
  "Nokia": {
   "ok": true,
-  "n": 246,
+  "n": 244,
   "m": 20,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 6.3
+  "secs": 6.2
  },
  "Northrop Grumman": {
   "ok": true,
-  "n": 644,
-  "m": 27,
+  "n": 647,
+  "m": 25,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 26.8
+  "secs": 27.0
  },
  "Notion": {
   "ok": true,
   "n": 128,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.2
  },
  "Ontario Teachers' Pension Plan": {
   "ok": true,
-  "n": 37,
+  "n": 38,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 3.9
+  "secs": 3.8
  },
  "OpenAI": {
   "ok": true,
-  "n": 829,
+  "n": 830,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.4
+  "secs": 0.5
  },
  "Optiver": {
   "ok": true,
   "n": 10,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 4.1
+  "secs": 0.1
  },
  "Oracle": {
   "ok": true,
   "n": 401,
   "m": 5,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 12.7
+  "secs": 11.1
  },
  "Palantir": {
   "ok": true,
   "n": 321,
   "m": 35,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.7
+  "secs": 1.1
  },
  "Pinterest": {
   "ok": true,
   "n": 153,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Planet": {
   "ok": true,
-  "n": 122,
+  "n": 121,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Point72": {
   "ok": true,
   "n": 220,
   "m": 7,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Qualcomm": {
   "ok": false,
   "err": "HTTPError: 403 Client Error: FORBIDDEN for url: https://qualcomm.eightfold.ai/api/apply/v2/jobs?domain=qualcomm.com&query=intern&start=0&num=50&sort_by=timestamp",
-  "at": "2026-09-26T01:51:21Z",
-  "fails": 39
+  "at": "2026-09-26T05:09:38Z",
+  "fails": 40
  },
  "RBC": {
   "ok": true,
-  "n": 52,
-  "m": 22,
+  "n": 50,
+  "m": 21,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 31.8
+  "secs": 33.1
  },
  "RTX": {
   "ok": true,
-  "n": 877,
-  "m": 93,
+  "n": 882,
+  "m": 71,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 37.8
+  "secs": 34.6
  },
  "Rivian": {
   "ok": true,
   "n": 18,
   "m": 15,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.4
+  "secs": 0.5
  },
  "Robinhood": {
   "ok": true,
-  "n": 158,
+  "n": 159,
   "m": 25,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "Rocket Lab": {
   "ok": true,
-  "n": 527,
+  "n": 526,
   "m": 94,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.3
  },
  "Rockwell Automation": {
   "ok": true,
-  "n": 26,
-  "m": 19,
+  "n": 25,
+  "m": 18,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 3.9
+  "secs": 3.6
  },
  "SK hynix America": {
   "ok": true,
   "n": 53,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.4
  },
  "Salesforce": {
   "ok": true,
   "n": 17,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 1.7
  },
  "Samsung": {
   "ok": true,
-  "n": 512,
+  "n": 513,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 49.1
+  "secs": 48.3
  },
  "Sandisk": {
   "ok": false,
   "n": 41,
   "m": 1,
   "err": "returned 0 postings (had 41 last time); the page format may have changed",
-  "at": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
   "last_ok": "2026-09-24T20:01:36Z",
-  "fails": 5,
+  "fails": 6,
   "secs": 1.0
  },
  "Scale AI": {
@@ -882,8 +882,8 @@
   "n": 203,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -892,108 +892,108 @@
   "n": 576,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.1
+  "secs": 0.7
  },
  "SiFive": {
   "ok": true,
   "n": 124,
   "m": 2,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 6.2
+  "secs": 6.7
  },
  "Skydio": {
   "ok": true,
   "n": 136,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "Snowflake": {
   "ok": true,
-  "n": 348,
+  "n": 349,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 0.4
  },
  "Sony": {
   "ok": true,
   "n": 108,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 10.0
+  "secs": 10.1
  },
  "SpaceX": {
   "ok": true,
-  "n": 2588,
+  "n": 2594,
   "m": 18,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 17.4
  },
  "Stripe": {
   "ok": true,
   "n": 703,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "Sun Life": {
   "ok": true,
-  "n": 21,
-  "m": 17,
+  "n": 20,
+  "m": 16,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 5.0
+  "secs": 2.9
  },
  "T-Mobile": {
   "ok": true,
   "n": 688,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 36.0
+  "secs": 37.0
  },
  "TD": {
   "ok": true,
-  "n": 656,
-  "m": 131,
+  "n": 687,
+  "m": 76,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 50.1
+  "secs": 46.1
  },
  "TELUS Digital": {
   "ok": true,
   "n": 67,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -1002,8 +1002,8 @@
   "n": 6,
   "m": 3,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.2
  },
@@ -1012,98 +1012,98 @@
   "n": 401,
   "m": 60,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 9.2
+  "secs": 8.7
  },
  "Thales": {
   "ok": true,
   "n": 736,
   "m": 31,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 52.4
+  "secs": 51.7
  },
  "Tower Research Capital": {
   "ok": true,
   "n": 91,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Virtu Financial": {
   "ok": true,
   "n": 49,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Visa": {
   "ok": true,
   "n": 566,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 48.6
+  "secs": 43.6
  },
  "Waymo": {
   "ok": true,
   "n": 358,
   "m": 9,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "Wealthsimple": {
   "ok": true,
   "n": 42,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "Wells Fargo": {
   "ok": true,
-  "n": 675,
-  "m": 20,
+  "n": 673,
+  "m": 19,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 46.0
+  "secs": 48.1
  },
  "Western Digital": {
   "ok": true,
-  "n": 96,
+  "n": 97,
   "m": 8,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.9
+  "secs": 1.0
  },
  "Zebra Technologies": {
   "ok": true,
   "n": 0,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.9
  },
@@ -1112,28 +1112,28 @@
   "n": 241,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.6
+  "secs": 0.9
  },
  "auto:ABB": {
   "ok": true,
-  "n": 734,
+  "n": 733,
   "m": 51,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 49.4
+  "secs": 48.5
  },
  "auto:AbbVie": {
   "ok": true,
-  "n": 518,
-  "m": 4,
+  "n": 519,
+  "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.8
  },
@@ -1152,10 +1152,10 @@
   "n": 53,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.0
+  "secs": 2.1
  },
  "auto:Acxiom": {
   "ok": true,
@@ -1169,13 +1169,13 @@
  },
  "auto:Adobe": {
   "ok": true,
-  "n": 454,
+  "n": 448,
   "m": 7,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 50.3
+  "secs": 27.0
  },
  "auto:AeroVironment": {
   "ok": true,
@@ -1222,8 +1222,8 @@
   "n": 25,
   "m": 20,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 2.9
  },
@@ -1259,43 +1259,43 @@
  },
  "auto:Ambrook": {
   "ok": true,
-  "n": 16,
+  "n": 15,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Ameren": {
   "ok": true,
-  "n": 77,
+  "n": 80,
   "m": 21,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 4.9
+  "secs": 4.1
  },
  "auto:American Family Insurance Group": {
   "ok": true,
-  "n": 14,
-  "m": 14,
+  "n": 22,
+  "m": 21,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.7
+  "secs": 5.4
  },
  "auto:American Fidelity": {
   "ok": true,
-  "n": 74,
-  "m": 8,
+  "n": 67,
+  "m": 1,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 8.7
+  "secs": 5.0
  },
  "auto:Ameriprise Financial": {
   "ok": true,
@@ -1309,23 +1309,23 @@
  },
  "auto:Amgen": {
   "ok": true,
-  "n": 700,
-  "m": 30,
+  "n": 699,
+  "m": 29,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 50.8
+  "secs": 41.4
  },
  "auto:Amperesand": {
   "ok": true,
-  "n": 51,
+  "n": 52,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:AnaVation": {
   "ok": true,
@@ -1419,13 +1419,13 @@
  },
  "auto:AtkinsRéalis": {
   "ok": true,
-  "n": 712,
-  "m": 53,
+  "n": 713,
+  "m": 65,
   "err": null,
-  "at": "2026-09-23T04:54:00Z",
-  "last_ok": "2026-09-23T04:54:00Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 40.2
+  "secs": 42.1
  },
  "auto:Atomic Semi": {
   "ok": false,
@@ -1438,20 +1438,20 @@
   "n": 15,
   "m": 8,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Auto-Owners Insurance": {
   "ok": true,
-  "n": 274,
+  "n": 272,
   "m": 87,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 20.6
+  "secs": 17.7
  },
  "auto:AutoZone": {
   "ok": true,
@@ -1475,13 +1475,13 @@
  },
  "auto:Autostore": {
   "ok": true,
-  "n": 39,
+  "n": 38,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.4
+  "secs": 2.8
  },
  "auto:Avis Budget Group": {
   "ok": true,
@@ -1516,12 +1516,12 @@
  "auto:BNY": {
   "ok": true,
   "n": 405,
-  "m": 48,
+  "m": 49,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 9.9
+  "secs": 8.0
  },
  "auto:Baird": {
   "ok": true,
@@ -1535,13 +1535,13 @@
  },
  "auto:Baker Hughes": {
   "ok": true,
-  "n": 548,
+  "n": 552,
   "m": 45,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 48.9
+  "secs": 41.8
  },
  "auto:Barclays": {
   "ok": true,
@@ -1555,11 +1555,11 @@
  },
  "auto:Base Power": {
   "ok": true,
-  "n": 190,
+  "n": 194,
   "m": 27,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.2
  },
@@ -1575,11 +1575,11 @@
  },
  "auto:Bedrock Robotics": {
   "ok": true,
-  "n": 39,
-  "m": 9,
+  "n": 41,
+  "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -1592,6 +1592,16 @@
   "last_ok": "2026-09-25T23:21:04Z",
   "fails": 0,
   "secs": 0.9
+ },
+ "auto:Biogen": {
+  "ok": true,
+  "n": 241,
+  "m": 3,
+  "err": null,
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
+  "fails": 0,
+  "secs": 21.6
  },
  "auto:Blue Cross and Blue Shield of Kansas": {
   "ok": true,
@@ -1615,13 +1625,13 @@
  },
  "auto:Boeing": {
   "ok": true,
-  "n": 624,
+  "n": 643,
   "m": 26,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 52.2
+  "secs": 48.1
  },
  "auto:Booz Allen": {
   "ok": true,
@@ -1635,29 +1645,29 @@
  },
  "auto:Bosch": {
   "ok": true,
-  "n": 678,
-  "m": 37,
+  "n": 681,
+  "m": 39,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 3.4
+  "secs": 3.5
  },
  "auto:Boston Scientific": {
   "ok": false,
   "err": "HTTPError: 403 Client Error: FORBIDDEN for url: https://bostonscientific.eightfold.ai/api/apply/v2/jobs?domain=bostonscientific.com&query=intern&start=0&num=50&sort_by=timestamp",
-  "at": "2026-09-25T13:56:29Z",
-  "fails": 1
+  "at": "2026-09-26T05:09:38Z",
+  "fails": 2
  },
  "auto:Bracco": {
   "ok": true,
   "n": 141,
   "m": 24,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 9.7
+  "secs": 9.3
  },
  "auto:Bree": {
   "ok": true,
@@ -1684,8 +1694,8 @@
   "n": 4,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.0
  },
@@ -1694,10 +1704,10 @@
   "n": 37,
   "m": 28,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.8
+  "secs": 2.7
  },
  "auto:Brunswick": {
   "ok": true,
@@ -1721,13 +1731,13 @@
  },
  "auto:CACI": {
   "ok": true,
-  "n": 705,
-  "m": 21,
+  "n": 711,
+  "m": 20,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 22.4
+  "secs": 24.1
  },
  "auto:CAI": {
   "ok": true,
@@ -1774,18 +1784,18 @@
   "n": 450,
   "m": 10,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 23.4
+  "secs": 22.9
  },
  "auto:Cambridge Investment Research": {
   "ok": true,
-  "n": 36,
+  "n": 38,
   "m": 15,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 2.4
  },
@@ -1798,6 +1808,16 @@
   "last_ok": "2026-09-25T05:06:37Z",
   "fails": 0,
   "secs": 14.7
+ },
+ "auto:Cencora": {
+  "ok": true,
+  "n": 588,
+  "m": 35,
+  "err": null,
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
+  "fails": 0,
+  "secs": 40.4
  },
  "auto:CesiumAstro": {
   "ok": true,
@@ -1814,30 +1834,30 @@
   "n": 8,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.2
  },
  "auto:Cigna Group": {
   "ok": true,
-  "n": 508,
-  "m": 15,
+  "n": 510,
+  "m": 16,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 46.6
+  "secs": 42.7
  },
  "auto:Citizens Financial Group": {
   "ok": true,
-  "n": 9,
-  "m": 9,
+  "n": 7,
+  "m": 7,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.8
+  "secs": 1.0
  },
  "auto:Clarios": {
   "ok": true,
@@ -1851,13 +1871,13 @@
  },
  "auto:Clearwater Analytics": {
   "ok": true,
-  "n": 265,
+  "n": 263,
   "m": 37,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 12.3
+  "secs": 12.7
  },
  "auto:Clyde Companies": {
   "ok": true,
@@ -1881,13 +1901,13 @@
  },
  "auto:Commerce Bank": {
   "ok": true,
-  "n": 167,
-  "m": 23,
+  "n": 169,
+  "m": 24,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 22.0
+  "secs": 19.5
  },
  "auto:Compeer Financial": {
   "ok": true,
@@ -1951,23 +1971,23 @@
  },
  "auto:Crest Industries": {
   "ok": true,
-  "n": 119,
+  "n": 117,
   "m": 10,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.2
+  "secs": 2.0
  },
  "auto:Cresta": {
   "ok": true,
   "n": 96,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Crowe": {
   "ok": true,
@@ -2071,13 +2091,13 @@
  },
  "auto:Dow Jones": {
   "ok": true,
-  "n": 207,
+  "n": 208,
   "m": 28,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 10.2
+  "secs": 12.0
  },
  "auto:DraftKings": {
   "ok": true,
@@ -2124,8 +2144,8 @@
   "n": 3,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -2141,13 +2161,13 @@
  },
  "auto:EMC Insurance": {
   "ok": true,
-  "n": 55,
-  "m": 18,
+  "n": 56,
+  "m": 19,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 5.2
+  "secs": 4.5
  },
  "auto:Eaton": {
   "ok": false,
@@ -2177,13 +2197,13 @@
  },
  "auto:Entrust": {
   "ok": true,
-  "n": 83,
+  "n": 85,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 6.2
+  "secs": 5.9
  },
  "auto:Equifax": {
   "ok": true,
@@ -2207,11 +2227,11 @@
  },
  "auto:Eulerity": {
   "ok": true,
-  "n": 16,
+  "n": 15,
   "m": 7,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -2240,8 +2260,8 @@
   "n": 5,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -2280,10 +2300,10 @@
   "n": 10,
   "m": 0,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.0
+  "secs": 1.1
  },
  "auto:Fidelity Investments": {
   "ok": true,
@@ -2327,31 +2347,31 @@
  },
  "auto:First National Bank": {
   "ok": true,
-  "n": 318,
+  "n": 323,
   "m": 56,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 15.5
+  "secs": 18.5
  },
  "auto:Flagship Pioneering": {
   "ok": true,
-  "n": 25,
-  "m": 25,
+  "n": 24,
+  "m": 24,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Freddie Mac": {
   "ok": true,
-  "n": 100,
+  "n": 106,
   "m": 14,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 6.2
  },
@@ -2390,8 +2410,8 @@
   "n": 175,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 15.6
  },
@@ -2407,13 +2427,13 @@
  },
  "auto:GE Healthcare": {
   "ok": true,
-  "n": 581,
-  "m": 47,
+  "n": 582,
+  "m": 50,
   "err": null,
-  "at": "2026-09-23T04:54:00Z",
-  "last_ok": "2026-09-23T04:54:00Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 22.5
+  "secs": 22.6
  },
  "auto:GE Vernova": {
   "ok": true,
@@ -2437,13 +2457,13 @@
  },
  "auto:Gallup": {
   "ok": true,
-  "n": 52,
+  "n": 51,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.5
  },
  "auto:Garda Capital Partners": {
   "ok": true,
@@ -2470,8 +2490,8 @@
   "n": 21,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -2497,23 +2517,23 @@
  },
  "auto:General Matter": {
   "ok": true,
-  "n": 128,
+  "n": 126,
   "m": 14,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.6
+  "secs": 10.0
  },
  "auto:Genesys": {
   "ok": true,
-  "n": 206,
+  "n": 208,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 17.2
+  "secs": 15.5
  },
  "auto:Geneva Trading": {
   "ok": true,
@@ -2527,23 +2547,23 @@
  },
  "auto:Genuine Parts Company": {
   "ok": true,
-  "n": 942,
+  "n": 952,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 63.4
+  "secs": 54.6
  },
  "auto:Geotab": {
   "ok": true,
   "n": 26,
   "m": 26,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Gilead Sciences": {
   "ok": true,
@@ -2597,13 +2617,13 @@
  },
  "auto:Guardian Life": {
   "ok": true,
-  "n": 146,
+  "n": 141,
   "m": 29,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 19.1
+  "secs": 14.1
  },
  "auto:HP": {
   "ok": true,
@@ -2620,10 +2640,10 @@
   "n": 33,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:HPR": {
   "ok": true,
@@ -2660,10 +2680,10 @@
   "n": 12,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Hermeus": {
   "ok": true,
@@ -2690,10 +2710,10 @@
   "n": 34,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.6
+  "secs": 0.1
  },
  "auto:Hy-Vee": {
   "ok": true,
@@ -2783,23 +2803,23 @@
  },
  "auto:Johns Hopkins Applied Physics Laboratory": {
   "ok": true,
-  "n": 73,
-  "m": 65,
+  "n": 76,
+  "m": 68,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.2
+  "secs": 0.7
  },
  "auto:Johnson & Johnson": {
   "ok": true,
-  "n": 613,
-  "m": 128,
+  "n": 605,
+  "m": 132,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 30.4
+  "secs": 28.8
  },
  "auto:K2 Space": {
   "ok": true,
@@ -2926,8 +2946,8 @@
   "n": 88,
   "m": 18,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.2
  },
@@ -2963,13 +2983,13 @@
  },
  "auto:Live Oak Bank": {
   "ok": true,
-  "n": 16,
-  "m": 9,
+  "n": 14,
+  "m": 8,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 6.9
+  "secs": 2.0
  },
  "auto:Loblaw Companies": {
   "ok": true,
@@ -3016,10 +3036,10 @@
   "n": 243,
   "m": 30,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 16.2
+  "secs": 14.3
  },
  "auto:McKesson": {
   "ok": true,
@@ -3076,10 +3096,10 @@
   "n": 8,
   "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Merck": {
   "ok": true,
@@ -3123,13 +3143,13 @@
  },
  "auto:Momentive": {
   "ok": true,
-  "n": 124,
+  "n": 123,
   "m": 53,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 11.9
+  "secs": 10.3
  },
  "auto:Moog": {
   "ok": true,
@@ -3154,12 +3174,12 @@
  "auto:National Information Solutions Cooperative": {
   "ok": true,
   "n": 40,
-  "m": 18,
+  "m": 12,
   "err": null,
-  "at": "2026-09-25T20:03:46Z",
-  "last_ok": "2026-09-25T20:03:46Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:National Laboratory of the Rockies": {
   "ok": true,
@@ -3183,13 +3203,13 @@
  },
  "auto:Navy Federal": {
   "ok": true,
-  "n": 113,
-  "m": 6,
+  "n": 111,
+  "m": 7,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.4
+  "secs": 2.7
  },
  "auto:Nelnet": {
   "ok": true,
@@ -3213,11 +3233,11 @@
  },
  "auto:Neuralink": {
   "ok": true,
-  "n": 77,
+  "n": 81,
   "m": 18,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -3261,6 +3281,16 @@
   "fails": 0,
   "secs": 29.3
  },
+ "auto:Northwestern Mutual": {
+  "ok": true,
+  "n": 84,
+  "m": 6,
+  "err": null,
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
+  "fails": 0,
+  "secs": 6.6
+ },
  "auto:Northwood Space": {
   "ok": true,
   "n": 80,
@@ -3293,13 +3323,13 @@
  },
  "auto:Olsson": {
   "ok": true,
-  "n": 425,
-  "m": 94,
+  "n": 426,
+  "m": 95,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:OpenGov": {
   "ok": true,
@@ -3353,13 +3383,13 @@
  },
  "auto:Pilot Company": {
   "ok": true,
-  "n": 63,
+  "n": 64,
   "m": 42,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.0
+  "secs": 0.9
  },
  "auto:Planview": {
   "ok": true,
@@ -3376,10 +3406,10 @@
   "n": 30,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 4.4
+  "secs": 3.2
  },
  "auto:PricewaterhouseCoopers (PwC)": {
   "ok": true,
@@ -3394,12 +3424,12 @@
  "auto:Principal Financial Group": {
   "ok": true,
   "n": 19,
-  "m": 17,
+  "m": 16,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.4
+  "secs": 0.5
  },
  "auto:Procter & Gamble": {
   "ok": true,
@@ -3433,23 +3463,23 @@
  },
  "auto:Quantinuum": {
   "ok": true,
-  "n": 120,
+  "n": 122,
   "m": 17,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 1.6
+  "secs": 1.3
  },
  "auto:RF-SMART": {
   "ok": true,
   "n": 18,
   "m": 6,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:RSM": {
   "ok": true,
@@ -3463,13 +3493,13 @@
  },
  "auto:RTX": {
   "ok": true,
-  "n": 144,
-  "m": 41,
+  "n": 150,
+  "m": 42,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 13.1
+  "secs": 7.2
  },
  "auto:Radiance Technologies": {
   "ok": true,
@@ -3533,13 +3563,13 @@
  },
  "auto:Repsol": {
   "ok": true,
-  "n": 98,
+  "n": 99,
   "m": 33,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 10.3
+  "secs": 9.9
  },
  "auto:Resultant": {
   "ok": true,
@@ -3561,15 +3591,25 @@
   "fails": 0,
   "secs": 0.2
  },
+ "auto:Rivian and Volkswagen Group Technologies": {
+  "ok": true,
+  "n": 148,
+  "m": 8,
+  "err": null,
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
+  "fails": 0,
+  "secs": 0.2
+ },
  "auto:Rockwell Automation": {
   "ok": true,
-  "n": 405,
-  "m": 20,
+  "n": 403,
+  "m": 21,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 32.8
+  "secs": 28.1
  },
  "auto:Royal Bank of Canada": {
   "ok": true,
@@ -3633,11 +3673,11 @@
  },
  "auto:Schonfeld": {
   "ok": true,
-  "n": 79,
+  "n": 80,
   "m": 12,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.0
  },
@@ -3656,8 +3696,8 @@
   "n": 8,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.0
  },
@@ -3683,11 +3723,11 @@
  },
  "auto:Sierra": {
   "ok": true,
-  "n": 206,
+  "n": 207,
   "m": 1,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.2
  },
@@ -3706,10 +3746,10 @@
   "n": 157,
   "m": 13,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 8.6
+  "secs": 7.3
  },
  "auto:SingleStore": {
   "ok": true,
@@ -3733,13 +3773,13 @@
  },
  "auto:Solar Turbines (Caterpillar)": {
   "ok": true,
-  "n": 109,
-  "m": 12,
+  "n": 108,
+  "m": 14,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 12.9
+  "secs": 8.5
  },
  "auto:SoloPulse": {
   "ok": true,
@@ -3783,23 +3823,23 @@
  },
  "auto:Swarm Aero": {
   "ok": true,
-  "n": 30,
+  "n": 33,
   "m": 5,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "auto:Symbotic": {
   "ok": true,
-  "n": 124,
+  "n": 126,
   "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 6.2
+  "secs": 6.1
  },
  "auto:Sysco": {
   "ok": true,
@@ -3810,6 +3850,16 @@
   "last_ok": "2026-09-25T23:21:04Z",
   "fails": 0,
   "secs": 43.5
+ },
+ "auto:TRC Companies": {
+  "ok": true,
+  "n": 114,
+  "m": 110,
+  "err": null,
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
+  "fails": 0,
+  "secs": 1.5
  },
  "auto:Talos": {
   "ok": true,
@@ -3823,23 +3873,23 @@
  },
  "auto:Tanium": {
   "ok": true,
-  "n": 59,
+  "n": 60,
   "m": 8,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:Teledyne": {
   "ok": true,
-  "n": 565,
+  "n": 563,
   "m": 7,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 41.5
+  "secs": 30.3
  },
  "auto:Tencent": {
   "ok": true,
@@ -3866,20 +3916,20 @@
   "n": 91,
   "m": 24,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 2.2
+  "secs": 2.4
  },
  "auto:The Aerospace Corporation": {
   "ok": true,
-  "n": 418,
-  "m": 34,
+  "n": 423,
+  "m": 39,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 30.1
+  "secs": 23.9
  },
  "auto:The Campbell's Company": {
   "ok": true,
@@ -3893,43 +3943,43 @@
  },
  "auto:The Exploration Company": {
   "ok": true,
-  "n": 99,
+  "n": 105,
   "m": 4,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "auto:The Hartford": {
   "ok": true,
-  "n": 232,
-  "m": 12,
+  "n": 231,
+  "m": 13,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 17.4
+  "secs": 16.4
  },
  "auto:The Home Depot": {
   "ok": true,
-  "n": 616,
-  "m": 10,
+  "n": 607,
+  "m": 11,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 46.9
+  "secs": 42.9
  },
  "auto:The Nuclear Company": {
   "ok": true,
-  "n": 78,
+  "n": 74,
   "m": 10,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 20.9
+  "secs": 0.1
  },
  "auto:The Toro Company": {
   "ok": true,
@@ -3953,13 +4003,13 @@
  },
  "auto:Thomson Reuters": {
   "ok": true,
-  "n": 452,
+  "n": 449,
   "m": 8,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 45.0
+  "secs": 42.3
  },
  "auto:Thrivent": {
   "ok": true,
@@ -3996,20 +4046,20 @@
   "n": 18,
   "m": 3,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.0
+  "secs": 0.1
  },
  "auto:U.S. Bank": {
   "ok": true,
-  "n": 657,
-  "m": 16,
+  "n": 652,
+  "m": 17,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 54.0
+  "secs": 45.7
  },
  "auto:US Foods": {
   "ok": true,
@@ -4053,13 +4103,13 @@
  },
  "auto:University of Texas at Austin": {
   "ok": true,
-  "n": 182,
-  "m": 100,
+  "n": 181,
+  "m": 99,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 23.0
+  "secs": 17.3
  },
  "auto:Upbound Group": {
   "ok": true,
@@ -4073,13 +4123,13 @@
  },
  "auto:Valeo": {
   "ok": true,
-  "n": 694,
+  "n": 697,
   "m": 114,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 45.8
+  "secs": 44.7
  },
  "auto:Valon": {
   "ok": true,
@@ -4096,10 +4146,10 @@
   "n": 388,
   "m": 17,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 39.6
+  "secs": 31.3
  },
  "auto:Varda Space Industries": {
   "ok": true,
@@ -4123,11 +4173,11 @@
  },
  "auto:Veeam Software": {
   "ok": true,
-  "n": 247,
-  "m": 18,
+  "n": 249,
+  "m": 20,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -4153,11 +4203,11 @@
  },
  "auto:Verkada": {
   "ok": true,
-  "n": 301,
+  "n": 304,
   "m": 9,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -4193,11 +4243,11 @@
  },
  "auto:Visier Solutions": {
   "ok": true,
-  "n": 14,
-  "m": 3,
+  "n": 13,
+  "m": 2,
   "err": null,
-  "at": "2026-09-25T13:56:29Z",
-  "last_ok": "2026-09-25T13:56:29Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -4326,28 +4376,28 @@
   "n": 32,
   "m": 0,
   "err": null,
-  "at": "2026-09-26T01:51:21Z",
-  "last_ok": "2026-09-26T01:51:21Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
  "list:SimplifyJobs/Summer2027-Internships": {
   "ok": true,
-  "n": 4643,
-  "m": 3731,
+  "n": 4638,
+  "m": 3725,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.8
+  "secs": 0.6
  },
  "list:michelleokolie/canada-tech-internships-summer-2027": {
   "ok": true,
   "n": 18,
   "m": 17,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -4356,48 +4406,48 @@
   "n": 305,
   "m": 304,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 0.4
  },
  "list:northwesternfintech/2027QuantInternships": {
   "ok": true,
   "n": 71,
   "m": 57,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.2
  },
  "list:resumax/tech-internships": {
   "ok": true,
   "n": 331,
   "m": 235,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 0.3
  },
  "list:sndsh404/summer-2027-internships": {
   "ok": true,
   "n": 124,
   "m": 110,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.3
  },
  "list:speedyapply/2027-AI-College-Jobs": {
   "ok": true,
   "n": 1094,
   "m": 603,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.4
  },
@@ -4406,28 +4456,28 @@
   "n": 1252,
   "m": 886,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.9
+  "secs": 0.6
  },
  "list:vanshb03/Summer2027-Internships": {
   "ok": true,
   "n": 371,
   "m": 362,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.3
+  "secs": 0.2
  },
  "list:zapplyjobs/Canada-Internships-2027": {
   "ok": true,
   "n": 124,
   "m": 102,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.2
  },
@@ -4436,8 +4486,8 @@
   "n": 600,
   "m": 557,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
   "secs": 0.4
  },
@@ -4446,29 +4496,29 @@
   "n": 307,
   "m": 254,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.3
+  "secs": 0.2
  },
  "list:zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships": {
   "ok": true,
-  "n": 604,
-  "m": 597,
+  "n": 603,
+  "m": 596,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 0.2
+  "secs": 0.3
  },
  "onsemi": {
   "ok": true,
   "n": 378,
   "m": 18,
   "err": null,
-  "at": "2026-09-25T23:21:04Z",
-  "last_ok": "2026-09-25T23:21:04Z",
+  "at": "2026-09-26T05:09:38Z",
+  "last_ok": "2026-09-26T05:09:38Z",
   "fails": 0,
-  "secs": 7.5
+  "secs": 6.8
  }
 }

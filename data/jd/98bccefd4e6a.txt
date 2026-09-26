@@ -1,0 +1,77 @@
+Job Summary
+With more than 50 years of consecutive growth, we’ve built a dynamic workplace where over 45,000 employees worldwide are empowered to grow and contribute to our entrepreneurial culture.
+
+As we continue to grow, we’re looking for talented individuals, like you, to join our team. Our people are genuine, creative, and proactive problem-solvers who move fast, move mountains, and succeed together.
+
+A Medline internship provides real-world, hands-on experience where you can make a true impact. Interns take ownership of projects while gaining valuable insight into the day-to-day responsibilities of their roles. Beyond the work itself, the summer experience includes enriching opportunities such as social and networking events, leadership presentations, community service activities, and more. Through meaningful work and professional development experiences, you’ll build a tangible skillset that helps set you apart from your peers.
+
+Our internships span a variety of business areas and are open to rising seniors in undergraduate programs. Designed to support both personal and professional growth, the 10-week summer program runs from early June through mid-August in one of our four corporate offices in the Chicagoland area.
+
+As an RPA & Agentic AI Software Technologies Intern on the Digital Automation team, you will gain hands-on experience working at the intersection of Robotic Process Automation (RPA) and Agentic AI. You will collaborate with our Information business, and development teams to identify opportunities to automate and improve business processes using technologies such as UiPath, Copilot Studio, and AI/agentic automation frameworks.
+
+This internship provides exposure to real-world enterprise automation projects and the opportunity to learn how AI agents and RPA can work together to transform business processes.
+
+Job Description
+
+Projects/responsibilities could include:
+
+• Assist in designing, developing, testing, and deploying RPA solutions using UiPath, with a focus on process automation, reliability, scalability, and operational efficiency.
+
+• Explore and assist with the development of AI-powered and agentic automation solutions, including AI agents that can interpret information, make decisions, orchestrate tasks, and interact with enterprise systems.
+
+• Gain hands-on experience with Microsoft AI and automation technologies, such as Microsoft Agent Framework, Copilot Studio, Foundry, App Insights.
+
+• Assist with integrating AI agents, RPA bots, APIs, applications, databases, and enterprise systems to enable end-to-end automated workflows.
+
+• Participate in the development and testing of proofs of concept (POCs) for emerging AI and automation technologies and help evaluate their potential for enterprise adoption.
+
+• Apply process analysis and problem-solving techniques to identify opportunities to eliminate manual work, improve cycle times, reduce errors, and enhance the user experience.
+
+• Work on real-world automation projects throughout the software development lifecycle, including requirements gathering, solution design, development, testing, deployment, and support.
+
+• Collaborate with cross-functional teams to gather requirements, understand user needs, contribute to UX design, and troubleshoot technical issues.
+
+• Assist with documenting business processes, automation workflows, AI agent designs, technical specifications, test cases, and solution architecture.
+
+• Learn and apply best practices related to responsible AI, security, governance, exception handling, monitoring, and human-in-the-loop automation.
+
+• Stay current with emerging trends in Agentic AI, RPA, generative AI, low-code development, and intelligent automation, and recommend innovative ideas for improving business processes.
+
+Qualifications:
+
+• Junior standing with a minimum 3.0 GPA preferred.
+
+• Background in Computer Science, Information Systems, Software Engineering, Data Science, Artificial Intelligence or related field
+
+• Strong interest in automation, artificial intelligence, RPA, or intelligent automation
+
+• Basic understanding of software development concepts, including APIs, databases, application integration, and software development lifecycle (SDLC)
+
+• Familiarity with programming languages such as Python, JavaScript, C#, or similar languages is a plus
+
+• Prior experience with UiPath, Copilot Studio, or similar platforms is beneficial but not required
+
+• Interest or coursework in Generative AI, machine learning, natural language processing, or AI agents is a plus.
+
+• Strong analytical and problem-solving skills with the ability to break down complex business processes into logical steps.
+
+• Ability to learn new technologies quickly and apply them to real-world problems.
+
+• Strong communication and collaboration skills, with the ability to work effectively with both technical and non-technical stakeholders.
+
+• Positive attitude, curiosity, and willingness to experiment with emerging AI and automation technologies.
+
+Click here to learn more about a career in IT at Medline!
+
+Medline Industries, LP, and its subsidiaries, offer a competitive total rewards package, continuing education & training, and tremendous potential with a growing worldwide organization.
+
+The anticipated salary range for this position:
+$23.25 - $33.75 Hourly
+
+The actual salary will vary based on applicant’s location, education, experience, skills, and abilities. Medline will not pay less than the applicable minimum wage or salary threshold.
+
+Our benefit package includes 401(k) contributions, paid time off, as well as access to the Employee Assistance Program, Employee Resource Groups and the Employee Service Corp for interns and temporary roles.
+
+We’re dedicated to creating a Medline where everyone feels they belong and can grow their career. We strive to do this by seeking diversity in all forms, acting inclusively, and ensuring that people have tools and resources to perform at their best. Explore our Belonging page here .
+
+Medline Industries, LP is an equal opportunity employer. Medline evaluates qualified individuals without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, neurodivergence, protected veteran status, marital or family status, caregiver responsibilities, genetic information, or any other characteristic protected by applicable federal, state, or local laws.

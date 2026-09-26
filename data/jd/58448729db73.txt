@@ -1,0 +1,110 @@
+Work Flexibility: Not available
+
+What You Get Out of the Internship ​​
+
+At Stryker, we believe that developing the next generation of talent is just as important as developing life-changing medical technologies. As an intern, you won’t just observe — you’ll contribute to meaningful projects, gain exposure to leaders who will mentor you, and experience a culture of innovation and teamwork that is shaping the future of healthcare. As an intern, you will : ​   ​
+
+•
+Apply classroom knowledge and gain experience in a fast-paced and growing industry setting ​
+
+•
+Implement new ideas , be constantly challenged, and develop your skills ​
+
+•
+Network with key/high-level stakeholders and leaders of the business ​
+
+•
+Be a part of an innovative team and culture ​
+
+•
+Experience documenting complex processes and presenting them in a clear format
+
+Who we want ​​
+
+Challengers. People who seek out the hard projects and work to find just the right solutions. ​
+
+Teammates. Partners who listen to ideas, share thoughts and work together to move the business forward. ​
+
+Charismatic networkers. Relationship-savvy people who intentionally make connections with both internal partners and external contacts. ​
+
+Strategic thinkers. Interns who propose innovative ideas and consistently exceed their performance objectives . ​
+
+Customer-oriented achievers. Individuals with an unparalleled work ethic and customer-focused attitude who bring value to their partnerships. ​
+
+Game changers. Persistent interns who will stop at nothing to live out Stryker’s mission to make healthcare better.
+
+Opportunities Available ​
+
+​ As a Software Engineering intern at Stryker, you will be placed in one of the following teams:
+
+Advanced Quality
+
+AQE interns work on engineering projects related to development of new products.  Areas of emphasis may include human factors engineering, risk management, application of statistics, reliability engineering, design verification, and design validation including customer interaction.  As Homer Stryker pointed out, “If your tools don’t work, make them work.  If you can’t make them work, make some that do work.”  In this directive, the AQE team works to make sure that the products we develop at Stryker will work consistently for our customers to meet or exceed their expectations. 
+
+Process Quality
+
+PQE interns collaborate with cross-functional teams to support product sustainment. When non-conforming issues arise in production, it is our responsibility to perform robust root cause analysis and implement effective corrective actions.  Do you enjoy deep dive investigations and driving collaboration and communication to achieve issue resolution?  If so, you may be a great fit for this team!  PQE interns are focused on quality, compliance and continuous improvement.  They use their education to work with a variety of tools including CAD for fixture design, root cause analysis methods, LabView, and validation activities to optimize production, inspection, and quality system processes. 
+
+ 
+
+Supplier Quality
+
+SQE interns are responsible for all things supplier-related .  Stryker uses a number of critical suppliers to manufacture components and finished products, and to provide critical services.  This team’s job is to work closely with the suppliers to ensure components and their manufacturing processes meet our required standards.   Do you enjoy using your technical background and communication skills to influence suppliers?  If so, you might be a great fit for this diverse and talented team!  The role requires working closely with internal customers from multiple functions, meeting with suppliers frequently , and the use of both technical and business skills.  
+
+Quality
+
+Quality interns work with our internal cross-functional teams and external sales team and customers to ensure we develop and sustain a product with the highest quality.  The team’s job is to ensure we develop the right products up front – evaluate risk, ensure our customer’s user needs are met, and help drive craftsmanship, safety, durability and reliability into the product.  On the post-market side, they also work closely with regulatory to handle any complaints and implement design changes, as needed, to address quality issues.  The role requires someone who has great communication , problem-solving, and technical skills. 
+
+Research & Development
+
+New Product Development
+
+R&D interns in New Product Development work with cross-functional teams to identify the needs and the goals of future products.  They research new technologies , customer expectations, business requirements and regulations.  They may work with a variety of tools, including CAD, FEA, and our Test Labs to develop new product concepts.  These interns utilize their technical education to design new products and drive them from concept to production.
+
+Product Engineering
+
+R&D interns in Product Engineering work with cross-functional teams to identify the greatest needs for improvements on current products.  They research new technologies , customer feedback, and product performance data to make our products better for Stryker and for our customers.  Product Engineering interns work with a variety of tools, including CAD, FEA, Test Labs, and root cause analysis methods.  These interns utilize their technical education to improve the safety and efficacy of our existing products.
+
+ 
+
+Test Lab
+
+Test interns partner closely with Test Engineers and R&D to experiment with early prototypes and vet out product designs throughout the design process.  What this really means is that they get to be the MythBusters of the division.  You think your design can last the entire expected service life? We put it to the test.  Just like the show, we quickly design and build fixtures to simulate real life situations. In addition to these experiments, they are ultimately responsible for design verification – the quantitative testing of the technical specifications of the product.  A team’s experience ranges from 2 to over 15 years with technical specialties ranging from sterilization, mechanical, electrical, software, and optics.  If you’re the type of person that has the magic ability to break things – we want you!
+
+ 
+
+Manufacturing
+
+Manufacturing Engineer interns will collaborate with Design and Operations to deliver best-in-class new products to market.  Interns will partner with technicians and engineers to improve Stryker’s manufacturing lines through new fixture development, assembly line process enhancement, implementation of lean manufacturing principles, and improving ergonomics and safety. 
+
+Majors Targeted: Computer Engineering, Computer Science or related majors .
+
+$ 20 min hourly wage – $3 5 max hourly wage, sign-on bonus, 11 paid holidays annually, and either paid corporate housing or a living stipend, dependent upon hiring location
+
+What You Need ​​
+
+•
+Currently pursuing a Bachelor’s or Master’s degree in a related field; must remain enrolled in a degree-seeking program after the internship . ​
+
+•
+Cumulative 3.0 GPA or above ( verified at time of hire )
+
+•
+Must be legally authorized to work in the U.S. and not require employment-based sponsorship now or in the future . ​
+
+•
+Strong written and verbal communication skills, with proven ability to collaborate and build relationships
+
+•
+Demonstrated leadership, problem-solving, and organizational skills with the ability to manage multiple priorities
+
+•
+Proficiency in Microsoft Office (Excel, Word, PowerPoint) and eagerness to learn in a dynamic environment .
+
+ 
+
+Travel Percentage: None
+
+Stryker Corporation is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status. Stryker is an EO employer – M/F/Veteran/Disability.
+
+Stryker Corporation will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
