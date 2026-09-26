@@ -1,0 +1,44 @@
+What you’ll do:
+
+Eaton’s Energy Transition Team is currently seeking an Electrical Engineering Intern / Co-op.
+
+This position can either be a rotational co-op assignment, or a Summer 2027 internship.
+
+The hourly rate for this position is $22.15 - $27.69 per hour.
+Please note the salary information shown above is a general guideline only. Salaries are based upon candidate skills, experience, and qualifications, as well as market and business considerations.
+
+The Electrical Engineering Intern / Co-op is responsible for supporting the creative design and development of connected home energy management systems, intelligent vehicle-to-home/grid (V2X) power management products, plus other electric power grid system solutions.
+
+This position will contribute to the overall electrical design of a product with involvement from project initiation thru manufacturing launch, plus ongoing developments. The Electrical Engineering Intern / Co-op will contribute to the design, development, and testing of electronic circuits, both analog and digital and work closely with the Engineering Manager, Program Manager, other Electrical Engineers, System Architects, Firmware Engineers, and Mechanical Engineers to develop the products in an organized and expedient fashion per our Pro-Launch process.
+
+What you’ll do:
+• Participate in the design of analog and digital circuits, including power supplies, signal conditioning, and microprocessor support circuits.
+• Research new technologies or new methods to solve a technical problem, develop solution concepts, select appropriate electronic components, design PCBAs or other electronic hardware, fabricate and debug prototypes, and conduct proof of concept testing.
+• Support enhancements of existing products and services based on evaluations of existing and new technologies per Eaton’s strategic plans.
+• Support the technical evaluations of third-party solutions and assess opportunities to develop partnerships or and new suppliers.
+• Contribute to international project teams assigned to research, design, develop, test and/or launch new innovations; ensure projects are completed on time and within budget.
+
+Qualifications:
+
+Basic (Required) Qualifications:
+
+• Must be actively enrolled in a bachelor’s degree program in Electrical Engineering or Computer Engineering, or similar from an accredited institution with graduation no later than August 2029
+• Eaton will not consider applicants for employment immigration sponsorship or support for this position. This means that Eaton will not support any CPT, OPT, or STEM OPT plans, F-1 to H-1B, H-1B cap registration, O-1, E-3, TN status, I-485 job portability, etc.
+• Minimum cumulative GPA of 3.0 or higher
+• Relocation is not provided for this role, the candidate must be located within 50 miles of Moon Township, PA
+
+Preferred Qualifications:
+
+• Experience with Altium or similar PCB design tool
+
+• Experience with oscilloscopes and power supply usage
+
+• Experience with soldering, and breadboarding
+
+We are committed to ensuring equal employment opportunities for all job applicants and employees. Employment decisions are based upon job-related reasons regardless of an applicant's race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, marital status, genetic information, protected veteran status, or any other status protected by law.
+
+Eaton believes in second chance employment. Qualified applicants with arrest or conviction history will be considered regardless of their arrest or conviction history, consistent with the Los Angeles County Fair Chance Ordinance, the California Fair Chance Act and other local laws.
+
+You do not need to disclose your conviction history or participate in a background check until a conditional job offer is made to you. After making a conditional offer and running a background check, if Eaton is concerned about conviction that is directly related to the job, you will be given the chance to explain the circumstances surrounding the conviction, provide mitigating evidence, or challenge the accuracy of the background report.
+
+To request a disability-related reasonable accommodation to assist you in your job search, application, or interview process, please call us at 1-800-836-6345 to discuss your specific need. Only accommodation requests will be accepted by this phone number.

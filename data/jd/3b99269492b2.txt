@@ -1,0 +1,117 @@
+Company Overview:
+
+For more than 50 years, NISC has developed and implemented enterprise-level and customer-facing software solutions for over 1,200+ utilities and broadbands across North America. Our mission is to deliver technology solutions and services that are Member-focused, quality driven and valued priced. We exist to serve our Members and help them serve their communities through our innovative software products, services and outstanding customer support. NISC has been ranked in ComputerWorld’s Best Places to Work for twenty-two years, and we are looking for qualified individuals to join our team.
+
+Our Members have over 18 million end customers (residential and businesses who receive power, internet, television and/or telephone services) that our enterprise software solution enables our Members to compete effectively in the industry, while excelling in customer service.  
+
+Position Overview:
+
+We’re looking for a Data Engineer Intern to join our dynamic Data Engineering team. This internship is a great opportunity for students who are passionate about data, cloud technologies, and building scalable data solutions. You’ll gain hands-on experience working alongside experienced engineers on real-world projects that support our enterprise software and data strategy.
+
+To Learn more about NISC's internships, click HERE .
+
+**Current applications submitted will be under consideration for Summer 2027 (May - August)**
+
+Work Schedule: 
+
+• Hybrid from one of our office locations:
+
+• Cedar Rapids, IA
+
+• Lake Saint Louis, MO
+
+• Mandan, ND 
+
+• Requirement: Minimum of working 3 days per week out of an office location and ability to work up to all 5 days a week from an office location.
+
+Essential Functions:
+
+• Assist in building and maintaining data pipelines that support analytics and application development
+
+• Learn about and contribute to data architecture using AWS and Databricks
+
+• Help gather, clean, and transform data from various sources into usable formats
+
+• Collaborate with software developers, data analysts, and product teams to understand data needs
+
+• Participate in team meetings, code reviews, and brainstorming sessions
+
+• Explore opportunities to automate manual processes and improve data workflows
+
+• Contribute to documentation and internal knowledge sharing
+
+• Ensures that all information is appropriately entered and utilized in Confluence and/or the iVUE Support tool
+
+• Leverage generative AI tools and technologies to enhance productivity, creativity, and problem-solving within the scope of the role
+
+Desired Job Experience:
+
+• Familiarity with SQL and at least one programming language (e.g., Python, Java, or Scala)
+
+• Interest in cloud platforms (especially AWS) and big data tools like Spark or Databricks
+
+• Exposure to data pipeline tools (e.g., Airflow, Hevo Data), preferred
+
+• Experience with cloud services like AWS S3, Lambda, or EC2, preferred
+
+• Understanding of data warehousing or lakehouse concepts, preferred
+
+• Familiarity with version control systems like Git, preferred
+
+• Strong problem-solving skills and a willingness to learn new technologies
+
+• Ability to work both independently and collaboratively in a team environment
+
+• Strong problem solving skills and attention to detail.
+
+• Strong verbal and written, interpersonal, and communication skills.
+
+• Ability to effectively adapt to change.
+
+• Ability to interact in a positive manner with internal and external contacts.
+
+• Ability to maintain the highest level of professionalism, ethical behavior, and confidentiality.
+
+• Commitment to NISC's Statement of Shared Values.
+
+NISC’s Shared Values & Competencies:
+
+We’re a cooperative, which means we’re owned by the Members we serve. It also means that our focus is on taking care of our Members and our employees, rather than having a big bottom line. Quality service and innovative technology starts with happy and dedicated employees. Join our team and learn for yourself what sets NISC apart.
+
+• Integrity – We are committed to doing the right thing – always.
+
+• Relationships – We are committed to building and preserving lasting relationships.
+
+• Innovation – We promote the spirit of creativity and champion new ideas.
+
+• Teamwork – We exemplify the cooperative spirit by working together.
+
+• Empowerment – We believe individuals have the power to make a difference.
+
+• Personal Development – We believe the free exchange of knowledge and information is absolutely necessary to the success of each individual and the organization.
+
+Why Intern at NISC:
+
+• Work on meaningful projects that impact real customers
+
+• Learn from experienced engineers and mentors
+
+• Gain exposure to enterprise-level data architecture and tools
+
+• Be part of a collaborative, mission-driven culture
+
+• Potential for future full-time opportunities
+
+Education Preferred:
+
+• ​​High School diploma or equivalency required
+
+• Pursuing a bachelor’s degree or post secondary education in data science or a computer science related field
+
+Minimum Physical Requirements:
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the essential functions of this position, employees must be able to see and communicate. Employees are regularly required to maintain a stationary position, move, and operate computer keyboards or office equipment.
+
+Disclaimer:
+
+Management may modify this job description by assigning or reassigning duties and responsibilities at any time.

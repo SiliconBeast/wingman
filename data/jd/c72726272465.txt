@@ -1,0 +1,65 @@
+K2 is building the largest and highest-power satellites ever flown, unlocking performance levels previously out of reach across every orbit. Backed by over $1 billion in total funding from leading investors including Altimeter Capital, ICONIQ, Kleiner Perkins, Lightspeed Venture Partners, Redpoint Ventures, and T. Rowe Price — and with over $1 billion in signed contracts across commercial and US government customers, we're mass-producing the highest-power satellite platforms ever built for missions from LEO to deep space.
+
+The rise of heavy-lift launch vehicles is shifting the industry from an era of mass constraint to one of mass abundance, and we believe this new era demands a fundamentally different class of spacecraft. Engineered to survive the harshest radiation environments and to fully capitalize on today's and tomorrow's massive rockets, K2 satellites deliver unmatched capability at constellation scale and across multiple orbits.
+
+With multiple launches in 2027 and plans to scale to 100 satellites a year, we're Building Bigger — helping develop the solar system and build toward a Kardashev Type II (K2) civilization. If you are a motivated individual who thrives in a fast-paced environment and you're excited about contributing to the success of a high-growth Series D-funded company, we'd love for you to apply.
+
+The Role
+
+We’re looking for a stellar Electrical Engineering Intern to join our team for a 3 month internship. Working closely with our engineers, you will be responsible for developing novel electrical designs spanning from PCBAs to full systems. You will work hands-on with novel power, digital, and mixed signal designs used across the satellite while getting exposure to other subsystems within the engineering organization. K2 Space is a highly collaborative environment and our interns will be encouraged to work with mentors and other team members to execute complex projects.
+
+Responsibilities
+
+• Design electronics PCBAs for spacecraft including architecture, component selection, circuit board design, board bring up and debugging
+
+• Qualify your designs through environmental testing including vibration, shock, thermal, and thermal vacuum testing
+
+• Work with internal and external stakeholders to integrate your designs into the spacecraft systems and operate your hardware in flight
+
+• Develop test equipment, development PCBAs, and test scripts to assist with all of the above
+
+Qualifications
+
+• Must be currently enrolled in a Bachelor’s or Master’s degree in electrical or computer engineering
+
+• 6+ months experience of technical engineering skills outside of the university setting classroom (eg: laboratory, research, extracurricular project teams, volunteering, personal projects or prior internship/work experience)
+
+Nice to Have
+
+• Ability to work well in an integrated collaborative team environment, including frequent interactions with technicians, engineers, and managers
+
+• Experience designing multi-layer PCBAs for high-speed digital applications
+
+• Experience with high performance kW scale isolated power converter design
+
+• Experience designing analog control loops, solid state load switches, motor inverters, EMI/EMC compliance, or sensor signal conditioning circuits
+
+• Experience with digital processors, FPGAs, memory chips, or network switches
+
+• Proficient with circuit simulation tools such as LTspiceE
+
+• Experience with load switch design and power path protection schemes
+
+• Experience programming in C/C++, Python, or Matlab
+
+Compensation
+
+• Hourly pay range for this non-exempt role is $30 - $40 per hour
+
+• Hourly rate will be based on several factors including, but not limited to: knowledge and skills, education, and experience level
+
+• Housing and travel stipend may also be available
+
+If you don’t meet 100% of the preferred skills and experience, we encourage you to still apply! Building a spacecraft unlike any other requires a team unlike any other and non-traditional career twists and turns are encouraged!
+
+If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know.
+
+Export Compliance
+
+As defined in the ITAR, “U.S. Persons” include U.S. citizens, lawful permanent residents (i.e., Green Card holders), and certain protected individuals (e.g., refugees/asylees, American Samoans). Please consult with a knowledgeable advisor if you are unsure whether you are a “U.S. Person.”
+
+The person hired for this role will have access to information and items controlled by U.S. export control regulations, including the export control regulations outlined in the International Traffic in Arms Regulation (ITAR). The person hired for this role must therefore either be a “U.S. person” as defined by 22 C.F.R. § 120.15 or otherwise eligible for a federally issued export control license.
+
+Equal Opportunity
+
+K2 Space is an Equal Opportunity Employer; employment with K2 Space is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.

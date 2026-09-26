@@ -1,0 +1,58 @@
+The Allied Solutions internship program is a robust and consistent internship program for juniors and seniors. The program will focus on learning and development as well as hands-on experience. The program will immerse the intern into a broad range of responsibilities, allowing you to execute projects within your area of professional interests.
+
+Interested applicants must be available during the 12-week program (May 24th – Aug. 13th, 2027). This is a full-time internship (40-hours per week) based at our St. Paul, MN office
+
+As a Data Governance intern at Allied Solutions, you will have an opportunity to learn data governance methodologies, frameworks, and develop data management skills. You can hone your skills in technical areas as well as through collaborating with multiple cross functional teams like data engineering, data intelligence, information security, and business operations.
+
+Job Duties and Responsibilities :
+
+•
+Help with data analysis and data quality analysis tasks
+
+•
+Review, assess and report findings and solutions to data quality issues including integrity, timeliness, accuracy and completeness
+
+•
+Collaborate with the data stewards and data intelligence team to capture data definitions, business definitions, and build business glossaries
+
+•
+Researching and documenting best practices for data issue tracking, proactive issue management in collaboration with data engineering and data intelligence teams
+
+•
+Contribute data strategy, data privacy, and data security efforts in collaboration with cross functional business teams and information security teams.
+
+•
+Work on other projects as assigned
+
+Qualifications (Education, Experience, Certifications & KSA )
+
+•
+Currently enrolled in undergraduate program as rising Junior or Senior, pursuing a degree in Data Science, Data Analytics, or a related field
+
+•
+Willingness to tackle the real business challenges and extend the classroom experience
+
+•
+Experience with data analysis using tools like Excel, Python or R
+
+•
+Ability to analyze the data, understand the trends within the dataset, and communicate
+
+•
+Familiarity with data intelligence tools like Microsoft Power BI or Tableau
+
+•
+Basic knowledge of SQL and familiarity with database/data cloud technologies like Snowflake, Databricks, or Oracle
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.
+
+#LI-SJ1
+#LI-Onsite
+
+We offer our employees a robust compensation package! Our comprehensive benefits include: medical, dental and vision insurance coverage; 100% company-paid life and disability coverage, 401k options with company match, three weeks PTO by the end of the first year and much more. Allied proudly promotes from within as part of a strong commitment to providing career growth opportunities for employees of all levels. Our diverse business portfolio allows employees broad career options with the advantage of staying with the same organization.
+
+All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+To view our privacy statement click here
+
+To view our terms and conditions click here

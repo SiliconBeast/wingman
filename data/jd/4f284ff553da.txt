@@ -1,0 +1,33 @@
+About AQR Arbitrage
+
+AQR Arbitrage is an affiliate of AQR Capital Management, specializing in the research, development, and management of arbitrage and corporate event strategies. Since 2001, AQR Arbitrage has combined rigorous research and disciplined processes to deliver long-term value to clients. Co-founders Mark Mitchell and Todd Pulvino are pioneering researchers and former professors at the University of Chicago, Northwestern University, and Harvard University. Their published work has fundamentally shaped how scholars and practitioners understand arbitrage markets, corporate events, and market dislocations.
+
+AQR Arbitrage focuses solely on research and portfolio management while leveraging AQR’s infrastructure for all other investment management functions. Our team members contribute to a culture of excellence, intellectual curiosity, and collaborative innovation, rooted in continuous learning and wise stewardship. AQR Arbitrage operates from AQR headquarters in Greenwich, CT for seamless integration and idea exchange across the broader firm.
+
+Your Role
+
+AQR Arbitrage is looking for an exceptionally talented undergraduate or graduate student to join our team as an Arbitrage Research Summer Analyst. You’ll work with our portfolio management team which is responsible for all aspects of managing various merger arbitrage, convertible arbitrage and event driven portfolios, from research to trade ideas and risk management.
+
+As an Arbitrage Research Summer Analyst, you will:
+
+• Learn academic theory related to arbitrage and event-driven strategies
+
+• Construct unique datasets to be used in novel investment strategy research
+
+• Perform statistical and economic analysis to test hypotheses and uncover insights
+
+• Build tools to enhance and streamline portfolio management processes
+
+What you’ll bring
+
+• Strong problem solving, quantitative, and programming skills (Python preferred)
+
+• Excellent communication skills and vigorous attention to detail
+
+• Work ethic and eagerness to learn in a highly intellectual, collaborative environment
+
+• Self-motivation with the ability to work independently and as part of a team
+
+• Ability to multi-task and keep track of a variety of deadlines
+
+AQR and AQR Arbitrage are Equal Opportunity Employers. EEO/VET/DISABILITY

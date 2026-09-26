@@ -1,0 +1,43 @@
+About Us
+
+AXQ Capital is a global quantitative investment firm. We build diverse sources of investment edge across geographies, asset classes, and trading horizons. Our strategies are grounded in rigorous scientific research and deep market understanding, strengthened by sustained investment in data, technology, and AI. Our team brings together exceptional talent from leading academic institutions and the world’s most respected quantitative firms. We foster a collaborative culture built on curiosity, rigor, and ownership, where the best ideas win and people grow with the firm.
+
+We are growing quickly, and our interns are a core part of how we hire: you will work directly with senior researchers and portfolio managers on research that is meant to trade, and strong performers receive full-time offers.
+
+Job Duties
+
+Markets are noisy, competitive, and constantly evolving — finding a durable edge is one of the hardest problems in applied research. As a Quantitative Research Intern, you will take on that challenge directly. Over the course of your internship, you will work on one or two projects in areas such as:
+
+• Developing and refining quantitative trading strategies under the guidance of experienced portfolio managers and researchers
+
+• Applying tools from probability, statistics, and machine learning to uncover patterns and predictive signals in market data
+
+• Leveraging agentic AI workflows to accelerate the research cycle — from hypothesis generation to automated backtesting and analysis
+
+• Transforming raw, messy datasets into research-ready inputs that power alpha discovery
+
+• Exploring portfolio construction and optimization techniques that combine individual strategies into robust, risk-managed portfolios
+
+Qualifications
+
+• Undergraduate or graduate student at a top-tier university in a quantitative field (e.g., mathematics, statistics, physics, engineering, computer science, financial engineering)
+
+• Strong foundation in probability and statistics, including statistical modeling, time-series analysis, and machine learning
+
+• Proficient in Python for data analysis and research
+
+• Intellectually curious and quick to learn, with a genuine interest in quantitative finance
+
+• Clear communicator who works well in a team and under pressure
+
+We’d Love It If You Have
+
+• Publications in leading academic journals or conferences
+
+• Strong results in national or international Olympiads (math, physics, or computer science)
+
+Program Details
+
+This is a full-time, approximately 12-week internship based in our New York office during Summer 2027. We are targeting candidates graduating in 2027 or 2028. The internship concludes with a presentation to senior management and the opportunity to earn a full-time return offer.
+
+The anticipated hourly pay range for this role is $75 to $100, depending on prior experience and qualifications.

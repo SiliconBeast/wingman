@@ -1,0 +1,68 @@
+Job Description:
+
+Saab, Inc.'s Surveillance Software is currently looking for motivated, creative, inquisitive, and talented Computer Science, Software Engineering, or Computer Engineering college students for a Summer 2027 (May-August 2027) co-op/internship.
+
+The Software Engineering Co-Op will develop their skills and put their education into practice on real-world products while making significant contributions to a safer society. Candidates will actively participate in the software development for air traffic management systems in use at today's airports.
+
+Compensation Range: $20.27-$22.30/hr
+In addition to a competitive hourly rate, Saab Inc. offers a sign-on bonus to off-set housing expenses for Co-Ops residing outside the typical office commuting distance.
+
+The compensation range provided is a general guideline. When extending an offer, Saab, Inc. considers factors including (but not limited to) the role and associated responsibilities, location, and market and business considerations, as well as the candidate's work experience, key skills, and education/training.
+
+Skills and Experience:
+
+Skills and Experience
+
+•
+Object-Oriented Design and Programming with C++, Python, and/or Java
+
+•
+Familiarity with scripting languages
+
+•
+Experience with Linux or Unix development environment
+
+Desired Skills
+
+•
+Experience with software design patterns
+
+•
+Familiarity with version control tools like Subversion and GIT
+
+•
+Experience with with Javascript, HTML, CSS
+
+•
+Experience with unit test frameworks (e.g. Junit, GTest, JTest, cppTest, googletest)
+
+•
+Database/SQL experience
+
+Qualifications
+
+•
+Enrollment in an accredited degree program, with a major in Computer Science, Computer Engineering, or Software Engineering
+
+•
+Cumulative GPA of 3.0 or better
+
+•
+United States Citizenship
+
+•
+Must have completed Sophomore year or greater
+
+Citizenship Requirements:
+
+Must be a U.S. citizen. Applicants selected may be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+Drug-Free Workplaces:
+
+Saab is a federal government contractor and adheres to policies and programs necessary for sustaining drug-free workplaces. As a condition of employment, candidates will be required to pass a pre-employment drug screen.
+
+About Us:
+
+Saab is a leading defense and security company with an enduring purpose, to help nations keep their people and society safe. Empowered by its 28,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. In the U.S., Saab delivers advanced technology and systems, supporting the U.S. Armed Forces and the Federal Aviation Administration, as well as international and commercial partners. Headquartered in Syracuse, New York, the company has business units and local employees in ten U.S. locations.
+
+Saab is a company where we see diversity as an asset and offer unlimited opportunities for advancing in your career. We are also a company that respects each person’s needs and encourage employees to lead a balanced, rewarding life beyond work. Saab values diversity and is an Affirmative Action employer for protected veterans and individuals with disabilities. Saab is an Equal Employment Opportunity employer, all qualified individuals are encouraged to apply and will be considered for employment without regard to race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, age, veteran, disability status, or any other federal, state, or locally protected category.

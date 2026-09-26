@@ -1,0 +1,61 @@
+AQR Capital Management
+
+AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998.
+
+At AQR, our employees share a common spirit of academic excellence, intellectual honesty and an unwavering commitment to seeking the truth. We’re determined to know what makes financial markets tick – and we’ll ask every question and challenge every assumption. We recognize and respect the power of collaboration and believe transparency and openness to new ideas leads to innovation.
+
+The Internship Program
+
+Our 10-week summer program puts real work of the firm in your hands. You will work alongside brilliant people, gain insights and know-how from our Quanta Academy Summer Term curriculum, and experience what it’s like to work at the pinnacle of global, systematic investing.
+
+Learning is the cornerstone of our culture and plays an active role in the internship experience — through daily collaboration and interaction with employees at all levels, in workshops and classes, and most significantly by working on projects that matter to the many clients we serve. Our unique AQR Quanta Academy: Summer Term learning series, a structured program, consists of over 40 hours of educational, skill-building and networking events.
+
+Your Role
+
+Are you an intelligent and creative thinker? Do you enjoy finding elegant technical solutions to complex problems? Are you interested in seeing an impact of your work in real life? We are looking for innovative and passionate undergraduates to join our engineering teams as summer analysts. Candidates may be interviewed for one of several teams.
+
+As a Summer Analyst, you will work on meaningful projects that support a wide range of business and investment functions across the firm. You will collaborate closely with engineers, researchers, and business stakeholders to design, develop, test, and deploy solutions in a fast-paced, highly collaborative environment.
+
+Projects may include:
+
+• Building scalable applications and services
+
+• Designing user interfaces and data visualization tools
+
+• Developing APIs and backend systems
+
+• Working with large and complex datasets
+
+• Enhancing cloud-based infrastructure and distributed systems
+
+• Improving developer tools, automation, and operational efficiency
+
+• Researching and implementing innovative technologies
+
+You will gain exposure to modern software engineering practices and technologies while contributing to systems that are critical to the firm’s operations and investment processes.
+
+Our engineering teams work with a broad range of technologies, which may include:
+
+• Python, Java, C#, Go
+
+• Web technologies and modern frontend frameworks
+
+• Cloud platforms and distributed systems
+
+• Databases, messaging systems, and data platforms
+
+• Visualization and analytics tools
+
+• Version control, CI/CD, and automation frameworks
+
+Who You Are
+
+• Finishing either a Bachelor’s or Master’s degree program between December 2027 and June 2028
+
+• Mature and thoughtful, with the ability to operate within a collaborative, team-oriented culture
+
+• Hard working and eager to learn in a highly intellectual, innovative environment
+
+• Look beyond the surface level to understand the underlying details
+
+AQR is an Equal Opportunity Employer. EEO/VET/DISABILITY

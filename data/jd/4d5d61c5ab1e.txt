@@ -1,0 +1,83 @@
+CLOSING DATE:
+
+October 1, 2026
+
+Opportunity
+
+Are you looking for an opportunity to gain exposure to fixed income portfolio management, quantitative research, and investment analysis?
+
+AIMCo’s Fixed Income group manages several different short-, mid-, and long-term portfolios for our clients and provides active management of money market and fixed income investments. The Co-op, Fixed Income will assist the department in its objective to add value relative to benchmarks through interest rate forecasting, term structure weighting, sector weighting and security selection.
+
+Note: This is a 4-month, full-time term starting in May 2027.
+
+***Job Posting will expire at 11:59pm MT on September 30, 2026***
+
+Responsibilities:
+
+• Contributing to the Fixed Income team’s development of quantitative statistical models, back-testing, curve building, or other quantitative analysis.
+
+• Determining which factor investing models can be applied to bond or credit portfolio management.
+
+• Collaborating with the Fixed Income team to determine what tools can be used to improve fixed income processes.
+
+• Improving and creation of new management reports used for more informed investment decision making.
+
+• Leverage AI-enabled tools to enhance research, portfolio monitoring, reporting, and operational efficiency.
+
+• Demonstrate proficiency in AI-assisted analytical workflows and maintain awareness of emerging technologies relevant to investment management.
+
+• Maintaining and updating Fixed Income databases and SharePoint site.
+
+• Working with the reporting group on existing reports or creating new reports for Fixed Income team.
+
+• Assisting in the quarterly client reporting process.
+
+• Supporting and working on documentation of existing high-level data and process flows.
+
+Ideal Candidate Qualifications:
+
+• Currently enrolled in undergraduate or graduate studies in a quantitative discipline including finance, economics, engineering, computer science, mathematics, physics, or related field combined with a demonstrated passion for investments.
+
+• Must be part of a work experience program with a post-secondary institution (Ex: Co-op).
+
+• Strong Python programming skills are required. Experience using data analysis and scientific computing libraries (e.g., pandas, NumPy, SciPy) is considered an asset.
+
+• Experience working with large and complex datasets using Python through internships, research projects, or coursework.
+
+• Experience with SQL, VBA or other programming languages is an asset.
+
+• Understanding of financial markets, particularly the fixed income market. Knowledge of financial instruments such as bonds, derivatives, and money market instruments is a plus.
+
+• An interest in Fixed Income quantitative trading and analysis.
+
+• Prior experience with conducting financial research, preferably using Bloomberg or Capital IQ is an asset.
+
+• Advanced proficiency level with Microsoft Applications (Excel, PowerPoint, Word, Outlook, SharePoint)
+
+• Strong attention to detail with strong research, critical thinking, and analytical skills.
+
+• Excellent written, verbal, and interpersonal skills.
+
+• Ability to work under pressure and meet deadlines while working independently and collaboratively.
+
+• Self-motivated and proactive. The ideal candidate should be eager to learn, able to take initiative, and willing to go the extra mile to deliver results.
+
+• CFA Level I (or working towards it)
+
+• Demonstrates a strong commitment to AIMCo’s core values of excellence, transparency, humility, integrity and collaboration, and inspiring the same in others.
+
+Success Measures:
+
+During your time with the Fixed Income team, you will have developed an understanding of the variety of fixed income products AIMCo holds while working collaboratively and effectively with the team to champion continuous improvement and support the team on identifying opportunities that enhance data management and investment analysis processes.
+
+#LI-ET1
+
+Next Steps
+
+We are excited to meet you. Please submit your resume or CV to be considered for this opportunity. Applications are being reviewed on a rolling basis and we will be in touch with any questions.
+
+Final candidates will be asked to undergo a security screening, which includes a credit bureau and a criminal record investigation, the results of which must be acceptable to AIMCo.
+
+ALERT - Be on the lookout for AIMCo career opportunities advertised through third parties that request an application fee or too much information. To verify, all opportunities are posted on aimco.ca/jobs
+
+At AIMCo, we draw upon the differences in who we are, where we come from and the way we think to deliver results for the Albertans who rely on us. We offer an inclusive, modern workplace where well-being is prioritized, and colleagues are enabled to do their best work. Our team members are motivated by our purpose and committed to creating long-term value for our clients and their beneficiaries.

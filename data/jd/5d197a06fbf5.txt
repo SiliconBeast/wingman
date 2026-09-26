@@ -1,0 +1,122 @@
+Who We Are
+
+HP IQ is HP’s new AI innovation lab. Combining startup agility with HP’s global scale, we’re building intelligent technologies that redefine how the world works, creates, and collaborates.
+
+We’re assembling a diverse, world-class team—engineers, designers, researchers, and product minds—focused on creating an intelligent ecosystem across HP’s portfolio. Together, we’re developing intuitive, adaptive solutions that spark creativity, boost productivity, and make collaboration seamless.
+
+We create breakthrough solutions that make complex tasks feel effortless, teamwork more natural, and ideas more impactful—always with a human-centric mindset.
+
+By embedding AI advancements into every HP product and service, we’re expanding what’s possible for individuals, organisations, and the future of work.
+
+Join us as we reinvent work, so people everywhere can do their best work.
+
+About The Role
+
+HP IQ's Connectivity Software team is building foundational software that enables the next generation of connected experiences across devices and platforms. Our team works at the intersection of systems software, wireless connectivity, and emerging technologies to create seamless, intelligent experiences. We are looking for an Intern to join the team and contribute to the software, protocols, and systems that bring these experiences to life.
+
+In this role, you will work alongside experienced engineers to develop on-device software for next-generation HP IQ experiences. You’ll contribute to the design, development, and implementation of software across emerging devices and platforms. This is a hands-on technical role where you’ll write code, solve complex system-level problems, and collaborate with engineers to explore and build new experiences.
+
+What You Might Do
+
+• Develop on-device firmware and system software in C, C++, or Python for connected device experiences.
+
+• Build and enhance software supporting wireless connectivity across a variety of devices and platforms.
+
+• Explore sensing, machine learning, and AI techniques to solve complex technical challenges.
+
+• Debug and resolve issues across system software, wireless connectivity, and application-level code.
+
+• Collaborate with hardware and software engineers to understand requirements and translate them into technical solutions.
+
+• Participate in code reviews and technical design discussions, learning from and contributing to the broader engineering team.
+
+• Contribute to the testing, validation, and documentation of software and firmware features.
+
+Essential Qualifications
+
+• Write efficient on-device firmware and system software in C, C++, or Python to implement wireless connectivity protocols (Wi-Fi, Bluetooth) across multiple device types.
+
+• Design and implement device-to-device discovery and pairing protocols that enable seamless communication in enterprise and consumer environments.
+
+• Optimize machine learning inference on resource-constrained devices, balancing model accuracy against power consumption and latency constraints.
+
+• Develop sensing algorithms that leverage data and AI techniques to enable new ambient and wearable interactions.
+
+• Debug and resolve complex issues spanning the wireless stack, operating system integration, and application-level code.
+
+• Collaborate with hardware engineers, system software teams, and product managers to understand requirements and translate them into technical solutions.
+
+• Participate in code reviews and design discussions, learning from and contributing insights to the team's technical direction.
+
+• Contribute to testing, validation, and documentation of connectivity features and firmware updates.
+
+Preferred Skills
+
+• Previous experience with edge machine learning or AI inference on embedded devices.
+
+• Familiarity with IoT or ambient computing paradigms.
+
+• Experience shipping consumer software products from development through production.
+
+• Background in IoT, wearable, or mobile device development.
+
+• Exposure to agentic workflows or multi-device ecosystem design.
+
+Hourly Pay Range: $45.00–$51.00 per hour. Actual compensation will be determined based on factors such as skills, qualifications, and experience.
+
+2027 Internship Program Dates: May/June–August/September 2027. Final dates will be based on student schedules.
+
+Compensation & Benefits (Full-Time Employees)
+
+The salary range for this role is listed above. Final salary offered is based upon multiple factors including individual job-related qualifications, education, experience, knowledge and skills.
+
+At HP IQ, we offer a competitive and comprehensive benefits package, including:
+
+• Health insurance
+
+• Dental insurance
+
+• Vision insurance
+
+• Long term/short term disability insurance
+
+• Employee assistance program
+
+• Flexible spending account
+
+• Life insurance
+
+• Generous time off policies, including;
+
+• 4-12 weeks fully paid parental leave based on tenure
+
+• 11 paid holidays
+
+• Additional flexible paid vacation and sick leave ( US benefits overview )
+
+Why HP IQ?
+
+HP IQ is HP’s new AI innovation lab, building the intelligence to empower humanity—reimagining how we work, create, and connect to shape the future of work.
+
+• Innovative Work
+Help shape the future of intelligent computing and workplace transformation.
+
+• Autonomy and Agility
+Work with the speed and focus of a startup, backed by HP’s scale.
+
+• Meaningful Impact
+Build AI-powered solutions that help people and organisations thrive.
+
+• Flexible Work Environment
+Freedom and flexibility to do your best work.
+
+• Forward-Thinking Culture
+We learn fast, stay future-focused, and imagine what comes next—together.
+
+Equal Opportunity Employer (EEO) Statement
+
+HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+
+Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence.
+
+If you’d like more information about HP’s EEO Policy or your EEO rights as an applicant under the law, please click here: Equal Employment Opportunity is the Law Equal Employment Opportunity is the Law – Supplement

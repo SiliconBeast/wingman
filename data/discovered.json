@@ -1,5 +1,5 @@
 {
- "run": 18,
+ "run": 19,
  "boards": {
   "wd:bah/bah_jobs": {
    "first": "2026-09-21",
@@ -120,6 +120,13 @@
    "roles": 22,
    "last": "2026-09-26"
   },
+  "wd:brunswick/search": {
+   "first": "2026-09-21",
+   "name": "Brunswick",
+   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
+   "roles": 21,
+   "last": "2026-09-26"
+  },
   "wd:intelcomgroup/intelcom": {
    "first": "2026-09-21",
    "name": "Intelcom | Dragonfly",
@@ -144,17 +151,17 @@
    "roles": 20,
    "last": "2026-09-26"
   },
-  "wd:brunswick/search": {
-   "first": "2026-09-21",
-   "name": "Brunswick",
-   "value": "https://brunswick.wd1.myworkdayjobs.com/search",
-   "roles": 20,
-   "last": "2026-09-26"
-  },
   "wd:caci/external": {
    "first": "2026-09-21",
    "name": "CACI",
    "value": "https://caci.wd1.myworkdayjobs.com/external",
+   "roles": 20,
+   "last": "2026-09-26"
+  },
+  "wd:copart/copart": {
+   "first": "2026-09-21",
+   "name": "Copart",
+   "value": "https://copart.wd12.myworkdayjobs.com/copart",
    "roles": 20,
    "last": "2026-09-26"
   },
@@ -183,13 +190,6 @@
    "first": "2026-09-21",
    "name": "Navy Federal",
    "value": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu",
-   "roles": 19,
-   "last": "2026-09-26"
-  },
-  "wd:copart/copart": {
-   "first": "2026-09-21",
-   "name": "Copart",
-   "value": "https://copart.wd12.myworkdayjobs.com/copart",
    "roles": 19,
    "last": "2026-09-26"
   },
@@ -424,6 +424,13 @@
    "roles": 13,
    "last": "2026-09-26"
   },
+  "wd:psu/psu_staff": {
+   "first": "2026-09-21",
+   "name": "Pennsylvania State University",
+   "value": "https://psu.wd1.myworkdayjobs.com/PSU_Staff",
+   "roles": 13,
+   "last": "2026-09-26"
+  },
   "wd:usfoods/usfoodscareersexternal": {
    "first": "2026-09-21",
    "name": "US Foods",
@@ -494,17 +501,17 @@
    "roles": 12,
    "last": "2026-09-26"
   },
+  "smartrecruiters:abbvie": {
+   "first": "2026-09-21",
+   "name": "AbbVie",
+   "value": "https://jobs.smartrecruiters.com/AbbVie",
+   "roles": 12,
+   "last": "2026-09-26"
+  },
   "wd:pg/1000": {
    "first": "2026-09-21",
    "name": "Procter & Gamble",
    "value": "https://pg.wd5.myworkdayjobs.com/1000",
-   "roles": 12,
-   "last": "2026-09-26"
-  },
-  "wd:psu/psu_staff": {
-   "first": "2026-09-21",
-   "name": "Pennsylvania State University",
-   "value": "https://psu.wd1.myworkdayjobs.com/PSU_Staff",
    "roles": 12,
    "last": "2026-09-26"
   },
@@ -529,13 +536,6 @@
     "ats": "jibe",
     "url": "https://careers.planview.com"
    },
-   "roles": 11,
-   "last": "2026-09-26"
-  },
-  "smartrecruiters:abbvie": {
-   "first": "2026-09-21",
-   "name": "AbbVie",
-   "value": "https://jobs.smartrecruiters.com/AbbVie",
    "roles": 11,
    "last": "2026-09-26"
   },
@@ -1072,7 +1072,7 @@
   "wd:danaher/danaherjobs": {
    "first": "2026-09-21",
    "name": "Danaher",
-   "value": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
+   "value": "https://danaher.wd1.myworkdayjobs.com/danaherjobs",
    "roles": 7,
    "last": "2026-09-26"
   },
@@ -1246,7 +1246,7 @@
   },
   "greenhouse:hyannisportresearch": {
    "first": "2026-09-21",
-   "name": "HPR",
+   "name": "HPR (Hyannis Port Research)",
    "value": "https://job-boards.greenhouse.io/hyannisportresearch",
    "roles": 6,
    "last": "2026-09-26"
@@ -1681,13 +1681,6 @@
    "roles": 5,
    "last": "2026-09-26"
   },
-  "wd:equifax/ur_external": {
-   "first": "2026-09-26",
-   "name": "Equifax",
-   "value": "https://equifax.wd5.myworkdayjobs.com/UR_External",
-   "roles": 5,
-   "last": "2026-09-26"
-  },
   "wd:fis/searchjobs": {
    "first": "2026-09-21",
    "name": "Fidelity National Information Services",
@@ -1803,7 +1796,7 @@
   "ashby:atomicsemi": {
    "first": "2026-09-21",
    "name": "Atomic Semi",
-   "value": "https://jobs.ashbyhq.com/AtomicSemi",
+   "value": "https://jobs.ashbyhq.com/atomicsemi",
    "roles": 4,
    "last": "2026-09-26",
    "off": true
@@ -1824,7 +1817,7 @@
   },
   "ashby:kastle": {
    "first": "2026-09-21",
-   "name": "Kastle",
+   "name": "Kastle AI",
    "value": "https://jobs.ashbyhq.com/kastle",
    "roles": 4,
    "last": "2026-09-26"
@@ -2125,6 +2118,13 @@
    "first": "2026-09-25",
    "name": "Biogen",
    "value": "https://biibhr.wd3.myworkdayjobs.com/external",
+   "roles": 4,
+   "last": "2026-09-26"
+  },
+  "wd:cadence/external_careers": {
+   "first": "2026-09-26",
+   "name": "Cadence Design Systems",
+   "value": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
    "roles": 4,
    "last": "2026-09-26"
   }

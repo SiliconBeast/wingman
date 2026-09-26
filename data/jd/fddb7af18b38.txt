@@ -1,0 +1,54 @@
+About the Role:
+
+Baird’s Compliance interns collaborate closely with experienced professionals to learn about the laws, regulations and ethical standards that govern the financial services industry. Through hands-on tasks and projects, interns gain practical insight into how policies and procedures are applied in a dynamic compliance environment at a high-performing financial firm.
+
+The Capital Markets Compliance team supports all Capital Markets businesses at Baird, including Equity Capital Markets, Equity Research, Global Investment Banking , Fixed Income and Public Finance . The team also focuses on overall firm regulation and policy functions. This intern will design, develop and test regulatory technology (RegTech) data solutions for the Capital Markets Compliance team while gaining unique insight into Baird’s Capital Markets businesses through a compliance lens.
+
+This is a hybrid internship, working 3 days per week in our downtown Milwaukee, WI office and 2 days remote. The intern must be able to work full time during the summer, 37.5-40 hours per week, and work part time during the school semesters, 15-20 hours per week. We are seeking a student who can start in January 2027, or earlier if available.
+
+The Impact You’ll Make:
+
+•
+Work with internal business partners to understand how the data we provide impacts the greater decisions of both Compliance and Baird
+
+•
+Gain exposure to critical business data problems that help drive decisions
+
+•
+Actively participate in team meetings, discussions and special projects with internal business partners
+
+•
+Create innovative data solutions and visualizations using SQL, Python and potentially PowerBI
+
+What You’ll Bring to Baird:
+
+•
+Pursuing a bachelor’s degree in data science, data analytics, computer science, computer engineering, information systems, information technology management, business analytics or other related areas with a proven track record of academic excellence
+
+•
+Anticipated graduation date of May 2028 or later
+
+•
+Curiosity to understand the application of technology and data when solving business problems
+
+•
+Superior organizational skills, ability to manage multiple priorities and strong attention to detail while ensuring high-quality and timely delivery of solutions
+
+•
+Proactive approach with a high level of motivation, strategic thinking and a strong commitment to continuous learning
+
+•
+Experience with Python, SQL, Microsoft Excel, PowerPoint and Word
+
+•
+Some financial market knowledge is preferred
+
+About Our Intern Program:
+
+Jumpstart your career with Baird’s high-impact summer intern program! You’ll gain real-world experience, connect with inspiring leaders and grow through hands-on projects, mentorship and dynamic events. From our Intern Welcome and Baird Gives Back Day to firmwide networking and professional development, you’ll be part of a vibrant, collaborative culture that values your voice and fuels your future.
+
+Baird is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status .
+
+#LI-DNI
+
+Baird is committed to diversity and provides employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy, citizenship, national origin, age, disability, military service, veteran status, sexual orientation, gender identity or expression, genetic information, or any other status protected by law.
