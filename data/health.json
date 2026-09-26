@@ -4,10 +4,10 @@
   "n": 117,
   "m": 54,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 2.0
+  "secs": 2.3
  },
  "ASML": {
   "ok": true,
@@ -40,14 +40,14 @@
   "secs": 0.6
  },
  "Altera": {
-  "ok": false,
+  "ok": true,
   "n": 183,
   "m": 2,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 7.0
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 7.2
  },
  "Amazon": {
   "ok": true,
@@ -70,14 +70,14 @@
   "secs": 8.6
  },
  "Analog Devices": {
-  "ok": false,
+  "ok": true,
   "n": 622,
   "m": 23,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 33.3
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 31.4
  },
  "Anduril": {
   "ok": true,
@@ -134,8 +134,8 @@
   "n": 5,
   "m": 3,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
   "secs": 0.1
  },
@@ -220,14 +220,14 @@
   "secs": 8.5
  },
  "Cadence": {
-  "ok": false,
+  "ok": true,
   "n": 19,
   "m": 4,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 1.7
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 2.0
  },
  "Capital One": {
   "ok": true,
@@ -244,10 +244,10 @@
   "n": 146,
   "m": 13,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 12.1
+  "secs": 10.1
  },
  "Cisco": {
   "ok": true,
@@ -364,10 +364,10 @@
   "n": 109,
   "m": 16,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.2
  },
  "Faire": {
   "ok": true,
@@ -480,14 +480,14 @@
   "secs": 18.4
  },
  "Intel": {
-  "ok": false,
-  "n": 513,
+  "ok": true,
+  "n": 510,
   "m": 23,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 41.2
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 39.6
  },
  "JPMorgan Chase": {
   "ok": true,
@@ -534,20 +534,20 @@
   "n": 62,
   "m": 36,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 0.5
+  "secs": 1.0
  },
  "Lightmatter": {
   "ok": true,
   "n": 66,
   "m": 1,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 0.1
+  "secs": 0.0
  },
  "Lyft": {
   "ok": true,
@@ -580,14 +580,14 @@
   "secs": 50.0
  },
  "Marvell": {
-  "ok": false,
-  "n": 43,
+  "ok": true,
+  "n": 42,
   "m": 18,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 2.7
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 3.2
  },
  "Mastercard": {
   "ok": true,
@@ -604,20 +604,20 @@
   "n": 453,
   "m": 8,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 28.4
+  "secs": 26.7
  },
  "Micron": {
-  "ok": false,
+  "ok": true,
   "n": 431,
   "m": 39,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 26.8
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 25.3
  },
  "Microsoft": {
   "ok": false,
@@ -640,20 +640,20 @@
   "n": 707,
   "m": 36,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 44.1
+  "secs": 41.1
  },
  "NXP": {
-  "ok": false,
+  "ok": true,
   "n": 589,
   "m": 73,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 44.6
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 47.1
  },
  "Netflix": {
   "ok": false,
@@ -774,8 +774,8 @@
  "Qualcomm": {
   "ok": false,
   "err": "HTTPError: 403 Client Error: FORBIDDEN for url: https://qualcomm.eightfold.ai/api/apply/v2/jobs?domain=qualcomm.com&query=intern&start=0&num=50&sort_by=timestamp",
-  "at": "2026-09-26T07:13:56Z",
-  "fails": 41
+  "at": "2026-09-26T12:21:48Z",
+  "fails": 42
  },
  "RBC": {
   "ok": true,
@@ -898,14 +898,14 @@
   "secs": 0.7
  },
  "SiFive": {
-  "ok": false,
+  "ok": true,
   "n": 124,
   "m": 2,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 6.7
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 6.8
  },
  "Skydio": {
   "ok": true,
@@ -1002,20 +1002,20 @@
   "n": 6,
   "m": 3,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 0.3
+  "secs": 0.1
  },
  "Texas Instruments": {
   "ok": true,
   "n": 401,
   "m": 60,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 8.3
+  "secs": 7.9
  },
  "Thales": {
   "ok": true,
@@ -3032,14 +3032,14 @@
   "secs": 21.5
  },
  "auto:Marvell": {
-  "ok": false,
+  "ok": true,
   "n": 243,
   "m": 30,
-  "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T05:09:38Z",
-  "fails": 1,
-  "secs": 14.3
+  "err": null,
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
+  "fails": 0,
+  "secs": 16.1
  },
  "auto:McKesson": {
   "ok": true,
@@ -3916,10 +3916,10 @@
   "n": 91,
   "m": 24,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
-  "secs": 2.6
+  "secs": 2.3
  },
  "auto:The Aerospace Corporation": {
   "ok": true,
@@ -4376,8 +4376,8 @@
   "n": 32,
   "m": 0,
   "err": null,
-  "at": "2026-09-26T07:13:56Z",
-  "last_ok": "2026-09-26T07:13:56Z",
+  "at": "2026-09-26T12:21:48Z",
+  "last_ok": "2026-09-26T12:21:48Z",
   "fails": 0,
   "secs": 0.1
  },
