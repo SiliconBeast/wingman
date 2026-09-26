@@ -1,0 +1,157 @@
+Experience more with a career at COUNTRY Financial!
+
+We’re excited you’re interested in a career at COUNTRY as we strive toward our vision - to enrich lives in the communities we serve. Our footprint spans coast to coast. But more important than where we operate, is the people who do the work. Apply today to help our organization grow and make a difference for our clients.
+
+About the role
+
+As an Information Technology Services (ITS) intern at COUNTRY Financial, you will work as a software developer, data developer, engineer or security analyst in our corporate office located in Bloomington, IL.
+
+Interns will work with a project team, intern mentor and information technology management to gain valuable experience, and develop leadership, technical, analytical, communication and teamwork skills through challenging work assignments.
+
+To be eligible for an internship at COUNTRY Financial, you must be pursuing a degree for the duration of the internship and you must be able to work full-time hours from late May to early August 2027. The internship may be extended part-time into the fall semester; depending on the availability of the student, the needs of the company, and strong work performance.
+
+How does this role make an impact?
+
+"Test drive" a potential career path through real corporate projects, collaboration in meetings, and several networking opportunities. While working alongside and learning from expert leaders at all levels of the company, in addition to teaming up with fellow interns to showcase your ideas, our interns impact the business, and experience professional and personal growth.
+
+Do you have what we're looking for?
+
+Security Analyst
+
+Responsibilities
+
+• Gain hands-on experience analyzing SAST, DAST, and dependency scan findings
+
+• Support security finding triage and false-positive validation under mentor guidance
+
+• Track and report on remediation activities
+
+• Create security dashboards and reports
+
+• Document recurring security issues and AppSec processes
+
+• Develop operational runbooks for repeatable security workflows
+
+• Contribute to continuous improvement of application security practices and documentation
+
+Requirements
+
+• Must be pursuing a degree in Computer Science.
+
+• Graduation date of August 2027 or beyond
+
+• Familiarity with software development concepts
+
+• Understanding of Git/GitHub/GitLab fundamentals
+
+• Ability to read code in at least one language (Java, C#, JavaScript, etc.)
+
+• OWASP Top 10 fundamentals
+
+• Secure coding principles
+
+ 
+
+Software Developer
+
+Responsibilities
+
+• Design, develops, document, test, implement, and debug new and existing software solutions for large-scale proprietary software for internal use.
+
+• Design solutions after gathering business and technical requirements.
+
+• Develop software solutions that are high performing and meet technical standards.
+
+• Support testing and problem solving/debugging of solutions.
+
+• Implement software solutions following best practices.
+
+Requirements
+
+• Must be pursuing a degree in Computer Science or Information Technology
+
+• Graduation date of August 2027 or beyond
+
+• Proficient in Java 
+
+• Knowledge of Spring, Selenium, and DevOps
+
+• Proficient with 365 Microsoft Office computer environments
+
+• Able to troubleshoot and research issues independently
+
+• Understanding of Agile delivery methodology.
+
+• Demonstrated leadership skills, must be a motivated team player
+
+• Excellent communication skills
+
+ 
+
+Automation Developer
+
+Responsibilities
+
+• Assist with development and maintenance of automation solutions using Microsoft Copilot, Power Automate, Python, and test automation frameworks (Robot framework, selenium, etc.)
+
+• Support analysis of business processes and identify opportunities for automation and efficiency improvements.
+
+• Create and execute test cases, validate results, and document findings.
+
+• Develop technical documentation, user guides, and knowledge articles.
+
+• Participate in Agile ceremonies, team meetings, and project planning activities.
+
+• Collaborate with business and technology teams on proof-of-concept and innovation initiatives.
+
+Requirements
+
+• Must be pursuing a degree in Computer Science or Computer Engineering
+
+• Graduation date of August 2027 or beyond
+
+• Primary Skills - Python, SOAP/Rest/OpenApi testing, GIT, Robot Framework
+
+• Secondary Skills - Selenium, GitLab and GitHub, SQL, Azure, Knowledge of insurance application testing and business processes
+
+• C# programming knowledge, AI-based testing and development tools
+
+• Experience with test automation frameworks and CI/CD pipelines
+
+• Exposure to Agile software development practices, Analytical and problem-solving skills, Strong written and verbal communication skills, Ability to learn new technologies quickly and work both independently and collaboratively. 
+
+Data Developer
+
+Responsibilities
+
+• Deliver and maintain enterprise data solutions as part of the data pipeline, data platform, and data governance teams.
+
+• Perform analysis, development, and testing of data ingestion, data curation, and data governance solutions.
+
+• Perform API development and integration, and assess infrastructure changes including cloud environments, firewalls, disaster recovery, and security policies.
+
+• Analyze complex datasets and create clear, insightful reports and dashboards to effectively communicate findings to stakeholders.
+
+• Implement advanced logging, monitoring, and alerting systems to support incident response and issue resolution.
+
+• Perform root cause analysis using diagnostic tools and replicate issues in isolated environments to ensure effective troubleshooting.
+
+Requirements
+
+• Must be pursuing a degree in Computer Science, Data Science, or Information Technology
+
+• Expected graduation date of August 2027 or later
+
+• Foundational data solution development knowledge. Python/Pyspark, Cloud Technologies (Azure, AWS), DevSeOps, Data Visualization (Tableau, Power BI), Foundational knowledge of AI, Understanding of Agile delivery methodology.
+
+ 
+
+Why work with us?
+
+Our employees and representatives serve nearly one million households with our diverse range of personal and business insurance products as well as retirement and investment services. We build relationships and work together to create a stronger, more secure future for our clients and our communities. We’re a big company, yet small enough you can make an impact and won’t get lost in the shuffle. You’ll have the opportunity to learn and grow throughout your career, either within this role or by exploring other areas of our business.
+
+You’ll be able to take advantage of our benefits package, which includes insurance benefits (medical, dental, vision, disability, and life), 401(k) with company match.
+
+COUNTRY Financial is committed to providing equal opportunity in all areas of employment, and in providing employees with a work environment free of discrimination and harassment. Employment decisions are made without regard to race, color, religion, age, gender, sexual orientation, veteran status, national origin, disability, or any other status protected by applicable laws or regulations.
+
+Come join our team at COUNTRY today!

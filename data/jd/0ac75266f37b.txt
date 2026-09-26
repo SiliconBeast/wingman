@@ -1,0 +1,79 @@
+Apply early for priority consideration. Gallup has limited openings for this internship, and the position will be filled quickly.
+
+As a data science intern at Gallup, you’ll turn data into insights that help product leaders make smarter decisions. Working alongside Gallup data scientists and product managers, you’ll analyze data to help answer real product challenges, uncover patterns in how people engage with our products, and translate your findings into recommendations that influence what we build and how we grow. You’ll also have opportunities to collaborate with marketing partners, using data to better understand customers, sharpen targeting and identify new opportunities for growth.
+
+What You’ll Do
+
+During your internship, you will:
+
+• Analyze product and customer data to uncover patterns, answer business questions and inform product decisions
+
+• Use Python, SQL and statistical methods to explore data, build analyses and translate findings into actionable insights
+
+• Support product analytics for CliftonStrengths ® , contributing to projects across its growing portfolio of products and touchpoints
+
+• Partner with data scientists, product managers and other stakeholders to conduct analyses and communicate findings
+
+• Explore opportunities to use data to support marketing efforts, including understanding customers better and identifying opportunities to improve targeting and sales
+
+• Apply modern data science and AI tools to work efficiently, experiment with new approaches and strengthen the quality of your analysis
+
+What You Need
+
+• Enrollment in a bachelor’s or graduate degree program in computer science, statistics, data science, engineering, math or a related field required
+
+• Classroom or work experience coding in a data science environment using Python and its data science libraries (e.g., pandas, NumPy, scikit-learn, PyTorch, Matplotlib) required
+
+• Aptitude in programmatic statistical analysis and modeling (univariate analysis or multivariate analysis) required
+
+• Experience with nonparametric and nonlinear methods through coursework, research or work experience required
+
+• Ability to write SQL to query, join and aggregate data from relational databases or cloud data warehouses (e.g., Snowflake, Redshift) required
+
+• Ability to explain technical analyses and translate results into clear recommendations for nontechnical audiences preferred
+
+• Familiarity with version control (Git or GitHub) and working in a cloud environment such as AWS preferred
+
+• Exposure to large language models, generative AI tooling or applied natural language processing through coursework or projects preferred
+
+• Enrollment at a college or university within an 80-mile radius of San Francisco, California, required
+
+• Anticipated graduation between August 2027 and May 2028 preferred
+
+• Availability to work 40 hours per week for 12 weeks during the summer of 2027 required
+
+• A commitment to working on-site at Gallup’s San Francisco office Monday through Thursday required, with the option to work remotely on Friday
+
+• Eligibility to work in the United States required; this position is not eligible for employment visa sponsorship
+
+What We Offer
+
+• A full-time summer 2027 internship that pays $45 to $50 per hour
+
+• The potential to work up to 20 hours per week during the school year, depending on business demands
+
+• The potential for a full-time job offer upon graduation, based on Gallup’s business needs and intern performance
+
+What You’ll Experience
+
+• Mission-driven work: Make a meaningful difference in the world through work that applies science and technology to important human and organizational problems.
+
+• An empowering culture: Collaborate with smart, passionate people who welcome your ideas, perspectives and technical judgment.
+
+• Learning and development: Grow your skills through hands-on research, experimentation and exposure to AI systems, extensive data and engineering challenges.
+
+• Room to challenge assumptions: Work in an environment where curiosity, rigorous thinking and questioning existing approaches are expected.
+
+• Brand strength, startup energy: Work on emerging technology in a fast-moving environment backed by Gallup’s research, science and global brand.
+
+• A vibrant workplace: Work from Gallup’s San Francisco office in the heart of the Financial District, steps from the Embarcadero and public transit.
+
+Our teams produce great work together, inspire each other to deliver exceptional outcomes, grow their potential and celebrate each other along the way. Learn more about our work and  life at Gallup .
+
+Gallup is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other legally protected basis, in accordance with applicable law.
+
+To review Gallup’s Privacy Statement, please click this link: https://www.gallup.com/privacy . This privacy policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage and delete your information. Your application and the information you provide will be processed and stored in the United States.
+
+#LI-Hybrid
+
+#LI-KR1

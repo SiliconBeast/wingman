@@ -1,0 +1,31 @@
+As a Software Engineering Intern at Neighbor you will be building technology to power our nation-wide online marketplace. Join us as a full eng team member to build and release real features to the Neighbor marketplace.
+ 
+We are looking for smart people who work hard. You will work closely with a dedicated mentor who will help you learn Neighbor’s systems and will be dedicated to your success. You will also have significant influence on our strategy by helping to define product features, design innovative user experiences, prioritize projects, drive the system architecture, and take ownership over key initiatives to create a quality product for our users.
+ 
+Each year, our interns are surprised with exactly how much trust and opportunities to grow they are given. Interns are full team members that participate in the major initiatives of their team, not relegated to some meaningless effort that never gets deployed to production. Our mission is to revolutionize the $500B self-storage industry with technology. Come join the most exciting startup in Utah!
+
+
+Responsibilities
+• Learn Neighbor’s technologies including TypeScript, React, Swift, Kotlin, Ruby, AWS, Golang, Kubernetes, Terraform and more.
+
+• Design, develop, test, deploy, and maintain Neighbor.com ’s marketplace.
+
+• Perform user experiments and data analysis to continually improve the user experience.
+
+Requirements
+• Pursuing a Software Engineering-related university degree or able to demonstrate strong coding ability.
+
+• Proficiency in a major language (JavaScript, Swift, Java, Kotlin, Golang, C++, Python, Ruby, …)
+
+• Desire to be a full team member of a top-percentile startup – which typically means more hours, impact, ownership, and growth than any previous role you've ever held.
+
+• Able to work in our Lehi, UT headquarters for the duration of the internship (remote work is not supported)
+
+• Availability to begin the internship between April and June of 2027 and to complete a 12-week internship
+
+• Availability to begin working full-time within 12 months of the completion of the internship
+
+Nice to Have:
+• Desire to begin part-time employment winter semester 2027
+
+We are an equal opportunity employer and are committed to providing a positive interview experience for every candidate. If accommodations due to a disability or medical condition are needed, connect with us via email at hr@neighbor.com. Check out our careers page to get to know us better as you think about your next step at Neighbor!

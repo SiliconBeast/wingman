@@ -1,0 +1,81 @@
+Apply early for priority consideration. Gallup has limited openings for this internship, and the position will be filled quickly.
+
+As an AI/ML research intern at Gallup, you’ll investigate important technical questions at the intersection of artificial intelligence, machine learning and behavioral science. Working alongside AI researchers and engineers, you’ll design experiments, evaluate new models and methods, build prototypes, and help determine which emerging AI approaches are worth applying to Gallup’s products and AI systems.
+
+You’ll work in a unique environment where Gallup’s behavioral science, proprietary data and decades of research meet rapidly advancing AI technology. Your work will influence real systems designed to help people and organizations make better decisions.
+
+What You’ll Do
+
+During your internship, you will:
+
+• Research advances in AI and machine learning, reproduce promising approaches and evaluate whether they meaningfully improve on existing methods
+
+• Design and contribute to experiments and prototypes that test new approaches to AI systems, applied machine learning and AI-enabled products
+
+• Investigate technical questions involving AI systems, retrieval and knowledge systems, model evaluation, machine learning, and other areas relevant to Gallup’s AI research
+
+• Turn research questions into hypotheses, experiments, measurable results and technical recommendations
+
+• Analyze experimental results, identify limitations and unexpected findings, and clearly communicate what the evidence supports
+
+• Evaluate new models, methods and tools through benchmarks, experiments and hands-on implementation
+
+• Document methods, results and recommendations so other researchers and engineers can reproduce and build on your work
+
+• Collaborate closely with AI researchers, engineers and other technical partners as new capabilities move from research into real systems
+
+What You Need
+
+• Enrollment in a bachelor’s or graduate degree program in computer science, data science, machine learning or a related quantitative field required
+
+• Programming experience relevant to machine learning or data science, including Python, required
+
+• Hands-on experience building, training, evaluating or experimenting with machine learning or AI systems through research, coursework or substantial independent projects required
+
+• Experience designing experiments, analyzing quantitative results or evaluating machine learning systems preferred
+
+• Familiarity with modern machine learning frameworks and techniques, such as PyTorch, transformer models, retrieval systems or model evaluation, preferred
+
+• Previous research experience, publications, open-source contributions or technically substantial independent projects are a plus
+
+• Enrollment at a college or university within an 80-mile radius of San Francisco, California, required
+
+• Anticipated graduation between August 2027 and May 2028 preferred; will consider 2029 graduates
+
+• Availability to work 40 hours per week for 12 weeks during the summer of 2027 required
+
+• A commitment to working on-site at Gallup’s San Francisco office Monday through Thursday required, with the option to work remotely on Friday
+
+• Eligibility to work in the United States required; this position is not eligible for employment visa sponsorship
+
+What We Offer
+
+• A full-time summer 2027 internship that pays $45 to $50 per hour
+
+• The potential to work up to 20 hours per week during the school year, depending on business demands
+
+• The potential for a full-time job offer upon graduation, based on Gallup’s business needs and intern performance
+
+What You’ll Experience
+
+• Mission-driven work: Make a meaningful difference in the world through work that applies science and technology to important human and organizational problems.
+
+• An empowering culture: Collaborate with smart, passionate people who welcome your ideas, perspectives and technical judgment.
+
+• Learning and development: Grow your skills through hands-on research, experimentation and exposure to AI systems, extensive data and engineering challenges.
+
+• Room to challenge assumptions: Work in an environment where curiosity, rigorous thinking and questioning existing approaches are expected.
+
+• Brand strength, startup energy: Work on emerging technology in a fast-moving environment backed by Gallup’s research, science and global brand.
+
+• A vibrant workplace: Work from Gallup’s San Francisco office in the heart of the Financial District, steps from the Embarcadero and public transit.
+
+Our teams produce great work together, inspire each other to deliver exceptional outcomes, grow their potential and celebrate each other along the way. Learn more about our work and life at Gallup .
+
+Gallup is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, or any other legally protected basis, in accordance with applicable law.
+
+To review Gallup’s Privacy Statement, please click this link: https://www.gallup.com/privacy . This privacy policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage and delete your information. Your application and the information you provide will be processed and stored in the United States.
+
+#LI-Hybrid
+
+#LI-KR1

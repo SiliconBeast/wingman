@@ -1,0 +1,166 @@
+The Consumer Lending Operational Analytics (CLOA) team provides analytics, business intelligence, and data governance support across Credit Card and Consumer Loan Operations. The team transforms complex operational data into trusted, actionable insights that help leaders understand performance, identify emerging trends, improve operational efficiency, and make informed decisions.
+
+CLOA’s work spans operational decision support, Power BI dashboard development and modernization, self-service analytics, data governance and quality, process automation, and emerging AI-enabled analytics capabilities. The team partners closely with operational leaders and cross-functional teams to develop scalable solutions that move beyond one-time analysis toward standardized, reusable insights.
+
+The Summer Associate will work alongside analysts and leaders on a meaningful analytics or modernization initiative, gaining hands-on experience translating a business problem into an analytical solution. The role may include exploring and analyzing data, identifying trends and opportunities, developing visualizations or dashboards, evaluating opportunities for automation or self-service, and presenting findings and recommendations to business partners and leadership.
+
+Potential Summer Associate projects may include:
+
+• Operational Analytics & Insights: Analyze operational performance data to identify trends, drivers, opportunities, and emerging issues and translate findings into actionable recommendations for leaders.
+
+• Dashboard & Visualization Development: Help design or enhance Power BI dashboards that provide leaders with intuitive, standardized views of key operational metrics and performance.
+
+• AI & Analytics Innovation: Explore opportunities to apply AI to operational analytics, such as identifying trends, summarizing insights, improving work intake and routing, or helping users more easily interact with and understand data.
+
+• Self-Service Analytics: Identify recurring analytical needs and help develop scalable dashboards, tools, or standardized approaches that enable business partners to answer common questions independently.
+
+• Data Quality & Governance: Support efforts to improve the consistency, documentation, quality, and usability of critical operational data and metrics.
+
+• Process Automation & Modernization: Evaluate manual or repetitive analytical processes and identify opportunities to streamline or automate them using modern data and analytics tools.
+
+• Executive Decision Support: Help synthesize complex operational information into concise insights, visualizations, and storytelling that support leadership decisions.
+
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027. Students will work on impactful projects and meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university and have an anticipated graduation date of December 2027 or later.
+
+•
+Support the development, enhancement, and modernization of operational analytics, dashboards, reporting, and data visualization solutions
+
+•
+Analyze complex data to identify trends, performance drivers, emerging issues, and opportunities for operational improvement
+
+•
+Translate analytical findings into clear, actionable insights and recommendations for business partners and leadership
+
+•
+Partner with analysts, leaders, and business stakeholders to understand business needs, define analytical requirements, and develop effective solutions
+
+•
+Assist with the design and development of Power BI dashboards and other self-service analytics capabilities
+
+•
+Explore opportunities to leverage AI, automation, and emerging technologies to improve analytical processes, generate insights, and increase efficiency
+
+•
+Support data quality and governance activities to improve the consistency, reliability, documentation, and usability of operational data and metrics
+
+•
+Research and evaluate opportunities to standardize, simplify, or automate recurring analytical and reporting needs
+
+•
+Develop presentations, visualizations, and analytical storytelling that clearly communicate findings to technical and non-technical audiences
+
+•
+Participate in cross-functional projects and team initiatives supporting the continued evolution of Consumer Lending analytics capabilities
+
+•
+Must be pursuing a degree from an accredited college or university
+
+•
+Strong analytical and problem-solving skills with the ability to evaluate information, identify patterns, and draw logical conclusions
+
+•
+Ability to translate data and analysis into clear insights, recommendations, and business-focused outcomes
+
+•
+Effective verbal and written communication skills, including the ability to communicate complex information clearly
+
+•
+Strong attention to detail with a focus on accuracy, quality, and validation of analytical work
+
+•
+Ability to work collaboratively with team members, business partners, and stakeholders
+
+•
+Demonstrated curiosity, initiative, and willingness to learn new analytical tools, technologies, and business concepts
+
+•
+Ability to manage multiple priorities, organize work effectively, and deliver assignments within established timelines
+
+•
+Familiarity with data analysis, data visualization, or business intelligence concepts
+
+•
+Experience with or exposure to analytical tools such as Power BI, Tableau, SQL, Python, R, Excel, or similar technologies
+
+Desired Qualifications
+
+•
+Proficiency with Microsoft Excel and PowerPoint, including the ability to organize, analyze, visualize, and communicate information effectively
+
+•
+Interest in artificial intelligence, automation, emerging technologies, and their application to business and analytics
+
+•
+Strong data storytelling and visualization skills with an ability to communicate insights clearly to varied audiences
+
+•
+Experience working with large or complex datasets and performing exploratory data analysis
+
+•
+Familiarity with data governance, data quality, or self-service analytics concepts
+
+•
+Demonstrated creativity and curiosity in approaching ambiguous or complex business problems
+
+•
+Ability to independently explore a problem, develop potential solutions, and seek feedback to refine an approach
+
+•
+Interest in financial services, consumer lending, operational analytics, or business intelligence
+
+Additional Information
+
+Hours:
+
+•
+Monday - Friday, 8:00 AM - 4:30 PM
+
+Locations:
+
+• 820 Follin Lane, Vienna, VA 22180
+
+• 5510 Heritage Oaks Drive, Pensacola, FL 32526
+
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+
+Our approach to careers is simple yet powerful: Make our mission your passion.
+
+• FORTUNE 100 Best Companies to Work For® 2025
+
+• Yello and WayUp Top 100 Internship Programs
+
+• Computerworld® Best Places to Work in IT
+
+• Newsweek Most Loved Workplaces
+
+• 2025 PEOPLE® Companies That Care
+
+• Newsweek Most Trustworthy Companies in America
+
+• Military Times 2025 Best for Vets Employers
+
+• Best Companies for Latinos to Work for 2025
+
+• Forbes® 2025 America’s Best Large Employers
+
+• Forbes® 2025 America's Best Employers for New Grads
+
+• Forbes® 2025 America's Best Employers for Tech Workers
+
+• 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+
+• Military.com Top Military Spouse Employers 2025
+
+• 2025 Handshake Early Talent Award
+
+From Fortune . ©2025 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot provide any information on job postings or application status.
+
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.
+
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn, Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or personal financial information during the hiring process.
+
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

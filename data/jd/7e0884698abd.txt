@@ -1,0 +1,75 @@
+Kensho is S&P Global’s hub for AI innovation and transformation. With expertise in machine learning, natural language processing, and data discovery, we develop and deploy novel solutions to innovate and drive progress at S&P Global and its customers worldwide. Kensho's solutions and research focus on business and financial generative AI applications, agents, data retrieval APIs, data extraction, and much more.
+
+At Kensho, we hire talented people and give them the autonomy and support needed to build amazing technology and products. We collaborate using our teammates' diverse perspectives to solve hard problems. Our communication with one another is open, honest, and efficient. We dedicate time and resources to explore new ideas, but always rooted in engineering best practices. As a result, we can innovate rapidly to produce technology that is scalable, robust, and useful.
+
+Kensho is S&P Global’s hub for AI innovation and transformation. With expertise in Machine Learning and data discovery, we develop and deploy novel solutions for S&P Global and its customers worldwide. Our solutions help businesses harness the power of data and Artificial Intelligence to innovate and drive progress. Kensho's solutions and research focus on speech recognition, entity linking, document extraction, automated database linking, text classification, natural language processing, and more.
+
+There are intern opportunities across various teams for those exploring their careers as a Software Engineer at Kensho. While some teams develop our products and initiatives, others are responsible for building systems and frameworks that are leveraged engineering-wide. Regardless of which team is ultimately the right fit, you can expect to find common best practices, languages, and tooling, providing good long-term opportunities for career development.
+
+Are you looking to leverage your teammates' diverse perspectives to solve hard problems? If so, we would love to help you excel here at Kensho. You will be working on a team with experienced engineers and have an opportunity to learn and grow. We take pride in our team-based, tightly-knit startup Kenshin community that provides our employees with a collaborative, communicative environment that allows us to tackle the biggest challenges in data. In addition, as an intern you will have the opportunity to attend technical and non-technical discussions as well as company wide social events.
+
+We value in-person collaboration, therefore interns are required to work out of the Cambridge HQ or our New York City office!
+
+What You’ll Do:
+
+•
+Make an immediate impact by contributing to real features, gaining feedback via code review, merging to our codebase and deploying to our production environment
+
+•
+Learn and employ best practices such as static type checking, optimizing for legibility, code review, IaC, and following a maturity model for production-readiness
+
+•
+Leverage regularly sanctioned time (Knowledge Days!) across most teams for continuous learning and exploration beyond our day-to-day work
+
+Team-Specific Sampling:
+
+•
+Write server-side and user-facing applications built on top of our machine learning capabilities
+
+•
+Design interfaces, APIs, and services that address immediate needs with an eye for future scaling and reuse
+
+•
+Develop the right abstractions to enable observability & deployment to our core platform
+
+•
+Build data ingestion & processing for stand-alone software products and machine learning R&D
+
+What You'll Need:
+
+•
+At least one core expertise, such as distributed computing or deep knowledge of one of the technologies we use
+
+•
+Practical understanding of algorithms, data structures, and design patterns
+
+•
+Personal projects, open source contributions, or a portfolio of work
+
+•
+Versatility and adaptability to contribute across various teams and/or suite of products
+
+•
+Effective coding, documentation, and communication habits
+
+Technologies & Tools We Use:
+
+•
+Python, Django, Typescript, Airflow
+
+•
+Postgres, Elasticsearch, Kafka, Redis, Envoy
+
+•
+AWS, Docker, Kubernetes, Terraform
+
+•
+Git, Jenkins, Prometheus, Kibana, Grafana
+
+Interested to see what we're working on? Check out our blog: https://blog.kensho.com/
+
+Recruitment Fraud Alert:
+
+If you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com . S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here .
+
+We are an equal opportunity employer that welcomes future Kenshins with all experiences and perspectives. Kensho is headquartered in Cambridge, MA, with an additional office location in New York City. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.

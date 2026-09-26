@@ -1,0 +1,165 @@
+Digital Payments is part of the Savings & Membership Department. Our vision is to provide personalized, scalable, and secure money movement experiences that exceed members' evolving payment expectations.
+
+We are seeking a motivated, analytical Summer Associate to join the Digital Payments Analytics team. In this role, you will use data science and business intelligence techniques to solve real business problems across non-card money movement products such as ACH, Zelle, Real-Time Payments (RTP), FedNow, member-to-member transfers, wires, Bill Pay, and cross-border payments. You will partner with analysts and business stakeholders to turn complex data into clear insights, recommendations, and decision-support tools.
+
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027. Students will work on impactful projects and meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university and have an anticipated graduation date of December 2027 or later.
+
+What you May Work On
+
+•
+Analyze member adoption, engagement, transaction flows, and movement of funds across non-card payment products and channels.
+
+•
+Examine the member payment journey, including when members first adopt a payment product and how their usage changes over time.
+
+•
+Evaluate how members use payment products together and identify shifts in behavior across established and emerging payment options.
+
+•
+Develop analytical models that help identify opportunities to improve product adoption and member experiences.
+
+•
+Build dashboards and visualizations that make payment performance and emerging trends easier to understand.
+
+•
+Apply statistical methods to large datasets to support product strategy and business decisions.
+
+•
+Assess how payment behavior affects member experience, operational efficiency, product economics, and risk.
+
+•
+Translate analytical findings into practical recommendations for business stakeholders and leadership.
+
+Responsibilities
+
+•
+Collaborate with cross-functional partners to understand business questions and define analytical approaches.
+
+•
+Clean, prepare, and explore large member and transaction datasets.
+
+•
+Write efficient code in Python and SQL and use platforms such as Databricks to analyze large datasets and support repeatable analytics.
+
+•
+Use Microsoft Copilot and other approved AI tools to support research, coding, analysis, documentation, and the development of business insights, with appropriate validation of AI-generated outputs.
+
+•
+Develop dashboards and visualizations using tools such as Microsoft Power BI or Tableau.
+
+•
+Apply statistical, predictive, or prescriptive methods to identify patterns and opportunities.
+
+•
+Document methods, assumptions, and findings clearly.
+
+•
+Present insights and recommendations to technical and nontechnical audiences.
+
+•
+Currently pursuing a bachelor's or master's degree in Data Science, Computer Science, Statistics, Mathematics, Business Analytics, Engineering, or a closely related field.
+
+•
+Experience using Python, R, and/or SQL for data preparation and analysis.
+
+•
+Experience with exploratory data analysis and working with large or complex datasets.
+
+•
+Familiarity with data visualization or business intelligence tools such as Microsoft Power BI or Tableau.
+
+•
+Strong analytical, problem-solving, communication, and collaboration skills.
+
+•
+Ability to connect analytical findings to business questions and explain results clearly.
+
+Desired Qualifications
+
+•
+Coursework or experience in statistics, machine learning, predictive analytics, or optimization.
+
+•
+Experience with Spark, Databricks, cloud analytics platforms, or version control tools such as GitHub.
+
+•
+Interest in digital payments, financial services, consumer behavior, or product analytics.
+
+•
+Experience developing concise presentations or data stories for business audiences.
+
+What You'll Gain
+
+•
+Hands-on experience applying data science and analytics to real digital payment challenges.
+
+•
+Exposure to enterprise data, business intelligence tools, and cross-functional product teams.
+
+•
+Mentorship from experienced analytics and business professionals.
+
+•
+Opportunities to strengthen data storytelling and present your work to leadership.
+
+•
+A practical understanding of how analytics informs member experience and product decisions.
+
+Additional Information
+
+Hours:
+
+•
+Monday – Friday, 8:00AM - 4:30 PM CT
+
+Locations:
+
+•
+820 Follin Lane, Vienna, VA 22180
+
+•
+5550 Heritage Oaks Dr Pensacola, FL 32526
+
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+
+Our approach to careers is simple yet powerful: Make our mission your passion.
+
+• FORTUNE 100 Best Companies to Work For® 2025
+
+• Yello and WayUp Top 100 Internship Programs
+
+• Computerworld® Best Places to Work in IT
+
+• Newsweek Most Loved Workplaces
+
+• 2025 PEOPLE® Companies That Care
+
+• Newsweek Most Trustworthy Companies in America
+
+• Military Times 2025 Best for Vets Employers
+
+• Best Companies for Latinos to Work for 2025
+
+• Forbes® 2025 America’s Best Large Employers
+
+• Forbes® 2025 America's Best Employers for New Grads
+
+• Forbes® 2025 America's Best Employers for Tech Workers
+
+• 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+
+• Military.com Top Military Spouse Employers 2025
+
+• 2025 Handshake Early Talent Award
+
+From Fortune . ©2025 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot provide any information on job postings or application status.
+
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.
+
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn, Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or personal financial information during the hiring process.
+
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

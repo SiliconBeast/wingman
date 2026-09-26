@@ -1,0 +1,78 @@
+Date Posted:
+2026-09-08&#xa;&#xa;
+Country:
+United States of America&#xa;&#xa;
+Location:
+US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02&#xa;&#xa;
+Position Role Type:
+Onsite&#xa;&#xa;
+U.S. Citizen, U.S. Person, or Immigration Status Requirements:
+Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​&#xa;&#xa;
+Security Clearance Type:
+DoD Clearance: Secret&#xa;&#xa;
+Security Clearance Status:
+Ability to obtain INTERIM U.S. government issued security clearance is required prior to start date
+
+Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in the industry? At RTX , our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and create a safer, more connected world. Discover opportunities to make a difference at RTX.
+
+At Raytheon , The Effector Digital Products (EDP) department develops electronics for our weapon system products. We engage at the outset of the weapon system development and follow our designs through deployment. Our products are deployed all over the world, from the ground to exoatmospheric environments and into space. We are responsible for the architecture, design, and documentation of deliverable FPGA embedded processing at Raytheon.
+
+The Digital Design Engineer in the Effector Digital Products department designs digital electronic circuit cards and electronic units, which are supported from proposal through transition to production. Our systems are subject to environments ranging from the frigid, sub-zero vacuum of space, to the blistering heat of the desert floor, to the high pressures of the ocean depths. We are seeking electrical engineer interns willing to collaborate, innovate, and team with our engineers to generate and utilize today’s cutting-edge technology to design digital electronic circuits that implement missile guidance, video and digital signal processing. Our technology base includes high-speed digital electronics, configurable logic, and homogeneous / heterogeneous multiprocessor designs.
+
+What You Will Do:
+
+• Hardware Design : Assisting in the design of digital circuits for use in missile systems or other effector products, focusing on components like field-programmable gate arrays (FPGAs), application-specific integrated circuits (ASICs), and embedded processors.
+
+• System Integration : Supporting the integration of digital hardware with other system components, such as software, sensors, and analog systems, to ensure seamless operation.
+
+• Testing and Validation : Conducting laboratory testing and validation of digital designs, including signal integrity analysis, timing analysis, and debugging hardware issues.
+
+• Collaboration : Working closely with multidisciplinary teams to ensure design requirements are met and the final product performs as intended.
+
+• Documentation and Reporting : Preparing design documentation, test plans, and validation reports to communicate progress and ensure compliance with technical and program requirements.
+
+• Mentorship and Skill Development : Participating in mentorship opportunities and training to enhance technical expertise and understanding of the defense industry's unique challenges.
+
+Qualifications You Must Have:
+
+• Must be pursuing Bachelor’s or Advanced degree in Electrical or related Science, Technology, Engineering or Mathematics (STEM) major and actively enrolled through the completion of the internship/co-op session.
+
+• Must have a minimum of 60 hours of credit by the start of the internship / co-op session.
+
+• Coursework in one or more of the following areas: circuit design, digital electronics, lab course work, PCB design and signal integrity.
+
+Qualifications We Prefer:
+
+• Class projects, professional internships, or academic research demonstrating the ability to apply technical coursework.
+
+• Self-motivated problem solver with a positive attitude and willingness to learn.
+
+What We Offer:
+
+• Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.
+
+• Relocation Eligibility
+
+Learn More & Apply Now!
+
+Please consider the following role type definition as you apply for this role.
+
+• Onsite : Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.
+
+As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.
+
+The salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.
+
+Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+
+This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+
+RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.
+
+Privacy Policy and Terms:
+
+Click on this link to read the Policy and Terms

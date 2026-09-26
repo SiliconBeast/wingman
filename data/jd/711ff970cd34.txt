@@ -1,0 +1,99 @@
+The Fraud Data Engineering team, within the Fraud & Global Security Division, delivers reliable, scalable, and secure data solutions that power fraud detection, prevention, analytics, and decision-making across Navy Federal Credit Union. Our mission is to enable data-driven fraud strategies by providing high-quality data, modern data platforms, and engineering solutions that support Fraud Operations, Fraud Strategy & Reporting, Fraud Detection, Fraud Data Science and Machine Learning models & Fraud Investigation teams.
+
+The Summer Associate will provide analytical and technical support to the Fraud Data Engineering team by assisting with data integration, data quality, analytics, and platform modernization initiatives. The intern will gain hands-on experience working with large-scale fraud datasets, cloud technologies, and modern data engineering tools used to support critical fraud prevention and detection activities.
+
+Potential Summer Associate projects may include:
+
+• Assist in data readiness for AI use by supporting transformation, data quality, and accessibility efforts that enable AI and machine learning solutions.
+
+• Collaborate with Data Engineers, Data Scientists, Fraud Analysts, and business stakeholders on data-driven projects.
+
+• Collaborate with cross-functional teams to understand business challenges and translate them into data-driven solutions.
+
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027 Students will work on impactful projects and meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university and have an anticipated graduation date of December 2027 or later.
+
+• Collaborate with engineers, analysts, and business partners to gather requirements and deliver solutions.
+
+• Assist in creating business requirement documents, build STTMs, testing, and validating the fraud and security-related data.
+
+• Enable real-time and batch data integration across enterprise systems and external fraud data providers.
+
+• Support fraud business teams with timely, accurate, and actionable data solutions.
+
+• Analyze data to identify quality issues, trends, and opportunities for improving operational efficiency.
+
+• Document technical processes, data flows, and engineering solutions.
+
+• Participate in Agile team activities, including planning sessions, standups, and project reviews.
+
+• Contribute to the development of Databricks Notebooks, enhance UAT testing & data validation framework.
+
+• Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Engineering, Data Science, Information Systems, Software Engineering, Analytics, or a related field.
+
+• Experience with programming languages such as Python, SQL, Scala, Java, or similar technologies.
+
+• Familiarity with relational databases, data warehousing concepts, and data modeling.
+
+• Basic understanding of ETL/ELT processes and data integration concepts.
+
+• Strong analytical and problem-solving skills with the ability to work with large and complex datasets.
+
+• Knowledge of cloud platforms (Azure, AWS, or GCP) is preferred.
+
+• Familiarity with big data technologies such as Databricks, Spark, Kafka, or Hadoop is a plus.
+
+• Strong communication, collaboration, and technical presentation skills.
+
+Additional Information
+
+Hours:
+
+• Monday – Friday, 8:00 AM – 4:30 PM
+
+Location :
+
+• 820 Follin Lane SE, Vienna, VA 22180
+
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+
+Our approach to careers is simple yet powerful: Make our mission your passion.
+
+• FORTUNE 100 Best Companies to Work For® 2025
+
+• Yello and WayUp Top 100 Internship Programs
+
+• Computerworld® Best Places to Work in IT
+
+• Newsweek Most Loved Workplaces
+
+• 2025 PEOPLE® Companies That Care
+
+• Newsweek Most Trustworthy Companies in America
+
+• Military Times 2025 Best for Vets Employers
+
+• Best Companies for Latinos to Work for 2025
+
+• Forbes® 2025 America’s Best Large Employers
+
+• Forbes® 2025 America's Best Employers for New Grads
+
+• Forbes® 2025 America's Best Employers for Tech Workers
+
+• 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+
+• Military.com Top Military Spouse Employers 2025
+
+• 2025 Handshake Early Talent Award
+
+From Fortune . ©2025 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot provide any information on job postings or application status.
+
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.
+
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn, Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or personal financial information during the hiring process.
+
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

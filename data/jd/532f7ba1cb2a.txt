@@ -1,0 +1,75 @@
+The Cigna Group’s Technology Development Program (TECDP) Generative AI Summer Internship
+
+Get ready to embark on an exhilarating summer adventure with The Cigna Group’s Technology Development Program Summer Internship! We are on the lookout for passionate individuals who are eager to dive into the world of technology and make a real difference in healthcare.
+
+Over the course of 12 dynamic weeks, you’ll have the chance to work on impactful technology projects, receive comprehensive training, and benefit from invaluable mentorship that will supercharge your career.
+
+What You Will Do
+
+• Meaningful Work: Contribute within the Artificial Intelligence track by building impactful technical solutions that drive innovation across The Cigna Group while strengthening your real-world skills.
+
+• Learn by Collaborating: Learn by doing alongside peers, mentors, and cross-functional partners through hands-on projects, recruiting support, innovation efforts, community initiatives, and onboarding experiences.
+
+• Structured Learning: Grow through a blend of core and track-specific curriculum, including technical training, leadership development, and business exposure to support your development as a well-rounded technologist.
+
+• Community & Connection: Build strong relationships across the organization through networking, mentorship, cross-functional collaboration, and informal peer engagement that support both personal and professional growth.
+
+Qualifications
+
+What you need to do the job:
+
+• Must be currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, or a related field, with a strong emphasis on machine learning methodologies and applications.
+
+• Foundational understanding of machine learning concepts, including supervised and unsupervised learning techniques, with experience applying them through coursework, projects, research, or prior experience.
+
+• Working knowledge of Python and exposure to machine learning or generative AI libraries and frameworks such as Scikit-Learn, TensorFlow, Keras, PyTorch, Hugging Face, or similar tools.
+
+• Experience in data preprocessing, feature engineering, and data visualization using tools such as Pandas, NumPy, and Matplotlib to prepare data sets for model training.
+
+• Exposure to model evaluation, prompt design, retrieval-augmented generation, large language models, or responsible AI practices through coursework, projects, research, or prior experience is preferred.
+
+• Familiarity with big data technologies and platforms such as Apache Spark or Hadoop is a plus.
+
+• Excellent analytical and problem-solving abilities, with the capacity to translate complex data into actionable insights through machine learning applications.
+
+• Strong communication skills to convey technical concepts and findings to nontechnical audiences and foster collaboration across teams.
+
+• A proactive attitude toward continuous learning and staying current on machine learning and artificial intelligence technologies.
+
+• A GPA of 3.3 or higher is preferred.
+
+Additional Information
+
+Locations: The role requires a hybrid work schedule, with a minimum of three days per week working onsite (Tuesday, Wednesday, and one additional day of the employee’s choice), and the option to work the remaining days remotely. Employees must be able to meet the onsite schedule.
+
+Program Schedule: You must be available to work a 40-hour work week beginning May 24th, 2027. Working days are Monday – Friday.
+
+Compensation: The anticipated hourly pay range for this role is $25.00 to $33.00 per hour. Actual compensation will be determined based on factors such as skills, education, experience, and location.
+
+Work Authorization / Visa Sponsorship: One goal of this leadership development program is to prepare and identify qualified candidates for leadership roles with The Cigna Group upon program completion. Therefore, this position is open only to individuals who are eligible for employment in the United States and who do not now, or in the future, require visa sponsorship including, but not limited to, H-1B, CPT/OPT/STEM.
+
+Pre-Employment Requirements: Selected candidates will be required to complete mandatory pre-employment tasks approximately 45 days prior to the program’s start date. Completion of the drug test requires availability within the United States during this timeframe.
+
+Equal Employment Opportunity & Pay Transparency
+
+The Cigna Group is an Equal Opportunity Employer. We are committed to building a diverse, inclusive, and equitable workforce. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, gender identity or expression), age, national origin, ancestry, disability, protected veteran status, genetic information, or any other protected characteristic as defined by applicable federal, state, or local laws.
+
+The Cigna Group complies with applicable federal, state, and local laws governing nondiscrimination in employment and provides reasonable accommodations to applicants with disabilities throughout the hiring process.
+
+Pay Transparency Notice: In accordance with applicable state and local pay transparency laws, the anticipated hourly pay range for this role is $25.00 – $33.00 per hour. Actual compensation will be determined based on relevant factors such as skills, education, experience, and location, and may vary from the stated range.
+
+If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.
+
+If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.
+
+About The Cigna Group
+
+Doing something meaningful starts with a simple decision, a commitment to changing lives. At The Cigna Group, we’re dedicated to improving the health and vitality of those we serve. Through our divisions Cigna Healthcare and Evernorth Health Services, we are committed to enhancing the lives of our clients, customers and patients. Join us in driving growth and improving lives.
+
+Qualified applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal employment opportunity laws.
+
+If you need a reasonable accommodation to complete the online application process, please email seeyourself@thecignagroup.com for assistance. Please note that this email inbox is dedicated to accommodation requests only and cannot provide application updates or accept resumes.
+
+The Cigna Group has a tobacco-free policy and reserves the right not to hire tobacco/nicotine users in states where that is legally permissible. Candidates in such states who use tobacco/nicotine will not be considered for employment unless they enter a qualifying smoking cessation program prior to the start of their employment. These states include: Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Ohio, Pennsylvania, Texas, Utah, Vermont, and Washington State.
+
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal, state and local ordinances.

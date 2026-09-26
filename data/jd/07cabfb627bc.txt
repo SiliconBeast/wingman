@@ -1,0 +1,58 @@
+Let’s search for your next career at TEL. Use the form below to search our current opportunities and then apply. Please consider joining our Talent Community so that we may continue to engage with you.
+
+Job Description
+
+Summer 2027 Internship
+
+Duration: Monday, May 17th- August 20th, 2027
+
+Location: Austin, TX
+
+What You Can Expect:
+
+• Meaningful Project Work : Every Intern is assigned a project that delivers value to the business.
+
+• Lean Thinking: Interns are expected to apply Lean principles and continuous improvement thinking throughout their project work; Lean training and resources will be provided.
+
+• Our Goal is to provide interns with meaningful, hands-on experiences that contribute to business objectives while supporting their professional developmen t
+
+We are seeking a highly motivated and experienced data engineer intern to join our data platform and analytics team. Responsibilities include developing and maintaining data products to feed business intelligence tools, while collaborating with data and business teams to source and transform data for their needs. Ideal individual is someone who can build creative solutions for business demand.
+
+Responsibilities:
+
+• Collaborate with data and business teams to deliver data products across the organization (specifically supply chain operations).
+
+• Work closely with business to develop focused data strategy for scalable and long-term data platform/architecture.
+
+• Perform data analysis involved to troubleshoot data related issues and/or aid in resolution of data issues.
+
+• Create feature branches; write unit, integration, and quality assurance tests via pull requests.
+
+• Run and monitor orchestration flows and troubleshoot failures.
+
+• Create and maintain data pipelines as needed.
+
+Education/Experience:
+
+• Pursuing a Bachelor's degree, Master's Degree or PhD with a focus in Computer Science or related field of study
+
+• Preferred tools/Languages: Prefect, Snowflake, Azure DevOps, Azure Pipelines, Microsoft CRM, Astronomer, Spark, Git, DBT, PowerBI, Tableau, Python, SQL.
+
+Qualifications/Skills:
+
+• Knowledge of best practices and IT operations
+
+• Experience with or knowledge of Agile Software Development methodologies
+
+• Experience in DevOps and basic project development lifecycle.
+
+• Excellent problem solving and troubleshooting skills.
+
+• Process oriented with great documentation skills.
+
+• Exceptional oral and written communication skills.
+
+Diversity creates an innovative culture. TEL US is an Equal Employment Opportunity / Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+Subsidiary
+TOKYO ELECTRON U.S.HOLDINGS, INC.

@@ -1,0 +1,114 @@
+Job Description
+
+The Future Talent Program features internships that last up to 12 weeks and will include one or more projects. These opportunities in our Research and Development Division can provide you with great development and a chance to see if we are the right company for your long-term goals.
+
+NDS, Non-Clinical Drug Safety, helps advance high-quality drug candidates into development by defining the non–clinical safety and selectivity of lead compounds. NDS employees evaluate Lead Op candidates and preclinical toxicity of drug development candidates, provide mechanistic understanding of drug-induced toxicity, and assess implications for human safety. NDS provides collaborative research in animal model development, veterinary medical and animal care, and research facility management. NDS also responds to regulatory questions in support of drug registration.
+
+Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity and teamwork of people like you. To this end, we strive to create an environment of mutual respect, encouragement and teamwork. As part of our global team, you’ll have the opportunity to collaborate with talented and dedicated colleagues while developing and expanding your career.
+
+Location: West Point, PA or Boston, MA
+
+Education:
+
+•
+Candidates should currently be enrolled in a minimum of a BS/BA in:applied math, computer science, chemistry, physics, computer engineering, biomedical engineering, or related disciplines.
+
+Preferred:
+
+•
+G.P.A of 3.0 or higher
+
+•
+Strong analytical and communication skills
+
+•
+Demonstrated ability to learn new technologies
+
+•
+Proficiency in Python and associated data science packages including pandas, numpy, scipy, and sk-learn
+
+•
+Familiarity with pythonic frameworks for UI and dashboard creation such as Streamlet, Dash, and Plotly
+
+•
+Hands-on experience analyzing multiple data types including discrete, continuous, and time-series data
+
+•
+Familiarity with structured and un-structured data sources
+
+•
+Familiarity with statistics, discrete math, and probabilistic modeling a plus
+
+•
+Familiarity with statistical learning methods, such as supervised and unsupervised modeling
+
+Required qualifications:
+
+Must be available for a period of 10-12 weeks, beginning May 2027.
+
+Please note that this position may be closed before the posted end date or may remain open longer, at the discretion of the company.
+
+Salary range:
+The salary range for this role is $39,108 through $111,111.
+
+FTP2027
+
+RL2027
+
+Required Skills:
+Clinical Research, Computer Science, Data Analysis, Database Management, Data Modeling Techniques, Data Science, Data Security, Data Structures, Pandas Python Library, Pharmacovigilance, Plotly, Probabilistic Modeling, Project Management, Python (Programming Language), Python Numpy, scikit-learn, SciPy, Software Proficiency, Statistical Inferences, Statistical Models, Statistics, Statsmodels, Time Series Analysis, Unstructured Data
+
+Preferred Skills:
+
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+US and Puerto Rico Residents Only:
+
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+
+As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:
+
+EEOC Know Your Rights
+
+EEOC GINA Supplement​
+
+We are proud to be a company that embraces the value of bringing together, talented, and committed people with diverse experiences, perspectives, skills and backgrounds. The fastest way to breakthrough innovation is when people with diverse ideas, broad experiences, backgrounds, and skills come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.
+
+Learn more about your rights, including under California, Colorado and other US State Acts
+
+San Francisco Residents Only: We will consider qualified applicants with arrest and conviction records for employment in compliance with the San Francisco Fair Chance Ordinance
+
+Los Angeles Residents Only: We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance
+
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status:
+Intern/Co-op (Fixed Term)
+
+Relocation:
+No relocation
+
+VISA Sponsorship:
+No
+
+Travel Requirements:
+No Travel Required
+
+Flexible Work Arrangements:
+Not Applicable
+
+Shift:
+1st - Day
+
+Valid Driving License:
+No
+
+Hazardous Material(s):
+N/A
+
+Job Posting End Date:
+10/9/2026
+*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.

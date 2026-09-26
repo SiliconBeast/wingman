@@ -1,0 +1,191 @@
+Job Description
+
+The Future Talent Program features internships that last up to 12 weeks and will include one or more projects. These opportunities in our Research and Development Division can provide you with great development and a chance to see if we are the right company for your long-term goals.
+
+Position Description
+
+Our Company's Research Lab’s Robotics and Workflow Data Capture (WDC) teams develop automated laboratory systems and digital technologies that allow scientists to generate high-quality research data efficiently and reliably. By combining laboratory automation with software solutions that capture, organize, and analyze scientific data, these teams reduce manual processes, improve workflow efficiency, and support research across multiple sites. Their work plays a critical role in accelerating scientific discovery and advancing the development of new medicines.
+
+The successful candidate will contribute to innovative projects focused on artificial intelligence, software development, and laboratory automation, helping to improve how automation workflows are created, documented, and supported across research sites. This internship provides an opportunity to work alongside automation engineers and data scientists while gaining hands-on experience with AI/LLM technologies, GitHub, programming, data analytics, and laboratory automation systems. The project will have a lasting impact by improving knowledge sharing, troubleshooting capabilities, and automation standardization across scientific laboratories.
+
+Overview
+The intern will support a cross-functional initiative between the Robotics and Workflow Data Capture teams focused on improving how laboratory automation software is developed, documented, and supported across research laboratories. The project will leverage programming, AI/LLM technologies, GitHub repositories, and automation data to develop an AI-enabled knowledge platform that helps scientists and engineers understand automation scripts, troubleshoot issues, and follow standardized scripting practices. The intern's work will contribute to improved knowledge sharing, faster problem resolution, enhanced onboarding, and greater consistency in automation workflows across sites.
+
+Primary Responsibilities
+
+•
+Collaborate with automation scientists and data science professionals across Robotics and Workflow Data Capture teams, as well as our cross-site scientific partners in Boston and South San Francisco.
+
+•
+Analyze existing automation scripts, documentation, and historical automation records to identify common development and troubleshooting patterns.
+
+•
+Develop and evaluate an AI-enabled knowledge repository that supports automation script understanding, troubleshooting, and workflow development.
+
+•
+Support integration of GitHub repositories, technical documentation, and automation records into a centralized knowledge platform
+
+•
+Assist in developing and optimizing tools and processes to improve automation error tracking, analysis, and resolution.
+
+•
+Create user guidance, technical documentation, and standardized best practices to support automation workflow scripting development and knowledge transfer
+
+•
+Prepare technical summaries and presentations of project findings.
+
+•
+Present project outcomes at the end-of-summer intern symposium.
+
+Education
+
+•
+Currently pursuing a Bachelor's degree in one of the following:
+
+•
+Data Science
+
+•
+Computer Science
+
+•
+Informatics
+
+•
+Biotechnology
+
+•
+Engineering
+
+•
+Related scientific discipline
+
+Required Skills
+
+•
+Strong Python and SQL programming skills, especially toward developing scripts, APIs, or lightweight applications
+
+•
+Working knowledge of C# or C/C++ through coursework, projects, research, or internships
+
+•
+Familiarity with git, GitHub, or other version control systems
+
+•
+Strong analytical and problem-solving skills
+
+•
+Strong written and verbal communication skills
+
+•
+Ability to organize technical information clearly
+
+•
+Ability to work independently and collaboratively with technical and non-technical team members
+
+Preferred Skills
+
+•
+Familiarity with LLMs and concepts like Retrieval-Augmented Generation, Knowledge Graphs, and Vector Databases
+
+•
+Interest in laboratory automation, robotics, or scientific software
+
+•
+Experience creating technical documentation, workflow diagrams, or user-facing guides
+
+•
+Interest in troubleshooting, debugging, and software quality practices
+
+Learning Opportunities
+
+The intern will gain exposure to:
+
+•
+Industry-level laboratory automation and digital technologies supporting pharmaceutical research.AI/LLM applications, knowledge management, and data-driven problem solving.
+
+•
+Software development, programming, GitHub, and technical documentation practices.
+
+•
+Automation troubleshooting and operational data analysis.
+
+•
+Supportive collaboration within cross-disciplinary teams
+
+•
+Professional communication and presentation skills.
+
+Expected Deliverables
+
+•
+Prototype AI-enabled knowledge platform for automation scripting and troubleshooting.
+
+•
+Standardized scripting guidance and knowledge management resources.
+
+•
+Enhancements to automation error tracking and analysis capabilities.
+
+•
+Final presentation and poster summarizing project objectives, methods, results, and impact.
+
+Please note that this position may be closed before the posted end date or may remain open longer, at the discretion of the company.
+
+Salary range:
+The salary range for this role is $39,108 through $111,111.
+
+FTP2027
+
+RL2027
+
+Required Skills:
+
+Preferred Skills:
+
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+US and Puerto Rico Residents Only:
+
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+
+As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:
+
+EEOC Know Your Rights
+
+EEOC GINA Supplement​
+
+We are proud to be a company that embraces the value of bringing together, talented, and committed people with diverse experiences, perspectives, skills and backgrounds. The fastest way to breakthrough innovation is when people with diverse ideas, broad experiences, backgrounds, and skills come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.
+
+Learn more about your rights, including under California, Colorado and other US State Acts
+
+San Francisco Residents Only: We will consider qualified applicants with arrest and conviction records for employment in compliance with the San Francisco Fair Chance Ordinance
+
+Los Angeles Residents Only: We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance
+
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status:
+Intern/Co-op (Fixed Term)
+
+Relocation:
+
+VISA Sponsorship:
+
+Travel Requirements:
+
+Flexible Work Arrangements:
+Not Applicable
+
+Shift:
+
+Valid Driving License:
+
+Hazardous Material(s):
+
+Job Posting End Date:
+10/9/2026
+*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.

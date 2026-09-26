@@ -1,0 +1,85 @@
+At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done your way while testing the limits of what’s possible and what’s next. We work hard to provide a culture where everyone feels supported, and our employees feel it—their votes helped us become one of Newsweek's Top 100 Global Most Loved Workplaces .
+
+We think of ourselves as the team behind the team, supporting the lifelong impact sports can have: the lessons in teamwork and dedication; the influence of inspiring coaches; and the opportunities to reach new heights. That’s why we help teams from all over the world see their game differently. Our products make it easier for coaches and athletes at any level to capture video, analyze data, share highlights and more.
+
+Ready to join us?
+
+Your Role
+
+We’re looking for Software Engineering interns to join us at Hudl’s headquarters in Lincoln, Nebraska. You’ll ship real code to our users, work alongside experienced engineers and cross-functional software teams, and learn what modern software development actually looks like.
+
+As a Software Engineer Intern, you’ll:
+
+• Contribute to real projects, deliver meaningful impact . You’ll contribute to features and tools used by coaches, athletes, and fans around the world, from platform improvements to new capabilities for our users.
+
+• Modern engineering practices . You’ll work across our tech stack using concepts like microservices architecture, CI/CD, and agentic AI workflows.
+
+• Receive mentorship and growth . You’ll learn from and work with experienced engineers and team members who are invested in your development through code reviews, design discussions, and hands-on guidance.
+
+Location
+
+Our priority is to hire product interns who have the ability to live in Lincoln, Nebraska for the 2027 summer . We’ll cover your housing costs. Need to travel to Lincoln? We'll cover that too.
+
+Must-Haves
+
+• A current student. We’re welcoming degree-seeking students in computer science, software engineering or computer engineering to join our team.
+
+• Enthusiastic . You’re eager to gain experience by shipping code to production (yeah, production) in a fast-paced environment.
+
+• Collaborative. You understand that the best software is built by teams, not individuals. You're ready to participate in design discussions, give and receive feedback on code reviews, and learn from your peers.
+
+• A continuous learner. Technology is always evolving, and so are you. You're curious and motivated to pick up new languages, frameworks, and skills, and you're excited about how AI is reshaping what it means to build software.
+
+Nice-to-Haves
+
+• Full-stack web applications . You’ll likely be working in C# / .NET and Javascript / React in this role. It can help if you have experience using these technologies.
+
+• Passionate . You take pride in your course projects, side projects and/or open source contributions.
+
+• Innovative . You hate the idea of being a cog in the machine. You want to own your features.
+
+Our Role
+
+• Ask you to make an impact. You're part of the team—that means you'll have real responsibilities. We want to hear what you think and see what you can do.
+
+• Provide an environment to help you succeed. We've invested in our offices, designing incredible spaces with our employees in mind. But even if you’re taking advantage of the opportunity to work remotely, we’ll provide you the tech you need to do your best work.
+
+• Develop your career. On top of working alongside some of the best professionals in the business and gaining real-world experience, we’ll give you extra opportunities like lunch-and-learns and access to curated libraries to round out your internship.
+
+• Support your wellbeing. You’ll have an entire team on your side to give advice and provide answers to your questions, plus more resources like topic-specific Slack channels and employee resource groups. In short, we have you covered.
+
+Hiring Timeline
+
+We believe in a transparent and efficient hiring process, and we value the time and effort you invest in this process. We’re committed to keeping you informed along the way.
+
+• Sept. 10: Applications open
+
+• Oct. 1: Applications close and application reviews begin
+
+• Oct. 5–23: First round interviews
+
+• Oct. 6–28: Coding assessments are sent and reviewed
+
+• Oct. 12–Nov. 6: Final interviews
+
+• Nov. 20: Offers are sent
+
+Compensation
+
+The hourly pay range for this role is set by a candidate’s year in school, and will be determined by their academic standing at the start of the internship.
+
+Base Hourly Range
+
+$30 — $31 USD
+
+Inclusion at Hudl
+
+Hudl is an equal opportunity employer. Through our actions, behaviors and attitude, we’ll create an environment where everyone, no matter their differences, feels like they belong.
+
+We offer resources to ensure our employees feel safe bringing their authentic selves to work, including employee resource groups and communities . But we recognize there’s ongoing work to be done, which is why we track our efforts and commitments in annual inclusion reports .
+
+We also know imposter syndrome is real and the confidence gap can get in the way of meeting spectacular candidates. Please don’t hesitate to apply—we’d love to hear from you.
+
+Privacy Policy
+
+Hudl Applicant and Candidate Privacy Policy

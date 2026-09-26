@@ -1,0 +1,129 @@
+Why USAA?
+
+At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families.
+
+Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful.
+
+The Opportunity
+
+Our internship program lets you showcase your skills, while gaining real-life experience that’ll help you jump-start your career. Throughout the internship, you'll participate in professional development opportunities, networking events, mentorship programs, and team-based projects designed to help prepare you for a successful career in technology. Our interns deliver innovative solutions to real business challenges, while building enduring relationships in a collaborative culture with their manager and an assigned mentor.
+
+This position is based in San Antonio, TX, Plano, TX, Phoenix, AZ.
+
+What you'll do:
+
+Software Engineer Intern: You will have the opportunity to explore how modern applications are developed using Agile methodologies, cloud technologies, APIs, and full-stack engineering practices. You'll contribute to meaningful projects that enhance operational efficiency, strengthen platform reliability, and support modernization efforts across the organization. Under direct supervision and with guidance from senior engineers and your mentor, your day will involve supporting your team in various tasks. You will participate in daily stand-up meetings to understand project progress and team objectives. You may be involved in capturing and analyzing requirements, assisting with the design of software components, writing and testing code for specific features or bug fixes, and helping to document technical solutions. You will participate in code and design reviews, learning best practices and gaining exposure to real-world development processes. You might also assist in responding to production issues or outages, contributing to problem resolution under guidance. The work will be aligned with USAA's technology strategy, potentially involving the use of AI tools and automation to enhance efficiency.
+
+Primary Responsibilities:
+
+• Collaborate with senior engineers to design, develop, code, and test technical solutions.
+
+• Participate in code and design reviews to understand development standards and best practices.
+
+• Assist in capturing and analyzing requirements for software projects.
+
+• Contribute to the testing and implementation phases of the software development lifecycle.
+
+• Support the resolution of production issues and respond to outages under supervision.
+
+• Help organize work to deliver features and solutions.
+
+• Learn and apply knowledge of AI tools and automation strategies to improve efficiency.
+
+• Create and maintain documentation for technical solutions.
+
+• Gain exposure to Agile methodologies and team collaboration.
+
+Data Engineer Intern: You will have the opportunity to gain hands-on experience working with modern data platforms, cloud technologies, data pipelines, and analytical tools while partnering with experienced engineers and technology leaders. You will have the opportunity to explore how data is collected, transformed, governed, and leveraged to solve business challenges and drive strategic outcomes. You'll contribute to meaningful projects that support reporting, analytics, and enterprise data initiatives while developing foundational data engineering skills. Under direct supervision and with guidance from your mentor and senior team members, your day will involve supporting the development and maintenance of data pipelines. You will participate in team meetings, such as daily stand-ups, to align on project goals. You may assist in capturing business requirements, designing data models, writing and testing code for data pipelines (e.g., using Python or SQL), and deploying these pipelines. You will learn about data quality, data lineage, and data profiling practices. Your tasks might include monitoring data pipeline execution, assisting with troubleshooting and resolving failures, and participating in design and code review sessions. You'll also learn to leverage AI tools and automation strategies to enhance data processes.
+
+Primary Responsibilities:
+
+• Understand business data needs.
+
+• Support the design, development, writing, testing, and deployment of data pipeline code.
+
+• Learn about data management principles, including metadata management, data quality, and data lineage.
+
+• Participate in design and code review sessions for data engineering solutions.
+
+• Assist in troubleshooting and resolving failures in data pipelines.
+
+• Monitor the execution of data pipelines in the production environment.
+
+• Contribute to projects aligned with USAA's EDDT Technology Strategy.
+
+• Learn and apply AI tools and automation strategies to improve efficiency and performance.
+
+• Create and maintain documentation for technical solutions.
+
+• Gain exposure to Agile ceremonies like daily standups.
+
+What you need to have:
+
+To qualify, you must be pursuing a degree from an accredited college or university, and plan to graduate after the final day of the internship. Most of our interns participate in the summer between their junior and senior years. Our 2027 internship will start on June 2nd, 2027 and last through August 13, 2027.
+
+• Currently pursuing a Bachelor's or Master's degree in Computer Science, Computer Engineering, Software Engineering, or a related technical field.
+
+• Anticipated graduation date between September 2027 and May 2028 .
+
+• Foundational understanding of:
+
+• Java or object-oriented programming concepts
+
+• Python
+
+• Data structures and algorithms
+
+• Software development fundamentals
+
+• SQL and database concepts
+
+• Problem-solving and analytical thinking
+
+• Strong verbal and written communication skills.
+
+• Demonstrated leadership through coursework, projects, student organizations, employment, or community involvement.
+
+What sets you apart:
+
+• Experience with JavaScript, React, or modern web development frameworks.
+
+• Familiarity with REST APIs.
+
+• Exposure to Git or version control systems.
+
+• Exposure to AWS or other cloud technologies.
+
+• Exposure to Snowflake.
+
+• Coursework or project experience involving software development.
+
+• Understanding of Agile development concepts.
+
+• Familiarity with Git or version control tools.
+
+• Interest in AI-assisted development and emerging technologies.
+
+USAA may use artificial intelligence (AI) and other technology-enabled tools to support certain aspects of the recruitment process, including application screening, candidate assessment, candidate job matching, and recruiter workflows. These tools are intended to enhance efficiency, consistency, and the candidate experience throughout the hiring process. AI-generated outputs, assessments, and recommendations may be used as part of the recruitment and hiring process and may inform employment-related decisions. USAA is committed to equal opportunity in employment, the responsible use of AI, and compliance with applicable laws.
+
+USAA's Privacy terms govern USAA's collection and use of your personal information. USAA also uses a service provider to support this hiring experience. To learn more about how that service provider processes personal information, please review the Eightfold Privacy Notice .
+
+Compensation range: The salary range for this position is: $25 - $36 . Interns will receive an intern stipend to assist with expenses.
+
+USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).
+
+Information for Compensation and Benefits no longer need to be copied and pasted into OS as it is auto-populated when position is posted externally.
+
+USAA views its internship program as a pipeline to possible future employment. This is based on an individual’s graduation date, performance, role qualifications, and business need. To be considered for possible future employment opportunities interns must meet the full-time work eligibility requirements for any given role. Thus, interns should ensure their sponsorship status and other provided information is accurately reflected on their intern application. Inadequate completion of your application may render you ineligible for further consideration in the hiring process.
+
+Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the hourly range based on your experience and market data of the position. The actual hourly rate for this role may vary by location.
+
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+
+Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+
+Interns may not be eligible for all benefits, for more details on our outstanding benefits, please visit our benefits page on USAAjobs.com.
+
+Applications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus, interested candidates are encouraged to apply the same day they view this posting.
+
+USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

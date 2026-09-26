@@ -1,0 +1,71 @@
+Founded in 1999, Geneva Trading is a premier global principal trading firm with strategically located offices in Chicago, Dublin, and London. Our relentless focus on trading excellence combined with technological innovation has equipped us with a best-in-class proprietary trading platform, enabling us to compete at the highest levels in the global markets. Rooted in a culture of integrity, collaboration, and an unwavering passion for progress, we foster an environment of personal and professional excellence. Our nimble organizational structure and entrepreneurial spirit attract top-tier talent with a passion for innovation, laying the foundation and driving our consistent success in the industry.
+
+Quantitative Trading Internship – Summer 2027
+
+Location:  Chicago, IL |  Duration:  10 Weeks |  Start Date:  June 2027
+
+Launch Your Career in Quantitative Trading with Geneva Trading
+
+Are you a problem-solver with a passion for markets, data, and technology? Geneva Trading is seeking exceptional students to join our  Summer 2027 Quantitative Trading Internship Program . This is your opportunity to gain hands-on experience at a leading proprietary trading firm where innovation, collaboration, and performance drive everything we do.
+
+Over 10 fast-paced weeks, you’ll work on impactful projects, receive one-on-one mentorship, and develop the skills needed to thrive in the world of algorithmic trading. Our internship is a direct pipeline to full-time Quant Trading roles after graduation.
+
+What You’ll Do
+
+• Participate in an immersive training program focused on  kdb+/q , market microstructure, and trading strategy development.
+
+• Analyze and model trading opportunities using real-world data.
+
+• Build and enhance tools that drive trading decisions and risk management.
+
+• Collaborate with traders and technologists to solve complex, high-impact problems.
+
+• Present your work to senior leaders and receive actionable feedback.
+
+What We’re Looking For
+
+We welcome applications from students pursuing  Bachelor’s, Master’s, or PhD degrees  in:
+
+• Financial Engineering, Applied Mathematics, Computer Science, Physics, Statistics, or other STEM fields.
+
+Graduation Dates:  December 2027 – June 2028
+
+Required Skills
+
+• Strong programming skills in  Python  (or similar languages).
+
+• Solid understanding of  statistics ,  probability , and  optimization  techniques.
+
+• Exposure to  data analysis  tools (e.g., R, MATLAB, Pandas, NumPy).
+
+• Curiosity about  financial markets ,  algorithmic trading , and  market microstructure .
+
+• Ability to think critically and communicate complex ideas clearly.
+
+Preferred Extras
+
+• Experience with  kdb+/q , SQL, or other database technologies.
+
+• Participation in  trading competitions ,  math contests ,  competitive gaming , or  poker .
+
+• Familiarity with  machine learning  techniques such as regression, neural networks, or SVMs.
+
+Why Geneva Trading?
+
+• Impact from Day One:  Work on meaningful projects that influence trading decisions.
+
+• Mentorship & Learning:  Learn from experienced traders, quants, and technologists.
+
+• Culture of Excellence:  Join a collaborative, high-performance environment.
+
+• Career Path:  Top interns receive full-time offers to join our Quant Trading team after graduation.
+
+Compensation:
+
+Hourly Range: $55-65/hr
+
+The final hourly rate will be dependent on the successful candidate's skills, experience, education, and qualifications.
+
+Application expected to close: 12/23/2026
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
