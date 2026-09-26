@@ -1,0 +1,87 @@
+AI/ML Intern, #1092
+
+Clearance: US citizenship required. Must be able to obtain a public trust clearance or higher as required
+
+Dev Technology Group seeks talented rising juniors and seniors for our Summer 2027 Internship Program. Interns will be based out of our headquarters in Reston, Virginia. This is an excellent opportunity for those seeking professional experience in data science, artificial intelligence, machine learning, AI integration, and product development.
+
+What You'll Be Doing:  
+
+Dev interns will work on an advanced technology project in support of a government client, corporate operations, or research and development. This is an opportunity to improve software development, AI, and data outcomes, and observe and participate in many aspects of an Agile software development project. Interns will also work on a technical intern project with the rest of the internship team. 
+
+• Practice Agile methodology by attending all Scrum-related meetings, such as daily stand-ups, weekly sprint planning, and weekly retros
+
+• Develop solutions using modern data science, artificial intelligence, and machine learning practices
+
+• Analyze data and create visualizations to recognize meaningful trends in large datasets
+
+• Perform various lean-agile investigation methods, including root-cause analysis
+
+• Develop software in support of various data and AI objectives
+
+• Use a variety of modern software tooling
+
+• Work with fellow Summer Interns on a technically focused project and present the group's results to the executive team at the end of the program. Past projects have included creating a mentorship web application and planning a hack-a-thon
+
+• Write and maintain user guide documentation
+
+Required Skills and Experience:  
+
+• Rising juniors and seniors working toward a bachelor’s degree in Computational Science, Artificial Intelligence, Data Science, or Computer Science with a focus on AI 
+
+• Experience with Python, Jupyter Notebook, and associated data science libraries
+
+• The ability to work independently and in a team with developers, providing guidance and support
+
+• A desire to learn new skills, including self-study if needed  
+
+• The ability to follow through on tasks to completion
+
+• True enjoyment of technology, data, and the desire to contribute to a team’s output
+
+• Completed coursework in Java, Python, or other object-oriented, typed language
+
+• The ability to read through existing code with the support of a senior developer
+
+• Must be able to commute to the Reston, Virginia office a minimum of 2 days a week 
+
+Preferred Skills and Experience:  
+
+• Rising senior (strongly preferred)
+
+• Experience with implementing AI solutions using cloud-based or cloud-native tools
+
+• Experience with data cleansing
+
+• Experience with data architecture concepts and design  
+
+• Experience with TensorFlow, PyTorch, and related frameworks.
+
+Intern FAQ: https://devtechnology.com/wp-content/uploads/2026/08/Summer-Intern-FAQ-Document-Summer-2027.pdf
+
+Our estimated salary range for this position is $21-$30/hr. This presented salary range is not a guarantee of compensation or salary. Offered salary is based on experience, geographic location, and possibly contractual requirements as appropriate to the role. *Salary could fall outside of this range.
+
+Who We Are
+
+Dev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our client’s missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.
+
+As a Washington Post Top Workplace award winner for the past THIRTEEN years in a row, the Top Workplaces USA for the past five years, and a recipient of the Companies As Responsive Employers (CARE) Award for the past six years, Dev Technology employees enjoy:
+
+• Generous and flexible time-off policy
+
+• Flexible work schedules and telework options, including remote work availability for eligible projects
+
+• Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities
+
+• Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more
+
+• 401K matching with a 5% matching contribution
+
+• Regular team and company social events including our annual party, happy hours, fitness challenges, and more
+
+• A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts
+
+• To learn more about working at Dev Technology, visit Working At Dev Technology Group
+
+Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans
+
+Dev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MI, MN, MO, MS, NC, NJ, OH, OR, PA, SC, TN, TX, VA, WV.

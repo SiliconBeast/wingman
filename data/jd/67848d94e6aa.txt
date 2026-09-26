@@ -1,0 +1,99 @@
+Microsoft Power Platform/AI Intern, #1095
+
+Clearance: US citizenship required. Must be able to obtain a public trust clearance or higher as required
+
+Dev Technology Group seeks talented rising juniors and seniors for our Summer 2027 Internship Program. Interns will be based out of our headquarters in Reston, Virginia. This is an excellent opportunity for those seeking professional experience in software development, sysadmin, DevOps, or a related field.
+
+What You'll Be Doing:
+
+• Participate in Agile software delivery activities, including daily stand-ups, sprint planning, backlog refinement, demonstrations, and retrospectives.
+
+• Learn about government technology consulting and how Microsoft technologies are used to modernize business processes and support federal missions.
+
+• Build hands-on experience across the Microsoft ecosystem, including Microsoft 365, Power Platform, Azure, Copilot, and emerging AI capabilities .
+
+• Assist with the design and development of Power Apps, Power Automate workflows, SharePoint solutions, and other low-code applications based on business and client requirements.
+
+• Explore the use of Microsoft Copilot, Copilot Studio, AI Builder, Azure AI services, and generative AI to improve business processes and user experiences.
+
+• Gain exposure to AI agents and agentic workflows , including identifying appropriate use cases, prototyping solutions, and evaluating how AI can augment existing M365 and Power Platform applications.
+
+• Use AI-assisted development tools and modern development practices (including Dev Technology-specific capabilities) to accelerate prototyping, requirements analysis, application development, testing, and documentation.
+
+• Collaborate with technical teams, project managers, and business stakeholders to gather requirements, translate business needs into technical solutions, and participate in solution demonstrations .
+
+• Support ongoing client delivery activities such as solution development, testing, troubleshooting, documentation, research, administration, and platform governance .
+
+• Learn how enterprise Microsoft environments are managed, including concepts related to security, governance, application lifecycle management, environments, data protection, and responsible AI .
+
+• Research new Microsoft 365, Power Platform, Copilot, and Azure capabilities and help the Microsoft Practice evaluate their applicability to client challenges and internal solutions .
+
+• Apply structured problem-solving techniques to investigate technical issues, perform root-cause analysis, and recommend potential solutions.
+
+• Develop and maintain technical documentation, user guides, solution diagrams, demonstrations, and other client-facing materials .
+
+• Collaborate with fellow Summer Interns on a team-based technology project , progressing from problem definition and requirements through prototype development, testing, and demonstration.
+
+• Present the summer project's solution, technical approach, lessons learned, and potential business value to company leadership at the conclusion of the internship.
+
+Required Skills and Experience:
+
+• Rising juniors and seniors pursuing a bachelor’s degree in Computer Science, Information Technology, Information Systems, Data Science, Cybersecurity, Business Analytics, or another technology-related field
+
+• Demonstrated interest in Microsoft technologies, cloud computing, application development, automation, data, or artificial intelligence
+
+• Familiarity with one or more Microsoft technologies such as Microsoft 365, SharePoint, Teams, Power Platform, Power BI, Azure, or Microsoft Copilot
+
+• Exposure to application development, scripting, low-code development, data analysis, or automation through coursework, internships, projects, or independent learning
+
+• Coursework or hands-on experience with a programming or scripting language such as Python, JavaScript, C#, Java, or PowerShell
+
+• Interest in generative AI, AI-assisted development, intelligent agents, and emerging technologies , with a willingness to experiment with new tools and approaches
+
+• Strong analytical and problem-solving skills, with the ability to break down business or technical challenges and evaluate potential solutions
+
+• Ability to collaborate effectively with developers, project managers, business analysts, and other technical and non-technical team members
+
+• Strong written and verbal communication skills, including the ability to document work and present technical concepts to different audiences
+
+• Ability to work both independently and as part of an Agile, collaborative delivery team
+
+• Demonstrated curiosity, initiative, and willingness to learn new technologies through hands-on experimentation and self-directed learning
+
+• Ability to take ownership of assigned tasks and follow work through to completion
+
+• Must be able to commute to the Reston, Virginia office a minimum of two days per week
+
+Preferred Skills and Experience:
+
+• Rising senior (strongly preferred)
+
+Intern FAQ: https://devtechnology.com/wp-content/uploads/2026/08/Summer-Intern-FAQ-Document-Summer-2027.pdf
+
+Our estimated salary range for this position is $21-$30/hr. This presented salary range is not a guarantee of compensation or salary. Offered salary is based on experience, geographic location, and possibly contractual requirements as appropriate to the role. *Salary could fall outside of this range.
+
+Who We Are
+
+Dev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our client’s missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.
+
+As a Washington Post Top Workplace award winner for the past THIRTEEN years in a row, the Top Workplaces USA for the past five years, and a recipient of the Companies As Responsive Employers (CARE) Award for the past six years, Dev Technology employees enjoy:
+
+• Generous and flexible time-off policy
+
+• Flexible work schedules and telework options, including remote work availability for eligible projects
+
+• Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities
+
+• Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more
+
+• 401K matching with a 5% matching contribution
+
+• Regular team and company social events including our annual party, happy hours, fitness challenges, and more
+
+• A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts
+
+• To learn more about working at Dev Technology, visit Working At Dev Technology Group
+
+Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans
+
+Dev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MI, MN, MO, MS, NC, NJ, OH, OR, PA, SC, TN, TX, VA, WV.

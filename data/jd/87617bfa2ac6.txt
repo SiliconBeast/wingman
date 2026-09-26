@@ -1,0 +1,179 @@
+Closing Date: October 1, 2026
+
+Use your technical and problem-solving skills to help support our business clients with the many applications that they use. The British Columbia Investment Management Corporation (BCI) is currently seeking a Software Engineer Co-op/Intern to support our Investment Tech and D&A team and the team’s internal clients.
+
+WHAT YOU NEED TO KNOW
+
+BCI manages a globally diversified portfolio of assets valued at $313.7 billion and is one of Canada’s largest institutional investors. We invest globally to support pension and other funds for more than 30 clients based in British Columbia. We are proud to have been chosen as one of Canada’s Top 100 Employers and BC’s Top Employers . These national and provincial competitions recognize employers who offer exceptional workplaces for their employees.
+
+The Software Engineer Co-op/Intern will work within our Technology department. They will be responsible for assisting the team in planning and delivering complex information systems assignments to ensure assigned applications are operational, current, and aligned to the Corporation’s business needs. This is a great opportunity for you to learn and apply your knowledge to support a wide variety of applications used by our business clients.
+
+WHO YOU WILL WORK WITH
+
+The Technology department is responsible for developing technology solutions that contribute to the achievement of BCI’s mission and long-term goals. The department manages the Corporation’s business applications and information technology infrastructure, providing support to a large group of financial professionals. The department is also responsible for authoring technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services.
+
+The Investment Tech and D&A team works with other Technology teams as well as internal client departments and vendors to create configure, implement, and administer a portfolio of vendor and web-based applications.
+
+WHAT YOU WILL BE DOING
+
+•
+Provide analytical and programming support for the development of new applications, and enhancement of existing custom, hosted, and packaged applications
+
+•
+Perform day to day resolution tasks for problems that arise on complex systems on a variety of platforms
+
+•
+Research complicated problems; works with business representatives in defining design specifications and technical solutions, providing appropriate systems and/or business solutions
+
+•
+Present system solutions to clients, both verbally and by means of documentation to gain consensus for application enhancements and problem fixes
+
+•
+Translate user requirements into technical specifications
+
+•
+Identify system inadequacies and efficiencies and recommends improvements
+
+•
+Engage with vendors to address operational needs
+
+•
+Participate in the change control processes for software releases and application upgrades
+
+•
+Assist in the progression of systems changes through the application environments ensuring proper testing and approvals.
+
+•
+Documents changes to procedures, applications, and data stores using standard tools and templates
+
+•
+Conduct business analysis sessions with clients – translates business needs into technical specifications employing workflow diagrams, data analysis and joint application reviews
+
+•
+Develop support documentation such as operational support model and technical user guides.
+
+•
+Maintain support documentation and content into the application Jira and Confluence space repository
+
+•
+Participate in Kanban/Scrum to coordinate user stories and tasks in support of Product Owners
+
+•
+Provide or arrange training on new procedures and applications functionality
+
+•
+Support the team members in daily operational tasks and special projects or assignments
+
+REQUIRED SKILLS
+
+•
+University-level knowledge of related courses (e.g., computer science)
+
+•
+Analytical, problem solving and design experience, and expertise in the use of programming tools and techniques
+
+•
+Technical writing skills
+
+•
+Familiar with source control tools (e.g. Git)
+
+•
+Familiar with creating workflow diagrams and flowchart processes
+
+•
+Ability to use Excel, PowerPoint, Word, and Outlook
+
+•
+Experience supporting third-party products and hosted solutions is an asset
+
+•
+Familiar with Agile methodologies and processes is an asset
+
+•
+Knowledge of finance and capital markets is desirable
+
+•
+Team player who has the drive to continue learning, excel, and grow in a team oriented and dynamic environment
+
+•
+Ability to communicate clearly and concisely, both orally and in writing
+
+•
+Exhibit a high level of professionalism and excellent interpersonal skills
+
+•
+Strong relationship-building and customer service abilities, proactive, results oriented and resourceful
+
+•
+Ability to meet deadlines while maintaining accuracy, excellent product quality and attention to detail
+
+•
+Exhibit dedication to hard work, commitment to the highest ethical standards, and an eagerness to learn
+
+WHAT WE OFFER
+
+•
+Excellent career development and training provided by experienced IT professionals to help build current industry skills
+
+•
+Work with a dynamic team in a fast-paced environment
+
+•
+The development of real-world skills at one of the largest institutional investors in Canada
+
+•
+Exposure to some of the most talented, approachable, and inspiring people in the industry
+
+•
+The ability to opt-in for access to Dialogue, a user-friendly app that offers virtual primary care, employee and family services, and mental health supports
+
+•
+Time to connect with co-op students & interns at BCI – build your network and shared learning
+
+•
+2 paid days per year for volunteering
+
+•
+Competitive pay: $2,330.00 gross bi-weekly or $2,155.00 gross bi-weekly + vacation leave paid based on 6% of salary ($2,330.00 gross biweekly for those with (or working towards) a graduate degree and $2,155.00 gross biweekly for those with (or working towards) an undergraduate degree, diploma, or certificate)
+
+•
+Travel: if coming to Victoria for this work term, BCI will provide a fixed-rate travel allowance based on your location
+
+THE DETAILS
+
+•
+Work term: Winter 2027 (January to April) or Winter & Summer 2027 (January to August)
+
+•
+Department: Technology
+
+•
+Office Location: 750 Pandora Avenue, Victoria, BC or 666 Burrard St, Vancouver BC
+
+•
+All co-ops/internships will need to be completed in person at our Victoria or Vancouver office with the option to work one day per week from home. Please note, some positions are not eligible for hybrid work.
+
+HOW TO APPLY
+
+•
+Apply directly to the Investment Tech/Data & Analytics - Software Engineer Co-op/Internship posting on our careers page https://bci.wd10.myworkdayjobs.com/BCI_Careers
+
+•
+Application deadline: October 1, 2026 at 11:59pm PDT
+
+•
+Please upload a cover letter, resume, and transcripts (unofficial transcript will suffice)
+
+•
+Note: We welcome applications from all qualified candidates who are interested in applying for this role. You will need to be legally authorized to work in the country where this job is located. If you currently do not have authorization or if your work permit, study permit, or visa has restrictions or is due to expire during the work term, you may not be eligible for this opportunity.
+
+At BCI, we value diversity and believe in fostering an inclusive culture where all employees can be successful.
+
+We are performance and client focused and value integrity; if you share these values, we want to know you.
+
+We recognize that some skills can be learned on the job and encourage all to apply.
+
+If you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations), contact us at co-op@bci.ca .
+
+We would like to hear from you!

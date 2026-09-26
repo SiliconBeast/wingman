@@ -1,0 +1,45 @@
+Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems.
+
+Jump Trading has a global team of technologists who architect, build and maintain our world-class trading platform. From optimizing our core trading engine to building custom hardware, we leverage software & hardware engineering, sophisticated front-end technologies, data science and research, to deliver the infrastructure and tools that drive our trading and business needs.
+
+What You’ll Do:
+
+Our Web Dev / UI software engineering internship is an intensive 10-week experience at Jump Trading.
+
+During your internship, you will use advanced Typescript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform.
+
+Our internship program is the primary way we identify top young software engineers for our core development team, and it’s a proven path for earning full-time or return internship opportunities at Jump Trading in Chicago.
+
+You will take on projects working on production code and gain experience with our full-cycle process for development, testing, and release using Agile methodologies.
+
+Other duties as assigned or needed
+
+Skills You’ll Need:
+
+• Hands-on experience and a high level of proficiency in one or more of the following:
+
+• Web development using Python and Typescript
+
+• Python development on Linux platform
+
+• Strong understanding of data structures, algorithms, and threading models
+
+• Ability to work with a team in a fast-paced environment, deploying new software daily
+
+• Passion for solving complex problems and learning to build optimal solutions from scratch, instead of simply assembling things from existing libraries Interest in using knowledge from several areas -- such as hardware, networking, OS design -- to produce extremely high-performance software  
+
+• Reliable and predictable availability
+
+Also helpful, but not required:
+
+• Comfort in React
+
+• Claude code in a real work environment
+
+• Past internship or job experience in a software development role is a plus
+
+* No finance or economics study or work experience required
+
+INTERNATIONAL STUDENTS are encouraged to apply. We accept students eligible for CPT/OPT and we sponsor work visas for full-time positions.
+
+The estimated base salary for this role is $250,000 per year.

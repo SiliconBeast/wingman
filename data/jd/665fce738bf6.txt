@@ -1,0 +1,56 @@
+Quantitative Analyst Co-op, Derivative and Asset Modeling
+
+Description
+
+The Derivative and Asset Modeling team is responsible for developing quantitative models and applications for asset and derivative valuation, as well as risk analytics. The team’s mandate includes supporting the Global Asset and Liability Management, US, Canadian and Asia Portfolio Management and Trading, Derivatives Strategy (Front Office), and Global Investment Strategy.
+
+Responsibilities:
+
+• Support the development and enhancement of valuation curves, derivative and asset models, and pricing tools.
+
+• Assist in the ongoing monitoring, review, and performance assessment of models and curves.
+
+• Support the maintenance of internally developed tools, the curve database, and the model inventory.
+
+• Contribute to ad hoc initiatives and special projects across model development, validation, and implementation activities.
+
+• Support market data research, analysis, and validation efforts.
+
+Qualifications
+
+• Advanced degree or professional designation in Math, Finance, Physics, Engineering, Statistics, Actuarial Science, etc. (students in master’s programs at minimum)
+
+• Solid understanding in quantitative finance and contingent claim theory, and be familiar with the pricing of fixed income, interest rate and equity derivative investments.
+
+• Strong knowledge and programming experience in Python, C/C++, MATLAB, VB/VBA, etc. Object-oriented programming experience is preferred.
+
+• Sophisticated knowledge and experience in stochastic modeling as well as other numerical techniques, particularly, optimization techniques.
+
+• Hands-on self-starter who can analyze a problem, research and develop a solution and follow through on the implementation.
+
+• Demonstrated ability to conceptualize solutions to complex technical issues.
+
+• Sense of urgency and ability to work within tight deadlines
+
+• Ability to communicate effectively (oral and written) and build strong working relationships
+
+• Proactive, dependable and detail-oriented team player
+
+#LI-Hybrid
+
+The role being advertised is an existing vacancy.
+
+We use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and process the information you provide to us or third parties in the application process. For more information, please refer to our personal information collection statement .
+
+About Manulife and John Hancock
+
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html .
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com .
+
+Working Arrangement
+Hybrid

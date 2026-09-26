@@ -1,0 +1,55 @@
+Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems.
+
+Trading Infrastructure is a global organization of Engineers who architect, build and maintain our world-class infrastructure. From colo design/implementation, to optimizing our exchange connectivity, to building world class low latent Wide Area Networks, we leverage research and automation to consistently adapt and innovate our infrastructure to scale and drive our trading and evolving business.
+
+About the Role
+
+Our technology operations internship is an intensive 10-week experience with our frontline technology teams that are responsible for managing, monitoring, and improving the real-time trading environment at Jump Trading.
+
+You will be working directly with our experienced systems and network engineers, gaining broad technical and operational knowledge across all aspects of the trading platform and technology stack. Our internship program is the primary way we identify top young system engineers for our Technology Operations teams, paving the path toward earning full-time opportunities at Jump.
+
+We are looking for bright and highly motivated individuals that want to grow their knowledge of systems and networking, understanding of modern trading at scale, and practical DevOps-based software engineering skills.
+
+What You'll Do:
+
+• Systems Engineer interns will work with traders, operations, exchanges, and developers to optimize the trading environment and investigate and solve system issues.
+
+• Proactively monitor the overall health and performance of the trading platform
+
+• Work closely with our world-class technology organization to:
+
+• Analyze and troubleshoot complex system, software, and networking infrastructure issues
+
+• Design, implement and optimize network infrastructure for proprietary low latency trading applications at various data centers throughout the world
+
+• Build automation to manage and improve the production trading environment
+
+• Work closely with risk management and trading teams to coordinate changes and manage incidents
+
+• Manage and assess operational risk of change control into the production environment
+
+• Define and document process and procedure
+
+• Other duties as assigned or needed
+
+• Skills You'll Need
+
+• Major in Computer Science/Engineering, Information Systems, or related technical field
+
+• Experience working with Linux/UNIX OS including advanced commands and shell scripts
+
+• Practical working knowledge of python
+
+• Understanding of networking concepts such as routing, multicast, ethernet
+
+• A rigorous, detail-oriented approach to operations
+
+• Ability to operate and communicate clearly under pressure
+
+• Desire to work in a collaborative, team environment with a positive can do attitude
+
+• Reliable and predictable availability
+
+* No finance or economics study or work experience required
+
+The estimated base salary for this role is $200,000-$250,000 per year.

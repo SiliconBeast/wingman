@@ -1,0 +1,155 @@
+We anticipate the application window for this opening will close on - 16 Oct 2026
+
+Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.
+
+A Day in the Life
+
+Our summer internships are full-time ( 40 hours /week), paid positions lasting 10- 11 weeks . We offer competitive compensation, educational and social programming throughout the summer, as well as housing assistance and relocation support for eligible interns.
+
+Software Engineering interns contribute to experienced teams across software development, AI/data science, cloud, quality, DevOps, systems, testing, and firmware engineering. Examples of work in each area are listed below.
+
+Software Engineer
+
+•
+Designs, develops, tests, debugs, and implements operating system components, software tools, and utilities.
+
+•
+Determines systems software design requirements.
+
+Software Cloud Engineer
+
+•
+Supports development and execution of the organization’s cloud strategy from a technical perspective, including design, planning, integration, maintenance, and support of cloud architecture.
+
+•
+Works with stakeholders to evaluate cloud systems and identify appropriate solutions .
+
+Software Quality Engineer
+
+•
+Develops, modifies , applies, and maintains standards for software systems quality operating methods, processes, and procedures.
+
+•
+Evaluates software systems activities including requirements, design, development, documentation, integration, test, verification, and validation.
+
+Software Development Operations Engineer
+
+•
+Introduces and maintains processes, tools, and methodologies that support the software development life cycle.
+
+•
+Conducts requirements gathering and analysis to understand the software domain, hardware and software interfaces, and overall software characteristics.
+
+Software Systems Engineer
+
+•
+Develops software and tools in support of design, infrastructure, and technology platforms, including operating systems, cloud-based tools, and Internet-related tools.
+
+•
+Designs, develops, troubleshoots, and debugs software programs for enhancements and new products.
+
+Software Test Engineer
+
+•
+Tests the functionality and performance of software applications or systems software.
+
+•
+Develops and executes test plans and scripts designed to detect problems in software applications and systems software.
+
+AI/Data Science Engineer
+
+•
+Develops and programs integrated software algorithms to structure, analyze, and leverage data in product and system applications.
+
+•
+Develops and communicates descriptive, diagnostic, predictive, and prescriptive insights or algorithms.
+
+Location and Work Model
+
+Most internship positions are based at primary hubs in Minnesota, California, Colorado, Connecticut, and Massachusetts; with additional opportunities available in Arizona, Florida, Michigan, Tennessee, and Texas. Candidate location preferences are strongly considered during the interview and offer process; however, flexibility increases the number of potential opportunities available. All interns must reside in the U.S. for the duration of the internship.
+
+Medtronic is working a minimum of 4 days a week onsite as part of its commitment to professional growth, cross-functional collaboration, and engineering the extraordinary.
+
+Must Have: Minimum Requirements
+
+To be considered for a Summer 2027 engineering internship, your resume must clearly demonstrate how you meet each of these basic requirements.
+
+•
+Working toward a bachelor’s or master’s degree in Computer Engineering , Software Engineering, Computer Science, or a related engineering major with an anticipated graduation date of Winter 2027, Spring 2028, Winter 2028, or Spring 2029 .
+
+•
+Ability to participate full time, 40 hours per week, as part of the intern cohort from June 1-August 13 for semester system programs or June 14-August 20 for quarter system programs.
+
+•
+Applicants for Medtronic’s Summer Internship Program must be currently authorized to work in the United States. Medtronic does not sponsor work authorization for internship positions. Individuals on temporary visa classifications, including E, F ‑ 1 (CPT or OPT), H ‑ 1, H ‑ 2, L, B, J, or TN, as well as anyone who requires employment sponsorship now or in the future, are not eligible for the Program.
+
+Nice to Have: Pr eferred Requirements
+
+•
+Minimum 3.0 cumulative GPA.
+
+•
+Flexibility in geographic location.
+
+•
+Experience with one or more programming languages or technical tools, such as C, C++, C#/.NET, SQL, JavaScript, Java, Python, Swift, HTML/CSS, Microsoft Visual Studio, Jenkins, GitLab, or similar tools.
+
+•
+Academic p rojec t , intern ship , res earch, la b , or work experience related to software development, testing, automation, DevOps, cloud, firmware, systems engineering, AI, data science, or software quality.
+
+•
+Experience using version control, debugging tools, test documentation, requirements gathering, or software development lifecycle processes.
+
+•
+Experience creating technical documentation, project summaries, test reports, code documentation, or engineering presentations.
+
+For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required.
+
+Physical Job Requirements
+
+The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. 
+
+The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.
+
+U.S. Work Authorization & Sponsorship
+
+At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. In alignment with our enterprise-wide workforce planning approach, U.S. work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs. Roles below the Principal level require candidates to possess unrestricted U.S. work authorization at the time of hire and for the duration of employment.
+
+‌
+
+Recruitment Fraud Alert
+
+We are aware of phishing scams targeting job seekers. Please keep the following in mind:
+
+Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.
+
+Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.
+
+If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.
+
+If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at AskHR@medtronic.com .
+
+‌
+
+Benefits & Compensation
+
+Medtronic offers a competitive Salary and flexible Benefits Package
+A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.
+
+Salary ranges for U.S (excl. PR) locations (USD):$26.50-$45.25
+
+The base salary range is used nationally in the United States, excluding Puerto Rico. The Medtronic Internship Program offers an hourly rate of pay that falls within the range of $26.50 to $45.25 per hour. The hourly rate offered will be determined by the position and is subject to variation based on the number of years of school completed.
+
+The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance , Health Savings Account , Healthcare Flexible Spending Account , Life insurance, Long-term disability leave , Dependent daycare spending account , Tuition assistance/reimbursement , and Simple Steps (global well-being program).
+
+The following benefits and additional compensation are available to all regular employees: Incentive plans, 401(k) plan plus employer contribution and match , Short-term disability , Paid time off , Paid holidays , Employee Stock Purchase Plan , Employee Assistance Program , Non-qualified Retirement Plan Supplement (subject to IRS earning minimums) , and Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).
+
+Regular employees are those who are not temporary, such as interns. Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. Please note some of the above benefits may not apply to workers in Puerto Rico.
+
+Further details are available at the link below:
+
+Medtronic benefits and compensation plans
+
+It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.
+
+If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find here a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.

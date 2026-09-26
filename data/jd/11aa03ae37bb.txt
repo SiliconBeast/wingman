@@ -1,0 +1,141 @@
+Closing Date: October 1, 2026
+
+Build and ship AI agents and automation that the whole corporation uses every day. The British Columbia Investment Management Corporation (BCI) is currently seeking a Digital Workplace AI and Automation Engineer co-op student/intern for the Winter & Summer 2027 work terms (January to August) to help design, build, and operate the AI assistants, agents, and process automation behind BCI’s Microsoft 365 and collaboration platforms.
+
+WHAT YOU NEED TO KNOW
+
+BCI manages a globally diversified portfolio of assets valued at $313.7 billion and is one of Canada’s largest institutional investors. We invest globally to support pension and other funds for more than 30 clients based in British Columbia. We are proud to have been chosen as one of Canada’s Top 100 Employers and BC’s Top Employers . These national and provincial competitions recognize employers who offer exceptional workplaces for their employees.
+
+The AI and Automation Engineer co-op/intern will work within our Digital Workplace team in the Technology department. This is a great opportunity for you to work hands-on with production AI platforms, including Microsoft Foundry, Anthropic Claude, and Microsoft Copilot and to write the automation that keeps BCI’s collaboration environment running. You will finish the term with agents you designed and deployed, automation running in production, and a working understanding of how a regulated financial institution evaluates, secures, and rolls out AI.
+
+WHO YOU WILL WORK WITH
+
+Digital Workplace owns how BCI works together: Microsoft 365, SharePoint Online, Microsoft Teams, Exchange Online, OneDrive, Microsoft Teams Rooms, and the AI capabilities layered on top of them. We run these platforms for the entire corporation and we build the agents, integrations, and automation that make them faster and safer to use. The team is small, technical, and delivery-focused, and works closely with Cyber Security, Cloud Operations, Enterprise Architecture, and the business areas we support.
+
+WHAT YOU WILL BE DOING
+
+•
+Build, test, and deploy AI agents on platforms such as Microsoft Foundry, and Azure Bot Service, including prompt design, knowledge sources, guardrails, evaluation, and observability
+
+•
+Develop automation in PowerShell and Python against Microsoft Graph, SharePoint, Teams, Exchange, and ServiceNow REST APIs to replace manual operational work
+
+•
+Deploy and maintain that automation in Azure Automation runbooks and Azure DevOps pipelines, using source control, pull requests, and infrastructure as code
+
+•
+Run proof of concepts on new AI and automation capabilities, document what you find, and give the team a clear recommendation on whether BCI should adopt them
+
+•
+Build reporting and dashboards on platform usage, adoption, and platform health so the team can make decisions from data instead of anecdotes
+
+•
+Work with Cyber Security, Cloud Operations, and Enterprise Architecture on the identity, permission, and data protection reviews that every new AI integration goes through
+
+•
+Write the documentation, runbooks, and knowledge base articles that let other people operate what you build
+
+•
+Take part in the team’s agile ceremonies, including sprint planning, stand-ups, and demos, and present your own work
+
+REQUIRED SKILLS
+
+•
+Working toward a degree, diploma, or certificate in computer science, software engineering, data science, or a related technical program
+
+•
+Scripting and programming ability in Python and PowerShell, including comfort reading and extending code you did not write
+
+•
+A practical understanding of REST APIs, JSON, and authentication concepts such as OAuth 2.0, and the ability to read API documentation and make it work
+
+•
+Experience with Git version control and a willingness to work in a code review and pull request workflow
+
+•
+Hands-on curiosity about large language models and AI agents, including prompt engineering, and an interest in where they work well and where they fail
+
+•
+Ability to communicate clearly and concisely, both orally and in writing, including explaining technical work to a non-technical audience
+
+•
+A security and privacy mindset, and sound judgement about handling corporate data
+
+•
+Comfort with problems that are not fully specified, and the initiative to ask questions and drive them to a conclusion
+
+•
+Familiarity with Microsoft 365, Microsoft Graph, Azure, Power Platform, Copilot Studio, or agent frameworks such as MCP would be an asset
+
+•
+Exposure to infrastructure as code (Terraform or Bicep) or CI/CD pipelines would be an asset
+
+WHAT WE OFFER
+
+•
+Excellent career development and training by helping you understand the platforms, APIs, and engineering practices a large institutional investor uses to run and secure its digital workplace
+
+•
+Work with a dynamic team in a fast-paced environment
+
+•
+The development of real-world skills at one of the largest institutional investors in Canada
+
+•
+Exposure to some of the most talented, approachable, and inspiring people in the industry
+
+•
+The ability to opt-in for access to Dialogue, a user-friendly app that offers virtual primary care, employee and family services, and mental health supports
+
+•
+Time to connect with co-op students & interns at BCI – build your network and shared learning
+
+•
+Two paid days per year for volunteering
+
+•
+Competitive pay: $2,330.00 gross bi-weekly or $2,155.00 gross bi-weekly + vacation leave paid based on 6% of salary ($2,330.00 gross biweekly for those with (or working towards) a graduate degree and $2,155.00 gross biweekly for those with (or working towards) an undergraduate degree, diploma, or certificate)
+
+•
+Travel: if coming to Victoria for this work term, BCI will provide a fixed-rate travel allowance based on your location
+
+THE DETAILS
+
+•
+Work term: Winter 2027 & Summer 2027 (January to August)
+
+•
+Department: Technology
+
+•
+Office Location: 750 Pandora Avenue, Victoria, BC
+
+•
+Spend your off hours exploring beautiful Victoria and Vancouver Island
+
+•
+All co-ops/internships will need to be completed in person at our Victoria office with the option to work one day per week from home. Please note, some positions are not eligible for hybrid work.
+
+HOW TO APPLY
+
+•
+Apply directly to the AI and Automation Engineer Co-op/Internship posting on our careers page https://bci.wd10.myworkdayjobs.com/BCI_Careers
+
+•
+Application deadline: October 1, 2026 at 11:59pm PDT
+
+•
+Please upload a cover letter, resume, and transcripts (unofficial transcript will suffice)
+
+•
+Note: We welcome applications from all qualified candidates who are interested in applying for this role. You will need to be legally authorized to work in the country where this job is located. If you currently do not have authorization or if your work permit, study permit, or visa has restrictions or is due to expire during the work term, you may not be eligible for this opportunity.
+
+At BCI, we value diversity and believe in fostering an inclusive culture where all employees can be successful.
+
+We are performance and client focused and value integrity; if you share these values, we want to know you.
+
+We recognize that some skills can be learned on the job and encourage all to apply.
+
+If you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations), contact us at co-op@bci.ca .
+
+We would like to hear from you!

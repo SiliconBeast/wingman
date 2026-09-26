@@ -1,0 +1,33 @@
+Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology.
+
+Copart Tech – Test Automation Team is looking for an Intern with a strong foundation in TypeScript and/or Java. Developer/Programmer for the SDET role with strong Academic or Organizational or Type Script or Java developer boot camp experience. Learn quickly and be productive in a highly collaborative, lightning-fast environment.
+
+Requirements:
+
+• Proven TypeScript and/or Java experience with a firm grasp of object-oriented analysis and design (OOAD).
+
+• A strong drive to write clean, simple, and efficient test automation code for both UI and RESTful web services.
+
+• Solid ability to translate user stories into comprehensive test cases and scenarios, alongside a good understanding of TDD and BDD best practices.
+
+• Good understanding of browser rendering behavior and front-end performance.
+
+• Familiarity with relational databases (MariaDB preferred but not mandatory).
+
+• Front-end web development skills, including HTML, CSS, and ReactJS is a plus.
+
+• Prior hands-on experience with Test Automation Frameworks and tools (especially Playwright) is a plus.
+
+• Having multi lang programming skills (like Python) is an added advantage but not must.
+
+• Good written and communication skills.
+
+#LI-MS1
+&#xa;&#xa;
+At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.
+
+E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:
+
+• E-verify Participation
+
+• Right to Work

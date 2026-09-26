@@ -1,0 +1,53 @@
+About the Company:
+
+At SK Hynix Memory Solution, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies. Our cutting-edge memory technologies are essential in today's most advanced electronic devices and IT infrastructure, enabling enhanced performance and user experiences across the digital landscape.
+
+We're looking for innovative minds to join our mission of shaping the future of technology. At SK Hynix Memory, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability. We're not just adapting to technological change – we're driving it, with significant investments in artificial intelligence, machine learning, and eco-friendly solutions and operational practices. As we continue to expand our market presence and push the boundaries of what's possible in semiconductor technology, we invite you to be part of our journey to creating the next generation of memory solutions that will define the future of computing.
+
+Internship Duration: 6 months
+
+Hours: 40 hours per week
+
+Start Date: Immediately
+
+About the Role:
+
+We are seeking a highly motivated Software Engineer in Test Automation and Agentic workflows. In this role you will contribute to the design and build of intelligent automation systems that automate test execution, optimize test scheduling, and create scalable frameworks that quality teams will use.
+
+The ideal candidate will have hands-on experience with Model Context Protocol (MCP) and proficiency with modern automation tools such as N8N, OpenClaw, and Hermes. You will work at the intersection of AI and test automation, leveraging your expertise in Ansible, Linux, and Python to create next-generation testing solutions that drive efficiency and innovation across our organization.
+
+Responsibilities :
+
+• Design, develop, and deploy AI Agents and Agentic workflows to automate test execution and test scheduling processes.
+
+• Implement Model Context Protocol (MCP) to enable seamless integration between AI agents and various testing tools and systems.
+
+• Develop and maintain Ansible playbooks and automation scripts for infrastructure provisioning, configuration management, and test environment setup.
+
+• Responsible to upkeep and maintenance of assigned lab equipment such as Enterprise servers and Computer PCs.
+
+• Execute test automation, monitor and triage failures, and report results to stake-holders.
+
+Minimum Qualifications :
+
+• Currently pursuing or recently completed a Bachelor of Science or Master of Science degree in Electrical Engineering, Computer Science & Engineering, Mathematics, or a related field.
+
+• Productive use of AI coding assistants (e.g., Claude Code, Cursor, GitHub Copilot) in day-to-day engineering.
+
+• Proficiency in Python, bash/shell scripting, Powershell programming with demonstrated experience in building automation scripts and applications
+
+• Hands-on experience working with Linux operating systems, including command-line tools, shell scripting, and system administration
+
+• Candidate must possess strong analytical and problem solving skills to help in finding root cause and resolution of problems
+
+• Experience with OS installation, Linux CLI and network setup
+
+Preferred Qualifications:
+
+• Understanding of test automation principles, CI/CD pipelines, and software testing methodologies
+
+• Knowledge or experience with Git, Jenkins and Dockers is a plus.
+
+• Experience with NVMe SSDs and NVMe controllers is a plus.
+
+COMPENSATION: $35/hr - $45/hr
