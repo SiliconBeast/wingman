@@ -406,6 +406,9 @@ Model downloader: keep **SSD-Mobilenet-v2**. **Skip** the PyTorch install. Smoke
   **Report only measured numbers.** Real ADAS track counts (10–50) are below the crossover — say so honestly.
 - `kernels/verify_math.cpp` — host-only math check (`g++ -O2 verify_math.cpp && ./a.out` → "MATH OK").
 - Status: files not yet on the TX2; benchmark not yet run.
+- **REWRITTEN Sun Sep 27** (the originals were lost — never reached the repo or the TX2). The
+  verification numbers above came from the *old* code and no longer apply; the new code's own
+  measured numbers are in §17. See §17 for what changed (P stored as upper triangle, equal occupancy).
 
 ---
 
@@ -535,8 +538,11 @@ Fallbacks:
 ## 16. Status (keep updated)
 Legend: [x] done · [~] code done + verified off-target, **not yet on hardware** · [ ] not started
 - [x] TX2 reflashed to JetPack 4.6.6; CUDA/TensorRT verified; SSH running (172.20.10.13, hotspot)
-- [x] CUDA Kalman kernel + verification code written (not yet run on TX2) — **files are NOT in this
-      repo yet**: copy `kernels/` and `python/reference_kalman.py` in from the earlier session
+- [~] CUDA Kalman kernel + verification: **rewritten** (originals lost) — `kernels/kalman_math.h`,
+      `kalman_tracker.cu`, `verify_math.cpp`, `Makefile`, `python/reference_kalman.py`. Math verified
+      on host; `.cu` compiles for sm_62 (nvcc 12.0) and its logic passes under serial emulation.
+      **Never run on a GPU yet** → on the TX2: `cd kernels && make && ./kalman_tracker --csv ../docs/kernel_sweep.csv`
+      (copy the new files over the TX2's old `~/wingman/kernels/Makefile`).
 - [ ] Passwordless SSH Odroid → TX2
 - [ ] Kernel benchmark run on TX2 (paste table into docs/results)
 - [ ] jetson-inference built; `detectnet csi://0` works
@@ -598,5 +604,15 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
 - **native_sim**: `rt1170/boards/native_sim_native_64.conf` maps Zephyr sockets to host sockets; the
   firmware then listens on the host's :5005 (`tools/build.sh --sim`). Its latency/timing numbers are
   simulation artefacts — never report them.
+- **CUDA kernels (rewritten)**: P stored as its 10-float upper triangle (exactly symmetric; 14
+  floats/track = 56 B). Model constants are plain literals so the double path equals NumPy exactly.
+  Measured on host (these runs, not the TX2): hand-expanded vs naive full-matrix max rel diff
+  8.6e-14 (double) / 3.8e-5 (float) over 20k random steps; vs `python/reference_kalman.py` replay
+  5.8e-15 over 2020 states; single track 60 frames q=0.01 → velocity 4.995/2.011 (true 5/2);
+  1000 tracks × 200 frames float, monocular noise → mean vel err 0.295 m/s, all P positive definite.
+  **Fair AoS/SoA comparison**: naive SoA indexing used 56 registers vs 32 for AoS (half the
+  occupancy); an `asm volatile` address barrier brings SoA to 32, no spills; both kernels have
+  `__launch_bounds__(256, 8)`. `--block` > 256 is rejected. The GPU correctness check was
+  mutation-tested (planted SoA index bug → CORRECTNESS FAILED). No GPU timing exists yet.
 - Cloud build env used for verification: Zephyr SDK 0.17.0 + `west init -m …zephyr-phytec-application
   --mr v4.1.0-phy2`, `west update --narrow -o=--depth=1`.
