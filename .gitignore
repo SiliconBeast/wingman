@@ -1,6 +1,5 @@
+build/
 __pycache__/
 *.pyc
-.venv/
-data/.summary
-*.tmp
-.DS_Store
+rt1170/tests/host/test_logic
+*.log

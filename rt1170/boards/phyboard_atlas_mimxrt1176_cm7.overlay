@@ -1,0 +1,14 @@
+/*
+ * Logic-analyzer probes on the 60-pin expansion header.
+ *   rx-probe    pin 11 (GPIO_AD_34): high from packet arrival until outputs are written
+ *   alert-probe pin 33 (GPIO_SNVS_00): toggles on every output write
+ * Pins 27/29 are the IMU interrupt lines - don't use them.
+ * Ground: any GND pin on the same header.
+ */
+/ {
+	zephyr,user {
+		rx-probe-gpios = <&expansion_header 11 GPIO_ACTIVE_HIGH>;
+		alert-probe-gpios = <&expansion_header 33 GPIO_ACTIVE_HIGH>;
+	};
+};
+
