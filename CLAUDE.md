@@ -322,6 +322,7 @@ Add `_Static_assert(sizeof(...) == N)` on both structs and `struct.calcsize` ass
 
 ### 7.4 Watchdog
 - Enable on-chip WDOG (`CONFIG_WATCHDOG=y`, see `zephyr/samples/drivers/watchdog`). Timeout ~200 ms, fed by `decide` only.
+  **(Implemented as 500 ms: the i.MX WDOG1 driver's minimum. See §17.)**
 - At boot, read reset cause (`hwinfo_get_reset_cause`, `CONFIG_HWINFO=y`) → set `WM_FAULT_WDT_RESET`, log it.
 - Demo: shell command `wm hang` that deliberately stalls `decide` → board resets and reports it.
 
@@ -532,19 +533,70 @@ Fallbacks:
 ---
 
 ## 16. Status (keep updated)
+Legend: [x] done · [~] code done + verified off-target, **not yet on hardware** · [ ] not started
 - [x] TX2 reflashed to JetPack 4.6.6; CUDA/TensorRT verified; SSH running (172.20.10.13, hotspot)
-- [x] CUDA Kalman kernel + verification code written (not yet run on TX2)
+- [x] CUDA Kalman kernel + verification code written (not yet run on TX2) — **files are NOT in this
+      repo yet**: copy `kernels/` and `python/reference_kalman.py` in from the earlier session
 - [ ] Passwordless SSH Odroid → TX2
 - [ ] Kernel benchmark run on TX2 (paste table into docs/results)
 - [ ] jetson-inference built; `detectnet csi://0` works
-- [ ] P1 RT1170: console seen; SDK + workspace; hello_world built; flashed via blhost; `tools/flash.sh`
-- [ ] P2 Ethernet: live RJ45 identified; ping TX2↔RT1170
-- [ ] P3 protocol header + Python mirror + CRC test vectors
-- [ ] P4 supervisor firmware (threads, state machine, watchdog, stats, LEDs, GPIO probes)
-- [ ] P5 scenario_player + fault injection + test matrix + dashboard
-- [ ] P6 perception.py (calibrated distance, tracker, overlay, replay mode)
-- [ ] P7 IMU context (threshold) / TinyML (stretch)
-- [ ] P8 measurements
+- [~] P1 RT1170: `tools/flash.sh` + `flash.ps1` written (dry-run tested with a fake blhost);
+      `tools/build.sh`. Hardware steps (console, hello_world flash) not done — docs/runbook.md 1.1–1.5
+- [~] P2 Ethernet: live port = the **100 Mbit ENET / KSZ8081** (only one enabled in the devicetree);
+      physical RJ45 not yet identified; ping not done — runbook P2
+- [x] P3 protocol header + Python mirror + CRC test vectors (`tests/test_proto.py`: C and Python
+      produce identical bytes)
+- [~] P4 supervisor firmware: all of §7.1–7.5 implemented; builds with **zero warnings** for
+      `phyboard_atlas/mimxrt1176/cm7` (177 KB); decision core host-unit-tested; whole app runs on
+      `native_sim` and passes 14/14 scenarios. Not yet flashed.
+- [~] P5 scenario_player (6 scenarios, all fault flags, --repeat, --matrix → markdown, --csv),
+      flood.py, dashboard.py (+ --snapshot PNG): verified against native_sim. Hardware run pending.
+- [~] P6 perception.py (+ `--input synthetic`, replay, overlay by RT1170 verdict, CSV), tracker.py
+      (tests/test_tracker.py), calibrate.py. Synthetic path verified end-to-end vs native_sim;
+      jetson-inference path untested (no TX2 here). `tx2/calib.json` does not exist until calibrate.py runs.
+- [~] P7 IMU threshold context (braking suppression, swerve near-miss, impact black box) in firmware;
+      axis mapping unverified on the board. TinyML: not started. `tools/imu_logger.py`: not written.
+- [ ] P8 measurements (runbook P8 checklist)
 - [ ] P10 video
-- [ ] P11 write-up + repo + **submitted**
+- [ ] P11 write-up + repo + **submitted** (README.md has the write-up skeleton; Results section empty on purpose)
 - Open question for Suvir: did a MIPI-DSI panel come in the RT1170 kit?
+
+---
+
+## 17. Implementation notes (decisions made while building — read before changing things)
+
+- **Zephyr workspace / PHYTEC manifest**: the manifest module injects demo modules (watchdog,
+  heartbeat LED, button, LVGL, USB, …) into *every* app. `rt1170/prj.conf` disables all of them
+  (`CONFIG_APP_*=n`); otherwise their watchdog/LEDs fight ours (and they fail to compile out of tree).
+- **Watchdog = WDOG1 at 500 ms**, not 200 ms: `wdt_mcux_imx_wdog.c` rejects < 500 ms (0.5 s steps);
+  the tree has no RTWDOG node for RT11xx. The 100 ms heartbeat failsafe is independent of it.
+- **Reset cause**: RT1170 `hwinfo` driver has no reset-cause support → read `SRC->SRSR` via
+  `fsl_soc_src.h` (`kSRC_M7CoreWdog*ResetFlag`). Bit mapping unverified on hardware: check the
+  `SRC SRSR = 0x…` boot log after a `wm hang`.
+- **RAM stays in SDRAM (BSP default).** Tried `zephyr,sram = &dtcm`: it links but overlaps the NXP
+  drivers' own `.dtcm_bss/.dtcm_noinit` at 0x20000000 → silent corruption. Don't. If latency jitter
+  needs it later, move specific buffers with `__dtcm_*` section attributes and measure before/after.
+- **`CONFIG_NET_CONFIG_INIT_TIMEOUT=0`**: default 30 s would stall boot whenever the cable is unplugged.
+- **Single-writer design**: net_rx only parses/CRCs and queues; *all* supervisor state changes happen
+  in `decide` (heartbeat timer just queues an `EV_HB_LOST`). Shell/IMU touch `g_sup` under `g_lock`.
+- **Latency definition**: socket delivery (`recvfrom` return, cycle counter) → LEDs written. Excludes
+  ENET/IP-stack time before delivery; the probe pins bound it externally. Say this in the write-up.
+- **Status replies go to the sender's IP**, port 5006 (default 192.168.10.1 before any frame), so the
+  scenario player can run on either the TX2 or the Odroid.
+- **Heartbeat loss clears sequence tracking**, so a restarted perception.py (seq back at 0) is accepted.
+  Recovery needs 10 consecutive in-sequence frames; a gap restarts the count.
+- **Braking suppression never downgrades the close-range (< 3 m) WARNING.**
+- **Truncated boxes** (touching the image edge) get confidence × 0.8, not × 0.5: × 0.5 would push a
+  close, cut-off pedestrian under the RT1170's 0.4 confidence floor and hide the most dangerous case.
+- **LEDs**: carrier `led3` (red) / `led4` (green) + SoM `led1`/`led0` mirrored. CAUTION = both on.
+- **Probe pins**: 60-pin expansion header pin 11 (`GPIO_AD_34`, RX: high arrival→outputs) and
+  pin 33 (`GPIO_SNVS_00`, ALERT: toggles per decision). Pins 27/29 are the IMU interrupts — don't use.
+- **flood.py targets port 5099 by default** (IP-stack load without feeding the supervisor garbage;
+  aiming it at 5005 trips FAILSAFE after 5 bad frames — by design).
+- **Round trips** are only counted for the first reply matching a frame this process sent
+  (keepalives during FAILSAFE re-echo older frames and gave bogus 800 ms "RTTs").
+- **native_sim**: `rt1170/boards/native_sim_native_64.conf` maps Zephyr sockets to host sockets; the
+  firmware then listens on the host's :5005 (`tools/build.sh --sim`). Its latency/timing numbers are
+  simulation artefacts — never report them.
+- Cloud build env used for verification: Zephyr SDK 0.17.0 + `west init -m …zephyr-phytec-application
+  --mr v4.1.0-phy2`, `west update --narrow -o=--depth=1`.

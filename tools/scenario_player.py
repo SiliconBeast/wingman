@@ -126,10 +126,11 @@ def parse_burst(s):
 
 
 class Receiver(threading.Thread):
-    def __init__(self, sock):
+    def __init__(self, sock, mirror=None):
         threading.Thread.__init__(self)
         self.daemon = True
         self.sock = sock
+        self.mirror = mirror
         self.lock = threading.Lock()
         self.events = []          # (t_rx_monotonic, Status)
         self.running = True
@@ -145,6 +146,8 @@ class Receiver(threading.Thread):
                     return
                 continue
             t = time.monotonic()
+            if self.mirror:
+                self.sock.sendto(data, self.mirror)
             st = wp.unpack_status(data)
             if st is not None:
                 with self.lock:
@@ -174,6 +177,7 @@ def run_once(sc, args, sock, rx, rng, seq_start):
     sent = []                     # (t_scn, seq, n_tracks) for frames actually sent
     held = None                   # frame held back for --reorder
     counts = dict(sent=0, dropped=0, corrupted=0, duplicated=0, reordered=0)
+    sent_tx = {}                  # seq -> tx_time_us, to match replies for round trips
 
     rx.take()
     t0 = time.monotonic() + PREROLL_S   # scenario t=0
@@ -188,6 +192,7 @@ def run_once(sc, args, sock, rx, rng, seq_start):
             break
         tracks = sc.tracks(t_scn) if t_scn >= 0 else []
         now_us = int(time.monotonic() * 1e6)
+        sent_tx[seq] = now_us
         pkt = wp.pack_perception(seq, now_us, tracks)
         seq = (seq + 1) & 0xFFFFFFFF
 
@@ -223,7 +228,8 @@ def run_once(sc, args, sock, rx, rng, seq_start):
     events_abs = rx.take()
     events = [(t - t0, st) for t, st in events_abs]
     last_sent_scn = (last_sent_t - t0) if last_sent_t is not None else None
-    return check(sc, args, events, counts, last_sent_scn), events, events_abs, counts, seq
+    return (check(sc, args, events, counts, last_sent_scn), events, rtt_list(events_abs, sent_tx),
+            counts, seq)
 
 
 # ---------------------------------------------------------------- checking
@@ -335,15 +341,15 @@ def check(sc, args, events, counts, last_sent_scn):
     return dict(ok=not reasons, reasons=reasons, metrics=metrics)
 
 
-def rtt_list(events_abs):
-    """events_abs: [(t_rx_monotonic, Status)] -> round trips in ms. tx_time_us_echo was
-    stamped from the same time.monotonic() clock when the frame was sent."""
+def rtt_list(events_abs, sent_tx):
+    """events_abs: [(t_rx_monotonic, Status)], sent_tx: {seq: tx_time_us} of frames sent in
+    this run -> round trips in ms. Only the first reply echoing a frame we sent counts:
+    keepalives and bad-frame replies re-echo an older frame (maybe from a previous run)."""
     out = []
-    seen = set()
+    pending = dict(sent_tx)
     for t, st in events_abs:
-        # first status per frame only: keepalives and bad-frame replies re-echo the last seq
-        if st.tx_time_us_echo and st.seq_echo not in seen:
-            seen.add(st.seq_echo)
+        if pending.get(st.seq_echo) == st.tx_time_us_echo:
+            del pending[st.seq_echo]
             out.append(t * 1000.0 - st.tx_time_us_echo / 1000.0)
     return out
 
@@ -439,6 +445,8 @@ def main():
     ap.add_argument("--seed", type=int, default=1)
     ap.add_argument("--csv", help="append every status packet to this CSV")
     ap.add_argument("--md", help="write the result table as markdown (with --matrix)")
+    ap.add_argument("--mirror", default=None, metavar="HOST:PORT",
+                    help="forward every status packet here, e.g. 127.0.0.1:5007 for dashboard.py")
     ap.add_argument("-v", "--verbose", action="store_true", help="print every state transition")
     args = ap.parse_args()
     for name in ("drop", "corrupt_crc", "reorder", "duplicate"):
@@ -447,7 +455,11 @@ def main():
             ap.error("--%s must be a probability 0..1" % name.replace("_", "-"))
 
     sock = make_socket(args)
-    rx = Receiver(sock)
+    mirror = None
+    if args.mirror:
+        host, _, port = args.mirror.rpartition(":")
+        mirror = (host or "127.0.0.1", int(port))
+    rx = Receiver(sock, mirror)
     rx.start()
     rng = random.Random(args.seed)
     seq = rng.randrange(0, 1 << 16)
@@ -465,8 +477,7 @@ def main():
     try:
         for run_i, (name, ra) in enumerate(cases):
             sc = SCENARIOS[name]
-            res, events, events_abs, counts, seq = run_once(sc, ra, sock, rx, rng, seq)
-            rtts = rtt_list(events_abs)
+            res, events, rtts, counts, seq = run_once(sc, ra, sock, rx, rng, seq)
             lat = res["metrics"].get("lat_us", [])
             all_lat += lat
             all_rtt += rtts
