@@ -574,10 +574,28 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
 - [x] Passwordless sudo configured on the TX2 (`/etc/sudoers.d/wingman-automation`,
       `jetson ALL=(ALL) NOPASSWD: ALL`, Suvir's explicit choice for zero-friction automation
       mid-crunch) — apt/make/install steps no longer need him at the keyboard.
-- [~] P1 RT1170: `tools/flash.sh` + `flash.ps1` written (dry-run tested with a fake blhost);
-      `tools/build.sh`. Hardware steps (console, hello_world flash) not done — docs/runbook.md 1.1–1.5
-- [~] P2 Ethernet: live port = the **100 Mbit ENET / KSZ8081** (only one enabled in the devicetree);
-      physical RJ45 not yet identified; ping not done — runbook P2
+- [x] **P1 RT1170 bring-up + flash loop: DONE on real hardware.** Console verified (runbook 1.1,
+      `kernel version` -> 4.1.0). `flash.ps1` flashed `hello_world` (40398 B) then the real
+      `rt1170/` supervisor firmware (177228 B, matches the predicted zero-warning build exactly)
+      back-to-back in one Serial Downloader session — used `blhost -u 0x15a2:0x0073 reset` to
+      bounce the flashloader back to boot-ROM identity between the two flashes instead of a second
+      physical power cycle. Board boots the real firmware: `wm stats` and `wm state` both respond
+      correctly (state `WAIT_LINK`, thresholds match §7.2 exactly, all counters correctly zeroed).
+      S5 boot-mode switch identified precisely: 8-position DIP bank, all-off = QSPI Flash (normal
+      boot), switch 8 alone ON = USB-OTG Serial Downloader. USB-OTG connector is **X16** (labeled
+      OTG1 on silkscreen) — X17/OTG2 is a second, unused USB port. Console is confirmed **X15**
+      (matches CLAUDE.md, not X17 as briefly misread from a low-res photo).
+- [x] **P2 Ethernet: DONE.** Live port is actually the **1 Gbit ENET_1G** (RGMII), not the 100 Mbit
+      KSZ8081 as guessed — `net iface` on the RT1170 shows `carrier=ON`, "1 Gbits full-duplex",
+      confirming the physical RJ45. Static IPs set both sides (RT1170 192.168.10.2/24 was already
+      in the flashed firmware's `prj.conf`; TX2 eth0 192.168.10.1/24 via `nmcli`, using the new
+      passwordless sudo). Ping TX2 -> RT1170: 5/5 received, 0% loss, RTT 0.32-0.73 ms.
+- Windows flashing toolchain notes: `spsdk` 3.11.0 + `platformdirs` 4.12.0 (latest at install time)
+  are incompatible (`_optionally_create_directory() missing... 'private'`) — pin
+  `platformdirs==4.0.0`. Also `spsdk`'s installed scripts (`blhost.exe` etc.) land outside PATH by
+  default; add its Scripts dir explicitly. `flash.ps1`'s `$PSScriptRoot`-based default `-Loader`
+  path doesn't resolve when invoked via `powershell -File` from a parent PowerShell session — pass
+  `-Loader` explicitly, or dot-invoke the script in-session (`& .\tools\flash.ps1 ...`) instead.
 - [x] P3 protocol header + Python mirror + CRC test vectors (`tests/test_proto.py`: C and Python
       produce identical bytes)
 - [~] P4 supervisor firmware: all of §7.1–7.5 implemented; builds with **zero warnings** for
