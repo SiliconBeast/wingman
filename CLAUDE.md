@@ -544,7 +544,14 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       **Never run on a GPU yet** → on the TX2: `cd kernels && make && ./kalman_tracker --csv ../docs/kernel_sweep.csv`
       (copy the new files over the TX2's old `~/wingman/kernels/Makefile`).
 - [x] Passwordless SSH Odroid → TX2 (ed25519 key, verified with `BatchMode=yes` — no password fallback)
-- [ ] Kernel benchmark run on TX2 (paste table into docs/results)
+- [x] **Kernel benchmark run on TX2 GPU for the first time** (`docs/kernel_sweep.csv`). `nvpmodel -m 0`
+      + `jetson_clocks` set MAXN first. Host math check: `MATH OK`. GPU (NVIDIA Tegra X2, sm_62, 2 SMs,
+      1300 MHz): CPU beats GPU at N=64 (13.28 vs 14.59 us SoA, ratio 0.91x — GPU loses at small N as
+      predicted); crossover at **N=256** (3.33x); scales to **59-61x** at N>=16384. Correctness OK vs
+      CPU reference at every N. `nvprof` occupancy/efficiency (`sudo make profile`, passwordless sudo):
+      **SoA 100% gld/gst efficiency vs AoS 14.04%/12.50%** — the speedup story is memory coalescing,
+      not occupancy (both ~0.85 avg). Real ADAS track counts (10-50) sit right at/below the crossover —
+      exactly the honest story CLAUDE.md wanted, no invented numbers.
 - [x] Camera hardware confirmed working: `nvarguscamerasrc` captures real frames (OV5693, sensor
       modes up to 2592x1944 detected). First single-frame grab came out black — auto-exposure
       hadn't converged in ~0.4s; a 60-frame/~2s capture produced a correct image, visually verified.
@@ -555,8 +562,8 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       Suvir in his own terminal; (2) `-lnpymath` link failure for the Python 3.6 bindings — the lib
       exists (`/usr/lib/python3/dist-packages/numpy/core/lib/libnpymath.a`) but wasn't on the linker
       search path; fixed via `-DCMAKE_SHARED_LINKER_FLAGS`/`-DCMAKE_EXE_LINKER_FLAGS` pointing at it,
-      no sudo needed. `sudo make install && sudo ldconfig` still pending (Suvir's step) — until then
-      `import jetson_inference` fails system-wide; **`csi://0` live detectNet path still untested.**
+      no sudo needed. `sudo make install && sudo ldconfig` **done** — `import jetson_inference` works
+      system-wide. **`csi://0` live detectNet path now fully tested** (see full-pipeline entries below).
 - [x] `tx2/` code verified on the TX2's real Python 3.6.9 (not just native_sim): `tests/test_proto.py`
       and `tests/test_tracker.py` both pass in full (CRC vector, struct sizes 146/36, C↔Python
       byte-identical, tracker distance/velocity estimates correct). All four `tx2/*.py` files
@@ -598,19 +605,61 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
   `-Loader` explicitly, or dot-invoke the script in-session (`& .\tools\flash.ps1 ...`) instead.
 - [x] P3 protocol header + Python mirror + CRC test vectors (`tests/test_proto.py`: C and Python
       produce identical bytes)
-- [~] P4 supervisor firmware: all of §7.1–7.5 implemented; builds with **zero warnings** for
-      `phyboard_atlas/mimxrt1176/cm7` (177 KB); decision core host-unit-tested; whole app runs on
-      `native_sim` and passes 14/14 scenarios. Not yet flashed.
-- [~] P5 scenario_player (6 scenarios, all fault flags, --repeat, --matrix → markdown, --csv),
-      flood.py, dashboard.py (+ --snapshot PNG): verified against native_sim. Hardware run pending.
+- [x] **P4 supervisor firmware: FLASHED and RUNNING on real hardware.** All of §7.1-7.5 implemented;
+      builds with zero warnings (177228 B); decision core host-unit-tested; passes 14/14 on
+      `native_sim` AND 14/14 on the real board (see P5). `wm stats`/`wm state` shell commands both
+      confirmed live.
+- [x] **P5 scenario_player: DONE on real hardware, 14/14 passed** (`docs/test_matrix.md`,
+      `docs/scenario_results.csv`), matching the native_sim result exactly. All 6 scenarios + every
+      fault-injection variant (drop, CRC corruption, reorder, duplicate, rate change, short and long
+      burst-loss, simulated-crash stop-at) passed. Real measured numbers: RT1170 decision latency
+      n=1614, min 11.92 / mean 49.79 / p99 118.62 / max 205.10 us. Round trip host<->RT1170<->host:
+      mean 0.87 / p99 1.37 ms. **Failover time landed exactly on the predicted ~100ms + one 10ms
+      tick**: mean 105.60 ms (n=2) — matches the §11 prediction precisely.
+- [x] **flood.py stress test: done, with an honest (not clean) result.** First attempt (flood started
+      cold, scenario launched 1s later) got 11/20 pass with a 15ms latency spike and several "no
+      status" gaps — looked bad, but all failures clustered in flood's own startup window, so redone
+      properly per the tool's own docstring (scenario settled to NOMINAL first, flood injected mid-run
+      for 15s): 21/30 passed. Key finding: **RT1170's own decision latency stayed essentially flat**
+      (51.19 us mean vs 47.46 us no-flood baseline — the "stays flat under load" design claim holds).
+      The failures were host-side packet delivery gaps concentrated exactly in flood's active window
+      (8 straight fails, several "no status packets received"), fully recovering to baseline the
+      moment flood.py stopped — points at TX2-side CPU/socket contention between two concurrent
+      Python processes, not an RT1170 firmware weakness. Reported as-is, not smoothed over.
+      (`docs/baseline_results.csv`, `docs/flood_stress_results.csv`)
+- [x] **Full perception.py <-> RT1170 live integration: DONE, closed loop confirmed.** With the
+      RT1170 actually listening (not the case during the earlier 10-minute solo soak test), ran
+      `perception.py --input csi://0` again: state went WAIT_LINK -> NOMINAL as real frames arrived
+      (tracked real seq numbers), decision latency 35-117 us, round trip 0.7-1.0 ms — matching the
+      scenario_player numbers exactly. One brief FAILSAFE blip right at start (before the first frame
+      arrived), then clean NOMINAL throughout. `--fpx 900` is still a placeholder (see calibration
+      note below) — this test proved the pipeline, not distance accuracy.
+- [x] **Watchdog demo (`wm hang`) confirmed working**: stalls `decide`, board resets after ~500ms,
+      `wm state` shows a fresh boot (seq back to 0) with `WDT_RESET` correctly reported. **Open
+      finding, not fully resolved**: the very first post-flash boot (before this deliberate test) also
+      reported `WDT_RESET`, despite being a normal power-on. Given CLAUDE.md §17 already flagged the
+      SRC->SRSR reset-cause bit mapping as "unverified on hardware," this could mean either a real
+      unexplained earlier watchdog trip, or that ordinary power-on resets are also being misclassified
+      as watchdog resets. Not disambiguated — would need a clean power-cycle-only boot to compare,
+      which wasn't captured. Flag this honestly in the write-up rather than asserting either way.
 - [~] P6 perception.py (+ `--input synthetic`, replay, overlay by RT1170 verdict, CSV), tracker.py
-      (tests/test_tracker.py), calibrate.py. Synthetic path verified end-to-end vs native_sim;
-      jetson-inference path untested (no TX2 here). `tx2/calib.json` does not exist until calibrate.py runs.
+      (tests/test_tracker.py), calibrate.py. Pipeline itself fully proven live (see above) —
+      **real calibration still not done**: `tx2/calibrate.py` needs Suvir to tape-measure a person at
+      3/5/8 m, physically. `tx2/calib.json` does not exist yet. Every distance/TTC number produced so
+      far uses the `--fpx 900` placeholder and is not meaningful — don't put these in the write-up
+      Results section as real numbers.
 - [~] P7 IMU threshold context (braking suppression, swerve near-miss, impact black box) in firmware;
-      axis mapping unverified on the board. TinyML: not started. `tools/imu_logger.py`: not written.
-- [ ] P8 measurements (runbook P8 checklist)
-- [ ] P10 video
-- [ ] P11 write-up + repo + **submitted** (README.md has the write-up skeleton; Results section empty on purpose)
+      **axis mapping still unverified on the board** — needs Suvir to physically tilt/slide the board
+      while watching `wm state`'s `imu_ax_mg`/`imu_ay_mg` fields (not automatable). TinyML: not started.
+      `tools/imu_logger.py`: not written.
+- [~] P8 measurements: **mostly done** (decision latency, round trip, failover, scenario test matrix,
+      latency-under-flood, perception FPS, CUDA kernel sweep + occupancy — all above). Still missing:
+      end-to-end camera->alert honest estimate (needs real calibration first to mean anything).
+- [ ] P10 video — needs Suvir: filming, physically unplugging the TX2 Ethernet cable for the "money
+      shot," the IMU tilt/slide demo, footage of both boards. Not something to automate.
+- [ ] P11 write-up + repo + **submitted** — most of the Results section (§11) now has real numbers
+      to drop in; still needs the calibration-dependent numbers, the video, and the actual submission
+      via the All About Circuits account.
 - Open question for Suvir: did a MIPI-DSI panel come in the RT1170 kit?
 
 ---
