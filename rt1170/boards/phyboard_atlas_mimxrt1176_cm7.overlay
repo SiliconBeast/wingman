@@ -12,3 +12,12 @@
 	};
 };
 
+/* Disabled: unused by this app. Was tested as a hypothesis for why the
+ * ICM40627 on the same LPI2C5 bus fails its first register write at boot
+ * ("Could not initialize sensor") - ruled out, identical failure with the
+ * codec disabled (see CLAUDE.md P7 status). Left disabled since it's
+ * genuinely unused, not because it fixed anything. */
+&audio_codec {
+	status = "disabled";
+};
+

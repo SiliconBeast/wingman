@@ -657,10 +657,31 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       `--fpx` override needed. **Treat resulting distance/TTC numbers as approximate** given the
       13.3% spread and single-object method — worth a note in the write-up's honest-limitations
       section, and redoing with a bigger room would tighten this if time allows.
-- [~] P7 IMU threshold context (braking suppression, swerve near-miss, impact black box) in firmware;
-      **axis mapping still unverified on the board** — needs Suvir to physically tilt/slide the board
-      while watching `wm state`'s `imu_ax_mg`/`imu_ay_mg` fields (not automatable). TinyML: not started.
-      `tools/imu_logger.py`: not written.
+- [~] **P7 IMU: real hardware bug found, not just "unverified axis mapping."** Live-tested via a
+      custom `tools/imu_monitor.py` (sends perception frames at 30Hz, prints `imu_ax_mg`/`imu_ay_mg`
+      from every status reply) — both stayed at **exactly 0 regardless of orientation**, even at
+      rest (should show ~1000mg of gravity on some axis). Root-caused via a forced reboot (`wm hang`
+      -> watchdog reset -> fresh boot log capture) to a real I2C failure, not a code bug:
+      ```
+      <err> ICM40627: write REG_SIGNAL_PATH_RESET failed
+      <err> ICM40627: Could not initialize sensor
+      ```
+      The very first register write to the sensor fails at boot, so `imu.c`'s own
+      `device_is_ready()` check correctly bails out and the IMU thread never runs — that's why
+      ax/ay are stuck at 0, not a sign-convention or mounting issue. Time-boxed debug pass (~25 min):
+      verified driver is enabled (`CONFIG_ICM40627=y`), Kconfig dependency auto-satisfied, I2C init
+      priority correctly precedes sensor init, pinctrl for LPI2C5 correctly wired (matches CLAUDE.md
+      §2.4), no missing power-supply property in the binding. Tested and **ruled out** shared-bus
+      contention with the audio codec (also on LPI2C5): disabled it via
+      `rt1170/boards/phyboard_atlas_mimxrt1176_cm7.overlay`, rebuilt (byte-identical binary size —
+      no codec driver was ever actually linked in), reflashed, **identical failure at the identical
+      boot timestamp**. Left the codec disabled (genuinely unused either way) but this is not a fix.
+      Remaining hypotheses need physical access: chip not populated/soldered on this board, or an
+      actual I2C bus scan/scope trace — out of scope for a source-level pass. **Using CLAUDE.md's
+      own documented fallback: drop IMU, note honestly in the write-up as a found-and-diagnosed
+      hardware limitation** (not "didn't get to it") — braking-suppression/swerve/black-box logic in
+      firmware is real and correct, just never gets live sensor data to act on. TinyML: not started
+      (already downstream of a working IMU). `tools/imu_logger.py`: not written.
 - [~] P8 measurements: **mostly done** (decision latency, round trip, failover, scenario test matrix,
       latency-under-flood, perception FPS, CUDA kernel sweep + occupancy — all above). Still missing:
       end-to-end camera->alert honest estimate (needs real calibration first to mean anything).
