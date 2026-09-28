@@ -642,12 +642,21 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       unexplained earlier watchdog trip, or that ordinary power-on resets are also being misclassified
       as watchdog resets. Not disambiguated — would need a clean power-cycle-only boot to compare,
       which wasn't captured. Flag this honestly in the write-up rather than asserting either way.
-- [~] P6 perception.py (+ `--input synthetic`, replay, overlay by RT1170 verdict, CSV), tracker.py
-      (tests/test_tracker.py), calibrate.py. Pipeline itself fully proven live (see above) —
-      **real calibration still not done**: `tx2/calibrate.py` needs Suvir to tape-measure a person at
-      3/5/8 m, physically. `tx2/calib.json` does not exist yet. Every distance/TTC number produced so
-      far uses the `--fpx 900` placeholder and is not meaningful — don't put these in the write-up
-      Results section as real numbers.
+- [x] **Real calibration DONE, but via an improvised method** — `tx2/calibrate.py`'s standard
+      3-distance person method doesn't work in Suvir's room: verified visually (captured a snapshot)
+      that a full standing person's feet get cut off at the bottom of frame at any distance the room
+      allows — not a timing bug, a genuine framing/space constraint. Switched to a single-known-object
+      method instead: held a letter-size sheet of paper (0.2794 m, portrait) at 2 hand-held distances
+      (1.0 m and 1.8 m), photographed each, measured pixel height myself via brightness-threshold
+      edge detection (cross-checked across multiple column slices per shot, consistent to +-1px).
+      f_px samples: 1003.9 (at 1.0 m) and 1146.7 (at 1.8 m) -> mean **1075.3**, spread **13.3%**
+      (calibrate.py's own script would print the same "spread > 10%: re-check" warning at this level
+      — likely hand-held paper tilt/angle imprecision each shot, not a camera problem). Written to
+      `tx2/calib.json` (on both the repo and the TX2) with the method, both samples, and the spread
+      caveat documented inline — not hidden. Verified `perception.py` loads it correctly with no
+      `--fpx` override needed. **Treat resulting distance/TTC numbers as approximate** given the
+      13.3% spread and single-object method — worth a note in the write-up's honest-limitations
+      section, and redoing with a bigger room would tighten this if time allows.
 - [~] P7 IMU threshold context (braking suppression, swerve near-miss, impact black box) in firmware;
       **axis mapping still unverified on the board** — needs Suvir to physically tilt/slide the board
       while watching `wm state`'s `imu_ax_mg`/`imu_ay_mg` fields (not automatable). TinyML: not started.

@@ -1,0 +1,25 @@
+{
+  "f_px": 1075.3,
+  "cx": 640.0,
+  "width": 1280,
+  "height": 720,
+  "method": "single-object (letter paper, portrait, 0.2794m) at 2 hand-held distances - NOT the standard 3-distance person method (room too small for full-body framing)",
+  "samples": [
+    {
+      "method": "paper",
+      "dist_m": 1.0,
+      "paper_h_px": 280.5,
+      "f_px": 1003.9
+    },
+    {
+      "method": "paper",
+      "dist_m": 1.8,
+      "paper_h_px": 178.0,
+      "f_px": 1146.7
+    }
+  ],
+  "spread_pct": 13.3,
+  "spread_warning": "spread > 10%: re-check the tape measurements and framing (calibrate.py would print this same warning) - likely hand-held paper tilt/angle imprecision, not a camera issue",
+  "caveat": "treat perception.py distance/TTC numbers as approximate, not precision-verified",
+  "measured": "2026-09-27 20:36"
+}
