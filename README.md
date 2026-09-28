@@ -32,6 +32,7 @@ PHYTEC / NXP 2026 Embedded Design Contest, built around the phyBOARD-RT1170.
 | `rt1170/src/wm_logic.c` | the decision core, pure C, host-unit-tested (`make -C rt1170/tests/host`) |
 | `tx2/` | `perception.py` (camera → tracks → RT1170), `tracker.py` (CV Kalman), `calibrate.py`, `wingman_proto.py` |
 | `tools/` | `flash.sh`/`flash.ps1` (blhost over USB-OTG), `build.sh`, `scenario_player.py` (scripted scenarios + fault injection), `flood.py`, `dashboard.py` |
+| `kernels/`, `python/` | CUDA Kalman filter bank (AoS vs SoA, one thread per track) + CPU/NumPy references (`make` in kernels/) |
 | `tests/` | protocol C↔Python byte-for-byte check, tracker test |
 | `docs/runbook.md` | step-by-step bring-up and measurement procedure |
 

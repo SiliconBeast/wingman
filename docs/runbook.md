@@ -19,7 +19,7 @@ Zephyr workspace at `~/wingman-rt` (CLAUDE.md §4.1).
 ### 1.2 Toolchain + workspace (Odroid, Ubuntu 26.04)
 CLAUDE.md §4.1, then:
 ```bash
-git clone https://github.com/SiliconBeast/j-obber ~/wingman && cd ~/wingman && git checkout claude/wingman-setup-q973co
+git clone https://github.com/SiliconBeast/wingman ~/wingman && cd ~/wingman && git checkout claude/wingman-setup-q973co
 make -C rt1170/tests/host          # expect: ALL TESTS PASSED  (logic tested on the PC)
 python3 tests/test_proto.py        # expect: ALL PROTOCOL TESTS PASSED
 ```

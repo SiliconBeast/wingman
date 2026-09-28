@@ -1,5 +1,11 @@
 build/
+build-hello/
+build-app.bin
+tools/ivt_flashloader.bin
 __pycache__/
 *.pyc
 rt1170/tests/host/test_logic
 *.log
+kernels/kalman_tracker
+kernels/verify_math
+kernels/replay.txt

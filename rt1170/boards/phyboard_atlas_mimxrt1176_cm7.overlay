@@ -12,3 +12,23 @@
 	};
 };
 
+/* Disabled: unused by this app. Was tested as a hypothesis for why the
+ * ICM40627 on the same LPI2C5 bus fails its first register write at boot
+ * ("Could not initialize sensor") - ruled out, identical failure with the
+ * codec disabled (see CLAUDE.md P7 status). Left disabled since it's
+ * genuinely unused, not because it fixed anything. */
+&audio_codec {
+	status = "disabled";
+};
+
+/* ROOT CAUSE FOUND: our BSP branch (v4.1.0-phy2) ships the ICM40627 at the
+ * wrong I2C address, 0x6b, which is why every register write failed at
+ * boot ("Could not initialize sensor"). PHYTEC fixed this upstream in
+ * commit aa26522 (v4.4.0-phy branch, merged 2026-07-23):
+ * icm40627@6b -> icm40627@69, reg = <0x6b> -> <0x69>. Rather than upgrade
+ * the whole BSP manifest this close to the deadline, override just the
+ * address here. */
+&icm40627 {
+	reg = <0x69>;
+};
+

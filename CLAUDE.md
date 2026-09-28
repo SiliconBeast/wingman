@@ -406,6 +406,9 @@ Model downloader: keep **SSD-Mobilenet-v2**. **Skip** the PyTorch install. Smoke
   **Report only measured numbers.** Real ADAS track counts (10–50) are below the crossover — say so honestly.
 - `kernels/verify_math.cpp` — host-only math check (`g++ -O2 verify_math.cpp && ./a.out` → "MATH OK").
 - Status: files not yet on the TX2; benchmark not yet run.
+- **REWRITTEN Sun Sep 27** (the originals were lost — never reached the repo or the TX2). The
+  verification numbers above came from the *old* code and no longer apply; the new code's own
+  measured numbers are in §17. See §17 for what changed (P stored as upper triangle, equal occupancy).
 
 ---
 
@@ -535,30 +538,173 @@ Fallbacks:
 ## 16. Status (keep updated)
 Legend: [x] done · [~] code done + verified off-target, **not yet on hardware** · [ ] not started
 - [x] TX2 reflashed to JetPack 4.6.6; CUDA/TensorRT verified; SSH running (172.20.10.13, hotspot)
-- [x] CUDA Kalman kernel + verification code written (not yet run on TX2) — **files are NOT in this
-      repo yet**: copy `kernels/` and `python/reference_kalman.py` in from the earlier session
-- [ ] Passwordless SSH Odroid → TX2
-- [ ] Kernel benchmark run on TX2 (paste table into docs/results)
-- [ ] jetson-inference built; `detectnet csi://0` works
-- [~] P1 RT1170: `tools/flash.sh` + `flash.ps1` written (dry-run tested with a fake blhost);
-      `tools/build.sh`. Hardware steps (console, hello_world flash) not done — docs/runbook.md 1.1–1.5
-- [~] P2 Ethernet: live port = the **100 Mbit ENET / KSZ8081** (only one enabled in the devicetree);
-      physical RJ45 not yet identified; ping not done — runbook P2
+- [~] CUDA Kalman kernel + verification: **rewritten** (originals lost) — `kernels/kalman_math.h`,
+      `kalman_tracker.cu`, `verify_math.cpp`, `Makefile`, `python/reference_kalman.py`. Math verified
+      on host; `.cu` compiles for sm_62 (nvcc 12.0) and its logic passes under serial emulation.
+      **Never run on a GPU yet** → on the TX2: `cd kernels && make && ./kalman_tracker --csv ../docs/kernel_sweep.csv`
+      (copy the new files over the TX2's old `~/wingman/kernels/Makefile`).
+- [x] Passwordless SSH Odroid → TX2 (ed25519 key, verified with `BatchMode=yes` — no password fallback)
+- [x] **Kernel benchmark run on TX2 GPU for the first time** (`docs/kernel_sweep.csv`). `nvpmodel -m 0`
+      + `jetson_clocks` set MAXN first. Host math check: `MATH OK`. GPU (NVIDIA Tegra X2, sm_62, 2 SMs,
+      1300 MHz): CPU beats GPU at N=64 (13.28 vs 14.59 us SoA, ratio 0.91x — GPU loses at small N as
+      predicted); crossover at **N=256** (3.33x); scales to **59-61x** at N>=16384. Correctness OK vs
+      CPU reference at every N. `nvprof` occupancy/efficiency (`sudo make profile`, passwordless sudo):
+      **SoA 100% gld/gst efficiency vs AoS 14.04%/12.50%** — the speedup story is memory coalescing,
+      not occupancy (both ~0.85 avg). Real ADAS track counts (10-50) sit right at/below the crossover —
+      exactly the honest story CLAUDE.md wanted, no invented numbers.
+- [x] Camera hardware confirmed working: `nvarguscamerasrc` captures real frames (OV5693, sensor
+      modes up to 2592x1944 detected). First single-frame grab came out black — auto-exposure
+      hadn't converged in ~0.4s; a 60-frame/~2s capture produced a correct image, visually verified.
+- [x] jetson-inference **built successfully** on the TX2 (all binaries: detectnet, imagenet, posenet,
+      camera-capture, python bindings for 2.7/3.6). Two build issues hit and fixed:
+      (1) the `sudo apt-get install` inside `CMakePreBuild.sh` silently failed over a non-TTY SSH
+      session ("no tty present and no askpass program specified") — had to be run interactively by
+      Suvir in his own terminal; (2) `-lnpymath` link failure for the Python 3.6 bindings — the lib
+      exists (`/usr/lib/python3/dist-packages/numpy/core/lib/libnpymath.a`) but wasn't on the linker
+      search path; fixed via `-DCMAKE_SHARED_LINKER_FLAGS`/`-DCMAKE_EXE_LINKER_FLAGS` pointing at it,
+      no sudo needed. `sudo make install && sudo ldconfig` **done** — `import jetson_inference` works
+      system-wide. **`csi://0` live detectNet path now fully tested** (see full-pipeline entries below).
+- [x] `tx2/` code verified on the TX2's real Python 3.6.9 (not just native_sim): `tests/test_proto.py`
+      and `tests/test_tracker.py` both pass in full (CRC vector, struct sizes 146/36, C↔Python
+      byte-identical, tracker distance/velocity estimates correct). All four `tx2/*.py` files
+      syntax-clean on 3.6.9.
+- [x] **Full live pipeline proven on real hardware**: `perception.py --input csi://0` ran for a
+      full 10-minute soak (`timeout 600`), zero crashes/errors. SSD-Mobilenet-v2 TensorRT engine
+      auto-downloaded + built on first run (~2-3 min of tactic autotuning — not cached anywhere
+      by the `cmake`/`make install` steps, budget for it each fresh TX2 setup). Steady ~30 fps
+      (avg 30.2, min 29.6 across 441 samples). 19/441 samples (~4.3%) tracked one real object off
+      the live camera (survived the tracker's 3-hit confirm threshold) — genuine detectNet output,
+      not synthetic. Correctly reported "no status (link?)" throughout, no RT1170 on the wire yet.
+      `--fpx 900` was a placeholder for this smoke test only — **real calibration
+      (`tx2/calibrate.py`, tape-measure a person at 3/5/8 m) still not done**, so no real distance
+      numbers exist yet.
+- [x] Passwordless sudo configured on the TX2 (`/etc/sudoers.d/wingman-automation`,
+      `jetson ALL=(ALL) NOPASSWD: ALL`, Suvir's explicit choice for zero-friction automation
+      mid-crunch) — apt/make/install steps no longer need him at the keyboard.
+- [x] **P1 RT1170 bring-up + flash loop: DONE on real hardware.** Console verified (runbook 1.1,
+      `kernel version` -> 4.1.0). `flash.ps1` flashed `hello_world` (40398 B) then the real
+      `rt1170/` supervisor firmware (177228 B, matches the predicted zero-warning build exactly)
+      back-to-back in one Serial Downloader session — used `blhost -u 0x15a2:0x0073 reset` to
+      bounce the flashloader back to boot-ROM identity between the two flashes instead of a second
+      physical power cycle. Board boots the real firmware: `wm stats` and `wm state` both respond
+      correctly (state `WAIT_LINK`, thresholds match §7.2 exactly, all counters correctly zeroed).
+      S5 boot-mode switch identified precisely: 8-position DIP bank, all-off = QSPI Flash (normal
+      boot), switch 8 alone ON = USB-OTG Serial Downloader. USB-OTG connector is **X16** (labeled
+      OTG1 on silkscreen) — X17/OTG2 is a second, unused USB port. Console is confirmed **X15**
+      (matches CLAUDE.md, not X17 as briefly misread from a low-res photo).
+- [x] **P2 Ethernet: DONE.** Live port is actually the **1 Gbit ENET_1G** (RGMII), not the 100 Mbit
+      KSZ8081 as guessed — `net iface` on the RT1170 shows `carrier=ON`, "1 Gbits full-duplex",
+      confirming the physical RJ45. Static IPs set both sides (RT1170 192.168.10.2/24 was already
+      in the flashed firmware's `prj.conf`; TX2 eth0 192.168.10.1/24 via `nmcli`, using the new
+      passwordless sudo). Ping TX2 -> RT1170: 5/5 received, 0% loss, RTT 0.32-0.73 ms.
+- Windows flashing toolchain notes: `spsdk` 3.11.0 + `platformdirs` 4.12.0 (latest at install time)
+  are incompatible (`_optionally_create_directory() missing... 'private'`) — pin
+  `platformdirs==4.0.0`. Also `spsdk`'s installed scripts (`blhost.exe` etc.) land outside PATH by
+  default; add its Scripts dir explicitly. `flash.ps1`'s `$PSScriptRoot`-based default `-Loader`
+  path doesn't resolve when invoked via `powershell -File` from a parent PowerShell session — pass
+  `-Loader` explicitly, or dot-invoke the script in-session (`& .\tools\flash.ps1 ...`) instead.
 - [x] P3 protocol header + Python mirror + CRC test vectors (`tests/test_proto.py`: C and Python
       produce identical bytes)
-- [~] P4 supervisor firmware: all of §7.1–7.5 implemented; builds with **zero warnings** for
-      `phyboard_atlas/mimxrt1176/cm7` (177 KB); decision core host-unit-tested; whole app runs on
-      `native_sim` and passes 14/14 scenarios. Not yet flashed.
-- [~] P5 scenario_player (6 scenarios, all fault flags, --repeat, --matrix → markdown, --csv),
-      flood.py, dashboard.py (+ --snapshot PNG): verified against native_sim. Hardware run pending.
-- [~] P6 perception.py (+ `--input synthetic`, replay, overlay by RT1170 verdict, CSV), tracker.py
-      (tests/test_tracker.py), calibrate.py. Synthetic path verified end-to-end vs native_sim;
-      jetson-inference path untested (no TX2 here). `tx2/calib.json` does not exist until calibrate.py runs.
-- [~] P7 IMU threshold context (braking suppression, swerve near-miss, impact black box) in firmware;
-      axis mapping unverified on the board. TinyML: not started. `tools/imu_logger.py`: not written.
-- [ ] P8 measurements (runbook P8 checklist)
-- [ ] P10 video
-- [ ] P11 write-up + repo + **submitted** (README.md has the write-up skeleton; Results section empty on purpose)
+- [x] **P4 supervisor firmware: FLASHED and RUNNING on real hardware.** All of §7.1-7.5 implemented;
+      builds with zero warnings (177228 B); decision core host-unit-tested; passes 14/14 on
+      `native_sim` AND 14/14 on the real board (see P5). `wm stats`/`wm state` shell commands both
+      confirmed live.
+- [x] **P5 scenario_player: DONE on real hardware, 14/14 passed** (`docs/test_matrix.md`,
+      `docs/scenario_results.csv`), matching the native_sim result exactly. All 6 scenarios + every
+      fault-injection variant (drop, CRC corruption, reorder, duplicate, rate change, short and long
+      burst-loss, simulated-crash stop-at) passed. Real measured numbers: RT1170 decision latency
+      n=1614, min 11.92 / mean 49.79 / p99 118.62 / max 205.10 us. Round trip host<->RT1170<->host:
+      mean 0.87 / p99 1.37 ms. **Failover time landed exactly on the predicted ~100ms + one 10ms
+      tick**: mean 105.60 ms (n=2) — matches the §11 prediction precisely.
+- [x] **flood.py stress test: done, with an honest (not clean) result.** First attempt (flood started
+      cold, scenario launched 1s later) got 11/20 pass with a 15ms latency spike and several "no
+      status" gaps — looked bad, but all failures clustered in flood's own startup window, so redone
+      properly per the tool's own docstring (scenario settled to NOMINAL first, flood injected mid-run
+      for 15s): 21/30 passed. Key finding: **RT1170's own decision latency stayed essentially flat**
+      (51.19 us mean vs 47.46 us no-flood baseline — the "stays flat under load" design claim holds).
+      The failures were host-side packet delivery gaps concentrated exactly in flood's active window
+      (8 straight fails, several "no status packets received"), fully recovering to baseline the
+      moment flood.py stopped — points at TX2-side CPU/socket contention between two concurrent
+      Python processes, not an RT1170 firmware weakness. Reported as-is, not smoothed over.
+      (`docs/baseline_results.csv`, `docs/flood_stress_results.csv`)
+- [x] **Full perception.py <-> RT1170 live integration: DONE, closed loop confirmed.** With the
+      RT1170 actually listening (not the case during the earlier 10-minute solo soak test), ran
+      `perception.py --input csi://0` again: state went WAIT_LINK -> NOMINAL as real frames arrived
+      (tracked real seq numbers), decision latency 35-117 us, round trip 0.7-1.0 ms — matching the
+      scenario_player numbers exactly. One brief FAILSAFE blip right at start (before the first frame
+      arrived), then clean NOMINAL throughout. `--fpx 900` is still a placeholder (see calibration
+      note below) — this test proved the pipeline, not distance accuracy.
+- [x] **Watchdog demo (`wm hang`) confirmed working**: stalls `decide`, board resets after ~500ms,
+      `wm state` shows a fresh boot (seq back to 0) with `WDT_RESET` correctly reported. **Open
+      finding, not fully resolved**: the very first post-flash boot (before this deliberate test) also
+      reported `WDT_RESET`, despite being a normal power-on. Given CLAUDE.md §17 already flagged the
+      SRC->SRSR reset-cause bit mapping as "unverified on hardware," this could mean either a real
+      unexplained earlier watchdog trip, or that ordinary power-on resets are also being misclassified
+      as watchdog resets. Not disambiguated — would need a clean power-cycle-only boot to compare,
+      which wasn't captured. Flag this honestly in the write-up rather than asserting either way.
+- [x] **Real calibration DONE, but via an improvised method** — `tx2/calibrate.py`'s standard
+      3-distance person method doesn't work in Suvir's room: verified visually (captured a snapshot)
+      that a full standing person's feet get cut off at the bottom of frame at any distance the room
+      allows — not a timing bug, a genuine framing/space constraint. Switched to a single-known-object
+      method instead: held a letter-size sheet of paper (0.2794 m, portrait) at 2 hand-held distances
+      (1.0 m and 1.8 m), photographed each, measured pixel height myself via brightness-threshold
+      edge detection (cross-checked across multiple column slices per shot, consistent to +-1px).
+      f_px samples: 1003.9 (at 1.0 m) and 1146.7 (at 1.8 m) -> mean **1075.3**, spread **13.3%**
+      (calibrate.py's own script would print the same "spread > 10%: re-check" warning at this level
+      — likely hand-held paper tilt/angle imprecision each shot, not a camera problem). Written to
+      `tx2/calib.json` (on both the repo and the TX2) with the method, both samples, and the spread
+      caveat documented inline — not hidden. Verified `perception.py` loads it correctly with no
+      `--fpx` override needed. **Treat resulting distance/TTC numbers as approximate** given the
+      13.3% spread and single-object method — worth a note in the write-up's honest-limitations
+      section, and redoing with a bigger room would tighten this if time allows.
+- [~] **P7 IMU: real hardware bug found, not just "unverified axis mapping."** Live-tested via a
+      custom `tools/imu_monitor.py` (sends perception frames at 30Hz, prints `imu_ax_mg`/`imu_ay_mg`
+      from every status reply) — both stayed at **exactly 0 regardless of orientation**, even at
+      rest (should show ~1000mg of gravity on some axis). Root-caused via a forced reboot (`wm hang`
+      -> watchdog reset -> fresh boot log capture) to a real I2C failure, not a code bug:
+      ```
+      <err> ICM40627: write REG_SIGNAL_PATH_RESET failed
+      <err> ICM40627: Could not initialize sensor
+      ```
+      The very first register write to the sensor fails at boot, so `imu.c`'s own
+      `device_is_ready()` check correctly bails out and the IMU thread never runs — that's why
+      ax/ay are stuck at 0, not a sign-convention or mounting issue. Time-boxed debug pass (~25 min):
+      verified driver is enabled (`CONFIG_ICM40627=y`), Kconfig dependency auto-satisfied, I2C init
+      priority correctly precedes sensor init, pinctrl for LPI2C5 correctly wired (matches CLAUDE.md
+      §2.4), no missing power-supply property in the binding. Tested and **ruled out** shared-bus
+      contention with the audio codec (also on LPI2C5): disabled it via
+      `rt1170/boards/phyboard_atlas_mimxrt1176_cm7.overlay`, rebuilt (byte-identical binary size —
+      no codec driver was ever actually linked in), reflashed, **identical failure at the identical
+      boot timestamp**. Left the codec disabled (genuinely unused either way) but this is not a fix.
+      **Root cause found and fixed** (Suvir chose to keep digging rather than take the fallback):
+      searched upstream and found PHYTEC's own repo had already fixed this exact bug — commit
+      `aa26522` (merged 2026-07-23, `v4.4.0-phy` branch) changes the ICM40627's devicetree address
+      from **0x6b to 0x69**. Our manifest pins the older `v4.1.0-phy2` branch, which still has the
+      bad address. Rather than upgrade the whole BSP this close to the deadline, overrode just the
+      address via `rt1170/boards/phyboard_atlas_mimxrt1176_cm7.overlay` (`&icm40627 { reg = <0x69>; };`).
+      Rebuilt, reflashed, confirmed: **no more init error, sensor fully alive.**
+      - **Axis assignment verified correct** via `tools/imu_monitor.py` and a controlled physical
+        test (tilt the Ethernet-port edge down/up, hold 3s, back flat): `ax` cleanly ramped to a
+        ~260-300mg plateau during the hold with `ay` staying flat throughout (noise-level only) —
+        unambiguous single-axis response on the right axis. (An earlier test looked like axes were
+        swapped, but that was because the physical motion was lateral, not the requested pitch —
+        retracted once redone with a clean, correctly-executed motion. Worth remembering: verify the
+        actual physical motion matches the intended test before trusting the data.)
+      - **Sign convention not fixed, deliberately**: nose-edge-down produced positive `ax`, while
+        the firmware's braking threshold expects very negative `ax` for a nose-dive. Whether
+        `AX_SIGN` needs flipping depends on which physical edge ends up facing "vehicle front" in
+        the final mounting — a mounting decision for Suvir, not something to guess at and hardcode.
+      - Codec-disable change (from the ruled-out hypothesis) left in place since it's genuinely
+        unused, but it did not contribute to the fix — the address was the entire bug.
+      TinyML: not started. `tools/imu_logger.py`: not written.
+- [~] P8 measurements: **mostly done** (decision latency, round trip, failover, scenario test matrix,
+      latency-under-flood, perception FPS, CUDA kernel sweep + occupancy — all above). Still missing:
+      end-to-end camera->alert honest estimate (needs real calibration first to mean anything).
+- [ ] P10 video — needs Suvir: filming, physically unplugging the TX2 Ethernet cable for the "money
+      shot," the IMU tilt/slide demo, footage of both boards. Not something to automate.
+- [ ] P11 write-up + repo + **submitted** — most of the Results section (§11) now has real numbers
+      to drop in; still needs the calibration-dependent numbers, the video, and the actual submission
+      via the All About Circuits account.
 - Open question for Suvir: did a MIPI-DSI panel come in the RT1170 kit?
 
 ---
@@ -598,5 +744,15 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
 - **native_sim**: `rt1170/boards/native_sim_native_64.conf` maps Zephyr sockets to host sockets; the
   firmware then listens on the host's :5005 (`tools/build.sh --sim`). Its latency/timing numbers are
   simulation artefacts — never report them.
+- **CUDA kernels (rewritten)**: P stored as its 10-float upper triangle (exactly symmetric; 14
+  floats/track = 56 B). Model constants are plain literals so the double path equals NumPy exactly.
+  Measured on host (these runs, not the TX2): hand-expanded vs naive full-matrix max rel diff
+  8.6e-14 (double) / 3.8e-5 (float) over 20k random steps; vs `python/reference_kalman.py` replay
+  5.8e-15 over 2020 states; single track 60 frames q=0.01 → velocity 4.995/2.011 (true 5/2);
+  1000 tracks × 200 frames float, monocular noise → mean vel err 0.295 m/s, all P positive definite.
+  **Fair AoS/SoA comparison**: naive SoA indexing used 56 registers vs 32 for AoS (half the
+  occupancy); an `asm volatile` address barrier brings SoA to 32, no spills; both kernels have
+  `__launch_bounds__(256, 8)`. `--block` > 256 is rejected. The GPU correctness check was
+  mutation-tested (planted SoA index bug → CORRECTNESS FAILED). No GPU timing exists yet.
 - Cloud build env used for verification: Zephyr SDK 0.17.0 + `west init -m …zephyr-phytec-application
   --mr v4.1.0-phy2`, `west update --narrow -o=--depth=1`.
