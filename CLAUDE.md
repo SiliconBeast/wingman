@@ -543,9 +543,37 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       on host; `.cu` compiles for sm_62 (nvcc 12.0) and its logic passes under serial emulation.
       **Never run on a GPU yet** → on the TX2: `cd kernels && make && ./kalman_tracker --csv ../docs/kernel_sweep.csv`
       (copy the new files over the TX2's old `~/wingman/kernels/Makefile`).
-- [ ] Passwordless SSH Odroid → TX2
+- [x] Passwordless SSH Odroid → TX2 (ed25519 key, verified with `BatchMode=yes` — no password fallback)
 - [ ] Kernel benchmark run on TX2 (paste table into docs/results)
-- [ ] jetson-inference built; `detectnet csi://0` works
+- [x] Camera hardware confirmed working: `nvarguscamerasrc` captures real frames (OV5693, sensor
+      modes up to 2592x1944 detected). First single-frame grab came out black — auto-exposure
+      hadn't converged in ~0.4s; a 60-frame/~2s capture produced a correct image, visually verified.
+- [x] jetson-inference **built successfully** on the TX2 (all binaries: detectnet, imagenet, posenet,
+      camera-capture, python bindings for 2.7/3.6). Two build issues hit and fixed:
+      (1) the `sudo apt-get install` inside `CMakePreBuild.sh` silently failed over a non-TTY SSH
+      session ("no tty present and no askpass program specified") — had to be run interactively by
+      Suvir in his own terminal; (2) `-lnpymath` link failure for the Python 3.6 bindings — the lib
+      exists (`/usr/lib/python3/dist-packages/numpy/core/lib/libnpymath.a`) but wasn't on the linker
+      search path; fixed via `-DCMAKE_SHARED_LINKER_FLAGS`/`-DCMAKE_EXE_LINKER_FLAGS` pointing at it,
+      no sudo needed. `sudo make install && sudo ldconfig` still pending (Suvir's step) — until then
+      `import jetson_inference` fails system-wide; **`csi://0` live detectNet path still untested.**
+- [x] `tx2/` code verified on the TX2's real Python 3.6.9 (not just native_sim): `tests/test_proto.py`
+      and `tests/test_tracker.py` both pass in full (CRC vector, struct sizes 146/36, C↔Python
+      byte-identical, tracker distance/velocity estimates correct). All four `tx2/*.py` files
+      syntax-clean on 3.6.9.
+- [x] **Full live pipeline proven on real hardware**: `perception.py --input csi://0` ran for a
+      full 10-minute soak (`timeout 600`), zero crashes/errors. SSD-Mobilenet-v2 TensorRT engine
+      auto-downloaded + built on first run (~2-3 min of tactic autotuning — not cached anywhere
+      by the `cmake`/`make install` steps, budget for it each fresh TX2 setup). Steady ~30 fps
+      (avg 30.2, min 29.6 across 441 samples). 19/441 samples (~4.3%) tracked one real object off
+      the live camera (survived the tracker's 3-hit confirm threshold) — genuine detectNet output,
+      not synthetic. Correctly reported "no status (link?)" throughout, no RT1170 on the wire yet.
+      `--fpx 900` was a placeholder for this smoke test only — **real calibration
+      (`tx2/calibrate.py`, tape-measure a person at 3/5/8 m) still not done**, so no real distance
+      numbers exist yet.
+- [x] Passwordless sudo configured on the TX2 (`/etc/sudoers.d/wingman-automation`,
+      `jetson ALL=(ALL) NOPASSWD: ALL`, Suvir's explicit choice for zero-friction automation
+      mid-crunch) — apt/make/install steps no longer need him at the keyboard.
 - [~] P1 RT1170: `tools/flash.sh` + `flash.ps1` written (dry-run tested with a fake blhost);
       `tools/build.sh`. Hardware steps (console, hello_world flash) not done — docs/runbook.md 1.1–1.5
 - [~] P2 Ethernet: live port = the **100 Mbit ENET / KSZ8081** (only one enabled in the devicetree);

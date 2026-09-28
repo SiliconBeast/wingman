@@ -1,4 +1,6 @@
 build/
+build-hello/
+tools/ivt_flashloader.bin
 __pycache__/
 *.pyc
 rt1170/tests/host/test_logic
