@@ -676,12 +676,27 @@ Legend: [x] done · [~] code done + verified off-target, **not yet on hardware**
       `rt1170/boards/phyboard_atlas_mimxrt1176_cm7.overlay`, rebuilt (byte-identical binary size —
       no codec driver was ever actually linked in), reflashed, **identical failure at the identical
       boot timestamp**. Left the codec disabled (genuinely unused either way) but this is not a fix.
-      Remaining hypotheses need physical access: chip not populated/soldered on this board, or an
-      actual I2C bus scan/scope trace — out of scope for a source-level pass. **Using CLAUDE.md's
-      own documented fallback: drop IMU, note honestly in the write-up as a found-and-diagnosed
-      hardware limitation** (not "didn't get to it") — braking-suppression/swerve/black-box logic in
-      firmware is real and correct, just never gets live sensor data to act on. TinyML: not started
-      (already downstream of a working IMU). `tools/imu_logger.py`: not written.
+      **Root cause found and fixed** (Suvir chose to keep digging rather than take the fallback):
+      searched upstream and found PHYTEC's own repo had already fixed this exact bug — commit
+      `aa26522` (merged 2026-07-23, `v4.4.0-phy` branch) changes the ICM40627's devicetree address
+      from **0x6b to 0x69**. Our manifest pins the older `v4.1.0-phy2` branch, which still has the
+      bad address. Rather than upgrade the whole BSP this close to the deadline, overrode just the
+      address via `rt1170/boards/phyboard_atlas_mimxrt1176_cm7.overlay` (`&icm40627 { reg = <0x69>; };`).
+      Rebuilt, reflashed, confirmed: **no more init error, sensor fully alive.**
+      - **Axis assignment verified correct** via `tools/imu_monitor.py` and a controlled physical
+        test (tilt the Ethernet-port edge down/up, hold 3s, back flat): `ax` cleanly ramped to a
+        ~260-300mg plateau during the hold with `ay` staying flat throughout (noise-level only) —
+        unambiguous single-axis response on the right axis. (An earlier test looked like axes were
+        swapped, but that was because the physical motion was lateral, not the requested pitch —
+        retracted once redone with a clean, correctly-executed motion. Worth remembering: verify the
+        actual physical motion matches the intended test before trusting the data.)
+      - **Sign convention not fixed, deliberately**: nose-edge-down produced positive `ax`, while
+        the firmware's braking threshold expects very negative `ax` for a nose-dive. Whether
+        `AX_SIGN` needs flipping depends on which physical edge ends up facing "vehicle front" in
+        the final mounting — a mounting decision for Suvir, not something to guess at and hardcode.
+      - Codec-disable change (from the ruled-out hypothesis) left in place since it's genuinely
+        unused, but it did not contribute to the fix — the address was the entire bug.
+      TinyML: not started. `tools/imu_logger.py`: not written.
 - [~] P8 measurements: **mostly done** (decision latency, round trip, failover, scenario test matrix,
       latency-under-flood, perception FPS, CUDA kernel sweep + occupancy — all above). Still missing:
       end-to-end camera->alert honest estimate (needs real calibration first to mean anything).
