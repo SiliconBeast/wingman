@@ -1,5 +1,7 @@
 # Wingman
 
+*Built with help from [Claude Code](https://claude.com/claude-code).*
+
 **A Jetson GPU perceives hazards; an i.MX RT1170 makes the safety decision — deterministically —
 and fails safe the moment perception goes silent.**
 
