@@ -173,15 +173,20 @@ story.append(rule())
 # ---------- Abstract ----------
 story.append(Paragraph("Abstract", styles["H2"]))
 story.append(Paragraph(
-    "Wingman is an advanced driver-assistance (ADAS) <i>prototype</i> &mdash; a proof of concept, "
-    "not a certified system &mdash; that separates perception from safety decision-making across "
-    "two processors, mirroring the architecture of production vehicle safety systems. An NVIDIA "
-    "Jetson TX2 performs GPU-accelerated object detection and tracking; a PHYTEC phyBOARD-RT1170 "
-    "(NXP i.MX RT1176, Zephyr RTOS) independently evaluates collision risk and enforces a fail-safe "
-    "response, entirely on deterministic, watchdog-protected hardware. This document reports the "
-    "system design and results measured on physical hardware, including a full fault-injection "
-    "test matrix, decision-latency and failover timing, a CUDA kernel benchmark, and a real "
-    "firmware bug found and corrected in the board's own PHYTEC BSP branch.",
+    "Wingman demonstrates a general pattern for safety-critical robotics: separating perception "
+    "from safety decision-making across two processors, so that a fast but non-deterministic GPU "
+    "vision system can never itself become a single point of failure. This split is the same one "
+    "underlying production vehicle safety systems, industrial collaborative-robot (cobot) safety "
+    "controllers, and autonomous mobile robot (AMR) collision-avoidance systems. Wingman implements "
+    "it as an automotive-styled advanced driver-assistance (ADAS) <i>prototype</i> &mdash; a proof "
+    "of concept, not a certified system, chosen because collision timing requirements are concrete "
+    "and easy to demonstrate on a bench. An NVIDIA Jetson TX2 performs GPU-accelerated object "
+    "detection and tracking; a PHYTEC phyBOARD-RT1170 (NXP i.MX RT1176, Zephyr RTOS) independently "
+    "evaluates collision risk and enforces a fail-safe response, entirely on deterministic, "
+    "watchdog-protected hardware. This document reports the system design and results measured on "
+    "physical hardware, including a full fault-injection test matrix, decision-latency and failover "
+    "timing, a CUDA kernel benchmark, and a real firmware bug found and corrected in the board's "
+    "own PHYTEC BSP branch.",
     styles["Body"]))
 story.append(rule())
 
@@ -190,11 +195,16 @@ heading("The Problem")
 story.append(Paragraph(
     "GPU-based perception is fast and capable, but it is not deterministic: it can stall on an "
     "unexpected frame, crash, drop the camera feed, or simply take longer than expected under "
-    "load. A safety system built entirely on that foundation inherits its uncertainty. Production "
-    "vehicles address this by separating concerns: a perception computer determines <i>what</i> is "
-    "present in the environment, while a simpler, independently-watchdogged electronic control "
-    "unit determines <i>whether it is dangerous</i> and what action to take if the perception "
-    "system becomes unavailable. Wingman implements this separation at prototype scale.",
+    "load. A safety system built entirely on that foundation inherits its uncertainty &mdash; a "
+    "problem that is identical whether the perception system is watching for pedestrians from a "
+    "vehicle, for people near a robot arm on a factory floor, or for obstacles ahead of an "
+    "autonomous mobile robot in a warehouse. Each of these domains solves it the same way: a "
+    "perception computer determines <i>what</i> is present in the environment, while a simpler, "
+    "independently-watchdogged control unit determines <i>whether it is dangerous</i> and what "
+    "action to take if the perception system becomes unavailable. This is the split required by "
+    "automotive safety practice and by industrial functional-safety standards such as IEC 61508 "
+    "and ISO 13849 alike. Wingman implements it at prototype scale, in an automotive-styled "
+    "demonstration.",
     styles["Body"]))
 
 # ---------- 2. Architecture ----------
@@ -227,7 +237,11 @@ story.append(Paragraph(
     "Wingman deliberately positions the phyBOARD-RT1170 as the deterministic authority to which "
     "the GPU-based perception system reports, rather than as a passive peripheral. Every safety "
     "decision, and the fail-safe response when perception is lost, executes entirely on the "
-    "RT1170's Cortex-M7, independent of the Linux/GPU subsystem's state.",
+    "RT1170's Cortex-M7, independent of the Linux/GPU subsystem's state. The properties measured "
+    "below &mdash; cycle-accurate timing, a hardware watchdog, and bounded fail-safe response "
+    "&mdash; are exactly the properties any perception-plus-supervisor safety architecture needs, "
+    "whether the perception input comes from a vehicle camera, a warehouse robot's LIDAR, or a "
+    "drone's obstacle sensor.",
     styles["Body"]))
 
 rt_points = [
@@ -427,6 +441,25 @@ story.append(ListFlowable(
 
 # ---------- 7. Future Work ----------
 heading("Future Work")
+
+subheading("7.1 Applications Beyond Automotive")
+story.append(Paragraph(
+    "Because the RT1170 side of Wingman makes no automotive-specific assumptions &mdash; it "
+    "consumes tracked objects, distance, and closing speed over a generic UDP link, and outputs a "
+    "hazard-level verdict &mdash; the identical supervisor firmware applies directly to other "
+    "safety-critical robotics domains with only the perception front-end and the physical output "
+    "changed. Concrete candidates: <b>industrial cobot safety</b>, where a vision system flags "
+    "human proximity to a robot arm and the RT1170 enforces the stop/slow decision independently "
+    "of the robot's main controller, mirroring the perception/safety split already required by "
+    "IEC 61508 and ISO 13849; <b>autonomous mobile robot (AMR) collision avoidance</b> in "
+    "warehouse settings, using the same TTC-and-close-range-override logic against forklifts and "
+    "pedestrians; and <b>small UAV obstacle avoidance</b>, where the same watchdog-backed fail-safe "
+    "pattern already used in flight controllers could be driven by a GPU-based vision front end "
+    "instead of the more limited sensors typical of that role today. None of these have been built "
+    "or tested here; they follow directly from the architecture as designed.",
+    styles["Body"]))
+
+subheading("7.2 Automotive-Specific Next Steps")
 future = [
     "Repeat camera calibration using the standard person-based procedure in a larger test space "
     "to obtain verified distance and TTC accuracy.",
