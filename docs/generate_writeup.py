@@ -9,7 +9,7 @@ from reportlab.lib import colors
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle,
-    PageBreak, HRFlowable, ListFlowable, ListItem
+    PageBreak, HRFlowable, ListFlowable, ListItem, Image, KeepTogether
 )
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
 
@@ -250,6 +250,20 @@ story.append(Paragraph(
     "reported.",
     styles["Body"]))
 
+img_camera = os.path.join(HERE, "camera_test.jpg")
+if os.path.exists(img_camera):
+    story.append(KeepTogether([
+        Spacer(1, 4),
+        Image(img_camera, width=4.2*inch, height=4.2*inch*720/1280, hAlign="CENTER"),
+        Paragraph(
+            "Figure 2. A frame captured directly by the TX2's OV5693 CSI camera during initial "
+            "hardware verification, prior to any perception software being run. The first "
+            "single-frame capture attempt was underexposed (auto-exposure had not yet converged); "
+            "this frame, taken roughly two seconds into a sustained capture, confirmed the camera "
+            "pipeline was functioning correctly.",
+            styles["Caption"]),
+    ]))
+
 # ---------- 5. Results ----------
 heading("Results")
 story.append(Paragraph(
@@ -282,6 +296,32 @@ results_table = Table([
 ], colWidths=[2.2*inch, 4.1*inch])
 results_table.setStyle(table_style())
 story.append(results_table)
+story.append(Spacer(1, 14))
+
+img_1m = os.path.join(HERE, "paper_check_1m.jpg")
+img_18m = os.path.join(HERE, "paper_check_1_8m.jpg")
+if os.path.exists(img_1m) and os.path.exists(img_18m):
+    w = 2.55*inch
+    h = w*720/1280
+    cal_imgs = Table(
+        [[Image(img_1m, width=w, height=h), Image(img_18m, width=w, height=h)]],
+        colWidths=[w+0.1*inch, w+0.1*inch],
+    )
+    cal_imgs.setStyle(TableStyle([
+        ("ALIGN", (0, 0), (-1, -1), "CENTER"),
+        ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+    ]))
+    story.append(KeepTogether([
+        cal_imgs,
+        Paragraph(
+            "Figure 3. The substitute calibration procedure described in Section 6: a sheet of "
+            "standard letter paper (0.2794 m, portrait orientation) held at two measured distances "
+            "from the camera, 1.0 m (left) and 1.8 m (right). Focal length was computed from the "
+            "paper's measured pixel height at each distance; the two independent estimates differed "
+            "by 13.3%, which is reported as a limitation rather than resolved by additional "
+            "averaging. The subject's face is intentionally obscured by the paper in both frames.",
+            styles["Caption"]),
+    ]))
 
 story.append(PageBreak())
 
