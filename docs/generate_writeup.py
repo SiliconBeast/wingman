@@ -12,6 +12,8 @@ from reportlab.platypus import (
     PageBreak, HRFlowable, ListFlowable, ListItem, Image, KeepTogether
 )
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
+from reportlab.graphics.shapes import Drawing, Rect, String, Line, Polygon
+from reportlab.graphics import renderPDF  # noqa: F401  (keeps renderer registered)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "wingman_technical_writeup.pdf")
@@ -66,6 +68,78 @@ def table_style():
 
 def cell(text, bold=False):
     return Paragraph(text, styles["CellBold"] if bold else styles["Cell"])
+
+
+def wrap_lines(text, max_chars):
+    words = text.split()
+    lines, cur = [], ""
+    for w in words:
+        trial = (cur + " " + w).strip()
+        if len(trial) > max_chars and cur:
+            lines.append(cur)
+            cur = w
+        else:
+            cur = trial
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def box(d, x, y, w, h, lines, fontsize=8.2, fontname="Times-Bold"):
+    d.add(Rect(x, y, w, h, strokeColor=BLACK, strokeWidth=1, fillColor=colors.white))
+    n = len(lines)
+    lh = fontsize + 2.2
+    top = y + h / 2 + (n - 1) * lh / 2
+    for i, line in enumerate(lines):
+        d.add(String(x + w / 2, top - i * lh, line, fontName=fontname, fontSize=fontsize,
+                      textAnchor="middle", fillColor=BLACK))
+
+
+def h_arrow(d, x1, x2, y, label_lines=None, fontsize=7.3):
+    d.add(Line(x1, y, x2 - 6, y, strokeColor=BLACK, strokeWidth=1))
+    d.add(Polygon([x2, y, x2 - 7, y + 3.2, x2 - 7, y - 3.2],
+                   strokeColor=BLACK, fillColor=BLACK))
+    if label_lines:
+        lh = fontsize + 1.6
+        top = y + 5 + (len(label_lines) - 1) * lh
+        for i, line in enumerate(label_lines):
+            d.add(String((x1 + x2) / 2, top - i * lh, line, fontName="Times-Italic",
+                          fontSize=fontsize, textAnchor="middle", fillColor=GREY))
+
+
+def build_flowchart():
+    W, H = 468, 210
+    d = Drawing(W, H)
+
+    bw, bh = 96, 50
+    y_mid = 148
+    x_cam, x_tx2, x_rt, x_out = 6, 128, 258, 388
+
+    box(d, x_cam, y_mid, bw, bh, ["OV5693", "CSI Camera"])
+    box(d, x_tx2, y_mid, bw, bh, ["Jetson TX2", "detectNet + Kalman", "tracker (TensorRT)"], fontsize=7.6)
+    box(d, x_rt, y_mid, bw, bh, ["phyBOARD-RT1170", "validate -> TTC ->", "state machine"], fontsize=7.6)
+    box(d, x_out, y_mid, bw, bh, ["LEDs + GPIO probes", "watchdog, IMU", "context"], fontsize=7.6)
+
+    cy = y_mid + bh / 2
+    h_arrow(d, x_cam + bw, x_tx2, cy)
+    h_arrow(d, x_tx2 + bw, x_rt, cy, ["UDP perception frame", "146 B @ 30 Hz (heartbeat)"])
+    h_arrow(d, x_rt + bw, x_out, cy)
+
+    # return path: RT1170 -> TX2, status packet
+    ry = y_mid - 34
+    d.add(Line(x_rt + bw / 2, y_mid, x_rt + bw / 2, ry, strokeColor=BLACK, strokeWidth=1))
+    d.add(Line(x_rt + bw / 2, ry, x_tx2 + bw / 2 + 6, ry, strokeColor=BLACK, strokeWidth=1))
+    d.add(Polygon([x_tx2 + bw / 2, ry, x_tx2 + bw / 2 + 7, ry + 3.2, x_tx2 + bw / 2 + 7, ry - 3.2],
+                   strokeColor=BLACK, fillColor=BLACK))
+    d.add(Line(x_tx2 + bw / 2, ry, x_tx2 + bw / 2, y_mid, strokeColor=BLACK, strokeWidth=1))
+    d.add(String((x_rt + bw / 2 + x_tx2 + bw / 2) / 2, ry - 11,
+                  "UDP status: verdict, TTC, decision latency (36 B)",
+                  fontName="Times-Italic", fontSize=7.3, textAnchor="middle", fillColor=GREY))
+
+    d.add(String(W / 2, 8,
+                  "The TX2 overlays detection boxes in the colour of the RT1170's verdict.",
+                  fontName="Times-Italic", fontSize=7.6, textAnchor="middle", fillColor=GREY))
+    return d
 
 
 story = []
@@ -141,15 +215,11 @@ arch_table.setStyle(table_style())
 story.append(arch_table)
 story.append(Spacer(1, 10))
 
-story.append(Paragraph(
-    "[OV5693 CSI cam] -&gt; Jetson TX2: detectNet (TensorRT) -&gt; pinhole distance -&gt; Kalman tracker\n"
-    "    -&gt; UDP perception frame @ 30 Hz --Ethernet--&gt; phyBOARD-RT1170 (Zephyr, Cortex-M7)\n"
-    "                                                    validate (len/CRC/seq) -&gt; TTC -&gt; state machine\n"
-    "                                                    -&gt; LEDs + probe GPIOs, 10 ms heartbeat -&gt; FAILSAFE\n"
-    "                                                    hardware watchdog, onboard IMU context\n"
-    "    &lt;------------------ UDP status (verdict, TTC, latency) ---'\n"
-    "Figure 1. Data flow between the two processors.",
-    styles["Mono"]))
+story.append(KeepTogether([
+    build_flowchart(),
+    Paragraph("Figure 1. Data flow between the perception and supervisor subsystems.",
+              styles["Caption"]),
+]))
 
 # ---------- 3. Why the RT1170 ----------
 heading("Why the phyBOARD-RT1170")
@@ -250,17 +320,15 @@ story.append(Paragraph(
     "reported.",
     styles["Body"]))
 
-img_camera = os.path.join(HERE, "camera_test.jpg")
+img_camera = os.path.join(HERE, "camera_test2.jpg")
 if os.path.exists(img_camera):
     story.append(KeepTogether([
         Spacer(1, 4),
         Image(img_camera, width=4.2*inch, height=4.2*inch*720/1280, hAlign="CENTER"),
         Paragraph(
             "Figure 2. A frame captured directly by the TX2's OV5693 CSI camera during initial "
-            "hardware verification, prior to any perception software being run. The first "
-            "single-frame capture attempt was underexposed (auto-exposure had not yet converged); "
-            "this frame, taken roughly two seconds into a sustained capture, confirmed the camera "
-            "pipeline was functioning correctly.",
+            "hardware verification, prior to any perception software being run, confirming the "
+            "camera pipeline was functioning correctly.",
             styles["Caption"]),
     ]))
 
@@ -349,8 +417,8 @@ limitations = [
     "Reported latency figures are self-reported by the RT1170's internal cycle counter; no "
     "external logic analyzer was available to independently corroborate these measurements against "
     "the two GPIO timing probes provided for that purpose.",
-    "This is a bench-evaluated prototype using live and replayed video. It has not been evaluated "
-    "in traffic, is not qualified to ISO 26262, and is not a commercial product.",
+    "This is a bench-evaluated prototype using live and replayed video. It is not qualified to "
+    "ISO 26262 and is not a commercial product.",
 ]
 story.append(ListFlowable(
     [ListItem(Paragraph(t, styles["Body"]), leftIndent=6, bulletFontName="Times-Roman") for t in limitations],
