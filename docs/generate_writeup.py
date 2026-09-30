@@ -95,20 +95,20 @@ def box(d, x, y, w, h, lines, fontsize=8.2, fontname="Times-Bold"):
                       textAnchor="middle", fillColor=BLACK))
 
 
-def h_arrow(d, x1, x2, y, label_lines=None, fontsize=7.3):
+def h_arrow(d, x1, x2, y, label_lines=None, fontsize=7.3, label_top=None):
     d.add(Line(x1, y, x2 - 6, y, strokeColor=BLACK, strokeWidth=1))
     d.add(Polygon([x2, y, x2 - 7, y + 3.2, x2 - 7, y - 3.2],
                    strokeColor=BLACK, fillColor=BLACK))
     if label_lines:
         lh = fontsize + 1.6
-        top = y + 5 + (len(label_lines) - 1) * lh
+        top = label_top if label_top is not None else y + 5 + (len(label_lines) - 1) * lh
         for i, line in enumerate(label_lines):
             d.add(String((x1 + x2) / 2, top - i * lh, line, fontName="Times-Italic",
                           fontSize=fontsize, textAnchor="middle", fillColor=GREY))
 
 
 def build_flowchart():
-    W, H = 468, 210
+    W, H = 468, 248
     d = Drawing(W, H)
 
     bw, bh = 96, 50
@@ -122,7 +122,8 @@ def build_flowchart():
 
     cy = y_mid + bh / 2
     h_arrow(d, x_cam + bw, x_tx2, cy)
-    h_arrow(d, x_tx2 + bw, x_rt, cy, ["UDP perception frame", "146 B @ 30 Hz (heartbeat)"])
+    h_arrow(d, x_tx2 + bw, x_rt, cy, ["UDP perception frame", "146 B @ 30 Hz (heartbeat)"],
+            label_top=H - 8)
     h_arrow(d, x_rt + bw, x_out, cy)
 
     # return path: RT1170 -> TX2, status packet
@@ -163,6 +164,9 @@ story.append(Paragraph(
 story.append(Paragraph(
     "Submission &mdash; All About Circuits / PHYTEC / NXP 2026 Embedded Design Contest",
     styles["WAffil"]))
+story.append(Paragraph(
+    "Suvir &mdash; Department of Computer Engineering, University of Alberta",
+    styles["WAffil"]))
 story.append(Spacer(1, 8))
 story.append(Paragraph(
     "<i>A Jetson GPU perceives hazards; a PHYTEC phyBOARD-RT1170 makes the safety decision "
@@ -188,6 +192,10 @@ story.append(Paragraph(
     "timing, a CUDA kernel benchmark, and a real firmware bug found and corrected in the board's "
     "own PHYTEC BSP branch.",
     styles["Body"]))
+story.append(Paragraph(
+    "<b>Keywords:</b> advanced driver-assistance systems, functional safety, real-time embedded "
+    "systems, Zephyr RTOS, sensor fusion, fail-safe design, heterogeneous computing.",
+    styles["Body"]))
 story.append(rule())
 
 # ---------- 1. Problem ----------
@@ -209,6 +217,8 @@ story.append(Paragraph(
 
 # ---------- 2. Architecture ----------
 heading("System Architecture")
+story.append(Paragraph("Table 1. Division of responsibility between the two processors.",
+                        styles["Caption"]))
 arch_table = Table([
     [cell("", True), cell("Perception &mdash; Jetson TX2", True),
      cell("Supervisor &mdash; phyBOARD-RT1170", True)],
@@ -280,8 +290,6 @@ story.append(Paragraph(
     "RT1170 alone.",
     styles["Body"]))
 
-story.append(PageBreak())
-
 # ---------- 4. System Design ----------
 heading("System Design")
 
@@ -318,7 +326,7 @@ story.append(Paragraph(
 
 subheading("4.4 Inertial Measurement Context")
 story.append(Paragraph(
-    "Sustained longitudinal deceleration below &minus;0.3 g for 200 ms downgrades a WARNING state "
+    "Sustained longitudinal deceleration below -0.3 g for 200 ms downgrades a WARNING state "
     "to CAUTION, reflecting driver-initiated braking, except during the close-range override "
     "condition. A lateral swerve during an active threat is logged as a near-miss event; an "
     "impact exceeding 2 g latches a 64-decision black-box buffer.",
@@ -353,6 +361,8 @@ story.append(Paragraph(
     "TX2 &mdash; rather than simulation. Complete raw data accompanies the project source.",
     styles["Body"]))
 
+story.append(Paragraph("Table 2. Measured results summary, all obtained on physical hardware.",
+                        styles["Caption"]))
 results_table = Table([
     [cell("Metric", True), cell("Result", True)],
     [cell("Decision latency (socket delivery to output)"),
@@ -404,8 +414,6 @@ if os.path.exists(img_1m) and os.path.exists(img_18m):
             "averaging. The subject's face is intentionally obscured by the paper in both frames.",
             styles["Caption"]),
     ]))
-
-story.append(PageBreak())
 
 # ---------- 6. Limitations ----------
 heading("Limitations")
@@ -479,6 +487,8 @@ for t in future:
 
 # ---------- 8. BOM ----------
 heading("Bill of Materials")
+story.append(Paragraph("Table 3. Hardware and software used to build and test the prototype.",
+                        styles["Caption"]))
 bom_table = Table([
     [cell("Category", True), cell("Items", True)],
     [cell("Hardware"),
@@ -502,10 +512,46 @@ story.append(Paragraph(
     "<u>github.com/SiliconBeast/wingman</u></link>.",
     styles["Body"]))
 
+# ---------- 10. References ----------
+heading("References")
+references = [
+    "PHYTEC Messtechnik GmbH, <i>BSP Zephyr RT1170 (PD25.1.1) Documentation</i>, "
+    "docs.phytec.com/projects/zephyr-phycore-rt1170.",
+    "Zephyr Project, <i>phyBOARD-Atlas i.MX RT1170 Board Documentation</i>, "
+    "docs.zephyrproject.org/latest/boards/phytec/phyboard_atlas.",
+    "NXP Semiconductors, <i>i.MX RT1170 Crossover MCU Reference Manual</i>, document IMXRT1170RM.",
+    "NXP Semiconductors, <i>MCUXpresso SPSDK / blhost User's Guide</i> (USB-OTG serial "
+    "bootloader programming).",
+    "International Electrotechnical Commission, <i>IEC 61508: Functional Safety of "
+    "Electrical/Electronic/Programmable Electronic Safety-Related Systems</i>.",
+    "International Organization for Standardization, <i>ISO 13849: Safety of Machinery "
+    "&mdash; Safety-Related Parts of Control Systems</i>.",
+    "Suvir, <i>Wingman</i> (source code, build instructions, and raw measurement data), "
+    "github.com/SiliconBeast/wingman, 2026.",
+]
+story.append(ListFlowable(
+    [ListItem(Paragraph(t, styles["Body"]), leftIndent=6, bulletFontName="Times-Roman") for t in references],
+    bulletType="1", start="1", leftIndent=20,
+))
+
 doc = SimpleDocTemplate(OUT, pagesize=letter,
-                         topMargin=0.85*inch, bottomMargin=0.85*inch,
+                         topMargin=0.85*inch, bottomMargin=0.95*inch,
                          leftMargin=0.9*inch, rightMargin=0.9*inch,
                          title="Wingman -- Technical Write-up",
                          author="Suvir")
-doc.build(story)
+
+
+def _page_footer(canvas, doc_):
+    canvas.saveState()
+    canvas.setStrokeColor(RULE_GREY)
+    canvas.setLineWidth(0.5)
+    canvas.line(0.9*inch, 0.72*inch, letter[0] - 0.9*inch, 0.72*inch)
+    canvas.setFont("Times-Roman", 9)
+    canvas.setFillColor(GREY)
+    canvas.drawCentredString(letter[0] / 2.0, 0.5*inch, str(doc_.page))
+    canvas.drawString(0.9*inch, 0.5*inch, "Wingman -- Technical Write-up")
+    canvas.restoreState()
+
+
+doc.build(story, onFirstPage=_page_footer, onLaterPages=_page_footer)
 print("Wrote", OUT)
